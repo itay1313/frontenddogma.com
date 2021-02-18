@@ -1,6 +1,5 @@
 name: 'Deploy to GitHub Pages'
 
-# TODO: Run on `main` only after `experimental` is merged.
 on: [push]
 
 jobs:
