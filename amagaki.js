@@ -3,7 +3,7 @@ const placeholderPlugin = require('./plugins/placeholder');
 module.exports = function (pod) {
   pod.configure({
     metadata: {
-      name: 'Amagaki Starter',
+      name: 'Frontend Intel',
     },
     localization: {
       defaultLocale: 'en',
