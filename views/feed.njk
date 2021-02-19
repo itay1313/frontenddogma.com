@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- @@ -->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" >
+  <channel>
+    <title>{{podspec.title}}</title>
+    <link>{{doc.pod.env.url}}</link>
+    <description>{{podspec.description}}</description>
+    <language>{{doc.locale}}</language>
+    <image>
+      <title>{{podspec.title}}</title>
+      <link>{{doc.pod.env.url}}</link>
+      <url>{{doc.pod.env.url}}media/logo-social.png</url>
+    </image>
+      {% set all_items = (g.collection('cafes').docs() | list) + (g.collection('posts').docs() | list) %}
+      {% for item in (all_items|sort(attribute='date', reverse=True))[0:20] %}
+      <item>
+        <title>{{item.title}}</title>
+        <link>{{item.url}}</link>
+        <description>{% if item.html %}<![CDATA[
+          {{item.html|striptags|truncate(240, end=' …')}}
+        ]]>{% endif %}</description>
+        {% if item.date %}<pubDate>{{item.date|date(format='EEE, d MMM YYYY 00:00:00 +0000', locale='en')}}</pubDate>{% endif %}
+        <guid>{{item.url}}</guid>
+      </item>
+      {% endfor %}
+  </channel>
+</rss>
