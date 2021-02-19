@@ -1,0 +1,12 @@
+{% extends "/views/base.njk" %}
+
+{% block main %}
+  {% if doc.html %}
+    {{doc.html|safe}}
+  {% endif %}
+  <ul>
+    {% for posts in g.docs('posts', order_by='date')|reverse() %}
+    <li><a href={{posts.url.path}}>{{posts.title}}</a> <span>vom {{posts.date|date(format='d. MMMM YYYY')}}</span>
+    {% endfor %}
+  </ul>
+{% endblock %}
