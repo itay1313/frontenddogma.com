@@ -1,30 +1,30 @@
 {% import "/views/macros/renderPartial.njk" as renderPartial with context %}
 
 <!DOCTYPE html>
-<html lang={{doc.locale}}>
-	<meta charset=utf-8>
-	<meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-	{% if doc.fields.description %}<meta name=description content="{{doc.fields.description}}">{% endif %}
-	<title>{{doc.fields.title}} · {{podspec.title}}</title>
-	<link rel=stylesheet href={{a.static('/dist/css/main.min.css').url.path}}>
-	<script src={{a.static('/dist/js/main.min.js').url.path}}></script>
-	{# <link rel=alternate href={{g.url('/content/pages/feed.yaml').path}} type=application/rss+xml title="{{_('Alle Beiträge')}}"> #}
-	{# @@ #}
-	<ul>
-		{% for posts in g.docs('posts', order_by='date', reverse=True)[0:5] %}
-		<li><a href={{posts.url.path}}>{{posts.title}}</a>
-		{% endfor %}
-	</ul>
-	{% set partial = doc.pod.doc('/content/partials/header.yaml').fields %}
-	{{renderPartial.renderPartial(partial)}}
-	{% if doc.fields.partials %}
-			{% for partial in doc.fields.partials %}
-					{{renderPartial.renderPartial(partial)}}
-			{% endfor %}
-	{% else %}
-			<div class="main__body">
-					{{doc.body|markdown|safe}}
-			</div>
-	{% endif %}
-	{% set partial = doc.pod.doc('/content/partials/footer.yaml').fields %}
-	{{renderPartial.renderPartial(partial)}}
+<html lang="{{doc.locale}}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{doc.fields.title}}</title>
+    <meta name="description" value="{{doc.fields.description}}">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{pod.staticFile('/dist/css/main.min.css').url.path}}">
+    <script src="{{pod.staticFile('/dist/js/main.min.js').url.path}}?cb={{cb()}}"></script>
+</head>
+<body>
+<div class="main">
+    {% set partial = pod.doc('/content/partials/header.yaml').fields %}
+    {{renderPartial.renderPartial(partial)}}
+    {% if doc.fields.partials %}
+        {% for partial in doc.fields.partials %}
+            {{renderPartial.renderPartial(partial)}}
+        {% endfor %}
+    {% else %}
+        <div class="main__body">
+            {{doc.body|markdown|safe}}
+        </div>
+    {% endif %}
+    {% set partial = pod.doc('/content/partials/footer.yaml').fields %}
+    {{renderPartial.renderPartial(partial)}}
+</div>

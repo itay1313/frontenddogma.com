@@ -29,6 +29,9 @@ class PlaceholderRoute extends router.Route {
   get contentType() {
     return 'image/svg+xml';
   }
+  get path() {
+    return this.urlPath;
+  }
   get urlPath() {
     return `/static/placeholder/${this.options.size}.svg`;
   }
