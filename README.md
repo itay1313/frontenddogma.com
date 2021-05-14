@@ -1,3 +1,3 @@
-# frontendmap.com
+# frontenddogma.com
 
-Amagaki source of the website of [Frontend Map](https://frontendmap.com/).
+Amagaki source of the website of [Frontend Dogma](https://frontenddogma.com/).
