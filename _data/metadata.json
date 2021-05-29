@@ -2,16 +2,15 @@
   "title": "Frontend Dogma",
   "url": "https://frontenddogma.com/",
   "language": "en",
-  "description": "Test description: I am writing about my experiences as a naval navel-gazer.",
+  "description": "Undogmatic quality resources for frontend developers.",
   "feed": {
-    "subtitle": "Test subtitle: I am writing about my experiences as a naval navel-gazer.",
-    "filename": "feed.xml",
-    "path": "/feed/feed.xml",
+    "filename": "index.xml",
+    "path": "/feed/index.xml",
     "id": "https://frontenddogma.com/"
   },
   "jsonfeed": {
-    "path": "/feed/feed.json",
-    "url": "https://frontenddogma.com/feed/feed.json"
+    "path": "/feed/index.json",
+    "url": "https://frontenddogma.com/feed/index.json"
   },
   "author": {
     "name": "Frontend Dogma",
