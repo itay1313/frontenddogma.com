@@ -56,9 +56,10 @@ module.exports = function(eleventyConfig) {
     return [...tagSet];
   });
 
-  // Copy the `img` and `css` folders to the output
-  eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
+  // Copy certain folders to the output
+  eleventyConfig.addPassthroughCopy({"root": "/"});
+  eleventyConfig.addPassthroughCopy("media");
+  eleventyConfig.addPassthroughCopy("setup");
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({

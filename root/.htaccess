@@ -1,0 +1,75 @@
+# Startup Routine
+AddCharset utf-8 .css
+AddCharset utf-8 .js
+AddCharset utf-8 .txt
+AddCharset utf-8 .xml
+AddDefaultCharset utf-8
+AddOutputFilterByType DEFLATE application/javascript application/pdf application/rss+xml application/xml font/eot font/otf font/ttf image/svg+xml image/vnd.microsoft.icon image/x-icon text/css text/html text/javascript text/plain text/xml
+AddType application/xml .xml
+AddType font/eot .eot
+AddType font/otf .otf
+AddType font/ttf .ttf
+AddType font/woff .woff
+AddType font/woff2 .woff2
+CheckSpelling On
+ContentDigest On
+DefaultLanguage de
+ExpiresActive On
+ExpiresByType application/javascript A604800
+ExpiresByType application/rss+xml A60
+ExpiresByType application/xml A60
+ExpiresByType font/eot A2419200
+ExpiresByType font/otf A2419200
+ExpiresByType font/ttf A2419200
+ExpiresByType font/woff A2419200
+ExpiresByType font/woff2 A2419200
+ExpiresByType image/gif A2419200
+ExpiresByType image/jpeg A2419200
+ExpiresByType image/png A2419200
+ExpiresByType image/svg+xml A2419200
+ExpiresByType image/vnd.microsoft.icon A2419200
+ExpiresByType image/x-icon A2419200
+ExpiresByType text/css A604800
+ExpiresByType text/html A60
+ExpiresByType text/javascript A604800
+ExpiresByType text/plain A60
+ExpiresByType text/xml A60
+FileETag All
+Header always edit Set-Cookie (.*) "$1; SameSite=Lax; Secure"
+Header always set X-Content-Type-Options nosniff
+Header always set X-Frame-Options SAMEORIGIN
+
+<FilesMatch "\.(html|php)$">
+	# @@ Header always set Content-Security-Policy "upgrade-insecure-requests; default-src 'self'"
+	Header always set Feature-Policy "camera 'none'; microphone 'none'; payment 'none'"
+	Header always set Link "<https://d1cxmu1ofnef1v.cloudfront.net/>; rel=preconnect"
+	Header always set Permissions-Policy: interest-cohort=()
+	Header always set Referrer-Policy "no-referrer-when-downgrade"
+	Header always set X-XSS-Protection "1; mode=block"
+</FilesMatch>
+
+<FilesMatch "index\.xml$">
+	ForceType application/rss+xml
+</FilesMatch>
+
+# Startup Routine: CloudFront
+SetEnvIf REQUEST_URI ^(.*?)(index\.(html|php))?$ NOINDEX=$1
+Header set Link "<https://frontenddogma.comPATH>; rel=canonical"
+Header edit* Link PATH %{NOINDEX}e ENV=NOINDEX
+
+# Course Calibration
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{HTTPS} !=on [OR]
+	RewriteCond %{HTTP_HOST} !^frontenddogma\.com$ [NC]
+	RewriteRule ^ https://frontenddogma.com%{REQUEST_URI} [R=301,L]
+</IfModule>
+
+# Course Alterations: P1
+# @@
+
+# @@ Emergency
+# ErrorDocument 401 /error401.html
+# ErrorDocument 403 /error403.html
+# ErrorDocument 404 /error404.html
+# ErrorDocument 500 /error500.html
