@@ -1,5 +1,5 @@
 ---
-layout: layouts/home.njk
+layout: home.njk
 permalink: /tags/{{ tag | slug }}/
 pagination:
   data: collections
@@ -16,8 +16,6 @@ eleventyComputed:
   title: “{{ tag }}” Archive
 ---
 <h1>“{{ tag }}” Archive</h1>
-
 {% set posts = collections[ tag ] %}
 {% include "posts.njk" %}
-
-<p><a href="{{ '/tags/' | url }}">All tags</a>
+<p><a href={{ '/tags/' | url }}>All tags</a>

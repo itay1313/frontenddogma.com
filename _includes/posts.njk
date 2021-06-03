@@ -1,12 +1,15 @@
 <ol reversed style="counter-reset: start-from {{ (postsCounter or posts.length) + 1 }}">
 {% for post in posts | reverse %}
-	<li class="post-item{% if post.url == url %} post-item-active{% endif %}">
+	<!-- <li class="post-item{% if post.url == url %} post-item-active{% endif %}"> -->
+	<li>
 		<a href={{ post.url | url }}>{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-		<time class="post-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-		{% for tag in post.data.tags | filterTagList %}
-			{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-			<a href={{ tagUrl | url }}>{{ tag }}</a>
-		{% endfor %}
+		<time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+		{% if not collections[ tag ] %}
+			{% for tag in post.data.tags | filterTagList %}
+				{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+				<a href={{ tagUrl | url }}>{{ tag }}</a>
+			{% endfor %}
+		{% endif %}
 	</li>
 {% endfor %}
 </ol>

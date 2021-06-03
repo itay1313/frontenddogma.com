@@ -1,8 +1,8 @@
 ---
-layout: layouts/home.njk
+layout: home.njk
 permalink: error404.html
 eleventyExcludeFromCollections: true
 ---
 # Not Found
 
-Gahahahahhaha.
+Ahahahahaha.

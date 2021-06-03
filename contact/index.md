@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: post.njk
 eleventyNavigation:
   key: Contact
   order: 3

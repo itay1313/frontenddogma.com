@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: base.njk
 ---
 <article>
 	<h1>{% if url %}<a href="{{ url }}">{% endif %}{{ title }}{% if url %}</a>{% endif %}</h1>
@@ -13,7 +13,7 @@ layout: layouts/base.njk
 	<footer>
 		<ul>
 			{%- if nextPost %}<li>Next: <a href={{ nextPost.url | url }}>{{ nextPost.data.title }}</a></li>{% endif %}
-			{%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+			{%- if previousPost %}<li>Previous: <a href={{ previousPost.url | url }}>{{ previousPost.data.title }}</a></li>{% endif %}
 		</ul>
 	</footer>
 {%- endif %}

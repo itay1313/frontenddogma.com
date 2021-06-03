@@ -15,8 +15,8 @@ module.exports = function(eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
-  // Alias `layout: post` to `layout: layouts/post.njk`
-  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  // Alias `layout: post` to `layout: post.njk`
+  eleventyConfig.addLayoutAlias("post", "post.njk");
 
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
@@ -42,7 +42,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("filterTagList", tags => {
-    // should match the list in tags.njk
+    // should match the list in tag.njk
     return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
   })
 

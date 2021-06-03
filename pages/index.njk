@@ -1,5 +1,6 @@
 ---
-layout: layouts/home.njk
+layout: home.njk
+permalink: /
 ---
 {% set maxPosts = collections.posts.length | min(3) %}
 <p>Latest {% if maxPosts == 1 %}post{% else %}{{ maxPosts }} posts{% endif %}:
@@ -8,4 +9,4 @@ layout: layouts/home.njk
 {% set postsCounter = collections.posts | length %}
 {% include "posts.njk" %}
 
-<p><a href="{{ '/posts/' | url }}">Archive</a>
+<p><a href={{ '/posts/' | url }}>Archive</a>
