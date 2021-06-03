@@ -1,6 +1,11 @@
 /* @@ Set up, then normalize */
 
+* {
+	max-width: 80ch;
+}
+
 html {
+  --border: #ddd;
 	--brand: #f18713;
 	background: #fff;
 	color: #333;
@@ -41,30 +46,33 @@ header ul li {
 	padding-left: 1rem;
 }
 
-main * {
-	max-width: 80ch;
-}
-
-main table {
-	max-width: none;
-}
-
-main + footer {
+footer {
 	margin-top: 2rem;
 }
 
-article footer ul li {
-	display: inline;
+main h1 a::before {
+	content: '☞ ';
 }
 
-article footer ul li + li::before {
-	content: ' · ';
+main + footer p:nth-last-child(2) {
+	float: right;
 }
 
-h1 {
-	font-size: 1.5rem;
-	line-height: 2;
+main + footer::before {
+	content: '🟠⚫️';
+}
+
+main + footer p {
 	margin: 0;
+}
+
+article footer ul li {
+	display: block;
+}
+
+pre {
+	overflow: auto;
+	white-space: pre-wrap;
 }
 
 h1,
@@ -76,8 +84,66 @@ h6 {
 	font-weight: 300;
 }
 
+h1 {
+	font-size: 1.5rem;
+	line-height: 2;
+	margin: 0;
+}
+
+h2 {
+	font-size: 1.3125rem;
+	line-height: 2;
+	margin: 0;
+}
+
+h3 {
+	font-size: 1.25rem;
+	line-height: 2;
+	margin: 0;
+}
+
+ul,
+ol {
+	margin: 1em 0 1em 1.5em;
+	padding: 0;
+}
+
+p,
+table {
+	margin: 1rem 0;
+}
+
 p.meta {
 	margin: 0 0 1rem;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	max-width: none;
+}
+
+th,
+td {
+	border-right: 1px solid var(--border);
+	padding: 0 .5rem;
+}
+
+th:first-child,
+td:first-child {
+	padding-left: 0;
+}
+
+th:last-child,
+td:last-child {
+	border-right: 0;
+	padding-right: 0;
+}
+
+th {
+	font-weight: 400;
+	text-align: left;
+	font-style: italic;
 }
 
 a {

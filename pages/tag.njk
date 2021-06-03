@@ -15,7 +15,7 @@ pagination:
 eleventyComputed:
   title: “{{ tag }}” Archive
 ---
-<h1>“{{ tag }}” Archive</h1>
+<h1><i>{{ tag }}</i> Archive</h1>
 {% set posts = collections[ tag ] %}
 {% include "posts.njk" %}
 <p><a href={{ '/tags/' | url }}>All tags</a>
