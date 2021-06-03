@@ -3,7 +3,7 @@ layout: base.njk
 ---
 <article>
 	<h1>{% if url %}<a href="{{ url }}">{% endif %}{{ title }}{% if url %}</a>{% endif %}</h1>
-	<p class=meta>{% if author %}Author: <a href=https://twitter.com/{{ author }}>@{{ author }}</a> · {% endif %}Date: <time datetime={{ page.date | htmlDateString }}>{{ page.date | readableDate }}</time>{% if tags %} · Tags: {% for tag in tags | filterTagList %}{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}<a href={{ tagUrl | url }}>{{ tag }}</a>{% endfor %}{% endif %}
+	<p class=meta>{% if author %}Author: <a href=https://twitter.com/{{ author }}>@{{ author }}</a> · {% endif %}Date: <time datetime={{ page.date | htmlDateString }}>{{ page.date | readableDate }}</time>{% if tags %} · Tags: {% for tag in tags | filterTagList %}{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}<a href={{ tagUrl | url }}>{{ tag }}</a> {% endfor %}{% endif %}
 
 {{ content | safe }}
 
