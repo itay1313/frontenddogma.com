@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
 eleventyNavigation:
-  key: About
-  order: 2
-title: About
+  key: Contact
+  order: 3
+title: Contact and Legal
 ---
 @@

@@ -19,7 +19,7 @@ eleventyExcludeFromCollections: true
 	{%- for post in collections.posts | reverse %}
 	{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
 	<entry>
-		<title>{{ post.data.title }}</title>
+		<title>{{ post.data.title }}{% if post.data.author %} by @{{ post.data.author }}{% endif %}</title>
 		<link href="{{ absolutePostUrl }}"/>
 		<id>{{ absolutePostUrl }}</id>
 		<content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>

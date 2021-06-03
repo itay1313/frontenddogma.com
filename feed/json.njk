@@ -13,7 +13,7 @@ eleventyExcludeFromCollections: true
     {%- for post in collections.posts | reverse %}
     {%- set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
     {
-      "title": "{{ post.data.title }}",
+      "title": "{{ post.data.title }}{% if post.data.author %} by @{{ post.data.author }}{% endif %}",
       "url": "{{ absolutePostUrl }}",
       "id": "{{ absolutePostUrl }}",
       "content_html": {% if post.templateContent %}{{ post.templateContent | dump | safe }}{% else %}""{% endif %},
