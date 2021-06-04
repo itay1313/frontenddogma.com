@@ -5,7 +5,7 @@
 }
 
 html {
-  --border: #ddd;
+	--border: #ddd;
 	--brand: #f18713;
 	background: #fff;
 	color: #333;
@@ -47,6 +47,7 @@ header ul li {
 }
 
 footer {
+	clear: both;
 	margin-top: 2rem;
 }
 
@@ -113,7 +114,7 @@ table {
 	margin: 1rem 0;
 }
 
-p.meta {
+p#meta {
 	margin: 0 0 1rem;
 }
 
@@ -157,8 +158,30 @@ a:active {
 	border-bottom-width: 2px;
 }
 
-.meta {
+#meta {
 	color: #666;
+}
+
+#teaser {
+	float: right;
+	padding: 0 0 1rem 1rem;
+}
+
+#teaser img {
+	border: 1px solid var(--border);
+	display: block;
+	line-height: 0;
+	max-width: 10rem;
+	padding: 1px;
+}
+
+#teaser a {
+	border: 1px solid var(--brand);
+	display: block;
+}
+
+#teaser a img {
+	border: 0;
 }
 
 #vg-wort {
