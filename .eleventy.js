@@ -56,6 +56,11 @@ module.exports = function(eleventyConfig) {
     return [...tagSet];
   });
 
+  // Featured posts
+  eleventyConfig.addCollection("featureList", function(collectionApi) {
+    return collectionApi.getFilteredByTag("featured");
+  });
+
   // Copy certain folders to the output
   eleventyConfig.addPassthroughCopy({"root": "/"});
   eleventyConfig.addPassthroughCopy("media");

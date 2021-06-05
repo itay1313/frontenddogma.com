@@ -72,8 +72,9 @@ article footer ul li {
 }
 
 pre {
-	overflow: auto;
-	white-space: pre-wrap;
+	font-size: .875rem !important;
+	/* overflow: auto;
+	white-space: pre-wrap; */
 }
 
 h1,
@@ -114,7 +115,7 @@ table {
 	margin: 1rem 0;
 }
 
-p#meta {
+p#fd-meta {
 	margin: 0 0 1rem;
 }
 
@@ -158,16 +159,16 @@ a:active {
 	border-bottom-width: 2px;
 }
 
-#meta {
+#fd-meta {
 	color: #666;
 }
 
-#teaser {
+#fd-teaser {
 	float: right;
 	padding: 0 0 1rem 1rem;
 }
 
-#teaser img {
+#fd-teaser img {
 	border: 1px solid var(--border);
 	display: block;
 	line-height: 0;
@@ -175,16 +176,16 @@ a:active {
 	padding: 1px;
 }
 
-#teaser a {
+#fd-teaser a {
 	border: 1px solid var(--brand);
 	display: block;
 }
 
-#teaser a img {
+#fd-teaser a img {
 	border: 0;
 }
 
-#vg-wort {
+#fd-vg-wort {
 	height: 1px;
 	position: absolute;
 	width: 1px;

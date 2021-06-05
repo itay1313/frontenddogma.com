@@ -5,6 +5,7 @@ author: j9t
 date: 2021-06-03
 tags:
   - article
+  - featured
   - test
 vg_wort: "@@"
 description: This is another test.
