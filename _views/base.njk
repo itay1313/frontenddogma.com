@@ -6,10 +6,12 @@
 	<meta name=twitter:card content=summary>
 	<meta name=twitter:title content="{% if title %}{{ title }} · {% endif %}{{ metadata.title }}">
 	<!-- @@ Truncate description --><meta name=twitter:description content="{{ description or metadata.description }}">
-	<meta name=twitter:image content=https://d1cxmu1ofnef1v.cloudfront.net/media/logo-social.png>
-	<meta property="og:image" content="https://d1cxmu1ofnef1v.cloudfront.net/media/logo-social.png">
+	<meta name=twitter:image content={{ metadata.url_cdn_truncated }}/media/logo-social.png>
+	<meta property="og:image" content="{{ metadata.url_cdn_truncated }}/media/logo-social.png">
 	<title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>
+	<link rel=canonical href="{% if original_url %}{{ original_url }}{% else %}{{ metadata.url_truncated }}{{ page.url }}{% endif %}">
 	<!-- @@ Add CDN reference --><link rel=stylesheet href={{ '/setup/default.css' | url }}>
+	<!-- @@ --><link rel=stylesheet href=https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css>
 	<link rel=alternate href={{ metadata.feed.path | url }} type=application/atom+xml title="{{ metadata.title }}">
 	<link rel=alternate href={{ metadata.jsonfeed.path | url }} type=application/json title="{{ metadata.title }}">
 	<header>
