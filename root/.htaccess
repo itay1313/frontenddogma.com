@@ -13,7 +13,7 @@ AddType font/woff .woff
 AddType font/woff2 .woff2
 CheckSpelling On
 ContentDigest On
-DefaultLanguage de
+DefaultLanguage en
 ExpiresActive On
 ExpiresByType application/javascript A604800
 ExpiresByType application/rss+xml A60
@@ -53,9 +53,11 @@ Header always set X-Frame-Options SAMEORIGIN
 </FilesMatch>
 
 # Startup Routine: CloudFront
-SetEnvIf REQUEST_URI ^(.*?)(index\.(html|php))?$ NOINDEX=$1
-Header set Link "<https://frontenddogma.comPATH>; rel=canonical"
-Header edit* Link PATH %{NOINDEX}e ENV=NOINDEX
+<FilesMatch "\.(css|ico|jpg|json|png|svg|txt|xml)$">
+	SetEnvIf REQUEST_URI ^(.*?)$ NOINDEX=$1
+	Header set Link "<https://frontenddogma.comPATH>; rel=canonical"
+	Header edit* Link PATH %{NOINDEX}e ENV=NOINDEX
+</FilesMatch>
 
 # Course Calibration
 <IfModule mod_rewrite.c>
