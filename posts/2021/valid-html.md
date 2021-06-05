@@ -6,5 +6,6 @@ date: 2021-05-18
 tags:
   - reference
   - html
+  - quality
 target_url: https://meiert.com/en/blog/valid-html-2021/
 ---

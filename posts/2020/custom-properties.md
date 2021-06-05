@@ -6,6 +6,7 @@ date: 2020-09-21
 tags:
   - article
   - cross-posted
+  - css
 original_url: https://meiert.com/en/blog/questioning-root/
 vg_wort: 483ef18f2583416fa8164179a9ae7379
 description: For custom properties (aka CSS variables) we got into the habit of declaring variables in a rule with a `:root` selector. Yet unless you’re working in an environment in which style sheets serve several document types (and roots), question this use of `:root`.
