@@ -162,16 +162,16 @@ ol {
 	padding: 0;
 }
 
-ol#fd-pagination {
+ol#fd-nav {
 	margin: 1rem 0;
 }
 
-ol#fd-pagination li {
+ol#fd-nav li {
 	display: inline;
 	padding-right: 1rem;
 }
 
-ol#fd-pagination li:last-child {
+ol#fd-nav li:last-child {
 	padding-right: 0;
 }
 

@@ -5,9 +5,11 @@ title: Tags
 ---
 <h1>Tags</h1>
 <ul>
-{% for tag in collections.tagList | filterTagList %}
+{% for tag in collections.tagList | filterTagList | sort %}
   {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
   <li><a href={{ tagUrl | url }}>{{ tag }}</a>
 {% endfor %}
 </ul>
-<p><a href={{ '/posts/' | url }}>All posts</a>
+<ol id=fd-nav>
+	<li><a href={{ '/posts/' | url }}>All posts</a>
+</ol>

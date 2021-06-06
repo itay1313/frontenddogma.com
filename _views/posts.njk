@@ -6,10 +6,11 @@
     <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
     {% if not collections[ tag ] %}
       ·
+      {% set comma = joiner() %}
       {% for tag in post.data.tags | filterTagList %}
-        {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-        <a href={{ tagUrl | url }}>{{ tag }}</a>
-      {% endfor %}
+        {%- set tagUrl -%}/tags/{{ tag | slug }}/{%- endset -%}
+        {{ comma() }} <a href={{ tagUrl | url }}>{{ tag }}</a>
+      {%- endfor -%}
     {% endif %}
 {% endfor %}
 </ol>

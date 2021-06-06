@@ -18,13 +18,14 @@ eleventyComputed:
     <a href={{ entry.url | url }}>{% if entry.data.title %}{{ entry.data.title }}{% else %}<code>{{ entry.url }}</code>{% endif %}</a> ·
     <time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time>
     ·
+    {% set comma = joiner() %}
     {% for tag in entry.data.tags | filterTagList %}
-      {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-      <a href={{ tagUrl | url }}>{{ tag }}</a>
-    {% endfor %}
+      {%- set tagUrl -%}/tags/{{ tag | slug }}/{%- endset -%}
+      {{ comma() }} <a href={{ tagUrl | url }}>{{ tag }}</a>
+    {%- endfor -%}
 {%- endfor %}
 </ol>
-<ol id=fd-pagination>
+<ol id=fd-nav>
   <li><a href={{ '/tags/' | url }}>All tags</a>
   {% if collections.posts.length > pagination.size %}
   {%- for pageEntry in pagination.pages %}

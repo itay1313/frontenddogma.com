@@ -10,7 +10,10 @@ permalink: /
     {% set posts = collections.posts | head(-50) %}
     {% set postsCounter = collections.posts | length %}
     {% include 'posts.njk' %}
-    <p><a href={{ '/posts/' | url }}>All posts</a> · <a href={{ '/tags/' | url }}>All tags</a>
+    <ol id=fd-nav>
+    	<li><a href={{ '/posts/' | url }}>All posts</a>
+    	<li><a href={{ '/tags/' | url }}>All tags</a>
+    </ol>
   </section>
   <section>
     <h2>Featured</h2>
