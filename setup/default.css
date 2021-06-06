@@ -228,7 +228,7 @@ ol a[rel=tag] {
 }
 
 [class^='fd-status']::after {
-	content: '\00A0◈';
+	content: ' ◈';
 	font-weight: 900;
 }
 
