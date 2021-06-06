@@ -21,16 +21,16 @@ html * {
 header {
 	border-bottom: 1px solid var(--brand);
 	margin: 0 0 1rem;
-	overflow: hidden;
+	overflow: auto;
 }
 
 header h1 {
 	float: left;
-	margin: 0 .5rem 0 0;
+	margin: 0 .75rem 0 0;
 }
 
 header h1 img {
-	height: 55px;
+	height: 52px;
 }
 
 header ul,
@@ -40,9 +40,12 @@ article footer ul {
 	padding: 0;
 }
 
+header ul {
+	margin-top: .125rem;
+}
+
 header ul li {
 	display: inline;
-	line-height: 3;
 	padding-left: 1rem;
 }
 
@@ -121,7 +124,7 @@ div#fd-showcase section:nth-child(2) h2::after {
 div#fd-showcase section:first-child {
 	float: left;
 	margin-right: 3%;
-	width: 64%;
+	width: 61%;
 }
 
 div#fd-showcase section:first-child :last-child,
@@ -161,6 +164,16 @@ ul,
 ol {
 	margin: 1em 0 1em 1.5em;
 	padding: 0;
+}
+
+ul#fd-developers {
+	list-style: none;
+	margin: 1rem 0;
+}
+
+ul#fd-developers li {
+	display: inline;
+	padding-right: 1rem;
 }
 
 ol#fd-nav {
@@ -245,12 +258,26 @@ ol a[rel=tag] {
 	color: orange;
 }
 
-@media screen and (max-width: 750px) {
+.fd-valid::after {
+	color: green;
+	content: ' ✓';
+}
+
+@media screen and (max-width: 700px) {
+
+	header ul {
+		margin-top: 0;
+	}
 
 	div#fd-showcase section:first-child {
 		float: none;
 		margin-right: 0;
 		width: 100%;
+	}
+
+	div#fd-showcase section:first-child :last-child,
+	div#fd-showcase section:last-child :last-child {
+		margin-bottom: inherit;
 	}
 
 }

@@ -1,0 +1,16 @@
+---
+layout: post.njk
+eleventyNavigation:
+  key: Developers
+  order: 2
+title: Developers
+data: developers
+---
+<p>You’re a frontend developer and you stand for high quality code? <a href=https://github.com/j9t/frontenddogma.com/blob/main/_data/developers.json>Add yourself</a> to this page if you respect the <a href=#ground-rules>ground rules</a>.
+<ul id=fd-developers>
+{% for developer in developers | sort %}
+	<li{% if developer.validates == 'yes' %} class=fd-valid{% endif %}>{% if developer.website %}<a href="{{ developer.website | url }}">{% endif %}{{ developer.name }}{% if developer.website %}</a>{% endif %}
+{% endfor %}
+</ul>
+<h2 id=ground-rules>Ground Rules</h2>
+This page works through an honor system. You must be a frontend developer and it must be clear that you’re a frontend developer. Only individual or personal websites are allowed. Social media profiles can be okay. Commercial sites are not okay. There’s no right or entitlement to being or staying listed.

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Jens Oliver Meiert",
+    "website": "https://meiert.com/en/",
+    "validates": "yes"
+  },
+  {
+    "name": "Jane Doe",
+    "website": "https://example.com/",
+    "validates": "yes"
+  },
+  {
+    "name": "John Doe",
+    "validates": "no"
+  }
+]
