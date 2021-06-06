@@ -6,7 +6,7 @@ permalink: /
   <section>
     <h2>The Latest in Frontend Development</h2>
     {% set maxPosts = collections.posts.length %}
-    <p>Last {% if maxPosts == 1 %}post{% else %}{{ maxPosts }} posts{% endif %}:
+    <!-- <p>Last {% if maxPosts == 1 %}post{% else %}{{ maxPosts }} posts{% endif %}: -->
     {% set posts = collections.posts | head(-50) %}
     {% set postsCounter = collections.posts | length %}
     {% include 'posts.njk' %}
@@ -24,11 +24,11 @@ permalink: /
     </ul>
   </section>
   <section>
-    <h2>You and Frontend Dogma</h2>
+    <h2>Frontend Dogma and You</h2>
     <ul>
       <li class=fd-status-go>Show yourself: <a href=@@>add your developer links</a>
       <li class=fd-status-go>Suggest content: <a href=https://github.com/j9t/frontenddogma.com/issues/new>file an issue</a>
-      <li class=fd-status-wait>Publish guest content: upcoming
+      <li class=fd-status-wait>Publish guest content: coming up
       <li class=fd-status-stop>Sponsor content: wait for it
       <li class=fd-status-stop>Get published: wait for it
     </ul>
