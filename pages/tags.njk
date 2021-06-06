@@ -3,7 +3,7 @@ layout: home.njk
 permalink: /tags/
 title: Tags
 ---
-<h1>Tags</h1>
+<h1>{{ title }}</h1>
 <ul>
 {% for tag in collections.tagList | filterTagList | sort %}
   {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
@@ -11,5 +11,5 @@ title: Tags
 {% endfor %}
 </ul>
 <ol id=fd-nav>
-	<li><a href={{ '/posts/' | url }}>All posts</a>
+  <li><a href={{ '/posts/' | url }}>All posts</a>
 </ol>

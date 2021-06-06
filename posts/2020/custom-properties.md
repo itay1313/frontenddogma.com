@@ -1,6 +1,7 @@
 ---
 layout: post.njk
 title: "Custom Properties: Questioning :root"
+description: For custom properties (aka CSS variables) we got into the habit of declaring variables in a rule with a `:root` selector. Yet unless you’re working in an environment in which style sheets serve several document types (and roots), question this use of `:root`.
 author: j9t
 date: 2020-09-21
 tags:
@@ -9,7 +10,6 @@ tags:
   - css
 original_url: https://meiert.com/en/blog/questioning-root/
 vg_wort: 483ef18f2583416fa8164179a9ae7379
-description: For custom properties (aka CSS variables) we got into the habit of declaring variables in a rule with a `:root` selector. Yet unless you’re working in an environment in which style sheets serve several document types (and roots), question this use of `:root`.
 ---
 For [custom properties](https://www.w3.org/TR/css-variables-1/) (aka CSS variables) we got into the habit of declaring variables in a rule with a `:root` selector.
 

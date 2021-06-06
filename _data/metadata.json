@@ -5,6 +5,7 @@
   "url_cdn_truncated": "https://d1cxmu1ofnef1v.cloudfront.net",
   "language": "en",
   "description": "Undogmatic quality resources for frontend developers",
+  "description_fallback": "This is Frontend Dogma",
   "feed": {
     "filename": "index.xml",
     "path": "/feed/index.xml",
