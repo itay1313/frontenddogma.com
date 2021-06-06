@@ -1,15 +1,15 @@
 <ol start={{ (postsCounter or posts.length) }} reversed>
 {% for post in posts | reverse %}
-	<!-- <li class="post-item{% if post.url == url %} post-item-active{% endif %}"> -->
-	<li>
-		<a href={{ post.url | url }}>{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a> ·
-		<time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-		{% if not collections[ tag ] %}
-			·
-			{% for tag in post.data.tags | filterTagList %}
-				{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-				<a href={{ tagUrl | url }}>{{ tag }}</a>
-			{% endfor %}
-		{% endif %}
+  <!-- <li class="post-item{% if post.url == url %} post-item-active{% endif %}"> -->
+  <li>
+    <a href={{ post.url | url }}>{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a> ·
+    <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+    {% if not collections[ tag ] %}
+      ·
+      {% for tag in post.data.tags | filterTagList %}
+        {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+        <a href={{ tagUrl | url }}>{{ tag }}</a>
+      {% endfor %}
+    {% endif %}
 {% endfor %}
 </ol>

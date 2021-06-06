@@ -9,7 +9,7 @@ permalink: /
     <p>Last {% if maxPosts == 1 %}post{% else %}{{ maxPosts }} posts{% endif %}:
     {% set posts = collections.posts | head(-50) %}
     {% set postsCounter = collections.posts | length %}
-    {% include "posts.njk" %}
+    {% include 'posts.njk' %}
     <p><a href={{ '/posts/' | url }}>All posts</a> · <a href={{ '/tags/' | url }}>All tags</a>
   </section>
   <section>

@@ -71,10 +71,62 @@ article footer ul li {
 	display: block;
 }
 
+p,
+table {
+	margin: 1rem 0;
+}
+
+p#fd-meta {
+	color: #666;
+	margin: 0 0 1rem;
+}
+
 pre {
 	font-size: .875rem !important;
 	/* overflow: auto;
 	white-space: pre-wrap; */
+}
+
+div#fd-teaser {
+	float: right;
+	padding: 0 0 1rem 1rem;
+}
+
+div#fd-teaser img {
+	border: 1px solid var(--border);
+	display: block;
+	line-height: 0;
+	max-width: 10rem;
+	padding: 1px;
+}
+
+div#fd-teaser a {
+	border: 1px solid var(--brand);
+	display: block;
+}
+
+div#fd-teaser a img {
+	border: 0;
+}
+
+div#fd-showcase,
+div#fd-showcase section {
+	overflow: auto;
+}
+
+div#fd-showcase section:nth-child(2) h2::after {
+	content: ' ☆';
+}
+
+div#fd-showcase section:first-child {
+	float: left;
+	margin-right: 3%;
+	width: 64%;
+}
+
+div#fd-showcase section:first-child :last-child,
+div#fd-showcase section:last-child :last-child {
+	margin-bottom: 0;
 }
 
 h1,
@@ -110,13 +162,23 @@ ol {
 	padding: 0;
 }
 
-p,
-table {
+ol#fd-pagination {
 	margin: 1rem 0;
 }
 
-p#fd-meta {
-	margin: 0 0 1rem;
+ol#fd-pagination li {
+	display: inline;
+	padding-right: 1rem;
+}
+
+ol#fd-pagination li:last-child {
+	padding-right: 0;
+}
+
+img#fd-vg-wort {
+	height: 1px;
+	position: absolute;
+	width: 1px;
 }
 
 table {
@@ -161,79 +223,25 @@ a:active {
 }
 
 [class^='fd-status']::after {
+	content: '\00A0◈';
 	font-weight: 900;
 }
 
 .fd-status-go::after {
 	color: green;
-	content: ' ▲';
 }
 
 .fd-status-stop::after {
 	color: red;
-	content: ' ▼';
 }
 
 .fd-status-wait::after {
 	color: orange;
-	content: ' ▬';
-}
-
-#fd-meta {
-	color: #666;
-}
-
-#fd-teaser {
-	float: right;
-	padding: 0 0 1rem 1rem;
-}
-
-#fd-teaser img {
-	border: 1px solid var(--border);
-	display: block;
-	line-height: 0;
-	max-width: 10rem;
-	padding: 1px;
-}
-
-#fd-teaser a {
-	border: 1px solid var(--brand);
-	display: block;
-}
-
-#fd-teaser a img {
-	border: 0;
-}
-
-#fd-vg-wort {
-	height: 1px;
-	position: absolute;
-	width: 1px;
-}
-
-#fd-showcase,
-#fd-showcase div {
-	overflow: auto;
-}
-
-#fd-showcase div:nth-child(2) h2::before {
-	content: '☆ ';
-}
-
-#fd-showcase div:first-child {
-	float: left;
-	margin-right: 3%;
-	width: 64%;
-}
-
-#fd-showcase div:first-child :last-child,
-#fd-showcase div:last-child :last-child {
-	margin-bottom: 0;
 }
 
 @media screen and (max-width: 750px) {
 
-	#fd-showcase div:first-child {
+	div#fd-showcase section:first-child {
 		float: none;
 		margin-right: 0;
 		width: 100%;

@@ -17,5 +17,7 @@ eleventyComputed:
 ---
 <h1><i>{{ tag }}</i> Archive</h1>
 {% set posts = collections[ tag ] %}
-{% include "posts.njk" %}
-<p><a href={{ '/tags/' | url }}>All tags</a>
+{% include 'posts.njk' %}
+<ol id=fd-pagination>
+	<li><a href={{ '/tags/' | url }}>All tags</a>
+</ol>

@@ -2,20 +2,20 @@
 layout: base.njk
 ---
 <article>
-	<h1>{% if target_url %}<a href="{{ target_url }}">{% endif %}{{ title }}{% if target_url %}</a>{% endif %}</h1>
-	{% if author or tags %}<p id=fd-meta>{% endif %}{% if author %}by <a href=https://twitter.com/{{ author }}>@{{ author }}</a> on {% endif %}{% if tags %}<time datetime={{ page.date | htmlDateString }}>{{ page.date | readableDate }}</time>, tagged {% for tag in tags | filterTagList %}{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}<a href={{ tagUrl | url }}>{{ tag }}</a> {% endfor %}{% endif %}
-	{% if image %}<div id=fd-teaser>{% if target_url %}<a href="{{ target_url }}">{% endif %}<!-- @@ Add CDN reference --><img src=/media{{ image }} alt="{{ title }}">{% if target_url %}</a>{% endif %}</div>{% endif %}
+  <h1>{% if target_url %}<a href="{{ target_url }}">{% endif %}{{ title }}{% if target_url %}</a>{% endif %}</h1>
+  {% if author or tags %}<p id=fd-meta>{% endif %}{% if author %}by <a href=https://twitter.com/{{ author }}>@{{ author }}</a> on {% endif %}{% if tags %}<time datetime={{ page.date | htmlDateString }}>{{ page.date | readableDate }}</time>, tagged {% for tag in tags | filterTagList %}{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}<a href={{ tagUrl | url }}>{{ tag }}</a> {% endfor %}{% endif %}
+  {% if image %}<div id=fd-teaser>{% if target_url %}<a href="{{ target_url }}">{% endif %}<!-- @@ Add CDN reference --><img src=/media{{ image }} alt="{{ title }}">{% if target_url %}</a>{% endif %}</div>{% endif %}
 
 {{ content | safe }}
 
 {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
 {%- if nextPost or previousPost %}
-	<footer>
-		<ul>
-			{%- if previousPost %}<li>Previous: <a href={{ previousPost.url | url }}>{{ previousPost.data.title }}</a></li>{% endif %}
-			{%- if nextPost %}<li>Next: <a href={{ nextPost.url | url }}>{{ nextPost.data.title }}</a></li>{% endif %}
-		</ul>
-	</footer>
+  <footer>
+    <ul>
+      {%- if previousPost %}<li>Previous: <a href={{ previousPost.url | url }}>{{ previousPost.data.title }}</a></li>{% endif %}
+      {%- if nextPost %}<li>Next: <a href={{ nextPost.url | url }}>{{ nextPost.data.title }}</a></li>{% endif %}
+    </ul>
+  </footer>
 {%- endif %}
 </article>
