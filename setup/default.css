@@ -222,6 +222,11 @@ a:active {
 	border-bottom: 1px solid var(--brand);
 }
 
+p a[rel=tag],
+ol a[rel=tag] {
+	font-weight: 400;
+}
+
 [class^='fd-status']::after {
 	content: '\00A0◈';
 	font-weight: 900;

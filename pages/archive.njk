@@ -21,7 +21,7 @@ eleventyComputed:
     {% set comma = joiner() %}
     {% for tag in entry.data.tags | filterTagList %}
       {%- set tagUrl -%}/tags/{{ tag | slug }}/{%- endset -%}
-      {{ comma() }} <a href={{ tagUrl | url }}>{{ tag }}</a>
+      {{ comma() }} <a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>
     {%- endfor -%}
 {%- endfor %}
 </ol>

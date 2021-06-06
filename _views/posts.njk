@@ -9,7 +9,7 @@
       {% set comma = joiner() %}
       {% for tag in post.data.tags | filterTagList %}
         {%- set tagUrl -%}/tags/{{ tag | slug }}/{%- endset -%}
-        {{ comma() }} <a href={{ tagUrl | url }}>{{ tag }}</a>
+        {{ comma() }} <a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>
       {%- endfor -%}
     {% endif %}
 {% endfor %}
