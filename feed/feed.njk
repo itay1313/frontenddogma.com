@@ -20,7 +20,7 @@ eleventyExcludeFromCollections: true
 	{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
 	<entry>
 		<title>{{ post.data.title }}{% if post.data.author %} by @{{ post.data.author }}{% endif %}</title>
-		<link href="{{ absolutePostUrl }}"/>
+		<link href="{% if post.data.target_url %}{{ post.data.target_url }}{% else %}{{ absolutePostUrl }}{% endif %}"/>
 		<id>{{ absolutePostUrl }}</id>
 		<content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
 		<updated>{{ post.date | rssDate }}</updated>
