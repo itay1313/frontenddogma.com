@@ -8,7 +8,7 @@ title: Contact and Legal
 ## Contact
 
 Frontend Dogma
-c/o Jens Oliver Meiert
+c/o [Jens Oliver Meiert](https://meiert.com/en/)
 Bäckerbreitergang 18
 20355 Hamburg
 Germany

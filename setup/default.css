@@ -4,7 +4,7 @@ html {
 	--border: #ddd;
 	--brand: #f18713;
 	background: #fff;
-	color: #333;
+	color: #444;
 	font: 400 100%/1.5 system-ui, sans-serif;
 	padding: 1vh 2vw;
 }
@@ -18,11 +18,6 @@ html * {
 	padding: .5rem 1rem;
 } */
 
-header,
-a {
-	color: #000;
-}
-
 header {
 	border-bottom: 1px solid var(--brand);
 	margin: 0 0 1rem;
@@ -32,6 +27,10 @@ header {
 header h1 {
 	float: left;
 	margin: 0 .5rem 0 0;
+}
+
+header h1 img {
+	height: 55px;
 }
 
 header ul,
@@ -48,7 +47,7 @@ header ul li {
 }
 
 header a {
-	border-bottom: 0;
+	border-bottom: 0 !important;
 }
 
 footer {
@@ -64,10 +63,6 @@ main + footer p:nth-last-child(2) {
 	float: right;
 }
 
-main + footer::before {
-	content: '🟠⚫️';
-}
-
 main + footer p {
 	margin: 0;
 }
@@ -80,10 +75,6 @@ pre {
 	font-size: .875rem !important;
 	/* overflow: auto;
 	white-space: pre-wrap; */
-}
-
-div:nth-child(3) h2::before {
-	content: '☆ ';
 }
 
 h1,
@@ -158,26 +149,34 @@ th {
 }
 
 a {
-	border-bottom: 1px solid var(--brand);
+	color: #222;
+	font-weight: 500;
 	text-decoration: none;
 }
 
 a:focus,
 a:hover,
 a:active {
-	border-bottom-width: 2px;
+	border-bottom: 1px solid var(--brand);
 }
 
-.status-green::before {
-	content: '🟢 ';
+[class^='fd-status']::after {
+	font-weight: 900;
 }
 
-.status-red::before {
-	content: '🔴 ';
+.fd-status-go::after {
+	color: green;
+	content: ' ▲';
 }
 
-.status-yellow::before {
-	content: '🟡 ';
+.fd-status-stop::after {
+	color: red;
+	content: ' ▼';
+}
+
+.fd-status-wait::after {
+	color: orange;
+	content: ' ▬';
 }
 
 #fd-meta {
@@ -210,4 +209,40 @@ a:active {
 	height: 1px;
 	position: absolute;
 	width: 1px;
+}
+
+#fd-showcase,
+#fd-showcase div {
+	overflow: auto;
+}
+
+#fd-showcase div:nth-child(2) h2::before {
+	content: '☆ ';
+}
+
+#fd-showcase div:first-child {
+	float: left;
+	margin-right: 3%;
+	width: 64%;
+}
+
+#fd-showcase div:first-child :last-child,
+#fd-showcase div:last-child :last-child {
+	margin-bottom: 0;
+}
+
+@media screen and (max-width: 750px) {
+
+	#fd-showcase div:first-child {
+		float: none;
+		margin-right: 0;
+		width: 100%;
+	}
+
+}
+
+@media print {
+
+	/* @@ */
+
 }
