@@ -7,7 +7,8 @@ title: Contact and Legal
 ---
 ## Contact
 
-Jens Oliver Meiert
+Frontend Dogma
+c/o Jens Oliver Meiert
 Bäckerbreitergang 18
 20355 Hamburg
 Germany
