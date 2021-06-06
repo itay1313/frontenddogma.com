@@ -5,7 +5,8 @@ pagination:
   data: collections.all
   size: 100
   alias: entries
-title: Pages
+eleventyComputed:
+  title: Pages {% if pagination.pageNumber > 0 %}({{ pagination.pageNumber + 1 }}){% endif %}
 ---
 <table>
   <thead>

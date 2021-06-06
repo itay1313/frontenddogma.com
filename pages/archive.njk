@@ -8,7 +8,8 @@ pagination:
   data: collections.posts
   size: 100
   alias: entries
-title: Archive
+eleventyComputed:
+  title: Archive {% if pagination.pageNumber > 0 %}({{ pagination.pageNumber + 1 }}){% endif %}
 ---
 <h1>Archive</h1>
 <ol start={{ (collections.posts.length - (pagination.pageNumber * pagination.size)) }} reversed>
