@@ -82,6 +82,10 @@ pre {
 	white-space: pre-wrap; */
 }
 
+div:nth-child(3) h2::before {
+	content: '☆ ';
+}
+
 h1,
 h2,
 h3,
@@ -162,6 +166,18 @@ a:focus,
 a:hover,
 a:active {
 	border-bottom-width: 2px;
+}
+
+.status-green::before {
+	content: '🟢 ';
+}
+
+.status-red::before {
+	content: '🔴 ';
+}
+
+.status-yellow::before {
+	content: '🟡 ';
 }
 
 #fd-meta {

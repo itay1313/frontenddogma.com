@@ -13,7 +13,7 @@ permalink: /
 	<p><a href={{ '/posts/' | url }}>All posts</a> · <a href={{ '/tags/' | url }}>All tags</a>
 </div>
 <div>
-	<h2>Featured Posts</h2>
+	<h2>Featured</h2>
 	<ul>
 	{% for featured in collections.featureList | reverse | head(-5) %}
 		<li><a href={{ featured.url | url }}>{% if featured.data.title %}{{ featured.data.title }}{% else %}<code>{{ featured.url }}</code>{% endif %}</a>
@@ -21,10 +21,12 @@ permalink: /
 	</ul>
 </div>
 <div>
-	<h2>You on Frontend Dogma</h2>
+	<h2>You and Frontend Dogma</h2>
 	<ul>
-		<li>Self-promotion: <a href=@@>open</a>
-		<li>Guest content: <a href=@@>upcoming</a>
-		<li>Sponsored content: <a href=@@>closed</a>
+		<li class=status-green>Promote yourself: <a href=@@>add your developer links</a>
+		<li class=status-green>Suggest content: <a href=@@>write a post</a>
+		<li class=status-yellow>Publish guest content: upcoming
+		<li class=status-red>Sponsor content: wait for it
+		<li class=status-red>Get published: wait for it
 	</ul>
 </div>
