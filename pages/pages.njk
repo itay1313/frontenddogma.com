@@ -1,23 +1,30 @@
 ---
 layout: home.njk
-permalink: /pages/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber }}/{% endif %}
+permalink: /pages/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}
 pagination:
   data: collections.all
-  size: 50
+  size: 100
   alias: entries
 title: Pages
 ---
 <table>
   <thead>
-    <th>URL</th>
-    <th>Page Title</th>
+    <th>URL
+    <th>Title
   </thead>
   <tbody>
 {%- for entry in entries %}
-  <tr>
-    <td><a href={{ entry.url }}><code>{{ entry.url }}</code></a></td>
-    <td>{{ entry.data.title }}</td>
-  </tr>
+    <tr>
+      <td><a href={{ entry.url }}><code>{{ entry.url }}</code></a>
+      <td>{{ entry.data.title }}
+    </tr>
 {%- endfor %}
   </tbody>
 </table>
+{% if collections.all.length > pagination.size %}
+<ol id=fd-pagination>
+  {%- for pageEntry in pagination.pages %}
+  <li>{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}<a href={{ pagination.hrefs[ loop.index0 ] }}>{% endif %}Page {{ loop.index }}{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}</a>{% endif %}</li>
+  {%- endfor %}
+</ol>
+{% endif %}

@@ -1,4 +1,4 @@
-<ol reversed style="counter-reset: start-from {{ (postsCounter or posts.length) + 1 }}">
+<ol start={{ (postsCounter or posts.length) }} reversed>
 {% for post in posts | reverse %}
 	<!-- <li class="post-item{% if post.url == url %} post-item-active{% endif %}"> -->
 	<li>
