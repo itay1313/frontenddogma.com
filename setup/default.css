@@ -5,6 +5,8 @@ html {
 	--brand: #f08713;
 	--leading: 1.6875rem;
 	--leading-half: .84375rem;
+	--leading-half-negative: -.84375rem;
+	--leading-negative: -1.6875rem;
 	background: #fff;
 	color: #444;
 	font: 400 100%/1.6875 system-ui, sans-serif;
@@ -78,13 +80,22 @@ table {
 
 p#fd-meta {
 	color: #666;
-	margin: -1.6875rem 0 var(--leading-half);
+	margin: var(--leading-negative) 0 var(--leading-half);
 }
 
 pre {
 	font-size: .875rem !important;
 	/* overflow: auto;
 	white-space: pre-wrap; */
+}
+
+blockquote {
+	margin: var(--leading-half) 0;
+	padding-left: calc(var(--leading) - 1px);
+}
+
+blockquote {
+	border-left: 1px solid var(--border);
 }
 
 div#fd-teaser {
@@ -166,19 +177,14 @@ h3 {
 h4 {
 	font-size: 1.125rem;
 	line-height: 1.5;
-	margin: var(--leading) 0;
+	margin: var(--leading) 0 0;
 }
 
-h5 {
-	font-size: 1rem;
-	line-height: 1.6875;
-	margin: var(--leading) 0;
-}
-
+h5,
 h6 {
 	font-size: 1rem;
 	line-height: 1.6875;
-	margin: var(--leading) 0 -var(--leading);
+	margin: var(--leading) 0 var(--leading-half-negative);
 }
 
 ul,
@@ -294,10 +300,6 @@ ol a[rel=tag] {
 
 @media screen and (max-width: 700px) {
 
-	header ul {
-		margin-top: -2px;
-	}
-
 	div#fd-showcase section:first-child {
 		float: none;
 		margin-right: 0;
@@ -311,8 +313,25 @@ ol a[rel=tag] {
 
 }
 
+@media screen and (max-width: 550px) {
+
+	header ul {
+		margin-top: -4px;
+	}
+
+}
+
 @media print {
 
-	/* @@ */
+	header {
+		border: 0;
+	}
+
+	header ul,
+	footer,
+	p#fd-meta span,
+	ul.fd-nav {
+		display: none;
+	}
 
 }
