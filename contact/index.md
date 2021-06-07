@@ -26,10 +26,6 @@ Tax ID: 48/157/00835.
 
 For online disputes as per Art.&nbsp;14 ¶&nbsp;1 Regulation on Consumer Online Dispute Resolution the European Commission provides a [settlement platform](https://ec.europa.eu/consumers/odr/).
 
-### Copyright
-
-@@
-
 ### Privacy Policy
 
 Responsible for data protection, particularly around European General Data Protection Regulation (GDPR): Jens Oliver Meiert.
