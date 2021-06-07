@@ -2,6 +2,7 @@
 layout: post.njk
 title: Why Accessibility Overlays Hurt More Than Help
 author: dboudreau
+date: 2021-05-31
 tags:
 - reference
 - accessibility
