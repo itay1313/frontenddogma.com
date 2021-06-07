@@ -25,11 +25,11 @@ eleventyComputed:
     {%- endfor -%}
 {%- endfor %}
 </ol>
-<ol id=fd-nav>
+<ul class=fd-nav>
   <li><a href={{ '/tags/' | url }}>All tags</a>
   {% if collections.posts.length > pagination.size %}
   {%- for pageEntry in pagination.pages %}
   <li>{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}<a href={{ pagination.hrefs[ loop.index0 ] }}>{% endif %}Page {{ loop.index }}{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}</a>{% endif %}</li>
   {%- endfor %}
   {% endif %}
-</ol>
+</ul>

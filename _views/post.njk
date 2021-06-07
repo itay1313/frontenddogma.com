@@ -8,16 +8,18 @@ layout: base.njk
 
 {{ content | safe }}
 
+{% if target_url or original_url %}
+  <ul class=fd-nav>
+		{% if target_url %}<li>Full version: <a href="{{ target_url }}">{{ title }}</a>{% endif %}
+		{% if original_url %}<li>Original: <a href="{{ original_url }}" rel=canonical>{{ title }}</a>{% endif %}
+  </ul>
+{%- endif %}
 {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
 {%- if nextPost or previousPost %}
-  <footer>
-    <ul>
-      {% if target_url %}<li>Full version: <a href="{{ target_url }}">{{ title }}</a>{% endif %}
-      {% if original_url %}<li>Original: <a href="{{ original_url }}" rel=canonical>{{ title }}</a>{% endif %}
-      {% if previousPost %}<li>Previous: <a href={{ previousPost.url | url }}>{{ previousPost.data.title }}</a></li>{% endif %}
-      {% if nextPost %}<li>Next: <a href={{ nextPost.url | url }}>{{ nextPost.data.title }}</a></li>{% endif %}
-    </ul>
-  </footer>
+  <ul class="fd-nav fd-alt">
+		{% if previousPost %}<li>Previous: <a href={{ previousPost.url | url }}>{{ previousPost.data.title }}</a></li>{% endif %}
+		{% if nextPost %}<li>Next: <a href={{ nextPost.url | url }}>{{ nextPost.data.title }}</a></li>{% endif %}
+  </ul>
 {%- endif %}
 </article>
