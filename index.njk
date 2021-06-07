@@ -5,7 +5,7 @@ title: News and Views in Frontend Development
 ---
 <div id=fd-showcase>
   <section>
-    <p>Articles, specs, tools, books, and beauty from the world of frontend development. Stay informed <a href={{ metadata.feed.path | url }}>per feed</a> or <a href=https://twitter.com/FrontendDogma>on Twitter</a>.
+    <p>Articles, specs, tools, books, and beauty out of the world of frontend development. Stay informed <a href={{ metadata.feed.path | url }}>per feed</a> or <a href=https://twitter.com/FrontendDogma>on Twitter</a>.
     <h2>News and Views in Frontend Development</h2>
     {% set maxPosts = collections.posts.length %}
     <!-- <p>Last {% if maxPosts == 1 %}post{% else %}{{ maxPosts }} posts{% endif %}: -->
@@ -21,7 +21,7 @@ title: News and Views in Frontend Development
   <section>
     <h2>Featured</h2>
     <ul>
-    {% for featured in collections.featureList | reverse | head(-5) %}
+    {% for featured in collections.featureList | reverse | head(-3) %}
       <li><a href={{ featured.url | url }}>{% if featured.data.title %}{{ featured.data.title }}{% else %}<code>{{ featured.url }}</code>{% endif %}</a>
     {% endfor %}
     </ul>
@@ -30,7 +30,7 @@ title: News and Views in Frontend Development
     <h2>Frontend Dogma and You</h2>
     <ul>
       <li class=fd-status-go>Make a statement: <a href=https://github.com/j9t/frontenddogma.com/blob/main/_data/developers.json>add your name and website</a>
-      <li class=fd-status-go>Suggest content: <a href=https://github.com/j9t/frontenddogma.com/issues/new>file an issue</a>
+      <li class=fd-status-go>Suggest a link, book, or similar: <a href=https://github.com/j9t/frontenddogma.com/issues/new>file an issue</a>
       <li class=fd-status-wait>Add guest content: coming up
       <!-- <li class=fd-status-stop>Sponsor content: not yet -->
       <li class=fd-status-stop>Get published: not yet
