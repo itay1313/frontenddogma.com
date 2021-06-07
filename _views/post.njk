@@ -8,12 +8,10 @@ layout: base.njk
 
 {{ content | safe }}
 
-{% if target_url or original_url %}
-  <ul class=fd-nav>
-		{% if target_url %}<li>Full version: <a href="{{ target_url }}">{{ title }}</a>{% endif %}
-		{% if original_url %}<li>Original: <a href="{{ original_url }}" rel=canonical>{{ title }}</a>{% endif %}
-  </ul>
-{%- endif %}
+{% if target_url %}<p>(This post was published elsewhere. Check out <a href="{{ target_url }}">{{ title }}</a>!){% endif %}
+
+{% if original_url %}<p>(This post was <a href="{{ original_url }}" rel=canonical>originally published elsewhere</a>.){% endif %}
+
 {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
 {%- if nextPost or previousPost %}
