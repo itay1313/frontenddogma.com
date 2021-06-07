@@ -5,6 +5,7 @@ author: j9t
 date: 2021-05-13
 tags:
   - book
+  - featured
   - html
 image: /products/upgrade-your-html-3.png
 target_url: https://www.amazon.com/dp/B094VPYQPM/?tag=frontend-dogma-20

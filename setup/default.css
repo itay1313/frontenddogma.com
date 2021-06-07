@@ -188,6 +188,11 @@ ul#fd-developers li {
 	padding-right: 1rem;
 }
 
+ul#fd-developers li::after {
+	color: green;
+	content: ' ✓';
+}
+
 img#fd-vg-wort {
 	height: 1px;
 	position: absolute;
@@ -241,7 +246,7 @@ ol a[rel=tag] {
 }
 
 [class^='fd-status']::after {
-	content: ' ◈';
+	content: ' ◉';
 	font-weight: 900;
 }
 
@@ -255,11 +260,6 @@ ol a[rel=tag] {
 
 .fd-status-wait::after {
 	color: orange;
-}
-
-.fd-valid::after {
-	color: green;
-	content: ' ✓';
 }
 
 @media screen and (max-width: 700px) {

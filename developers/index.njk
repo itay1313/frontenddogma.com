@@ -6,11 +6,14 @@ eleventyNavigation:
 title: Developers
 data: developers
 ---
-<p>You’re a frontend developer and you stand for high quality code? <a href=https://github.com/j9t/frontenddogma.com/blob/main/_data/developers.json>Add yourself</a> to this page if you respect the <a href=#ground-rules>ground rules</a>.
+<p>You’re a frontend developer and you stand for quality code? <a href=https://github.com/j9t/frontenddogma.com/blob/main/_data/developers.json>Add yourself</a> to this page, if you respect the <a href=#ground-rules>ground rules</a>.
 <ul id=fd-developers>
-{% for developer in developers | sort %}
-	<li{% if developer.validates == 'yes' %} class=fd-valid{% endif %}>{% if developer.website %}<a href="{{ developer.website | url }}">{% endif %}{{ developer.name }}{% if developer.website %}</a>{% endif %}
+{% for developer in developers %}
+	{% if developer.validates == 'yes' %}<li>{% if developer.website %}<a href="{{ developer.website | url }}">{% endif %}{{ developer.name }}{% if developer.website %}</a>{% endif %}{% endif %}
 {% endfor %}
 </ul>
 <h2 id=ground-rules>Ground Rules</h2>
-This page works through an honor system. You must be a frontend developer and it must be clear that you’re a frontend developer. Only individual or personal websites are allowed. Social media profiles can be okay. Commercial sites are not okay. There’s no right or entitlement to being or staying listed.
+<p>You must be a frontend developer and it must be clear that you’re a frontend developer.
+<p>You must answer truthfully whether you <a href=https://www.thesitewizard.com/webdesign/htmlvalidation.shtml>validate your HTML and CSS code</a> (savor that page!).
+<p>You list your own website. Social media profiles can be okay. Organizational and commercial, as well as empty or scammy sites are not okay.
+<p>You acknowledge that there’s no right or entitlement to being or staying listed.
