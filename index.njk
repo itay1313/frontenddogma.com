@@ -4,15 +4,17 @@ permalink: /
 ---
 <div id=fd-showcase>
   <section>
-    <h2>The Latest in Frontend Development</h2>
+  	<p>News, views, tools, books, and beauty from the world of frontend development. Stay informed <a href={{ metadata.feed.path | url }}>per feed</a> or <a href=https://twitter.com/FrontendDogma>on Twitter</a>.
+    <h2>Fine Things in Frontend Development</h2>
     {% set maxPosts = collections.posts.length %}
     <!-- <p>Last {% if maxPosts == 1 %}post{% else %}{{ maxPosts }} posts{% endif %}: -->
     {% set posts = collections.posts | head(-50) %}
     {% set postsCounter = collections.posts | length %}
-    {% include 'posts.njk' %}
+    {% include 'partials/posts.njk' %}
     <ol id=fd-nav>
     	<li><a href={{ '/posts/' | url }}>All posts</a>
     	<li><a href={{ '/tags/' | url }}>All tags</a>
+    	<li><a href={{ metadata.feed.path | url }}>Feed</a>
     </ol>
   </section>
   <section>

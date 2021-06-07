@@ -17,7 +17,7 @@ eleventyComputed:
 ---
 <h1>{{ title }}</h1>
 {% set posts = collections[ tag ] %}
-{% include 'posts.njk' %}
+{% include 'partials/posts.njk' %}
 <ol id=fd-nav>
   <li><a href={{ '/tags/' | url }}>All tags</a>
 </ol>
