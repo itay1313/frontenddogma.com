@@ -15,8 +15,8 @@ eleventyComputed:
 <ol start={{ (collections.posts.length - (pagination.pageNumber * pagination.size)) }} reversed>
 {%- for entry in entries | reverse %}
   <li>
-    <a href={{ entry.url | url }}>{% if entry.data.title %}{{ entry.data.title }}{% else %}<code>{{ entry.url }}</code>{% endif %}</a><!-- ·
-    <time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time> -->
+    <a href={{ entry.url | url }}>{% if entry.data.title %}{{ entry.data.title }}{% else %}<code>{{ entry.url }}</code>{% endif %}</a> ·
+    <time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time>
     ·
     {% set comma = joiner() %}
     {% for tag in entry.data.tags | filterTagList %}
