@@ -5,6 +5,7 @@ description: There may be a time when you’ll feel “too old” for web develo
 author: j9t
 date: 2021-05-31
 tags:
-  - reference
+  - article
 target_url: https://meiert.com/en/blog/the-aging-developer/
+# eleventyExcludeFromCollections: true
 ---

@@ -45,7 +45,6 @@ In addition, a content piece can be one or more of the following:
 * `evergreen`, for important and long-lived posts
 * `featured`, for homepage promotion
 * `cross-posted`, for content that was already posted elsewhere (specify `original_url`)
-* `reference`, for anything with an external source
 * `sponsored`
 
 #### 3. Topics
