@@ -80,7 +80,7 @@ table {
 
 p#fd-meta {
 	color: #666;
-	margin: var(--leading-negative) 0 var(--leading-half);
+	margin: -1.265625rem 0 var(--leading-half);
 }
 
 pre {
