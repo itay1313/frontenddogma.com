@@ -1,12 +1,12 @@
 ---
-layout: home.njk
-permalink: /pages/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}
-pagination:
-  data: collections.all
-  size: 100
-  alias: entries
 eleventyComputed:
   title: Pages {% if pagination.pageNumber > 0 %}({{ pagination.pageNumber + 1 }}){% endif %}
+layout: home.njk
+pagination:
+  alias: entries
+  data: collections.all
+  size: 100
+permalink: /pages/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}
 ---
 <h1>{{ title }}</h1>
 <table>

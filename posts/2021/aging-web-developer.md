@@ -1,11 +1,11 @@
 ---
-layout: post.njk
-title: Thoughts for the Aging Web Developer
-description: There may be a time when you’ll feel “too old” for web development. When you begin to feel that, here are a few thoughts. They might not be all you need but—maybe they are of use.
 author: j9t
 date: 2021-05-31
+description: There may be a time when you’ll feel “too old” for web development. When you begin to feel that, here are a few thoughts. They might not be all you need but—maybe they are of use.
+layout: post.njk
 tags:
   - article
+  - test
 target_url: https://meiert.com/en/blog/the-aging-developer/
-# eleventyExcludeFromCollections: true
+title: Thoughts for the Aging Web Developer
 ---

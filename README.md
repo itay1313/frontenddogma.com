@@ -12,6 +12,29 @@ Frontend Dogma is based on [Eleventy](https://www.11ty.dev/). Please see [the El
 
 For a quick start, you should be able to get Frontend Dogma running locally by forking this repository, then invoking `npx eleventy --serve`.
 
+### Front Matter
+
+Sort all front matter data alphabetically. (Tags should follow the order content type, features, topics.)
+
+```
+---
+author: TWITTER_HANDLE # preferred
+date: YYYY-MM-DD # preferred
+description: DESCRIPTION # optional
+image: PATH # preferred (path is based on /media—see note in “Content Types” section)
+layout: post.njk # required
+original_url: URL # required for cross-posted entries
+tags:
+  - CONTENT_TYPE # required
+  - (FEATURES) # optional
+  - (TOPICS) # preferred
+target_url: URL # required for linked content
+title: TITLE # required
+vg_wort: VG_WORT_ID # required for exclusive content or external content tagged with VG WORT
+```
+
+Pages can be temporarily or permanently hidden with `eleventyExcludeFromCollections: true`.
+
 ## Content Documentation
 
 ### Tags
@@ -36,7 +59,7 @@ Each post needs to have one (and only one) tag describing the content type, for 
 * `specification`
 * `talk`
 
-(Any external source should specify a `target_url`. If there’s an image, it should be hosted under [/media](https://github.com/j9t/frontenddogma.com/tree/main/media) and referenced via `image`.)
+(Any linked external source should specify a `target_url`. If there’s an image, it should be hosted under [/media](https://github.com/j9t/frontenddogma.com/tree/main/media) and referenced via `image`.)
 
 #### 2. Features
 

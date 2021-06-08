@@ -1,15 +1,15 @@
 ---
-layout: home.njk
-permalink: /posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}
+eleventyComputed:
+  title: News and Views {% if pagination.pageNumber > 0 %}({{ pagination.pageNumber + 1 }}){% endif %}
 eleventyNavigation:
   key: News and Views
   order: 1
+layout: home.njk
 pagination:
+  alias: entries
   data: collections.posts
   size: 100
-  alias: entries
-eleventyComputed:
-  title: News and Views {% if pagination.pageNumber > 0 %}({{ pagination.pageNumber + 1 }}){% endif %}
+permalink: /posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}
 ---
 <h1>{{ title }}</h1>
 <ol start={{ (collections.posts.length - (pagination.pageNumber * pagination.size)) }} reversed>

@@ -1,13 +1,13 @@
 ---
-layout: post.njk
-title: Upgrade Your HTML III
 author: j9t
 date: 2021-05-13
+image: /products/upgrade-your-html-3.png
+layout: post.njk
 tags:
   - book
   - html
-image: /products/upgrade-your-html-3.png
 target_url: https://www.amazon.com/dp/B094VPYQPM/?tag=frontend-dogma-20
+title: Upgrade Your HTML III
 ---
 > _Upgrade Your HTML_ is the book series for HTML craftspeople and minimalists. It stands for everything that leads to more effective and efficient use of HTML.
 >

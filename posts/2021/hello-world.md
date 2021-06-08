@@ -1,10 +1,9 @@
 ---
-layout: post.njk
-title: Hello World
-author: j9t
+author: FrontendDogma
 date: 2021-02-18
+layout: post.njk
 tags:
   - announcement
-vg_wort: "@@"
+title: Hello World
 ---
 Hi everyone, welcome to Frontend Dogma&nbsp;👋
