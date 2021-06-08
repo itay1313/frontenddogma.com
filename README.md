@@ -14,28 +14,43 @@ For a quick start, you should be able to get Frontend Dogma running locally by f
 
 ## Content Documentation
 
-### Content Types
+### Tags
 
-#### 1. Core Tags
+#### 1. Content Types
 
-Each post needs to have one (and only one) of the following tags:
+Each post needs to have one (and only one) tag describing the content type, for example:
 
 * `announcement` (Frontend Dogma only)
 * `article`
-* `book` (with `target_url` and `image`)
-* `reference` (with `target_url`)
+* `book`
+* `company`
+* `course`
+* `developer`
+* `how-to`
+* `interview`
+* `magazine`
+* `op-ed`
+* `organization`
+* `podcast`
+* `rfc`
+* `specification`
+* `talk`
 
-#### 2. Feature Tags
+(Any external source should specify a `target_url`. If there’s an image, it should be hosted under [/media](https://github.com/j9t/frontenddogma.com/tree/main/media) and referenced via `image`.)
+
+#### 2. Features
 
 In addition, a content piece can be one or more of the following:
 
-* `featured` (for homepage promotion)
-* `cross-posted` (with `original_url`)
+* `evergreen`, for important and long-lived posts
+* `featured`, for homepage promotion
+* `cross-posted`, for content that was already posted elsewhere (specify `original_url`)
+* `reference`, for anything with an external source
 * `sponsored`
 
-#### 3. Topic Tags
+#### 3. Topics
 
 For additional topics:
 
-* Name just the main topics
-* Keep it simple
+* Name just the main topics (like `html` or `css`)
+* Keep it simple (less is more; don’t do tag-stuffing)
