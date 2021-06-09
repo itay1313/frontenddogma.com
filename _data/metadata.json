@@ -4,8 +4,8 @@
   "url_truncated": "https://frontenddogma.com",
   "url_cdn_truncated": "https://d1cxmu1ofnef1v.cloudfront.net",
   "language": "en",
-  "description": "News and views in frontend development",
-  "description_complement": "news and views in frontend development",
+  "description": "Your complementary source for frontend development",
+  "description_complement": "your complementary source for frontend development",
   "description_fallback": "This is Frontend Dogma",
   "feed": {
     "filename": "index.xml",
