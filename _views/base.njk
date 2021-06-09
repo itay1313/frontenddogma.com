@@ -4,11 +4,11 @@
   <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
   {% if description %}<meta name=description content="{{ description }}">{% endif %}
   <meta name=twitter:card content=summary>
-  <meta name=twitter:title content="{% if title %}{{ title }} · {% endif %}{{ metadata.title }}">
+  <meta name=twitter:title content="{% if title %}{{ title }} · {% endif %}{{ metadata.title }}{% if title or metadata.description_title %} · {{ metadata.description_title }}{% endif %}">
   <!-- @@ Truncate description --><meta name=twitter:description content="{{ description or metadata.description_fallback }}">
   <meta name=twitter:image content={{ metadata.url_cdn_truncated }}/media/logo-social.png>
   <meta property="og:image" content="{{ metadata.url_cdn_truncated }}/media/logo-social.png">
-  <title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>
+  <title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}{% if title or metadata.description_title %} · {{ metadata.description_title }}{% endif %}</title>
   <link rel=canonical href="{% if original_url %}{{ original_url }}{% else %}{{ metadata.url_truncated }}{{ page.url }}{% endif %}">
   <!-- @@ Add CDN references and minify -->
   <link rel=stylesheet href={{ '/setup/default.css' | url }}>

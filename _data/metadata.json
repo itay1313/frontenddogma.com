@@ -6,6 +6,7 @@
   "language": "en",
   "description": "Your complementary source for frontend development",
   "description_complement": "your complementary source for frontend development",
+  "description_title": "Your Complementary Source for Frontend Development",
   "description_fallback": "This is Frontend Dogma",
   "feed": {
     "filename": "index.xml",
