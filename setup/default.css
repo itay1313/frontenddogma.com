@@ -55,6 +55,7 @@ header a {
 
 footer {
 	clear: both;
+	color: #666;
 	margin-top: var(--leading);
 }
 
@@ -75,7 +76,7 @@ main h1 a {
 }
 
 main h1 a::before {
-	content: '☞ ';
+	content: '◉ ';
 }
 
 p,
@@ -85,7 +86,7 @@ table {
 
 p#fd-meta {
 	color: #666;
-	margin: -1.265625rem 0 var(--leading-half);
+	margin: .25rem 0 var(--leading-half);
 }
 
 pre {
@@ -100,7 +101,7 @@ blockquote {
 }
 
 blockquote {
-	border-left: 1px solid var(--border);
+	border-left: 1px solid var(--brand);
 }
 
 div#notification {
@@ -142,7 +143,7 @@ div#fd-showcase p,
 div#fd-showcase ul,
 div#fd-showcase ol {
 	margin-bottom: 0 !important;
-	margin-top: var(--leading);
+	/* margin-top: var(--leading); */
 }
 
 div#fd-showcase section:first-child {
@@ -169,13 +170,12 @@ h1,
 div#fd-showcase h2 {
 	font-size: 1.4375rem;
 	line-height: 1.1739;
-	margin: var(--leading) 0;
+	margin: var(--leading) 0 0;
 }
 
 h2 {
 	font-size: 1.3125rem;
 	line-height: 1.2857;
-	margin: var(--leading) 0;
 }
 
 h3 {
