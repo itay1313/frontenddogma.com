@@ -96,7 +96,7 @@ pre {
 
 blockquote {
 	margin: var(--leading-half) 0;
-	padding-left: calc(var(--leading) - 1px);
+	padding-left: calc(var(--leading-half) - 1px);
 }
 
 blockquote {
@@ -143,10 +143,6 @@ div#fd-showcase p,
 div#fd-showcase ul {
 	margin-bottom: 0 !important;
 	margin-top: var(--leading);
-}
-
-div#fd-showcase section:nth-child(2) h2::after {
-	content: ' ☆';
 }
 
 div#fd-showcase section:first-child {
@@ -293,23 +289,6 @@ a:active {
 p a[rel=tag],
 ol a[rel=tag] {
 	font-weight: 400;
-}
-
-[class^='fd-status']::after {
-	content: ' ◉';
-	font-weight: 900;
-}
-
-.fd-status-go::after {
-	color: green;
-}
-
-.fd-status-stop::after {
-	color: red;
-}
-
-.fd-status-wait::after {
-	color: orange;
 }
 
 @media screen and (max-width: 700px) {
