@@ -9,7 +9,7 @@
   <meta name=twitter:image content={{ metadata.url_cdn_truncated }}/media/logo-social.png>
   <meta property="og:image" content="{{ metadata.url_cdn_truncated }}/media/logo-social.png">
   <title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}{% if title or metadata.description_title %} · {{ metadata.description_title }}{% endif %}</title>
-  <link rel=canonical href="{% if original_url %}{{ original_url }}{% else %}{{ metadata.url_truncated }}{{ page.url }}{% endif %}">
+  <link rel=canonical href="{% if original_url %}{{ original_url | url }}{% else %}{{ metadata.url_truncated }}{{ page.url | url }}{% endif %}">
   <!-- @@ Add CDN references and minify -->
   <link rel=stylesheet href={{ '/setup/default.css' | url }}>
   <link rel=stylesheet href={{ '/setup/prism-1.23.0.css' | url }}>
