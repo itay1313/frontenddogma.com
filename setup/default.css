@@ -293,6 +293,10 @@ ol a[rel=tag] {
 
 @media screen and (max-width: 700px) {
 
+	div#fd-teaser img {
+		max-width: 100px;
+	}
+
 	div#fd-showcase section:first-child {
 		float: none;
 		margin-right: 0;
