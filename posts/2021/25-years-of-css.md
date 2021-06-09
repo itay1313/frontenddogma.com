@@ -1,7 +1,6 @@
 ---
 author: meyerweb
 date: 2021-05-25
-# eleventyExcludeFromCollections: true
 layout: post.njk
 tags:
   - article

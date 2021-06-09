@@ -1,6 +1,5 @@
 ---
 author: smashingmag
-# eleventyExcludeFromCollections: true
 layout: post.njk
 tags:
   - article

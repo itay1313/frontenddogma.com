@@ -4,7 +4,6 @@ image: /products/upgrade-your-html-3.png
 layout: post.njk
 tags:
   - book
-  - featured
   - html
 target_url: https://www.amazon.com/dp/B094VPYQPM/?tag=frontend-dogma-20
 title: Upgrade Your HTML III

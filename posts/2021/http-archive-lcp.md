@@ -1,7 +1,6 @@
 ---
 author: paulcalvano
 date: 2021-06-07
-# eleventyExcludeFromCollections: true
 layout: post.njk
 tags:
   - article
