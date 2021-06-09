@@ -58,6 +58,14 @@ footer {
 	margin-top: var(--leading);
 }
 
+footer p {
+	margin: 0;
+}
+
+footer p:nth-last-child(2) {
+	float: right;
+}
+
 main {
 	padding-top: 3px;
 }
@@ -68,14 +76,6 @@ main h1 a {
 
 main h1 a::before {
 	content: '☞ ';
-}
-
-main + footer p:nth-last-child(2) {
-	float: right;
-}
-
-main + footer p {
-	margin: 0;
 }
 
 p,
@@ -105,7 +105,6 @@ blockquote {
 
 div#notification {
 	background: var(--brand);
-	border-radius: 3px;
 	color: #fff;
 	margin: 0 0 1.25rem;
 	padding: .25rem .5rem;
@@ -140,7 +139,8 @@ div#fd-showcase section {
 }
 
 div#fd-showcase p,
-div#fd-showcase ul {
+div#fd-showcase ul,
+div#fd-showcase ol {
 	margin-bottom: 0 !important;
 	margin-top: var(--leading);
 }
@@ -205,6 +205,7 @@ ol {
 
 ul.fd-nav {
 	margin: var(--leading) 0;
+	text-align: center;
 }
 
 ul.fd-nav li {
@@ -217,11 +218,13 @@ ul.fd-nav li:last-child {
 }
 
 ul.fd-nav.fd-alt {
+	clear: both;
 	margin-top: var(--leading);
 }
 
 ul.fd-nav.fd-alt li {
 	display: block;
+	padding: 0;
 }
 
 ul#fd-developers {
@@ -331,6 +334,7 @@ ol a[rel=tag] {
 	header ul,
 	footer,
 	p#fd-meta span,
+	div#notification,
 	ul.fd-nav {
 		display: none;
 	}
