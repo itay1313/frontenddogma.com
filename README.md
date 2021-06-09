@@ -22,6 +22,7 @@ author: TWITTER_HANDLE # preferred
 date: YYYY-MM-DD # preferred
 description: DESCRIPTION # optional
 image: PATH # preferred (path is based on /media—see note in “Content Types” section)
+image_url: URL # optional for an image for which there is no target_url fallback
 layout: post.njk # required
 original_url: URL # required for cross-posted entries
 tags:

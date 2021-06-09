@@ -5,7 +5,7 @@ title: Your Complementary Source for Frontend Development
 ---
 <div id=fd-showcase>
   <section>
-    <p>Articles, specs, tools, books, and beauty out of the world of frontend development. Stay informed <a href={{ metadata.feed.path | url }}>per feed</a> or <a href=https://twitter.com/frontenddogma>on Twitter</a>.
+    <p>Articles, guides, specs, books, and beauty out of the world of frontend development. Stay informed <a href={{ metadata.feed.path | url }}>per feed</a> or <a href=https://twitter.com/frontenddogma>on Twitter</a>.
     <h2>News and Views in Frontend Development</h2>
     {% set maxPosts = collections.posts.length %}
     <!-- <p>Last {% if maxPosts == 1 %}post{% else %}{{ maxPosts }} posts{% endif %}: -->
@@ -13,10 +13,14 @@ title: Your Complementary Source for Frontend Development
     {% set postsCounter = collections.posts | length %}
     {% include 'partials/posts.njk' %}
     <ul class=fd-nav>
-    	<li><a href={{ '/posts/' | url }}>All posts</a>
-    	<li><a href={{ '/tags/' | url }}>All tags</a>
-    	<!-- <li><a href={{ metadata.feed.path | url }}>Feed</a> -->
+      <li><a href={{ '/posts/' | url }}>All posts</a>
+      <li><a href={{ '/tags/' | url }}>All tags</a>
+      <!-- <li><a href={{ metadata.feed.path | url }}>Feed</a> -->
     </ul>
+  </section>
+  <section>
+    <h2>The Pledge</h2>
+    <p>Are you a frontend developer who cares about the craft? Take <a href=/pledge>the validation pledge</a>!
   </section>
   {% if collections.featureList != '' %}
   <section>
@@ -29,13 +33,7 @@ title: Your Complementary Source for Frontend Development
   </section>
   {% endif %}
   <section>
-    <h2>Frontend Dogma and You</h2>
-    <ul>
-      <li class=fd-status-go>Make a statement: <a href=https://github.com/j9t/frontenddogma.com/blob/main/_data/developers.json>add your name and website</a>
-      <li class=fd-status-go>Suggest a link, book, or similar: <a href=https://github.com/j9t/frontenddogma.com/issues/new>file an issue</a>
-      <li class=fd-status-wait>Add guest content: coming up
-      <!-- <li class=fd-status-stop>Sponsor content: not yet -->
-      <li class=fd-status-stop>Get published: not yet
-    </ul>
+    <h2>Contribute</h2>
+    <p>You want to link or write content? The site is not quite ready yet, however you can always suggest something in <a href=https://github.com/j9t/frontenddogma.com>the Frontend Dogma repo</a>.
   </section>
 </div>

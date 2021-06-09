@@ -5,4 +5,4 @@ tags:
   - announcement
 title: Hello World
 ---
-Hi everyone, welcome to Frontend Dogma&nbsp;👋
+Hi everyone 👋 Welcome to Frontend Dogma!
