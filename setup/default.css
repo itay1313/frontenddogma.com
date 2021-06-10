@@ -142,26 +142,26 @@ div#fd-teaser a img {
 	border: 0;
 }
 
-div#fd-showcase,
-div#fd-showcase section {
+div#fd-stage,
+div#fd-stage section {
 	overflow: auto;
 }
 
-div#fd-showcase p,
-div#fd-showcase ul,
-div#fd-showcase ol {
+div#fd-stage p,
+div#fd-stage ul,
+div#fd-stage ol {
 	margin-bottom: 0 !important;
 	/* margin-top: var(--leading); */
 }
 
-div#fd-showcase section:first-child {
+div#fd-stage section:first-child {
 	float: left;
 	margin-right: 5%;
 	width: 61%;
 }
 
-div#fd-showcase section:first-child :last-child,
-div#fd-showcase section:last-child :last-child {
+div#fd-stage section:first-child :last-child,
+div#fd-stage section:last-child :last-child {
 	margin-bottom: 0;
 }
 
@@ -175,7 +175,7 @@ h6 {
 }
 
 h1,
-div#fd-showcase h2 {
+div#fd-stage h2 {
 	font-size: 1.4375rem;
 	line-height: 1.1739;
 	margin: var(--leading) 0 0;
@@ -308,14 +308,14 @@ b {
 		max-width: 100px;
 	}
 
-	div#fd-showcase section:first-child {
+	div#fd-stage section:first-child {
 		float: none;
 		margin-right: 0;
 		width: 100%;
 	}
 
-	div#fd-showcase section:first-child :last-child,
-	div#fd-showcase section:last-child :last-child {
+	div#fd-stage section:first-child :last-child,
+	div#fd-stage section:last-child :last-child {
 		margin-bottom: inherit;
 	}
 
