@@ -171,6 +171,7 @@ h1 {
 h2 {
 	font-size: 1.3125rem;
 	line-height: 1.2857;
+	margin: var(--leading) 0;
 }
 
 h3 {
