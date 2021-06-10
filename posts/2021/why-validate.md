@@ -1,4 +1,5 @@
 ---
+author: j9t
 layout: post.njk
 tags:
   - article
@@ -8,10 +9,10 @@ tags:
 title: Why Validate?
 vg_wort: "@@"
 ---
-[Validating HTML and CSS](https://www.htmlvalidator.com/htmlval/whyvalidate.html) is important to confirm that the respective code is in conformance with the HTML and CSS standards. This not only ensures use of actual HTML and CSS, but it also helps to avoid errors.
+[Validating HTML and CSS](https://www.htmlvalidator.com/htmlval/whyvalidate.html) is important to confirm that the respective code is in conformance with the HTML and CSS standards. This not only ensures use of actual HTML and CSS, but it also helps to avoid technical as well as user-facing problems.
 
-Validating also comes with the benefit of learning about the underlying standards, which supports the growth as web professionals.
+Validating also comes with the benefit of learning about the underlying standards, which supports our growth as web professionals.
 
-Not validating, and therefore producing and shipping invalid code, is something that anyone can do. The practice of not validating is therefore one that has nothing to do with the craft and the profession of web and frontend development.
+Not validating, and therefore producing and shipping invalid code, is something that anyone can do. Only through the practice of validating can we actually speak of a craft and profession of web and frontend development.
 
-[_In Critical Defense of Frontend Development_](https://meiert.com/en/blog/critical-frontend-development/) shares more about the situation and why we as frontend developers as well as the field of frontend development benefit from committing to validation.
+In [_In Critical Defense of Frontend Development_](https://meiert.com/en/blog/critical-frontend-development/) I, Jens Oliver Meiert (disclosure: I run Frontend Dogma), share more about the situation and why we as frontend developers benefit from committing to validation. Please have a look, and share your own thoughts on how we can step it up for our field.
