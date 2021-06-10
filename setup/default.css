@@ -110,6 +110,12 @@ div#notification {
 	text-align: center;
 }
 
+div#notification p {
+	font-size: .875rem;
+	margin: 0;
+	max-width: none;
+}
+
 div#fd-teaser {
 	float: right;
 	padding: 0 0 1rem 1rem;
