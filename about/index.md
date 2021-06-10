@@ -14,4 +14,4 @@ Frontend Dogma is still being set up. What is Frontend Dogma going to be?
 
 3. An unpredictable and varying cause. In the beginning, Frontend Dogma is going to put emphasis on HTML and CSS validation, by featuring [a validation pledge](/pledge/).
 
-Frontend Dogma isn’t actually designed to be dogmatic, but will share convictions. [Contributions](https://github.com/j9t/frontenddogma.com) and external input are welcome.
+Frontend Dogma isn’t actually designed to be dogmatic, but will share convictions. [Contributions and feedback](https://github.com/j9t/frontenddogma.com) are welcome.
