@@ -6,7 +6,7 @@ eleventyNavigation:
 layout: post.njk
 title: The Validation Pledge
 ---
-<p>You’re a frontend developer? You validate your code? You ship valid code? Take the validation pledge, and <a href=https://github.com/j9t/frontenddogma.com/blob/main/_data/pledge.json>add yourself</a> to this page. (This is brand new, so you’re one of the first!)
+<p>You’re a frontend developer? You validate your code? You ship valid code? Take the validation pledge, and <a href=https://github.com/j9t/frontenddogma.com/blob/main/_data/pledge.json>add yourself</a> to this page.
 <ul id=fd-developers>
 {% for developer in pledge %}
   {% if developer.validates == 'yes' %}<li>{% if developer.website %}<a href="{{ developer.website | url }}">{% endif %}{{ developer.name }}{% if developer.website %}</a>{% endif %}{% endif %}

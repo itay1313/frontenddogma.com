@@ -73,6 +73,10 @@ main {
 	padding-top: 3px;
 }
 
+main h1 a {
+	border: 0;
+}
+
 main h1 a::before {
 	content: '◉ ';
 }
