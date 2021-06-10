@@ -10,11 +10,13 @@ html {
 	background: #fff;
 	color: #444;
 	font: 400 100%/1.6875 system-ui, sans-serif;
-	padding: 1vh 2vw;
+	margin: auto;
+	max-width: 66ch;
 }
 
-html * {
-	max-width: 66ch;
+body {
+	margin: 0;
+	padding: 1rem;
 }
 
 /* @@ “Flex” navigation? */
@@ -61,10 +63,24 @@ footer {
 	clear: both;
 	color: #666;
 	margin-top: var(--leading);
+	text-align: center;
 }
 
-footer p {
+footer p,
+footer ul {
 	margin: 0;
+}
+
+footer ul li {
+	display: inline;
+}
+
+footer ul li::after {
+	content: ' · ';
+}
+
+footer ul li:last-child::after {
+	content: none;
 }
 
 main {
@@ -86,7 +102,7 @@ table {
 
 p#fd-meta {
 	color: #666;
-	margin: .25rem 0 var(--leading-half);
+	margin: .1rem 0 var(--leading-half);
 }
 
 blockquote {
@@ -145,8 +161,10 @@ h6 {
 
 h1 {
 	font-size: 1.4375rem;
-	line-height: 1.1739;
-	margin: var(--leading) 0 0;
+	/* line-height: 1.1739; */
+	line-height: 1.4348;
+	/* margin: var(--leading) 0 0; */
+	margin: 1.3125rem 0 0;
 }
 
 h2 {
