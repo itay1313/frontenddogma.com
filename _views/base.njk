@@ -4,11 +4,11 @@
   <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
   {% if description %}<meta name=description content="{{ description }}">{% endif %}
   <meta name=twitter:card content=summary>
-  <meta name=twitter:title content="{% if title %}{{ title }} · {% endif %}{{ metadata.title }}{% if title or metadata.description_title %} · {{ metadata.description_title }}{% endif %}">
+  <meta name=twitter:title content="{% if title %}{{ title }} · {% endif %}{{ metadata.title }}">
   <!-- @@ Truncate description --><meta name=twitter:description content="{{ description or metadata.description_fallback }}">
   <meta name=twitter:image content={{ metadata.url_cdn_truncated }}/media/logo-social.png>
   <meta property="og:image" content="{{ metadata.url_cdn_truncated }}/media/logo-social.png">
-  <title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}{% if title or metadata.description_title %} · {{ metadata.description_title }}{% endif %}</title>
+  <title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>
   <link rel=canonical href="{% if original_url %}{{ original_url | url }}{% else %}{{ metadata.url_truncated }}{{ page.url | url }}{% endif %}">
   <!-- @@ Add CDN references and minify -->
   <link rel=stylesheet href={{ '/setup/default.css' | url }}>
@@ -34,7 +34,7 @@
     {{ content | safe }}
   </main>
   <footer>
-    <p>This is {% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}{{ metadata.title }}{% if page.url != '/' %}</a>{% endif %}: {{ metadata.description_complement }}
+    <p>This is {% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}{{ metadata.title }}{% if page.url != '/' %}</a>{% endif %}: {{ metadata.description | lower }}
     <p><a href=https://github.com/j9t/frontenddogma.com/blob/main/{{ page.inputPath }}>Edit on GitHub</a>
     <p><a href=https://twitter.com/frontenddogma>Twitter</a> · <a href={{ metadata.feed.path | url }}>Feed</a>
   </footer>

@@ -6,7 +6,7 @@ html {
 	--leading: 1.6875rem;
 	--leading-half: .84375rem;
 	--leading-half-negative: -.84375rem;
-	--leading-negative: -1.6875rem;
+	/* --leading-negative: -1.6875rem; */
 	background: #fff;
 	color: #444;
 	font: 400 100%/1.6875 system-ui, sans-serif;
@@ -14,7 +14,7 @@ html {
 }
 
 html * {
-	max-width: 80ch;
+	max-width: 66ch;
 }
 
 header {
@@ -91,12 +91,6 @@ p#fd-meta {
 	margin: .25rem 0 var(--leading-half);
 }
 
-pre {
-	font-size: .875rem !important;
-	/* overflow: auto;
-	white-space: pre-wrap; */
-}
-
 blockquote {
 	margin: var(--leading-half) 0;
 	padding-left: calc(var(--leading-half) - 1px);
@@ -142,29 +136,6 @@ div#fd-teaser a img {
 	border: 0;
 }
 
-div#fd-stage,
-div#fd-stage section {
-	overflow: auto;
-}
-
-div#fd-stage p,
-div#fd-stage ul,
-div#fd-stage ol {
-	margin-bottom: 0 !important;
-	/* margin-top: var(--leading); */
-}
-
-div#fd-stage section:first-child {
-	float: left;
-	margin-right: 5%;
-	width: 61%;
-}
-
-div#fd-stage section:first-child :last-child,
-div#fd-stage section:last-child :last-child {
-	margin-bottom: 0;
-}
-
 h1,
 h2,
 h3,
@@ -174,8 +145,7 @@ h6 {
 	font-weight: 400;
 }
 
-h1,
-div#fd-stage h2 {
+h1 {
 	font-size: 1.4375rem;
 	line-height: 1.1739;
 	margin: var(--leading) 0 0;
@@ -306,17 +276,6 @@ b {
 
 	div#fd-teaser img {
 		max-width: 100px;
-	}
-
-	div#fd-stage section:first-child {
-		float: none;
-		margin-right: 0;
-		width: 100%;
-	}
-
-	div#fd-stage section:first-child :last-child,
-	div#fd-stage section:last-child :last-child {
-		margin-bottom: inherit;
 	}
 
 }
