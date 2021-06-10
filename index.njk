@@ -1,6 +1,6 @@
 ---
 eleventyComputed:
-  title: News and Views in Frontend Development {% if pagination.pageNumber > 0 %}({{ pagination.pageNumber + 1 }}){% endif %}
+  title: News and Views in Frontend Development{% if pagination.pageNumber > 0 %} ({{ pagination.pageNumber + 1 }}){% endif %}
 layout: home.njk
 pagination:
   alias: entries
