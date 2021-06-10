@@ -10,11 +10,15 @@
     "validates": "yes"
   },
   {
+    "name": "John Doe",
+    "validates": "no"
+  },
+  {
     "name": "Max Mustermann",
     "validates": "yes"
   },
   {
-    "name": "John Doe",
-    "validates": "no"
+    "name": "Erika Mustermann",
+    "validates": "yes"
   }
 ]
