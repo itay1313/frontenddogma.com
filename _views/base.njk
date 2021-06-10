@@ -35,7 +35,6 @@
   </main>
   <footer>
     <p>This is {% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}{{ metadata.title }}{% if page.url != '/' %}</a>{% endif %}: {{ metadata.description | lower }}
-    <p><a href=https://github.com/j9t/frontenddogma.com/blob/main/{{ page.inputPath }}>Edit on GitHub</a>
     <p><a href=https://twitter.com/frontenddogma>Twitter</a> · <a href={{ metadata.feed.path | url }}>Feed</a>
   </footer>
   {% if vg_wort %}<img src=https://vg07.met.vgwort.de/na/{{vg_wort}} alt="" id=fd-vg-wort>{% endif %}
