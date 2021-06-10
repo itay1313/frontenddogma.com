@@ -42,6 +42,7 @@ header ul {
 
 header ul li {
 	display: inline;
+	font-weight: 500;
 	padding-right: 1rem;
 }
 
@@ -69,10 +70,6 @@ footer p:nth-last-child(2) {
 
 main {
 	padding-top: 3px;
-}
-
-main h1 a {
-	font-weight: 400;
 }
 
 main h1 a::before {
@@ -278,20 +275,15 @@ th {
 }
 
 a {
+	border-bottom: 1px solid var(--border);
 	color: #222;
-	font-weight: 500;
 	text-decoration: none;
 }
 
 a:focus,
 a:hover,
 a:active {
-	border-bottom: 1px solid var(--brand);
-}
-
-p a[rel=tag],
-ol a[rel=tag] {
-	font-weight: 400;
+	border-color: var(--brand);
 }
 
 @media screen and (max-width: 700px) {
