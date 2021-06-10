@@ -20,4 +20,4 @@ A selective quality source for frontend development news and commentary: A sourc
 
 ▉▉▉▌▌▉▉ ▉▌▋▉▉▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▉ ▉▉▋▉▉ ▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉ ▉▌▉▌▌▉▉ ▋▉▉▌▉▌▌▉▉ ▋▉▉▌▉▌▌▉▉ ▋▉▌▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▉▌▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉ ▋▉▉▌▌▉▉▋▉▉▌▌▉▉.
 
-Frontend Dogma isn’t actually dogmatic. However, it shares convictions. [Contributions and feedback](https://github.com/j9t/frontenddogma.com) are welcome.
+Frontend Dogma isn’t dogmatic, but it shares convictions. [Contributions and feedback](https://github.com/j9t/frontenddogma.com) are always welcome.
