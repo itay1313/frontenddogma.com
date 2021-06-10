@@ -32,6 +32,7 @@ header h1 {
 header h1 img {
 	height: 52px;
 	padding-right: 1rem;
+	width: 138px;
 }
 
 header ul {
@@ -286,6 +287,11 @@ a:active {
 	border-color: var(--brand);
 }
 
+strong,
+b {
+	font-weight: 500;
+}
+
 @media screen and (max-width: 700px) {
 
 	div#fd-teaser img {
@@ -309,6 +315,7 @@ a:active {
 
 	header h1 img {
 		height: 50px;
+		width: 132px;
 	}
 
 	header ul {
