@@ -2,8 +2,8 @@
 eleventyExcludeFromCollections: true
 layout: home.njk
 permalink: error404.html
-title: Not Found
+title: Page Not Found
 ---
 # {{ title }}
 
-Ahahahahaha.
+Eh. This page doesn’t exist (anymore). Please [start from the homepage](/).
