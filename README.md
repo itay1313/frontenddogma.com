@@ -1,6 +1,6 @@
 # frontenddogma.com
 
-Source of the website of [Frontend Dogma](https://frontenddogma.com/).
+Source of the website of [Frontend Dogma (FD)](https://frontenddogma.com/).
 
 ## How to Contribute
 
@@ -20,7 +20,7 @@ Sort all front matter data alphabetically. (Tags should follow the order content
 ---
 author: TWITTER_HANDLE # preferred
 date: YYYY-MM-DD # preferred
-description: DESCRIPTION # optional
+description: DESCRIPTION # required for FD content, otherwise optional
 image: PATH # preferred (path is based on /media—see note in “Content Types” section)
 image_url: URL # optional for an image for which there is no target_url fallback
 layout: post.njk # required
