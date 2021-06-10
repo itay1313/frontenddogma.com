@@ -11,7 +11,7 @@ title: Upgrade Your HTML
 ---
 > The _Upgrade Your HTML_ series is about one thing: Picking examples of HTML in the wild, and explaining how to make that code better. Kindly. Constructively. Thoroughly, as finding a balance between detail and brevity permits.
 
-It’s still “top secret” and part of a bigger plan, but Frontend Dogma is going to be the publisher of the _Upgrade Your HTML_ book series!
+It’s still a secret and part of a bigger plan, but Frontend Dogma is going to be the publisher of the _Upgrade Your HTML_ book series!
 
 You can get the entire series of currently three titles at the following platforms:
 
