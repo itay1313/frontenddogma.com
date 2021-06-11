@@ -6,7 +6,7 @@ layout: post.njk
 tags:
   - article
   - field
-  - qualiy
+  - quality
 target_url: https://meiert.com/en/blog/critical-frontend-development/
 title: In Critical Defense of Frontend Development
 ---
