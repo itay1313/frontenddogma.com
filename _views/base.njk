@@ -2,10 +2,10 @@
 <html lang=en>
   <meta charset=utf-8>
   <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  {% if description %}<meta name=description content="{{ description }}">{% endif %}
+  {% if description %}<meta name=description content="{{ description | truncate(140, true, '…') }}">{% endif %}
   <meta name=twitter:card content=summary>
   <meta name=twitter:title content="{% if title %}{{ title }} · {% endif %}{{ metadata.title }}">
-  <meta name=twitter:description content="{{ description or metadata.description_fallback | truncate(140) }}">
+  <meta name=twitter:description content="{{ (description or metadata.description_fallback) | truncate(140, true, '…') }}">
   <meta name=twitter:image content={{ metadata.url_cdn_truncated }}/media/logo-social.png>
   <meta property="og:image" content="{{ metadata.url_cdn_truncated }}/media/logo-social.png">
   <title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>
