@@ -21,7 +21,7 @@ permalink: "{{ metadata.feed.path }}"
 		<title>{{ post.data.title }}{% if post.data.author %} by @{{ post.data.author }}{% endif %}</title>
 		<link href="{% if post.data.target_url %}{{ post.data.target_url }}{% else %}{{ absolutePostUrl }}{% endif %}"/>
 		<id>{{ absolutePostUrl }}</id>
-		<content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+		<content type="html">{% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}{% else %}<p>{{ metadata.description_fallback }}</p>{% endif %}</content>
 		<updated>{{ post.date | rssDate }}</updated>
 	</entry>
 	{%- endfor %}
