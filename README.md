@@ -50,10 +50,8 @@ Each post needs to have one (and only one) tag describing the content type, for 
 * `company`
 * `course`
 * `developer`
-* `how-to`
 * `interview`
 * `magazine`
-* `op-ed`
 * `organization`
 * `podcast`
 * `rfc`

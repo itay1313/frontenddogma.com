@@ -1,5 +1,5 @@
 ---
-author: smashingmag
+author: adrianbecedev
 layout: post.njk
 tags:
   - article
