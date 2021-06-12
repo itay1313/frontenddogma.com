@@ -10,7 +10,7 @@ Frontend Dogma is still being set up. What is Frontend Dogma?
 
 ## 1. A Source
 
-A selective quality source for frontend development news and commentary: A source that promotes meaningful and impactful information, that is easy to consume [per feed]({{ metadata.feed.path | url }}) and [through Twitter](https://twitter.com/frontenddogma), and that gives ample credit.
+Frontend Dogma aims to serve as a quality source for frontend development news and commentary. The idea is to promote meaningful information, to be easy to consume ([per feed]({{ metadata.feed.path | url }}) and [through Twitter](https://twitter.com/frontenddogma)), and to support authors and publishers with “do follow” links and friendly Twitter references. Nothing more, and nothing less.
 
 ## 2. ▋ ▋▉▉▌▉
 
