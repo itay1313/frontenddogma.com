@@ -26,39 +26,33 @@ body {
 
 /* @@ Normalize */
 
-/* @@ “Flex” navigation? */
-
 header {
-	border-bottom: 1px solid var(--brand);
-	overflow: auto;
+	align-items: center;
+	display: flex;
 }
 
 header h1 {
-	float: left;
-	margin: 0 .75rem 0 0;
-	padding-bottom: .5rem;
+	font-size: inherit;
+	line-height: inherit;
+	margin: 0;
 }
 
 header h1 img {
+	display: block;
 	height: 52px;
 	padding-right: 1rem;
 	width: 138px;
 }
 
 header ul {
+	display: flex;
+	flex-wrap: wrap;
 	list-style: none;
-		margin: 0;
-	padding: 0 0 5px;
+	margin: 0;
 }
 
 header ul li {
-	display: inline;
-	font-weight: 500;
-	padding-right: 1rem;
-}
-
-header ul li:last-child {
-	padding-right: 0;
+	padding: 0 .5rem;
 }
 
 header a {
@@ -85,6 +79,8 @@ footer ul li:last-child::after {
 }
 
 main {
+	border-top: 1px solid var(--brand);
+	margin-top: .5rem;
 	padding-top: 3px;
 }
 
