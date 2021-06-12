@@ -13,11 +13,9 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{%
 <ol start={{ (collections.posts.length - (pagination.pageNumber * pagination.size)) }} reversed>
 {%- for entry in entries | reverse %}
 	<li>
-		<a href={{ entry.url | url }}>{% if entry.data.title %}{{ entry.data.title }}{% else %}<code>{{ entry.url }}</code>{% endif %}</a> ·
-		<time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time>
-		·
-		{% set comma = joiner() %}
-		{% for tag in entry.data.tags | filterTagList %}
+		<a href={{ entry.url | url }}>{% if entry.data.title %}{{ entry.data.title }}{% else %}<code>{{ entry.url }}</code>{% endif %}</a> · <time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time> ·
+		{%- set comma = joiner() -%}
+		{%- for tag in entry.data.tags | filterTagList %}
 			{%- set tagUrl -%}/tags/{{ tag | slug }}/{%- endset -%}
 			{{ comma() }} <a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>
 		{%- endfor -%}
@@ -25,9 +23,9 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{%
 </ol>
 <ul class=fd-nav>
 	<li><a href={{ '/tags/' | url }}>All tags</a>
-	{% if collections.posts.length > pagination.size %}
+	{%- if collections.posts.length > pagination.size %}
 	{%- for pageEntry in pagination.pages %}
-	<li>{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}<a href={{ pagination.hrefs[ loop.index0 ] }}>{% endif %}Page {{ loop.index }}{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}</a>{% endif %}</li>
+	<li>{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}<a href={{ pagination.hrefs[ loop.index0 ] }}>{% endif %}Page {{ loop.index }}{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}</a>{% endif %}
 	{%- endfor %}
-	{% endif %}
+	{%- endif %}
 </ul>

@@ -1,6 +1,6 @@
 ---
 eleventyComputed:
-  title: Pages {% if pagination.pageNumber > 0 %}({{ pagination.pageNumber + 1 }}){% endif %}
+  title: Pages{% if pagination.pageNumber > 0 %} ({{ pagination.pageNumber + 1 }}){% endif %}
 layout: index.njk
 pagination:
   alias: entries
@@ -11,8 +11,10 @@ permalink: /pages/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 <h1>{{ title }}</h1>
 <table>
 	<thead>
-		<th>URL
-		<th>Title
+		<tr>
+			<th>URL
+			<th>Title
+		</tr>
 	</thead>
 	<tbody>
 {%- for entry in entries %}
@@ -23,10 +25,10 @@ permalink: /pages/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 {%- endfor %}
 	</tbody>
 </table>
-{% if collections.all.length > pagination.size %}
+{%- if collections.all.length > pagination.size %}
 <ul class=fd-nav>
 	{%- for pageEntry in pagination.pages %}
-	<li>{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}<a href={{ pagination.hrefs[ loop.index0 ] }}>{% endif %}Page {{ loop.index }}{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}</a>{% endif %}</li>
+	<li>{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}<a href={{ pagination.hrefs[ loop.index0 ] }}>{% endif %}Page {{ loop.index }}{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}</a>{% endif %}
 	{%- endfor %}
 </ul>
-{% endif %}
+{%- endif %}

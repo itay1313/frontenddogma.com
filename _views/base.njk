@@ -20,7 +20,6 @@
 	</div>
 	<header>
 		<h1>{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}<!-- @@ Add CDN reference --><img src=/media/logo.svg alt="{{ metadata.title }}">{% if page.url != '/' %}</a>{% endif %}</h1>
-		<!-- @@ -->
 		<nav>
 			<ul>
 				{%- for entry in collections.all | eleventyNavigation %}
