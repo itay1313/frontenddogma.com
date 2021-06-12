@@ -7,7 +7,7 @@ tags:
   - css
   - quality
 title: Why Validate?
-vg_wort: "@@"
+# vg_wort: 91511a9584fc462aad592bfe94028fd5
 ---
 [Validating HTML and CSS](https://www.htmlvalidator.com/htmlval/whyvalidate.html) is important to confirm that the respective code is in conformance with the HTML and CSS standards. This not only ensures use of actual HTML and CSS, but it also helps to avoid technical as well as user-facing problems.
 
