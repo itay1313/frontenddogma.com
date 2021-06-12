@@ -14,59 +14,94 @@ html {
 
 body,
 header,
+header h1,
+header ul,
 footer p,
-footer ul,
-div#notification p {
+footer ul {
 	margin: 0;
 }
 
 body {
-	padding: 1rem;
+	padding: 1.25rem 1rem 1rem;
 }
 
-/* @@ Normalize */
+header,
+header ul {
+	display: flex;
+}
+
+header,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+b {
+	font-weight: 500;
+}
 
 header {
 	align-items: center;
-	display: flex;
 }
 
 header h1 {
 	font-size: inherit;
 	line-height: inherit;
-	margin: 0;
+}
+
+header h1 img,
+div#fd-teaser img,
+div#fd-teaser a,
+ul.fd-nav.fd-alt li {
+	display: block;
+}
+
+header h1 img,
+ul.fd-nav li {
+	padding-right: 1rem;
 }
 
 header h1 img {
-	display: block;
 	height: 52px;
-	padding-right: 1rem;
 	width: 138px;
 }
 
 header ul {
-	display: flex;
 	flex-wrap: wrap;
 	list-style: none;
-	margin: 0;
+	margin-top: -2px;
 }
 
-header ul li {
+header ul li,
+th,
+td {
 	padding: 0 .5rem;
 }
 
 header a {
-	border-bottom: 0 !important;
+	border-bottom: 0;
 }
 
-footer {
-	clear: both;
+footer,
+p#fd-meta {
 	color: #666;
+}
+
+footer,
+ul.fd-nav.fd-alt {
+	clear: both;
 	margin-top: var(--leading);
+}
+
+footer,
+ul.fd-nav {
 	text-align: center;
 }
 
-footer ul li {
+footer ul li,
+ul.fd-nav li {
 	display: inline;
 }
 
@@ -80,11 +115,12 @@ footer ul li:last-child::after {
 
 main {
 	border-top: 1px solid var(--brand);
-	margin-top: .5rem;
+	margin-top: .75rem;
 	padding-top: 3px;
 }
 
-main h1 a {
+main h1 a,
+div#fd-teaser a img {
 	border: 0;
 }
 
@@ -93,35 +129,25 @@ main h1 a::before {
 }
 
 p,
+blockquote,
 table {
 	margin: var(--leading-half) 0;
 }
 
 p#fd-meta {
-	color: #666;
 	margin: .1rem 0 var(--leading-half);
 }
 
-blockquote {
-	margin: var(--leading-half) 0;
-	padding-left: calc(var(--leading-half) - 1px);
+pre,
+h5,
+h6,
+code {
+	font-size: 1rem;
 }
 
 blockquote {
 	border-left: 1px solid var(--brand);
-}
-
-div#notification {
-	background: var(--brand);
-	color: #fff;
-	margin: 0 0 1.25rem;
-	padding: .25rem .5rem;
-	text-align: center;
-}
-
-div#notification p {
-	font-size: .875rem;
-	max-width: none;
+	padding-left: calc(var(--leading-half) - 1px);
 }
 
 div#fd-teaser {
@@ -131,7 +157,6 @@ div#fd-teaser {
 
 div#fd-teaser img {
 	border: 1px solid var(--border);
-	display: block;
 	line-height: 0;
 	max-width: 150px;
 	padding: 1px;
@@ -139,11 +164,6 @@ div#fd-teaser img {
 
 div#fd-teaser a {
 	border: 1px solid var(--brand);
-	display: block;
-}
-
-div#fd-teaser a img {
-	border: 0;
 }
 
 h1,
@@ -153,7 +173,6 @@ h4,
 h5,
 h6 {
 	font-family: montserrat, system-ui, sans-serif;
-	font-weight: 500;
 }
 
 h1 {
@@ -164,59 +183,52 @@ h1 {
 	margin: 1.3125rem 0 0;
 }
 
+h2,
+ul.fd-nav {
+	margin: var(--leading) 0;
+}
+
 h2 {
 	font-size: 1.3125rem;
 	line-height: 1.2857;
-	margin: var(--leading) 0;
+}
+
+h3,
+h4 {
+	margin: var(--leading) 0 0;
 }
 
 h3 {
 	font-size: 1.25rem;
 	line-height: 1.35;
-	margin: var(--leading) 0 0;
 }
 
 h4 {
 	font-size: 1.125rem;
 	line-height: 1.5;
-	margin: var(--leading) 0 0;
 }
 
 h5,
 h6 {
-	font-size: 1rem;
 	line-height: 1.6875;
 	margin: var(--leading) 0 var(--leading-half-negative);
 }
 
 ul,
+ul.fd-nav.fd-alt li,
+ol {
+	padding: 0;
+}
+
+ul,
 ol {
 	margin: var(--leading-half) 0 var(--leading-half) var(--leading);
-	padding: 0;
 }
 
-ul.fd-nav {
-	margin: var(--leading) 0;
-	text-align: center;
-}
-
-ul.fd-nav li {
-	display: inline;
-	padding-right: 1rem;
-}
-
-ul.fd-nav li:last-child {
+ul.fd-nav li:last-child,
+th:last-child,
+td:last-child {
 	padding-right: 0;
-}
-
-ul.fd-nav.fd-alt {
-	clear: both;
-	margin-top: var(--leading);
-}
-
-ul.fd-nav.fd-alt li {
-	display: block;
-	padding: 0;
 }
 
 img#fd-vg-wort {
@@ -228,13 +240,11 @@ img#fd-vg-wort {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
-	max-width: none;
 }
 
 th,
 td {
 	border-right: 1px solid var(--border);
-	padding: 0 .5rem;
 }
 
 th:first-child,
@@ -245,7 +255,6 @@ td:first-child {
 th:last-child,
 td:last-child {
 	border-right: 0;
-	padding-right: 0;
 }
 
 th {
@@ -266,9 +275,19 @@ a:active {
 	border-color: var(--brand);
 }
 
-strong,
-b {
-	font-weight: 500;
+/* Temporary */
+
+div#notification {
+	background: var(--brand);
+	color: #fff;
+	margin: 0 0 1.25rem;
+	padding: .25rem .5rem;
+	text-align: center;
+}
+
+div#notification p {
+	font-size: .875rem;
+	margin: 0;
 }
 
 @media screen and (max-width: 700px) {
@@ -281,22 +300,18 @@ b {
 
 @media screen and (max-width: 550px) {
 
+	body {
+		padding-top: 1rem;
+	}
+
 	header h1 img {
 		height: 50px;
 		width: 132px;
 	}
 
-	header ul {
-		margin-top: -4px;
-	}
-
 }
 
 @media print {
-
-	header {
-		border: 0;
-	}
 
 	header ul,
 	footer,
@@ -304,6 +319,10 @@ b {
 	div#notification,
 	ul.fd-nav {
 		display: none;
+	}
+
+	main {
+		border: 0;
 	}
 
 }
