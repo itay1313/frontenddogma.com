@@ -275,6 +275,23 @@ a:active {
 	border-color: var(--brand);
 }
 
+/* Development */
+
+ul#fd-developers {
+	list-style: none;
+	margin: var(--leading) 0;
+}
+
+ul#fd-developers li {
+	display: inline;
+	padding-right: 1rem;
+}
+
+ul#fd-developers li::after {
+	color: green;
+	content: ' ✓';
+}
+
 /* Temporary */
 
 div#notification {
