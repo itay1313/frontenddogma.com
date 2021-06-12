@@ -17,7 +17,7 @@ permalink: /pages/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 		</tr>
 	</thead>
 	<tbody>
-{%- for entry in entries %}
+{%- for entry in entries | sort %}
 		<tr>
 			<td><a href={{ entry.url | url }}><code>{{ entry.url }}</code></a>
 			<td>{{ entry.data.title }}
