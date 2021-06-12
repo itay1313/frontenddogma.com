@@ -1,6 +1,6 @@
 ---
 eleventyExcludeFromCollections: true
-layout: home.njk
+layout: index.njk
 permalink: error404.html
 title: Page Not Found
 ---

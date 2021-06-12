@@ -1,7 +1,7 @@
 ---
 eleventyComputed:
   title: “{{ tag }}” Archive
-layout: home.njk
+layout: index.njk
 pagination:
   addAllPagesToCollections: true
   alias: tag
@@ -19,5 +19,5 @@ permalink: /tags/{{ tag | slug }}/
 {% set posts = collections[ tag ] %}
 {% include 'partials/posts.njk' %}
 <ul class=fd-nav>
-  <li><a href={{ '/tags/' | url }}>All tags</a>
+	<li><a href={{ '/tags/' | url }}>All tags</a>
 </ul>

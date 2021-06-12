@@ -12,22 +12,22 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{%
 <p>Articles and books, tips and tricks, craft and beauty from the world of frontend development. Stay informed <a href={{ metadata.feed.path | url }}>per feed</a> or <a href=https://twitter.com/frontenddogma>on Twitter</a>.
 <ol start={{ (collections.posts.length - (pagination.pageNumber * pagination.size)) }} reversed>
 {%- for entry in entries | reverse %}
-  <li>
-    <a href={{ entry.url | url }}>{% if entry.data.title %}{{ entry.data.title }}{% else %}<code>{{ entry.url }}</code>{% endif %}</a> ·
-    <time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time>
-    ·
-    {% set comma = joiner() %}
-    {% for tag in entry.data.tags | filterTagList %}
-      {%- set tagUrl -%}/tags/{{ tag | slug }}/{%- endset -%}
-      {{ comma() }} <a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>
-    {%- endfor -%}
+	<li>
+		<a href={{ entry.url | url }}>{% if entry.data.title %}{{ entry.data.title }}{% else %}<code>{{ entry.url }}</code>{% endif %}</a> ·
+		<time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time>
+		·
+		{% set comma = joiner() %}
+		{% for tag in entry.data.tags | filterTagList %}
+			{%- set tagUrl -%}/tags/{{ tag | slug }}/{%- endset -%}
+			{{ comma() }} <a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>
+		{%- endfor -%}
 {%- endfor %}
 </ol>
 <ul class=fd-nav>
-  <li><a href={{ '/tags/' | url }}>All tags</a>
-  {% if collections.posts.length > pagination.size %}
-  {%- for pageEntry in pagination.pages %}
-  <li>{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}<a href={{ pagination.hrefs[ loop.index0 ] }}>{% endif %}Page {{ loop.index }}{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}</a>{% endif %}</li>
-  {%- endfor %}
-  {% endif %}
+	<li><a href={{ '/tags/' | url }}>All tags</a>
+	{% if collections.posts.length > pagination.size %}
+	{%- for pageEntry in pagination.pages %}
+	<li>{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}<a href={{ pagination.hrefs[ loop.index0 ] }}>{% endif %}Page {{ loop.index }}{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}</a>{% endif %}</li>
+	{%- endfor %}
+	{% endif %}
 </ul>
