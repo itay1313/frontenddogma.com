@@ -18,7 +18,7 @@ Sort all front matter data alphabetically. (Tags should follow the order content
 
 ```
 ---
-author: TWITTER_HANDLE # preferred
+author: TWITTER_HANDLE # preferred, point to individual if possible
 date: YYYY-MM-DD # preferred
 description: DESCRIPTION # required for FD content, otherwise optional
 image: PATH # preferred (path is based on /media—see note in “Content Types” section)
