@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: Contact
-  order: 2
+  order: 4
 layout: post.njk
 title: Contact and Legal
 ---
