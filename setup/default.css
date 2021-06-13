@@ -189,18 +189,14 @@ h1 {
 }
 
 h2,
-ul.fd-nav {
-	margin: var(--leading) 0;
+h3,
+h4 {
+	margin: var(--leading) 0 0;
 }
 
 h2 {
 	font-size: 1.3125rem;
 	line-height: 1.2857;
-}
-
-h3,
-h4 {
-	margin: var(--leading) 0 0;
 }
 
 h3 {
@@ -228,6 +224,10 @@ ol {
 ul,
 ol {
 	margin: var(--leading-half) 0 var(--leading-half) var(--leading);
+}
+
+ul.fd-nav {
+	margin: var(--leading) 0;
 }
 
 ul.fd-nav li:last-child,
