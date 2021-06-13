@@ -16,7 +16,7 @@ permalink: "{{ metadata.feed.path }}"
 		<email>{{ metadata.author.email }}</email>
 	</author>
 	{%- for post in collections.posts | reverse %}
-	{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+	{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
 	<entry>
 		<title>{{ post.data.title }}, {% if not post.data.author %}by @j9t{% else %}by @{{ post.data.author }}{% if post.data.publisher %} (@{{ post.data.publisher }}){% endif %}{% endif %}</title>
 		<link href="{% if post.data.target_url %}{{ post.data.target_url }}{% else %}{{ absolutePostUrl }}{% endif %}"/>
