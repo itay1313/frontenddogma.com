@@ -1,3 +1,8 @@
+::selection {
+	background: var(--brand);
+	color: #000;
+}
+
 html {
 	--border: #ddd;
 	--brand: #f08713;
@@ -296,7 +301,7 @@ ul#fd-developers li::after {
 
 div#notification {
 	background: var(--brand);
-	color: #fff;
+	color: #000;
 	margin: 0 0 1.25rem;
 	padding: .25rem .5rem;
 	text-align: center;
