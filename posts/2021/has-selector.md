@@ -1,6 +1,7 @@
 ---
 author: adrianbecedev
 layout: post.njk
+publisher: smashingmag
 tags:
   - article
   - css

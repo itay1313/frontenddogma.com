@@ -18,13 +18,14 @@ Sort all front matter data alphabetically. (Tags should follow the order content
 
 ```
 ---
-author: TWITTER_HANDLE # preferred, point to individual if possible
+author: TWITTER_HANDLE # not to be confused with `platform`
 date: YYYY-MM-DD # preferred
 description: DESCRIPTION # required for FD content, otherwise optional
 image: PATH # preferred (path is based on /media—see note in “Content Types” section)
 image_url: URL # optional for an image for which there is no target_url fallback
 layout: post.njk # required
 original_url: URL # required for cross-posted entries
+publisher: TWITTER_HANDLE # preferred, point to individual if possible
 tags:
   - CONTENT_TYPE # required
   - (FEATURES) # optional

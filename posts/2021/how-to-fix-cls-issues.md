@@ -2,6 +2,7 @@
 author: tunetheweb
 date: 2021-06-02
 layout: post.njk
+publisher: smashingmag
 tags:
   - article
   - performance
