@@ -4,7 +4,7 @@ eleventyNavigation:
   order: 2
 layout: post.njk
 title: About Frontend Dogma
-# vg_wort: e912fe8f75ac4b8c8302c7640a9f9d85
+vg_wort: e912fe8f75ac4b8c8302c7640a9f9d85
 ---
 Frontend Dogma is still being set up. What is Frontend Dogma?
 
