@@ -1,8 +1,6 @@
 ---
 author: j9t
 date: 2021-05-31
-description: There may be a time when you’ll feel “too old” for web development. When you begin to feel that, here are a few thoughts. They might not be all you need but—maybe they are of use.
-eleventyExcludeFromCollections: true
 layout: post.njk
 tags:
   - article

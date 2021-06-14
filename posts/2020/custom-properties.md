@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2020-09-21
-description: For custom properties (aka CSS variables) we got into the habit of declaring variables in a rule with a `:root` selector. Yet unless you’re working in an environment in which style sheets serve several document types (and roots), question this use of `:root`.
 eleventyExcludeFromCollections: true
 layout: post.njk
 original_url: https://meiert.com/en/blog/questioning-root/
