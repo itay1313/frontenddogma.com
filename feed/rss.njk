@@ -15,13 +15,15 @@ permalink: "{{ metadata.feed.path }}"
 			<url>{{ metadata.url_truncated }}/media/logo-social.png</url>
 		</image>
 		{%- for post in collections.posts | reverse %}
-			{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
-			<item>
-				<title>{{ post.data.title }}{% if not post.data.author %}, by @j9t{% else %}{% if post.data.author != 'n/a' %}, by @{{ post.data.author }}{% if post.data.publisher %} (@{{ post.data.publisher }}){% endif %}{% else %}{% if post.data.publisher %}, from @{{ post.data.publisher }}{% endif %}{% endif %}{% endif %}</title>
-				<link>{% if post.data.target_url %}{{ post.data.target_url }}{% else %}{{ absolutePostUrl }}{% endif %}</link>
-				<guid>{{ absolutePostUrl }}</guid>
-				<description><![CDATA[{% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}{% else %}<p>{{ metadata.description_fallback }}</p>{% endif %}]]></description>
-			</item>
+		{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
+		{%- if loop.index0 < 25 -%}
+		<item>
+			<title>{{ post.data.title }}{% if not post.data.author %}, by @j9t{% else %}{% if post.data.author != 'n/a' %}, by @{{ post.data.author }}{% if post.data.publisher %} (@{{ post.data.publisher }}){% endif %}{% else %}{% if post.data.publisher %}, from @{{ post.data.publisher }}{% endif %}{% endif %}{% endif %}</title>
+			<link>{% if post.data.target_url %}{{ post.data.target_url }}{% else %}{{ absolutePostUrl }}{% endif %}</link>
+			<guid>{{ absolutePostUrl }}</guid>
+			<description><![CDATA[{% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}{% else %}<p>{{ metadata.description_fallback }}</p>{% endif %}]]></description>
+		</item>
+		{%- endif -%}
 		{%- endfor %}
 	</channel>
 </rss>
