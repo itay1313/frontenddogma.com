@@ -65,10 +65,10 @@ Each post needs to have one (and only one) tag describing the content type, for 
 
 In addition, a content piece can be one or more of the following:
 
-* `evergreen`, for important and long-lived posts
-* `featured`, for homepage promotion
+* `evergreen`, for important and long-lived posts (currently not in use)
+* `featured`, for homepage promotion (currently not in use)
 * `cross-posted`, for content that was already posted elsewhere (specify `original_url`)
-* `sponsored`
+* `sponsored` (currently not in use)
 
 #### 3. Topics
 
