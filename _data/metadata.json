@@ -6,10 +6,11 @@
   "description": "Your complementary source for frontend development",
   "description_fallback": "This is Frontend Dogma",
   "feed": {
+    "file": "index.xml",
     "path": "/feed/index.xml",
     "id": "https://frontenddogma.com/"
   },
-  "jsonfeed": {
+  "feed_json": {
     "path": "/feed/index.json",
     "url": "https://frontenddogma.com/feed/index.json"
   },

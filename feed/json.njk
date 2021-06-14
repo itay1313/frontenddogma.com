@@ -1,12 +1,12 @@
 ---
 eleventyExcludeFromCollections: true
-permalink: "{{ metadata.jsonfeed.path }}"
+permalink: "{{ metadata.feed_json.path }}"
 ---
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "{{ metadata.title }}",
   "home_page_url": "{{ metadata.url }}",
-  "feed_url": "{{ metadata.jsonfeed.url }}",
+  "feed_url": "{{ metadata.feed_json.url }}",
   "description": "{{ metadata.description }}",
   "items": [
     {%- for post in collections.posts | reverse %}
