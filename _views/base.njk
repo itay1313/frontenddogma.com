@@ -5,7 +5,7 @@
 	{% if description %}<meta name=description content="{{ description | truncate(140, true, '…') }}">{% endif %}
 	<meta name=twitter:card content=summary>
 	<meta name=twitter:title content="{% if title %}{{ title }} · {% endif %}{{ metadata.title }}">
-	<meta name=twitter:description content="{{ (description or metadata.description_fallback) | truncate(140, true, '…') }}">
+	<meta name=twitter:description content="{{ (description or metadata.description_alternative) | truncate(140, true, '…') }}">
 	<meta name=twitter:image content={{ env.base }}media/logo-social.png>
 	<meta property="og:image" content="{{ env.base }}media/logo-social.png">
 	<title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>

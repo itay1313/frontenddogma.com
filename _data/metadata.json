@@ -3,8 +3,8 @@
   "url": "https://frontenddogma.com/",
   "url_truncated": "https://frontenddogma.com",
   "language": "en",
-  "description": "Your complementary source for frontend development",
-  "description_fallback": "This is Frontend Dogma",
+  "description": "Your complementary source for frontend development.",
+  "description_alternative": "This is Frontend Dogma.",
   "feed": {
     "file": "index.xml",
     "path": "/feed/index.xml",

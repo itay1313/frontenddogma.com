@@ -18,7 +18,7 @@ permalink: "{{ metadata.feed_json.path }}"
       "title": "{{ post.data.title }}{% if not post.data.author %}, by @j9t{% else %}{% if post.data.author != 'n/a' %}, by @{{ post.data.author }}{% if post.data.publisher %} (@{{ post.data.publisher }}){% endif %}{% else %}{% if post.data.publisher %}, from @{{ post.data.publisher }}{% endif %}{% endif %}{% endif %}",
       "url": "{% if post.data.target_url %}{{ post.data.target_url }}{% else %}{{ absolutePostUrl }}{% endif %}",
       "id": "{{ absolutePostUrl }}",
-      "content_html": {% if post.templateContent %}{{ post.templateContent | dump | safe }}{% else %}"<p>{{ metadata.description_fallback }}</p>"{% endif %}
+      "content_html": {% if post.templateContent %}{{ post.templateContent | dump | safe }}{% else %}"<p>{{ metadata.description_alternative }}</p>"{% endif %}
     }
     {%- if loop.index0 < (maximum - 1) -%}
     ,
