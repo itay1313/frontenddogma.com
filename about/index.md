@@ -20,6 +20,6 @@ Frontend Dogma aims to become a decent source for frontend development news and 
 
 ## 3. ▋ ▉▉▌▌▉▉
 
-▉▉▉▌▌▉▉ ▉▌▋▉▉▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▉ ▉▉▋▉▉ ▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉ ▉▌▉▌▌▉▉ ▋▉▉▌▉▌▌▉▉ ▋▉▉▌▉▌▌▉▉ ▋▉▌▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▉▌▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉ ▋▉▉▌▌▉▉▋▉▉▌▌▉▉.
+▉▉▉▌▌▉▉ ▉▌▋▉▉▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▉ ▉▉▋▉▉ ▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉ ▉▌▉▌▌▉▉ ▋▉▉▌▉▌▌▉▉ ▋▉▉▌▉▌▌▉▉ ▋▉▌▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▉▌▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉ ▋▉▉▌▌▉▉▋ ▉▉▌▌▉▉.
 
-Frontend Dogma, by the way, shares convictions, but isn’t dogmatic. [Feedback and contributions](https://github.com/j9t/frontenddogma.com) are welcome.
+—Frontend Dogma, by the way, shares convictions, but isn’t dogmatic. [Feedback and contributions](https://github.com/j9t/frontenddogma.com) are welcome.
