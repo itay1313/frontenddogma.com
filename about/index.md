@@ -12,7 +12,7 @@ Frontend Dogma is going to serve as an outlet for three purposes. As the site is
 
 ## 1. A Source
 
-Frontend Dogma aims to become a decent source for frontend development news and commentary. Not spectacular, but decent: The idea is to promote meaningful information, easy to consume ([per feed]({{ metadata.feed.path | url }}) and [through Twitter](https://twitter.com/frontenddogma)), supportive of authors and publishers with “do follow” links and friendly Twitter references.
+Frontend Dogma aims to become a decent source for frontend development news and commentary. Not spectacular, but decent: The idea is to share meaningful information, easy to consume ([per feed]({{ metadata.feed.path | url }}) and [through Twitter](https://twitter.com/frontenddogma)), supportive of authors and publishers with “do follow” links and friendly Twitter references.
 
 ## 2. ▋ ▋▉▉▌▉
 
@@ -22,4 +22,4 @@ Frontend Dogma aims to become a decent source for frontend development news and 
 
 ▉▉▉▌▌▉▉ ▉▌▋▉▉▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▉ ▉▉▋▉▉ ▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉ ▉▌▉▌▌▉▉ ▋▉▉▌▉▌▌▉▉ ▋▉▉▌▉▌▌▉▉ ▋▉▌▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▉▌▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉▉▌▌▉▉ ▋▉ ▋▉▉▌▌▉▉▋ ▉▉▌▌▉▉.
 
-—Frontend Dogma, by the way, shares convictions, but isn’t dogmatic. [Feedback and contributions](https://github.com/j9t/frontenddogma.com) are welcome.
+—Frontend Dogma, by the way, is all about convictions, but isn’t dogmatic. [Feedback and contributions](https://github.com/j9t/frontenddogma.com) are welcome.
