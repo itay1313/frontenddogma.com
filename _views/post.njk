@@ -6,7 +6,7 @@ layout: base.njk
 {%- if tags -%}
 	{% if not author %}{% set author = 'j9t' %}{% endif %}
 	<p id=fd-meta>
-		{%- if author != 'n/a' %}by <a href=https://twitter.com/{{ author }}>@{{ author }}</a>{% if publisher %} (<a href=https://twitter.com/{{ publisher }}>@{{ publisher }}</a>) {% endif -%}
+		{%- if author != 'n/a' %}by <a href=https://twitter.com/{{ author }}>@{{ author }}</a> {% if publisher %}(<a href=https://twitter.com/{{ publisher }}>@{{ publisher }}</a>) {% endif -%}
 		{% else %}
 		{%- if publisher %}from <a href=https://twitter.com/{{ publisher }}>@{{ publisher }}</a> {% endif -%}
 		{% endif -%}
