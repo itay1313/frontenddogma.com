@@ -54,6 +54,7 @@ Each post needs to have one (and only one) tag describing the content type, for 
 * `interview`
 * `magazine`
 * `organization`
+* `package`
 * `podcast`
 * `rfc`
 * `specification`
