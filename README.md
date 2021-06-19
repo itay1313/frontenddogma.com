@@ -59,6 +59,7 @@ Each post needs to have one (and only one) tag describing the content type, for 
 * `rfc`
 * `specification`
 * `talk`
+* `website`
 
 (Any linked external source should specify a `target_url`. If there’s an image, it should be hosted under [/media](https://github.com/j9t/frontenddogma.com/tree/main/media) and referenced via `image`.)
 
