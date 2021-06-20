@@ -9,10 +9,10 @@ permalink: "{{ metadata.feed_json.path }}"
   "feed_url": "{{ metadata.feed_json.url }}",
   "description": "{{ metadata.description }}",
   "items": [
-    {% for post in collections.posts | reverse %}
-    {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+    {%- for post in collections.posts | reverse %}
+    {%- set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
     {# @@ Increase max, and revisit solution (to better handle closing “,”) #}
-    {% set maximum %}10{% endset %}
+    {%- set maximum %}10{% endset -%}
     {% if loop.index0 < maximum %}
     {
       "title": "{{ post.data.title }}{% if not post.data.author %}, by @j9t{% else %}{% if post.data.author != 'n/a' %}, by @{{ post.data.author }}{% if post.data.publisher %} (@{{ post.data.publisher }}){% endif %}{% else %}{% if post.data.publisher %}, from @{{ post.data.publisher }}{% endif %}{% endif %}{% endif %}",
@@ -20,10 +20,10 @@ permalink: "{{ metadata.feed_json.path }}"
       "id": "{{ absolutePostUrl }}",
       "content_html": {% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | dump | safe }}{% else %}"<p>{{ metadata.description_alternative }}</p>"{% endif %}
     }
-    {% if loop.index0 < (maximum - 1) %}
+    {%- if loop.index0 < (maximum - 1) -%}
     ,
-    {% endif %}
-    {% endif %}
-    {% endfor %}
+    {%- endif -%}
+    {%- endif -%}
+    {%- endfor %}
   ]
 }

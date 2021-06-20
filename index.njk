@@ -16,9 +16,9 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{%
 		<a href={{ entry.url | url }}>{% if entry.data.title %}{{ entry.data.title }}{% else %}<code>{{ entry.url }}</code>{% endif %}</a> · <time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time> ·
 		{% set comma = joiner() %}
 		{% for tag in entry.data.tags | filterTagList %}
-			{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+			{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
 			{{ comma() }} <a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>
-		{% endfor %}
+		{%- endfor %}
 {% endfor %}
 </ol>
 <ul class=fd-nav>
