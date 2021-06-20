@@ -21,9 +21,9 @@
 		<h1>{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}<img src={{ env.base }}media/logo.svg alt="{{ metadata.title }}">{% if page.url != '/' %}</a>{% endif %}</h1>
 		<nav>
 			<ul>
-				{%- for entry in collections.all | eleventyNavigation %}
+				{% for entry in collections.all | eleventyNavigation %}
 				<li>{% if entry.url != page.url %}<a href={{ entry.url | url }}>{% endif %}{{ entry.title }}{% if entry.url != page.url %}</a>{% endif %}
-				{%- endfor %}
+				{% endfor %}
 				<li><a href=https://twitter.com/frontenddogma>Twitter</a>
 			</ul>
 		</nav>
