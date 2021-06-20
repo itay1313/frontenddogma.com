@@ -20,12 +20,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "post.njk");
 
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("MMMM d, yyyy");
+    return DateTime.fromJSDate(dateObj, {zone: "utc"}).toFormat("MMMM d, yyyy");
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+  eleventyConfig.addFilter("htmlDateString", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, {zone: "utc"}).toFormat("yyyy-LL-dd");
   });
 
   // Get the first `n` elements of a collection.
@@ -76,7 +76,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, browserSync) {
-        const content_404 = fs.readFileSync('_export/error404.html');
+        const content_404 = fs.readFileSync("_export/error404.html");
 
         browserSync.addMiddleware("*", (req, res) => {
           // Provides the 404 content without redirect.
