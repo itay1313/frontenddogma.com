@@ -7,6 +7,7 @@ tags:
   - article
   - design
   - css
+  - components
 target_url: https://web.dev/new-responsive/
 title: "The New Responsive: Web Design in a Component-Driven World"
 ---

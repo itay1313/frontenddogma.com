@@ -6,7 +6,7 @@ publisher: dequesystems
 tags:
   - article
   - accessibility
-  - design
+  - design-systems
   - quality
 target_url: https://www.deque.com/blog/auditing-design-systems-for-accessibility/
 title: Auditing Design Systems for Accessibility
