@@ -1,7 +1,6 @@
 ---
 author: pixelambacht
 date: 2021-06-17
-eleventyExcludeFromCollections: true
 layout: post.njk
 tags:
   - article
