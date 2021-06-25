@@ -8,5 +8,5 @@ tags:
   - javascript
   - components
 target_url: https://www.joshwcomeau.com/react/demystifying-styled-components/
-title: Demystifying Styled-Components
+title: Demystifying styled-components
 ---
