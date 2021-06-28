@@ -1,7 +1,6 @@
 ---
 author: matejlatin
 date: 2021-06-25
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: uxdesigncc
 tags:
