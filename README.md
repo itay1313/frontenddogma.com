@@ -39,6 +39,8 @@ Pages can be temporarily or permanently hidden with `eleventyExcludeFromCollecti
 
 ## Content Documentation
 
+A general note, although Frontend Dogma started in 2021, excellent articles from 2020 may also be covered. At the moment, no older content is to be featured.
+
 ### Tags
 
 #### 1. Content Types
