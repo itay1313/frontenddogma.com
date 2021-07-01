@@ -47,8 +47,8 @@ A general note, although Frontend Dogma started in 2021, excellent articles from
 
 Each post needs to have one (and only one) tag describing the content type, for example:
 
-* `announcement` (Frontend Dogma only)
-* `article`
+* _`announcement`_ (Frontend Dogma only)
+* _`article`_
 * `book`
 * `company`
 * `course`
@@ -56,14 +56,18 @@ Each post needs to have one (and only one) tag describing the content type, for 
 * `interview`
 * `magazine`
 * `organization`
-* `package`
+* _`package`_
 * `podcast`
 * `rfc`
+* _`service`_
 * `specification`
-* `talk`
-* `website`
+* _`talk`_
 
-(Any linked external source should specify a `target_url`. If there’s an image, it should be hosted under [/media](https://github.com/j9t/frontenddogma.com/tree/main/media) and referenced via `image`.)
+(Content types in italics are currently in use.)
+
+Any linked external source should specify a `target_url`.
+
+If there’s an image, it should be hosted under [/media](https://github.com/j9t/frontenddogma.com/tree/main/media) and referenced via `image`.
 
 #### 2. Features
 
