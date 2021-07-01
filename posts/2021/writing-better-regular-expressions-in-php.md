@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-05-26
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: phpwch
 tags:
