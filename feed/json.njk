@@ -11,7 +11,7 @@ permalink: "{{ metadata.feed_json.path }}"
   "items": [
     {%- for post in collections.posts | reverse %}
     {%- set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
-    {# @@ Revisit solution (to better handle closing “,”) #}
+    {# @@ Increase maximum (to 100), and revisit solution (to better handle closing “,”) #}
     {%- set maximum %}50{% endset -%}
     {% if loop.index0 < maximum %}
     {
