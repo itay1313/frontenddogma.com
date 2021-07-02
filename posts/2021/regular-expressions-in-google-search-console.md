@@ -1,7 +1,6 @@
 ---
 author: chouinardjc
 date: 2021-06-14
-eleventyExcludeFromCollections: true
 layout: post.njk
 tags:
   - article
