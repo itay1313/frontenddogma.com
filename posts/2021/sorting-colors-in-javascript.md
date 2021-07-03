@@ -1,7 +1,6 @@
 ---
 author: tomekdev_
 date: 2021-06-22
-eleventyExcludeFromCollections: true
 layout: post.njk
 tags:
   - article
