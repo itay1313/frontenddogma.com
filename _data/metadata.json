@@ -10,10 +10,6 @@
     "path": "/feed/index.xml",
     "id": "https://frontenddogma.com/"
   },
-  "feed_json": {
-    "path": "/feed/index.json",
-    "url": "https://frontenddogma.com/feed/index.json"
-  },
   "author": {
     "name": "Frontend Dogma",
     "email": "info@frontenddogma.com",
