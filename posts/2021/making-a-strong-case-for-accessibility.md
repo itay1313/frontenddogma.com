@@ -1,8 +1,8 @@
 ---
-author: @toddlibby
+author: toddlibby
 date: 2021-07-09
 layout: post.njk
-publisher: @smashingmag
+publisher: smashingmag
 tags:
   - article
   - accessibility
