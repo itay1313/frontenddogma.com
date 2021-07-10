@@ -8,5 +8,5 @@ tags:
   - javascript
   - debugging
 target_url: https://www.sitepoint.com/beyond-console-log-level-up-your-debugging-skills/
-title: Beyond console.log()—Level Up Your Debugging Skills
+title: Beyond “console.log()”—Level Up Your Debugging Skills
 ---
