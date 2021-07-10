@@ -47,6 +47,23 @@ module.exports = function(eleventyConfig) {
     return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
   })
 
+  eleventyConfig.addFilter("reverse", (collection) => {
+    const arr = [...collection];
+
+    const arr2 = [];
+    for (let i = arr.length - 1; i >= 0; i--) {
+      arr2.push(arr[i]);
+    }
+    return arr2;
+
+    /* for (let i = 0; i <= Math.floor((arr.length - 1) / 2); i++) {
+      let el = arr[i];
+      arr[i] = arr[arr.length - 1 - i];
+      arr[arr.length - 1 - i] = el;
+    }
+    return arr; */
+  });
+
   // Create an array of all tags
   eleventyConfig.addCollection("tagList", function(collection) {
     let tagSet = new Set();
