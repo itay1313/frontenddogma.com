@@ -62,6 +62,7 @@ Each post needs to have one (and only one) tag describing the content type, for 
 * _`service`_
 * `specification`
 * _`talk`_
+* _`website`_
 
 (Content types in italics are currently in use.)
 
