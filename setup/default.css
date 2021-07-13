@@ -222,7 +222,7 @@ ol {
 
 ul,
 ol {
-	margin: var(--leading-half) 0 var(--leading-half) 2.3125em;
+	margin: var(--leading-half) 0 var(--leading-half) 4ch;
 }
 
 ul.fd-nav {
