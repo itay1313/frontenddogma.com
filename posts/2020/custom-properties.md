@@ -7,6 +7,7 @@ tags:
   - article
   - cross-posted
   - css
+  - custom-properties
 title: "Custom Properties: Questioning :root"
 vg_wort: 483ef18f2583416fa8164179a9ae7379
 ---
