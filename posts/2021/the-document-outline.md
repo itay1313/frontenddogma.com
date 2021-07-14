@@ -1,7 +1,6 @@
 ---
 author: mmatuzo
 date: 2021-07-09
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: htm_hell
 tags:

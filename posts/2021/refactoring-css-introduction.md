@@ -1,7 +1,6 @@
 ---
 author: adrianbecedev
 date: 2021-07-12
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: smashingmag
 tags:
