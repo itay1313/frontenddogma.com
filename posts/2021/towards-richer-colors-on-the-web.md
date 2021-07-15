@@ -1,7 +1,6 @@
 ---
 author: felipeerias
 date: 2021-07-01
-eleventyExcludeFromCollections: true
 layout: post.njk
 tags:
   - article
