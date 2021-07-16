@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-07-06
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: css
 tags:

@@ -1,7 +1,6 @@
 ---
 author: dfkaye
 date: 2021-05-07
-eleventyExcludeFromCollections: true
 layout: post.njk
 tags:
   - article
