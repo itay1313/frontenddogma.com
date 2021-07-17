@@ -1,7 +1,6 @@
 ---
 author: amit_merchant
 date: 2021-07-11
-eleventyExcludeFromCollections: true
 layout: post.njk
 tags:
   - article
