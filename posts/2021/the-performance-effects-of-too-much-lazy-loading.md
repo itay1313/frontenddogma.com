@@ -1,7 +1,6 @@
 ---
 author: rick_viscomi # felixarntz
 date: 2021-07-15
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: chromiumdev
 tags:
