@@ -57,8 +57,8 @@ header h1 {
 }
 
 header h1 img,
-div#fd-teaser img,
-div#fd-teaser a,
+div.fd-promo img,
+div.fd-promo a,
 ul.fd-nav.fd-alt li {
 	display: block;
 }
@@ -124,7 +124,7 @@ main {
 }
 
 main h1 a,
-div#fd-teaser a img {
+div.fd-promo a img {
 	border: 0;
 }
 
@@ -154,19 +154,19 @@ blockquote {
 	padding-left: calc(var(--leading-half) - 1px);
 }
 
-div#fd-teaser {
+div.fd-promo {
 	float: right;
 	padding: 0 0 1rem 1rem;
 }
 
-div#fd-teaser img {
+div.fd-promo img {
 	border: 1px solid var(--border);
 	line-height: 0;
-	max-width: 150px;
+	max-width: 120px;
 	padding: 1px;
 }
 
-div#fd-teaser a {
+div.fd-promo a {
 	border: 1px solid var(--brand);
 }
 
@@ -194,8 +194,13 @@ h4 {
 }
 
 h2 {
+	clear: right;
 	font-size: 1.3125rem;
 	line-height: 1.2857;
+}
+
+h2 + div.fd-promo {
+	margin-top: var(--leading-half);
 }
 
 h3 {
@@ -313,8 +318,8 @@ div#notification p {
 
 @media screen and (max-width: 700px) {
 
-	div#fd-teaser img {
-		max-width: 100px;
+	div.fd-promo img {
+		max-width: 80px;
 	}
 
 }
