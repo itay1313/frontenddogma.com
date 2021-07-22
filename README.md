@@ -49,6 +49,7 @@ Each post needs to have one (and only one) tag describing the content type, for 
 
 * _`announcement`_ (Frontend Dogma only)
 * _`article`_
+  * _`article-series`_ (multiple articles)
 * `book`
 * `company`
 * `course`
