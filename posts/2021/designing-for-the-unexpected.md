@@ -1,7 +1,6 @@
 ---
 author: cathy_dutton
 date: 2021-07-15
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: alistapart
 tags:
