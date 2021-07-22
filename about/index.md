@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: About
-  order: 2
+  order: 3
 layout: post.njk
 title: About Frontend Dogma
 vg_wort: e912fe8f75ac4b8c8302c7640a9f9d85
