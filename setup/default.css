@@ -251,9 +251,14 @@ table {
 	border-spacing: 0;
 }
 
+thead {
+	display: none;
+}
+
 th,
 td {
 	border-right: 1px solid var(--border);
+	vertical-align: top;
 }
 
 th:first-child,
@@ -272,6 +277,10 @@ th {
 	font-style: italic;
 }
 
+td:first-child {
+	white-space: nowrap;
+}
+
 a {
 	border-bottom: 1px solid var(--border);
 	color: #222;
@@ -284,7 +293,7 @@ a:active {
 	border-color: var(--brand);
 }
 
-/* Development */
+/* In progress */
 
 ul#fd-developers {
 	list-style: none;
