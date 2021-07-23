@@ -310,21 +310,6 @@ ul#fd-developers li::after {
 	content: ' ✓';
 }
 
-/* Temporary */
-
-div#notification {
-	background: var(--brand);
-	color: #000;
-	margin: 0 0 1.25rem;
-	padding: .25rem .5rem;
-	text-align: center;
-}
-
-div#notification p {
-	font-size: .875rem;
-	margin: 0;
-}
-
 @media screen and (max-width: 700px) {
 
 	div.fd-promo img {
@@ -351,7 +336,6 @@ div#notification p {
 	header ul,
 	footer,
 	p#fd-meta span,
-	div#notification,
 	ul.fd-nav {
 		display: none;
 	}
