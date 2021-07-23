@@ -31,7 +31,7 @@ Frontend Dogma is the sponsor or publisher of the following titles. If you want 
 | Pages | 33 |
 | Type | Ebook |
 | Book main page | [_Upgrade Your HTML II_](https://meiert.com/en/blog/upgrade-your-html-2/) |
-| Sellers | [Amazon](https://www.amazon.com/dp/B08NLHQM11/?tag=j9t-21-20) · [Apple Books](https://books.apple.com/us/book/upgrade-your-html-ii/id1570961824?ls=1) · [Google Play Books](https://play.google.com/store/books/details?id=uxsJEAAAQBAJ) · [Gumroad](https://gumroad.com/l/khNpkf) · [Leanpub](https://leanpub.com/upgrade-your-html-2) · [Payhip](https://payhip.com/b/dUqj) · [SitePoint](https://www.sitepoint.com/premium/books/upgrade-your-html-ii) |
+| Sellers | [Amazon](https://www.amazon.com/dp/B08NLHQM11/?tag=frontend-dogma-20) · [Apple Books](https://books.apple.com/us/book/upgrade-your-html-ii/id1570961824?ls=1) · [Google Play Books](https://play.google.com/store/books/details?id=uxsJEAAAQBAJ) · [Gumroad](https://gumroad.com/l/khNpkf) · [Leanpub](https://leanpub.com/upgrade-your-html-2) · [Payhip](https://payhip.com/b/dUqj) · [SitePoint](https://www.sitepoint.com/premium/books/upgrade-your-html-ii) |
 
 <h2><cite>The Web Development Glossary</cite></h2>
 <div class=fd-promo><a href=https://meiert.com/en/blog/the-web-development-glossary/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/the-web-development-glossary/cover-s.png alt="The Web Development Glossary."></a></div>
@@ -56,7 +56,7 @@ Frontend Dogma is the sponsor or publisher of the following titles. If you want 
 | Pages | 27 |
 | Type | Ebook |
 | Book main page | [_Upgrade Your HTML_](https://meiert.com/en/blog/upgrade-your-html/) |
-| Sellers | [Amazon](https://www.amazon.com/dp/B07ZNSZX49/?tag=j9t-21-20) · [Apple Books](https://books.apple.com/us/book/upgrade-your-html/id1569607027?ls=1) · [Google Play Books](https://play.google.com/store/books/details/Jens_Oliver_Meiert_Upgrade_Your_HTML?id=sYjhDwAAQBAJ) · [Gumroad](https://gumroad.com/l/YMCEH) · [Leanpub](https://leanpub.com/upgrade-your-html) · [Payhip](https://payhip.com/b/7TYg) · [SitePoint](https://www.sitepoint.com/premium/books/upgrade-your-html) |
+| Sellers | [Amazon](https://www.amazon.com/dp/B07ZNSZX49/?tag=frontend-dogma-20) · [Apple Books](https://books.apple.com/us/book/upgrade-your-html/id1569607027?ls=1) · [Google Play Books](https://play.google.com/store/books/details/Jens_Oliver_Meiert_Upgrade_Your_HTML?id=sYjhDwAAQBAJ) · [Gumroad](https://gumroad.com/l/YMCEH) · [Leanpub](https://leanpub.com/upgrade-your-html) · [Payhip](https://payhip.com/b/7TYg) · [SitePoint](https://www.sitepoint.com/premium/books/upgrade-your-html) |
 
 <h2><cite>Das kleine Buch der HTML-/CSS-Frameworks</cite> (German)</h2>
 <div class=fd-promo><a href=https://meiert.com/de/publications/books/das-kleine-buch-der-html-css-frameworks/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/das-kleine-buch-der-html-css-frameworks/cover.png alt="Das kleine Buch der HTML-/CSS-Frameworks."></a></div>
@@ -82,6 +82,6 @@ Frontend Dogma is the sponsor or publisher of the following titles. If you want 
 | Pages | 42 |
 | Type | Ebook |
 | Book main page | [_CSS Optimization Basics_](https://meiert.com/en/blog/css-optimization-basics/) |
-| Sellers | [Amazon](https://www.amazon.com/dp/B07TVW1ZT8/?tag=j9t-21-20) · [Apple Books](https://books.apple.com/us/book/css-optimization-basics/id1571260941?ls=1) · [Google Play Books](https://play.google.com/store/books/details/Jens_Oliver_Meiert_CSS_Optimization_Basics?id=xgTfDwAAQBAJ) · [Gumroad](https://gumroad.com/l/YzeaH) · [Leanpub](https://leanpub.com/css-optimization-basics) · [Payhip](https://payhip.com/b/Bnie) · [SitePoint](https://www.sitepoint.com/premium/books/css-optimization-basics) |
+| Sellers | [Amazon](https://www.amazon.com/dp/B07TVW1ZT8/?tag=frontend-dogma-20) · [Apple Books](https://books.apple.com/us/book/css-optimization-basics/id1571260941?ls=1) · [Google Play Books](https://play.google.com/store/books/details/Jens_Oliver_Meiert_CSS_Optimization_Basics?id=xgTfDwAAQBAJ) · [Gumroad](https://gumroad.com/l/YzeaH) · [Leanpub](https://leanpub.com/css-optimization-basics) · [Payhip](https://payhip.com/b/Bnie) · [SitePoint](https://www.sitepoint.com/premium/books/css-optimization-basics) |
 
 (For ebooks, page numbers relate to the PDF version.)
