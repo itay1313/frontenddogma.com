@@ -1,7 +1,6 @@
 ---
 author: tweetgitpaulo
 date: 2021-07-19
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: thepracticaldev
 tags:
