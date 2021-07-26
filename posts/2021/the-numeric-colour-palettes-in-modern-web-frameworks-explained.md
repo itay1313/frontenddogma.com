@@ -2,7 +2,6 @@
 author: stfbauer
 date: 2021-07-08
 layout: post.njk
-publisher: medium
 tags:
   - article
   - colors
