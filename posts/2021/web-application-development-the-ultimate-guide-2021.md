@@ -1,0 +1,11 @@
+---
+author: n/a
+date: 2021-05-11
+layout: post.njk
+publisher: riseuplabs
+tags:
+  - article
+  - meta
+target_url: https://riseuplabs.com/web-application-development-ultimate-guide/
+title: "Web Application Development: The Ultimate Guide (2021)"
+---
