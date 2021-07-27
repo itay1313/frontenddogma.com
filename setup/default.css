@@ -287,6 +287,10 @@ a {
 	text-decoration: none;
 }
 
+a[rel=tag] {
+	color: inherit;
+}
+
 a:focus,
 a:hover,
 a:active {
