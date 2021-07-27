@@ -1,7 +1,6 @@
 ---
 author: danhollick
 date: 2021-07-21
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: threadreaderapp
 tags:
