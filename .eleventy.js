@@ -95,7 +95,6 @@ module.exports = function(eleventyConfig) {
     if( outputPath && outputPath.endsWith(".html") ) {
       let minified = htmlmin.minify(content, {
         collapseBooleanAttributes: true,
-        collapseInlineTagWhitespace: true,
         collapseWhitespace: true,
         continueOnParseError: true,
         decodeEntities: true,
