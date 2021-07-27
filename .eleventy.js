@@ -95,12 +95,24 @@ module.exports = function(eleventyConfig) {
     if( outputPath && outputPath.endsWith(".html") ) {
       let minified = htmlmin.minify(content, {
         collapseBooleanAttributes: true,
+        collapseInlineTagWhitespace: true,
         collapseWhitespace: true,
+        continueOnParseError: true,
         decodeEntities: true,
+        minifyCSS: true,
+        minifyJS: true,
+        minifyURLs: true,
+        preventAttributesEscaping: true,
+        processConditionalComments: true,
+        quoteCharacter: '\"',
+        removeComments: true,
+        removeEmptyAttributes: true,
         removeOptionalTags: true,
         removeRedundantAttributes: true,
         removeScriptTypeAttributes: true,
-        removeStyleLinkTypeAttributes: true
+        removeStyleLinkTypeAttributes: true,
+        sortClassName: true,
+        useShortDoctype: true
       });
       return minified;
     }
