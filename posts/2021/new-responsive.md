@@ -5,7 +5,7 @@ layout: post.njk
 publisher: chromiumdev
 tags:
   - article
-  - design
+  - responsive-design
   - css
   - components
 target_url: https://web.dev/new-responsive/
