@@ -61,6 +61,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({"root": "/"});
   eleventyConfig.addPassthroughCopy("media");
   eleventyConfig.addPassthroughCopy("setup");
+  eleventyConfig.addPassthroughCopy("VERSION");
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
