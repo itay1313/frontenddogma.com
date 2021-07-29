@@ -1,7 +1,6 @@
 ---
 author: chrishtr
 date: 2021-07-26
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: chromiumdev
 tags:
