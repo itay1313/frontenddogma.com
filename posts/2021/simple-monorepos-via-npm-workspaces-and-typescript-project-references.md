@@ -1,7 +1,6 @@
 ---
 author: rauschma
 date: 2021-07-21
-eleventyExcludeFromCollections: true
 layout: post.njk
 tags:
   - article

@@ -1,7 +1,6 @@
 ---
 author: slightlylate
 date: 2021-07-15
-eleventyExcludeFromCollections: true
 layout: post.njk
 tags:
   - article
