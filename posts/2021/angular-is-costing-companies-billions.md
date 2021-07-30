@@ -1,7 +1,6 @@
 ---
 author: beauxpro
 date: 2021-07-14
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: js_plainenglish
 tags:
