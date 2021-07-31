@@ -227,7 +227,7 @@ ol {
 
 ul,
 ol {
-	margin: var(--leading-half) 0 var(--leading-half) 4ch;
+	margin: var(--leading-half) 0 var(--leading-half) 2.5rem;
 }
 
 ul.fd-nav {
@@ -238,6 +238,15 @@ ul.fd-nav li:last-child,
 th:last-child,
 td:last-child {
 	padding-right: 0;
+}
+
+ol[start][reversed] {
+	list-style-position: inside;
+	margin-left: 0;
+}
+
+ol[start][reversed] ::marker {
+	color: var(--brand);
 }
 
 img#fd-vg-wort {
