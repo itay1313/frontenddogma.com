@@ -1,7 +1,6 @@
 ---
 author: stecagnieszka
 date: 2021-07-29
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: thepracticaldev
 tags:
