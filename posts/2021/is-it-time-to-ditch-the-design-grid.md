@@ -1,7 +1,6 @@
 ---
 author: michebarks
 date: 2021-07-27
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: cssinreallife
 tags:
