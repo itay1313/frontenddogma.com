@@ -1,7 +1,6 @@
 ---
 author: sw12 # argyleink
 date: 2021-08-02
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: chromiumdev
 tags:
