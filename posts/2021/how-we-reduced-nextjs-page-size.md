@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-08-02
-eleventyExcludeFromCollections: true
 layout: post.njk
 publisher: papyrusblogging
 tags:
