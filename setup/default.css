@@ -64,7 +64,7 @@ ul.fd-nav.fd-alt li {
 }
 
 header h1 img,
-ul.fd-nav li {
+ul.fd-nav li:not(:last-child) {
 	padding-right: 1rem;
 }
 
@@ -109,12 +109,8 @@ ul.fd-nav li {
 	display: inline;
 }
 
-footer ul li::after {
+footer ul li:not(:last-child)::after {
 	content: ' · ';
-}
-
-footer ul li:last-child::after {
-	content: none;
 }
 
 main {
@@ -234,12 +230,6 @@ ul.fd-nav {
 	margin: var(--leading) 0;
 }
 
-ul.fd-nav li:last-child,
-th:last-child,
-td:last-child {
-	padding-right: 0;
-}
-
 ol[start][reversed] {
 	list-style-position: inside;
 	margin-left: 0;
@@ -278,6 +268,7 @@ td:first-child {
 th:last-child,
 td:last-child {
 	border-right: 0;
+	padding-right: 0;
 }
 
 th {
