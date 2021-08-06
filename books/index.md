@@ -21,7 +21,7 @@ Frontend Dogma is the sponsor or publisher of the following titles. If you want 
 | Sellers | [Amazon](https://www.amazon.com/dp/B094VPYQPM/?tag=frontend-dogma-20) · [Apple Books](https://books.apple.com/us/book/upgrade-your-html-iii/id1570962053?ls=1) · [Google Play Books](https://play.google.com/store/books/details?id=YvAtEAAAQBAJ) · [Gumroad](https://gumroad.com/l/qopHh) · [Leanpub](https://leanpub.com/upgrade-your-html-3) · [SitePoint](https://www.sitepoint.com/premium/books/upgrade-your-html-iii/) |
 
 <h2><cite>Upgrade Your HTML II</cite></h2>
-<div class=fd-promo><a href=https://meiert.com/en/blog/upgrade-your-html-2/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/upgrade-your-html-2/cover-s.jpg alt="Upgrade Your HTML II."></a></div>
+<div class=fd-promo><a href=https://meiert.com/en/blog/upgrade-your-html-2/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/upgrade-your-html-2/cover-s.png alt="Upgrade Your HTML II."></a></div>
 
 |  | Upgrade Your HTML II |
 |---|---|
@@ -46,7 +46,7 @@ Frontend Dogma is the sponsor or publisher of the following titles. If you want 
 | Sellers | [Apple Books](https://books.apple.com/us/book/the-web-development-glossary/id1571261882?ls=1) · [Google Play Books](https://play.google.com/store/books/details/Jens_Oliver_Meiert_The_Web_Development_Glossary?id=nYjhDwAAQBAJ) · [Gumroad](https://gumroad.com/l/gSZxpT) · [Leanpub](https://leanpub.com/web-development-glossary) · [SitePoint](https://www.sitepoint.com/premium/books/the-web-development-glossary) |
 
 <h2><cite>Upgrade Your HTML</cite></h2>
-<div class=fd-promo><a href=https://meiert.com/en/blog/upgrade-your-html/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/upgrade-your-html/cover-s.jpg alt="Upgrade Your HTML."></a></div>
+<div class=fd-promo><a href=https://meiert.com/en/blog/upgrade-your-html/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/upgrade-your-html/cover-s.png alt="Upgrade Your HTML."></a></div>
 
 |  | Upgrade Your HTML |
 |---|---|
