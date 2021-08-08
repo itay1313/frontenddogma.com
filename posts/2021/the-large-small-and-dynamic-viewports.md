@@ -3,7 +3,6 @@ author: bramusblog
 date: 2021-07-08
 layout: post.njk
 tags:
-  - article
   - layout
   - responsive-design
   - css

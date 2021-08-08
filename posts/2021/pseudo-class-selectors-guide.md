@@ -4,7 +4,6 @@ date: 2021-04-23
 layout: post.njk
 publisher: smashingmag
 tags:
-  - article
   - css
   - selectors
 target_url: https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/

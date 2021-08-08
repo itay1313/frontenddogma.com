@@ -4,7 +4,6 @@ date: 2021-03-31
 layout: post.njk
 publisher: intuit
 tags:
-  - article
   - design-systems
   - design-tokens
   - css

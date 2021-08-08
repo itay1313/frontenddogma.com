@@ -4,7 +4,6 @@ date: 2021-06-07
 layout: post.njk
 publisher: chromiumdev
 tags:
-  - article
   - performance
   - images
   - compression

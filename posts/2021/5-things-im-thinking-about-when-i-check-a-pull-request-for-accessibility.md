@@ -4,7 +4,6 @@ date: 2021-03-30
 layout: post.njk
 publisher: thepracticaldev
 tags:
-  - article
   - code-reviews
   - accessibility
 target_url: https://dev.to/s_aitchison/5-things-i-m-thinking-about-when-i-check-a-pull-request-for-accessibility-3gmo

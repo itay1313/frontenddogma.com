@@ -4,7 +4,6 @@ date: 2021-07-15
 layout: post.njk
 publisher: alistapart
 tags:
-  - article
   - design
   - html
   - css

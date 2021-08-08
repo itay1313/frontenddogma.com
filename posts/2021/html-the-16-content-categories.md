@@ -3,7 +3,6 @@ author: j9t
 date: 2021-01-20
 layout: post.njk
 tags:
-  - article
   - html
   - semantics
 target_url: https://meiert.com/en/blog/html-content-categories/

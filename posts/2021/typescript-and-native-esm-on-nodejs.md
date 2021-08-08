@@ -3,7 +3,6 @@ author: rauschma
 date: 2021-07-07
 layout: post.njk
 tags:
-  - article
   - javascript
   - typescript
   - nodejs

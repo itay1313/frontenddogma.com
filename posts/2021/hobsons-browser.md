@@ -3,7 +3,6 @@ author: slightlylate
 date: 2021-07-15
 layout: post.njk
 tags:
-  - article
   - user-agents
   - meta
 target_url: https://infrequently.org/2021/07/hobsons-browser/

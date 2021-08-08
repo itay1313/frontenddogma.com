@@ -4,7 +4,6 @@ date: 2021-07-14
 layout: post.njk
 publisher: js_plainenglish
 tags:
-  - article
   - angular
   - meta
 target_url: https://javascript.plainenglish.io/enough-why-its-time-to-rip-out-angular-7d831802c8a2

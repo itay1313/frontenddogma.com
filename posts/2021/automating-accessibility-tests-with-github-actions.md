@@ -3,7 +3,6 @@ author: bolonio
 date: 2021-02-22
 layout: post.njk
 tags:
-  - article
   - accessibility
   - automation
   - github

@@ -4,7 +4,6 @@ date: 2021-07-19
 layout: post.njk
 publisher: css
 tags:
-  - article
   - css
   - animations
 target_url: https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/

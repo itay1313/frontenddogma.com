@@ -4,7 +4,6 @@ date: 2021-06-28
 layout: post.njk
 publisher: chromiumdev
 tags:
-  - article
   - javascript
   - frameworks
   - performance

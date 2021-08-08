@@ -4,7 +4,6 @@ date: 2021-07-02
 layout: post.njk
 publisher: webaim
 tags:
-  - article
   - accessibility
   - colors
   - contrast

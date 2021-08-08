@@ -4,7 +4,6 @@ date: 2021-07-28
 layout: post.njk
 publisher: httptoolkit
 tags:
-  - article
   - user-agents
   - meta
 target_url: https://httptoolkit.tech/blog/safari-is-killing-the-web/

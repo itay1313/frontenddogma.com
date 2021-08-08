@@ -4,7 +4,6 @@ date: 2021-06-30
 layout: post.njk
 publisher: codecademy
 tags:
-  - article
   - career
   - interviewing
 target_url: https://www.codecademy.com/resources/blog/whiteboard-interview-tips/

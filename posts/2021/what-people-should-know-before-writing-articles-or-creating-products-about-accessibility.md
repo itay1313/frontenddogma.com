@@ -3,7 +3,6 @@ author: byrnehaber
 date: 2021-07-12
 layout: post.njk
 tags:
-  - article
   - accessibility
   - meta
 target_url: https://sheribyrnehaber.medium.com/what-people-should-know-before-writing-articles-or-creating-products-about-accessibility-85a3af34a7cb

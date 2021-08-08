@@ -4,7 +4,6 @@ date: 2021-01-20
 layout: post.njk
 publisher: launchdarkly
 tags:
-  - article-series
   - feature-management
   - releasing
 target_url: https://launchdarkly.com/the-definitive-guide-to-feature-management/

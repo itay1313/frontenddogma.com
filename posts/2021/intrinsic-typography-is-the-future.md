@@ -4,7 +4,6 @@ date: 2021-04-20
 layout: post.njk
 publisher: css
 tags:
-  - article
   - typography
   - css
 target_url: https://css-tricks.com/intrinsic-typography-is-the-future-of-styling-text-on-the-web/

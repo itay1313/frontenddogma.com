@@ -3,7 +3,6 @@ author: n/a
 date: 2021-06-14
 layout: post.njk
 tags:
-  - article
   - open-source
   - community
   - licensing

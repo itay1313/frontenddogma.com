@@ -4,7 +4,6 @@ date: 2020-09-21
 layout: post.njk
 original_url: https://meiert.com/en/blog/questioning-root/
 tags:
-  - article
   - cross-posted
   - css
   - custom-properties

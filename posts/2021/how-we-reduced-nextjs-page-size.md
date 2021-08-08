@@ -4,7 +4,6 @@ date: 2021-08-02
 layout: post.njk
 publisher: papyrusblogging
 tags:
-  - article
   - performance
   - nextjs
 target_url: https://papyrus.dev/@PapyrusBlog/how-we-reduced-next.js-page-size-by-3.5x-and-achieved-a-98-lighthouse-score

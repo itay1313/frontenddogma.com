@@ -4,7 +4,6 @@ date: 2021-06-07
 layout: post.njk
 publisher: thepracticaldev
 tags:
-  - article
   - vuejs
   - react
 target_url: https://dev.to/domagojvidovic/vue-js-vs-react-not-your-usual-comparison-2omm

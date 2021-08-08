@@ -4,7 +4,6 @@ date: 2021-07-01
 layout: post.njk
 publisher: a11yproject
 tags:
-  - article
   - accessibility
   - seo
   - html

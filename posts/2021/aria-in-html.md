@@ -3,7 +3,6 @@ author: scottohara
 date: 2021-07-07
 layout: post.njk
 tags:
-  - article
   - html
   - accessibility
   - aria

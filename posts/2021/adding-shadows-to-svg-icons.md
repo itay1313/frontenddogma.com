@@ -4,7 +4,6 @@ date: 2021-06-11
 layout: post.njk
 publisher: css
 tags:
-  - article
   - css
   - svg
   - effects

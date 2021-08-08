@@ -4,7 +4,6 @@ date: 2021-07-22
 layout: post.njk
 publisher: css
 tags:
-  - article
   - content-management
   - google-drive
 target_url: https://css-tricks.com/using-google-drive-as-a-cms/

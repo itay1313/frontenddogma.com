@@ -4,7 +4,6 @@ date: 2021-07-15
 layout: post.njk
 publisher: chromiumdev
 tags:
-  - article
   - performance
   - web-vitals
 target_url: https://web.dev/lcp-lazy-loading/

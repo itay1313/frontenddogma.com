@@ -4,7 +4,6 @@ date: 2021-07-15
 layout: post.njk
 publisher: css
 tags:
-  - article
   - css
   - preprocessors
   - layout

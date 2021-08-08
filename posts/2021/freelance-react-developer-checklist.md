@@ -3,7 +3,6 @@ author: rwieruch
 date: 2021-07-11
 layout: post.njk
 tags:
-  - article
   - react
   - checklist
 target_url: https://www.robinwieruch.de/freelance-react-developer

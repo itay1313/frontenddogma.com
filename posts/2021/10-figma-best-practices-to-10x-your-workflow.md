@@ -4,7 +4,6 @@ date: 2021-06-30
 layout: post.njk
 publisher: uxdesigncc
 tags:
-  - article
   - design
   - figma
   - productivity

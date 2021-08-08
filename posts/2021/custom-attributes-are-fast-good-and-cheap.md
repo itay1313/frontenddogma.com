@@ -3,7 +3,6 @@ author: dfkaye
 date: 2021-05-07
 layout: post.njk
 tags:
-  - article
   - css
   - selectors
 target_url: https://dfkaye.com/posts/2021/05/07/custom-attributes-are-fast-good-and-cheap/

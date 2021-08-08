@@ -4,7 +4,6 @@ date: 2021-07-21
 layout: post.njk
 publisher: threadreaderapp
 tags:
-  - article
   - accessibility
   - wcag
   - colors

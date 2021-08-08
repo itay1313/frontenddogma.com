@@ -45,11 +45,9 @@ A general note, although Frontend Dogma started in 2021, excellent articles from
 
 #### 1. Content Types
 
-Each post needs to have one (and only one) tag describing the content type, for example:
+Each post needs to have one (and only one) tag describing the content type. `article` is the implied fallback and does _not_ need to be set.
 
 * _`announcement`_ (Frontend Dogma only)
-* _`article`_
-  * _`article-series`_ (multiple articles)
 * `book`
 * `company`
 * `course`

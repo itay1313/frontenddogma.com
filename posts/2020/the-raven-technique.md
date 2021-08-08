@@ -4,7 +4,6 @@ date: 2020-11-10
 layout: post.njk
 publisher: css
 tags:
-  - article
   - css
   - container-queries
   - techniques

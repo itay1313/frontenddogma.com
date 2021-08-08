@@ -4,7 +4,6 @@ date: 2021-05-18
 layout: post.njk
 publisher: levellevel
 tags:
-  - article
   - accessibility
   - wcag
 target_url: https://level-level.com/blog/we-need-to-talk-about-wcag/

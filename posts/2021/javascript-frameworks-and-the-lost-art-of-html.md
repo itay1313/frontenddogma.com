@@ -4,7 +4,6 @@ date: 2021-06-24
 layout: post.njk
 publisher: dequesystems
 tags:
-  - article
   - javascript
   - html
   - frameworks

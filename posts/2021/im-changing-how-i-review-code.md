@@ -4,7 +4,6 @@ date: 2021-07-14
 layout: post.njk
 publisher: thepracticaldev
 tags:
-  - article
   - code-reviews
   - quality
   - meta

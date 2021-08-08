@@ -4,7 +4,6 @@ date: 2021-08-02
 layout: post.njk
 publisher: smashingmag
 tags:
-  - article
   - css
   - maintenance
   - refactoring

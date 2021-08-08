@@ -3,7 +3,6 @@ author: rauschma
 date: 2021-07-21
 layout: post.njk
 tags:
-  - article
   - monorepos
   - npm
   - typescript

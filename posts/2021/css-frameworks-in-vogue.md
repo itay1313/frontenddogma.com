@@ -4,7 +4,6 @@ date: 2021-06-28
 layout: post.njk
 publisher: thenewstack
 tags:
-  - article
   - css
   - frameworks
   - quality

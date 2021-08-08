@@ -4,7 +4,6 @@ date: 2021-07-06
 layout: post.njk
 publisher: uxbooth
 tags:
-  - article
   - accessibility
   - inclusivity
   - user-experience

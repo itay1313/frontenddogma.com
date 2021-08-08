@@ -3,7 +3,6 @@ author: joshwcomeau
 date: 2021-06-22
 layout: post.njk
 tags:
-  - article
   - css
   - javascript
   - components

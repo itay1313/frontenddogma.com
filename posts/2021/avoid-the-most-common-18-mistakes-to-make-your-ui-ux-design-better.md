@@ -4,7 +4,6 @@ date: 2021-07-30
 layout: post.njk
 publisher: threadreaderapp
 tags:
-  - article
   - design
   - user-experience
 target_url: https://threadreaderapp.com/thread/1421014957110579203.html

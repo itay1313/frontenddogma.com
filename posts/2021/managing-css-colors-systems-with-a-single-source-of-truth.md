@@ -4,7 +4,6 @@ date: 2021-02-17
 layout: post.njk
 publisher: oomphinc
 tags:
-  - article
   - css
   - colors
   - maintainability

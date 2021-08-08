@@ -4,7 +4,6 @@ date: 2021-06-08
 layout: post.njk
 publisher: uxbooth
 tags:
-  - article
   - design-systems
   - user-experience
 target_url: https://www.uxbooth.com/articles/improving-the-ux-of-your-design-system/

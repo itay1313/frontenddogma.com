@@ -4,7 +4,6 @@ date: 2021-03-09
 layout: post.njk
 publisher: lambdatesting
 tags:
-  - article
   - javascript
   - design-patterns
 target_url: https://www.lambdatest.com/blog/comprehensive-guide-to-javascript-design-patterns/
