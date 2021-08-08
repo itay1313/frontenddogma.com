@@ -5,6 +5,7 @@ layout: post.njk
 publisher: thepracticaldev
 tags:
   - article
+  - code-reviews
   - quality
   - meta
 target_url: https://dev.to/dangoslen/i-m-changing-how-i-review-code-328g
