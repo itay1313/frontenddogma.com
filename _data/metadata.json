@@ -4,7 +4,7 @@
   "url_truncated": "https://frontenddogma.com",
   "language": "en",
   "description": "Your source of frontend development vitamins.",
-  "description_alternative": "This is Frontend Dogma.",
+  "description_alternative": "This is Frontend Dogma, your source of frontend development vitamins.",
   "feed": {
     "file": "index.xml",
     "path": "/feed/index.xml",
