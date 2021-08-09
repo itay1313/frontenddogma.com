@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-07-16
-layout: post.njk
 publisher: jetbrains
 tags:
   - survey

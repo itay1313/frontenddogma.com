@@ -1,7 +1,6 @@
 ---
 author: fivenp
 date: 2021-05-25
-layout: post.njk
 publisher: uxdesigncc
 tags:
   - design-systems

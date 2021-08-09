@@ -1,7 +1,6 @@
 ---
 author: scottohara
 date: 2021-05-28
-layout: post.njk
 tags:
   - css
   - accessibility

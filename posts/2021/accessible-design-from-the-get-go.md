@@ -1,7 +1,6 @@
 ---
 author: romanshamin
 date: 2021-07-26
-layout: post.njk
 publisher: evilmartians
 tags:
   - accessibility

@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-07-22
-layout: post.njk
 publisher: fcwnow
 tags:
   - accessibility

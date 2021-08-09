@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-07-14
-layout: post.njk
 publisher: bttrprogramming
 tags:
   - meta

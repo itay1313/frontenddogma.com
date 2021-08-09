@@ -1,7 +1,6 @@
 ---
 author: vponamariov
 date: 2021-07-30
-layout: post.njk
 publisher: threadreaderapp
 tags:
   - design

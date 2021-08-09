@@ -1,7 +1,6 @@
 ---
 author: mappletons
 date: 2020-09-22
-layout: post.njk
 publisher: eggheadio
 tags:
   - talk

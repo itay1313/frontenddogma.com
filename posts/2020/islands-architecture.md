@@ -1,7 +1,6 @@
 ---
 author: _developit
 date: 2020-08-11
-layout: post.njk
 tags:
   - architecture
   - html

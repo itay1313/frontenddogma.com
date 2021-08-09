@@ -1,7 +1,6 @@
 ---
 author: codepo8
 date: 2021-07-20
-layout: post.njk
 tags:
   - accessibility
   - meta

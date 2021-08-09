@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-01-26
-layout: post.njk
 publisher: usemuzli
 tags:
   - design-systems

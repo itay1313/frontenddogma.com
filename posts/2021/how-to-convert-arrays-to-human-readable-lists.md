@@ -1,7 +1,6 @@
 ---
 author: amit_merchant
 date: 2021-07-11
-layout: post.njk
 tags:
   - javascript
 target_url: https://www.amitmerchant.com/how-to-convert-arrays-to-human-readable-lists-in-javascript/

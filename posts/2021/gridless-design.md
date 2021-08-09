@@ -1,7 +1,6 @@
 ---
 author: donniedamato
 date: 2021-07-12
-layout: post.njk
 tags:
   - website
   - design

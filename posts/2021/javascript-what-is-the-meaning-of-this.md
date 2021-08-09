@@ -1,7 +1,6 @@
 ---
 author: jaffathecake
 date: 2021-03-08
-layout: post.njk
 publisher: chromiumdev
 tags:
   - javascript

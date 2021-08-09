@@ -1,7 +1,6 @@
 ---
 author: kellycodeschaos
 date: 2021-03-31
-layout: post.njk
 publisher: intuit
 tags:
   - design-systems

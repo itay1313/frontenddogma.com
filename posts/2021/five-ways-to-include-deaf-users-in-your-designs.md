@@ -1,7 +1,6 @@
 ---
 author: racheleditullio
 date: 2021-07-07
-layout: post.njk
 publisher: tpginteractive
 tags:
   - accessibility

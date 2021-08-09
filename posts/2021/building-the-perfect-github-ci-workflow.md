@@ -1,7 +1,6 @@
 ---
 author: maximeheckel
 date: 2021-08-03
-layout: post.njk
 tags:
   - github
   - ci-cd

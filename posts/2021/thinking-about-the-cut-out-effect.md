@@ -1,7 +1,6 @@
 ---
 author: shadeed9
 date: 2021-07-27
-layout: post.njk
 tags:
   - css
   - svg

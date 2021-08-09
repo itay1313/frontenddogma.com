@@ -1,7 +1,6 @@
 ---
 author: acemarke
 date: 2020-05-17
-layout: post.njk
 tags:
   - react
   - rendering

@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-07-25
-layout: post.njk
 publisher: thepracticaldev
 tags:
   - design

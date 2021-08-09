@@ -1,7 +1,6 @@
 ---
 author: batch_man
 date: 2020-11-10
-layout: post.njk
 publisher: css
 tags:
   - css

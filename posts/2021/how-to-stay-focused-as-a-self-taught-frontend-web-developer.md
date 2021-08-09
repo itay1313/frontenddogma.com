@@ -1,7 +1,6 @@
 ---
 author: hyggedev
 date: 2021-07-29
-layout: post.njk
 publisher: thepracticaldev
 tags:
   - meta

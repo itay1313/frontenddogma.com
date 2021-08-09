@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2021-05-31
-layout: post.njk
 tags:
   - meta
 target_url: https://meiert.com/en/blog/the-aging-developer/

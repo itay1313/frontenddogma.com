@@ -1,7 +1,6 @@
 ---
 author: aakansha1216
 date: 2021-06-27
-layout: post.njk
 tags:
   - meta
 target_url: https://aakansha.dev/my-journey-from-a-novice-to-a-front-end-engineer

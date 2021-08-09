@@ -1,7 +1,6 @@
 ---
 author: dangoslen
 date: 2021-07-14
-layout: post.njk
 publisher: thepracticaldev
 tags:
   - code-reviews

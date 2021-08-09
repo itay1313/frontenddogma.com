@@ -1,7 +1,6 @@
 ---
 author: paulcalvano
 date: 2021-06-07
-layout: post.njk
 tags:
   - performance
 target_url: https://paulcalvano.com/2021-06-07-lcp-httparchive/

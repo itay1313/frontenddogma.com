@@ -1,7 +1,6 @@
 ---
 author: audioeye
 date: 2021-08-03
-layout: post.njk
 publisher: moz
 tags:
   - accessibility

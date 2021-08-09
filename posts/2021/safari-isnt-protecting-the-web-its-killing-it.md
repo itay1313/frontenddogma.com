@@ -1,7 +1,6 @@
 ---
 author: pimterry
 date: 2021-07-28
-layout: post.njk
 publisher: httptoolkit
 tags:
   - user-agents

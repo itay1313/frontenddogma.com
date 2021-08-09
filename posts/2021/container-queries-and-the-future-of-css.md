@@ -1,7 +1,6 @@
 ---
 author: terriblemia
 date: 2021-06-24
-layout: post.njk
 publisher: css__cafe
 tags:
   - talk

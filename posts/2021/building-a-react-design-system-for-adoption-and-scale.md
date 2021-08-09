@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-05-12
-layout: post.njk
 publisher: bitdev_
 tags:
   - react

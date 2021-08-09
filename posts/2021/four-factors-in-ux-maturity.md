@@ -1,7 +1,6 @@
 ---
 author: segibb #
 date: 2021-07-25
-layout: post.njk
 publisher: nngroup
 tags:
   - user-experience

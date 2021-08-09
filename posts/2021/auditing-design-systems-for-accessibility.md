@@ -1,7 +1,6 @@
 ---
 author: annaecook
 date: 2021-05-04
-layout: post.njk
 publisher: dequesystems
 tags:
   - accessibility

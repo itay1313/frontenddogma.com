@@ -1,7 +1,6 @@
 ---
 author: dassurma
 date: 2021-06-30
-layout: post.njk
 publisher: smashingmag
 tags:
   - javascript

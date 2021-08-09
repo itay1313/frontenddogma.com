@@ -1,7 +1,6 @@
 ---
 author: jimniels
 date: 2021-06-03
-layout: post.njk
 tags:
   - css
   - colors

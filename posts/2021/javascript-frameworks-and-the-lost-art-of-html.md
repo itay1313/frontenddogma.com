@@ -1,7 +1,6 @@
 ---
 author: steady5063
 date: 2021-06-24
-layout: post.njk
 publisher: dequesystems
 tags:
   - javascript

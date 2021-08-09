@@ -1,7 +1,6 @@
 ---
 author: hypeddev
 date: 2021-07-27
-layout: post.njk
 publisher: css
 tags:
   - css

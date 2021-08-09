@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-03-09
-layout: post.njk
 publisher: lambdatesting
 tags:
   - javascript

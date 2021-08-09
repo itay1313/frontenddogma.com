@@ -1,7 +1,6 @@
 ---
 author: katiehempenius
 date: 2021-07-29
-layout: post.njk
 publisher: chromiumdev
 tags:
   - tag-management

@@ -1,7 +1,6 @@
 ---
 author: jaffathecake
 date: 2021-06-30
-layout: post.njk
 tags:
   - javascript
   - security

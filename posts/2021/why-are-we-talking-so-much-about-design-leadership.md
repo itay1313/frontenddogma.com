@@ -2,7 +2,6 @@
 author: jaakkodsg
 date: 2021-08-05
 eleventyExcludeFromCollections: true
-layout: post.njk
 publisher: uxdesigncc
 tags:
   - design

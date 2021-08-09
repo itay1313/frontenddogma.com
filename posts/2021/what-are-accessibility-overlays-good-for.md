@@ -1,7 +1,6 @@
 ---
 author: garethfw
 date: 2021-08-04
-layout: post.njk
 publisher: uxdesigncc
 tags:
   - accessibility

@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-06-15
-layout: post.njk
 publisher: buildkite
 tags:
   - security

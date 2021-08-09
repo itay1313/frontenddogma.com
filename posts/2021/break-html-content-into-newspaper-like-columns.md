@@ -1,7 +1,6 @@
 ---
 author: amit_merchant
 date: 2021-07-25
-layout: post.njk
 tags:
   - css
   - layout

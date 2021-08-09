@@ -1,7 +1,6 @@
 ---
 author: poulamic_
 date: 2021-07-17
-layout: post.njk
 publisher: uxdesigncc
 tags:
   - design

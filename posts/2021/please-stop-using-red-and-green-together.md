@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-07-20
-layout: post.njk
 publisher: baseline_hq
 tags:
   - accessibility

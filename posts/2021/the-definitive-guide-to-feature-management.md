@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-01-20
-layout: post.njk
 publisher: launchdarkly
 tags:
   - feature-management

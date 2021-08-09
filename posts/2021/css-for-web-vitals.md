@@ -1,7 +1,6 @@
 ---
 author: katiehempenius #
 date: 2021-06-02
-layout: post.njk
 publisher: chromiumdev
 tags:
   - css

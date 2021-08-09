@@ -1,7 +1,6 @@
 ---
 author: toddlibby
 date: 2021-07-09
-layout: post.njk
 publisher: smashingmag
 tags:
   - accessibility

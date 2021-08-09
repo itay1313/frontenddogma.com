@@ -2,7 +2,6 @@
 author: refinedpractice
 date: 2021-08-03
 eleventyExcludeFromCollections: true
-layout: post.njk
 publisher: css
 tags:
   - accessibility

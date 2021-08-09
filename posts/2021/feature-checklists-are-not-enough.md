@@ -1,7 +1,6 @@
 ---
 author: kwhitenton
 date: 2021-07-04
-layout: post.njk
 publisher: nngroup
 tags:
   - usability

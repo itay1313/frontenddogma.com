@@ -1,7 +1,6 @@
 ---
 author: antoinebisch #
 date: 2021-08-09
-layout: post.njk
 publisher: chromiumdev
 tags:
   - performance

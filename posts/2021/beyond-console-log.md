@@ -1,7 +1,6 @@
 ---
 author: codepo8
 date: 2021-03-08
-layout: post.njk
 publisher: sitepointdotcom
 tags:
   - javascript

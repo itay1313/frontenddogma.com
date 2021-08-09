@@ -1,7 +1,6 @@
 ---
 author: adipurdila
 date: 2021-08-08
-layout: post.njk
 publisher: tutsplus
 tags:
   - css

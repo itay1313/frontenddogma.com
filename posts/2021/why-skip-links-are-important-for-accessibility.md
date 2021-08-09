@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-03-23
-layout: post.njk
 publisher: devoorhoede
 tags:
   - html

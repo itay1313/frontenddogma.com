@@ -1,7 +1,6 @@
 ---
 author: iainmbean
 date: 2020-10-14
-layout: post.njk
 tags:
   - accessibility
   - testing

@@ -1,7 +1,6 @@
 ---
 author: kirjai
 date: 2021-05-19
-layout: post.njk
 tags:
   - html
   - javascript

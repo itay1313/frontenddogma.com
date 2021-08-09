@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2021-03-31
-layout: post.njk
 tags:
   - quality
   - maintenance

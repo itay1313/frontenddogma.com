@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-05-11
-layout: post.njk
 publisher: riseuplabs
 tags:
   - meta

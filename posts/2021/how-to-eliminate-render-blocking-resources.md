@@ -1,7 +1,6 @@
 ---
 author: thegreengreek
 date: 2021-07-23
-layout: post.njk
 tags:
   - performance
   - rendering

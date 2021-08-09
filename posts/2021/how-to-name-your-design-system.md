@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-05-19
-layout: post.njk
 publisher: purplebricksdev
 tags:
   - design-systems

@@ -2,7 +2,6 @@
 author: jaffathecake
 date: 2021-08-04
 eleventyExcludeFromCollections: true
-layout: post.njk
 tags:
   - accessibility
   - user-experience

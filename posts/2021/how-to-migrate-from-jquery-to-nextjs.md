@@ -1,7 +1,6 @@
 ---
 author: facundozurdo
 date: 2021-07-13
-layout: post.njk
 publisher: smashingmag
 tags:
   - migration

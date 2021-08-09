@@ -1,7 +1,6 @@
 ---
 author: kittygiraudel
 date: 2021-07-28
-layout: post.njk
 publisher: smashingmag
 tags:
   - accessibility

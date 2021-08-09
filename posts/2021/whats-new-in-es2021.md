@@ -1,7 +1,6 @@
 ---
 author: ralex1993
 date: 2021-06-22
-layout: post.njk
 publisher: uidotdev
 tags:
   - javascript

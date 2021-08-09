@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-06-08
-layout: post.njk
 publisher: uxbooth
 tags:
   - design-systems

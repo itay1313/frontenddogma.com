@@ -1,7 +1,6 @@
 ---
 author: pixelambacht
 date: 2021-06-17
-layout: post.njk
 tags:
   - css
   - typography

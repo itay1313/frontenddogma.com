@@ -1,7 +1,6 @@
 ---
 author: dfkaye
 date: 2021-05-07
-layout: post.njk
 tags:
   - css
   - selectors

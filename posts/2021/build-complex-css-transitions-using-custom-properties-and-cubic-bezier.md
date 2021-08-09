@@ -1,7 +1,6 @@
 ---
 author: challengescss
 date: 2021-07-14
-layout: post.njk
 publisher: css
 tags:
   - css

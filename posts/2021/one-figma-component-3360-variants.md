@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-02-01
-layout: post.njk
 publisher: uxdesigncc
 tags:
   - components

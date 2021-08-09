@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-06-14
-layout: post.njk
 tags:
   - open-source
   - community

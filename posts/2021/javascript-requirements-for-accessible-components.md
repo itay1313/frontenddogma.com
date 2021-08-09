@@ -1,7 +1,6 @@
 ---
 author: 5t3ph
 date: 2021-06-14
-layout: post.njk
 publisher: smashingmag
 tags:
   - css

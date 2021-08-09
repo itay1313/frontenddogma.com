@@ -1,7 +1,6 @@
 ---
 author: gdadsriver
 date: 2021-08-04
-layout: post.njk
 publisher: smashingmag
 tags:
   - react

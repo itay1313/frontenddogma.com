@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2021-07-14
-layout: post.njk
 tags:
   - html
   - css

@@ -1,7 +1,6 @@
 ---
 author: kilianvalkhof
 date: 2021-07-13
-layout: post.njk
 tags:
   - css
   - javascript

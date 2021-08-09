@@ -1,7 +1,6 @@
 ---
 author: mxbck
 date: 2021-05-15
-layout: post.njk
 tags:
   - css
   - container-queries

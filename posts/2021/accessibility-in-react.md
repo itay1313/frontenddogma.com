@@ -1,7 +1,6 @@
 ---
 author: sreashisaha
 date: 2021-06-23
-layout: post.njk
 publisher: thepracticaldev
 tags:
   - accessibility

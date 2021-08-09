@@ -1,7 +1,6 @@
 ---
 author: walaszczyk_m
 date: 2021-06-28
-layout: post.njk
 publisher: livechat
 tags:
   - accessibility

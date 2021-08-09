@@ -1,7 +1,6 @@
 ---
 author: zittrain
 date: 2021-06-30
-layout: post.njk
 publisher: theatlantic
 tags:
   - link-rot

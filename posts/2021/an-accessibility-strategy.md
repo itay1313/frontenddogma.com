@@ -1,7 +1,6 @@
 ---
 author: gigietienne
 date: 2021-06-07
-layout: post.njk
 publisher: linkedin
 tags:
   - accessibility

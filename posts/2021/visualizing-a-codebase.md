@@ -1,7 +1,6 @@
 ---
 author: wattenberger
 date: 2021-08-05
-layout: post.njk
 publisher: githubocto
 tags:
   - meta

@@ -1,7 +1,6 @@
 ---
 author: ericwbailey
 date: 2021-06-21
-layout: post.njk
 tags:
   - css
   - maintainability

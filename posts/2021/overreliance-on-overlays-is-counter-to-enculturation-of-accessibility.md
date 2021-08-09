@@ -1,7 +1,6 @@
 ---
 author: anillife
 date: 2021-05-05
-layout: post.njk
 publisher: nfb_voice
 tags:
   - accessibility

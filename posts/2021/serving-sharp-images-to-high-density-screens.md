@@ -1,7 +1,6 @@
 ---
 author: jaffathecake
 date: 2021-06-11
-layout: post.njk
 tags:
   - performance
   - images

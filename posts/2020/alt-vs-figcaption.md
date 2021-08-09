@@ -1,7 +1,6 @@
 ---
 author: elainanatario
 date: 2020-12-01
-layout: post.njk
 publisher: thoughtbot
 tags:
   - html

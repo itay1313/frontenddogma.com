@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-02-17
-layout: post.njk
 publisher: oomphinc
 tags:
   - css

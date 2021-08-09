@@ -1,7 +1,6 @@
 ---
 author: cintiaantunes
 date: 2021-07-27
-layout: post.njk
 publisher: uxdesigncc
 tags:
   - layout

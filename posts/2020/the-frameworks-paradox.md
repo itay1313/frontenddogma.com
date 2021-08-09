@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2020-04-02
-layout: post.njk
 tags:
   - frameworks
   - meta

@@ -1,7 +1,6 @@
 ---
 author: redcrew
 date: 2021-07-26
-layout: post.njk
 publisher: lireodesigns
 tags:
   - accessibility

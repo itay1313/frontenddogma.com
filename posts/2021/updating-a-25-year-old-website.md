@@ -1,7 +1,6 @@
 ---
 author: madsstoumann
 date: 2021-06-19
-layout: post.njk
 publisher: thepracticaldev
 tags:
   - meta

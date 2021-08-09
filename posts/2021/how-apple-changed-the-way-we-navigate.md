@@ -1,7 +1,6 @@
 ---
 author: tanhanwei90
 date: 2021-06-17
-layout: post.njk
 publisher: uxdesigncc
 tags:
   - design

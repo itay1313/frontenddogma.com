@@ -1,7 +1,6 @@
 ---
 author: mazi_mazur
 date: 2021-06-23
-layout: post.njk
 publisher: uxdesigncc
 tags:
   - meta

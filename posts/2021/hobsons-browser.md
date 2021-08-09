@@ -1,7 +1,6 @@
 ---
 author: slightlylate
 date: 2021-07-15
-layout: post.njk
 tags:
   - user-agents
   - meta

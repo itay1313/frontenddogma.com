@@ -1,7 +1,6 @@
 ---
 author: aardrian
 date: 2021-06-24
-layout: post.njk
 tags:
   - accessibility
   - css

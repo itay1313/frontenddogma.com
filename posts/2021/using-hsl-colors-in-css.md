@@ -1,7 +1,6 @@
 ---
 author: shadeed9
 date: 2021-07-05
-layout: post.njk
 publisher: smashingmag
 tags:
   - css

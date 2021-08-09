@@ -1,7 +1,6 @@
 ---
 author: malimirkeccita
 date: 2021-07-25
-layout: post.njk
 tags:
   - react
   - meta

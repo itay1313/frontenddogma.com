@@ -1,7 +1,6 @@
 ---
 author: una
 date: 2021-05-19
-layout: post.njk
 publisher: chromiumdev
 tags:
   - responsive-design

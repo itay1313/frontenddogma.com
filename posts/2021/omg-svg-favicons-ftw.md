@@ -1,7 +1,6 @@
 ---
 author: stegosource
 date: 2021-06-17
-layout: post.njk
 tags:
   - html
   - svg

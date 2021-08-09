@@ -1,7 +1,6 @@
 ---
 author: nicmakesstuff
 date: 2021-06-16
-layout: post.njk
 publisher: smashingmag
 tags:
   - accessibility

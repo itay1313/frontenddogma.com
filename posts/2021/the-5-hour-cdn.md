@@ -1,7 +1,6 @@
 ---
 author: mrkurt
 date: 2021-03-16
-layout: post.njk
 publisher: flydotio
 tags:
   - performance

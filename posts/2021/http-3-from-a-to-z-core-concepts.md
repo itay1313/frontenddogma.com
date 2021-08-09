@@ -2,7 +2,6 @@
 author: programmingart
 date: 2021-08-09
 eleventyExcludeFromCollections: true
-layout: post.njk
 publisher: smashingmag
 tags:
   - http

@@ -1,7 +1,6 @@
 ---
 author: dboudreau
 date: 2021-05-31
-layout: post.njk
 publisher: uxdesigncc
 tags:
   - accessibility

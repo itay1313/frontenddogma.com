@@ -1,7 +1,6 @@
 ---
 author: inhuofficial
 date: 2021-07-30
-layout: post.njk
 publisher: thepracticaldev
 tags:
   - accessibility

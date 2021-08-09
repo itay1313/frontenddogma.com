@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2020-09-21
-layout: post.njk
 original_url: https://meiert.com/en/blog/questioning-root/
 tags:
   - cross-posted

@@ -1,7 +1,6 @@
 ---
 author: chrishouse83
 date: 2021-05-12
-layout: post.njk
 publisher: css
 tags:
   - css

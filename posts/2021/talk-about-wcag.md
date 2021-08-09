@@ -1,7 +1,6 @@
 ---
 author: rianrietveld
 date: 2021-05-18
-layout: post.njk
 publisher: levellevel
 tags:
   - accessibility

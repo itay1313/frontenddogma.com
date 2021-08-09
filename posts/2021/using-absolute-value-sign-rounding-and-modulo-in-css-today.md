@@ -1,7 +1,6 @@
 ---
 author: anatudor
 date: 2021-07-28
-layout: post.njk
 publisher: css
 tags:
   - css

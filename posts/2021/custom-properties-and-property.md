@@ -1,7 +1,6 @@
 ---
 author: ppk
 date: 2021-07-21
-layout: post.njk
 tags:
   - css
   - custom-properties
