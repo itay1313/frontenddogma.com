@@ -1,7 +1,6 @@
 ---
 author: refinedpractice
 date: 2021-08-03
-eleventyExcludeFromCollections: true
 publisher: css
 tags:
   - accessibility
