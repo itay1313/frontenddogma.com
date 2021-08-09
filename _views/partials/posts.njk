@@ -1,5 +1,5 @@
 <ol start={{ (postsCounter or posts.length) }} reversed>
-{% for post in posts | reverse %}
+	{% for post in posts | reverse %}
 	<!-- <li class="post-item{% if post.url == url %} post-item-active{% endif %}"> -->
 	<li>
 		<a href={{ post.url | url }}>{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a> ·
@@ -12,5 +12,5 @@
 				{{ comma() }} <a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>
 			{% endfor %}
 		{% endif %}
-{% endfor %}
+	{% endfor %}
 </ol>

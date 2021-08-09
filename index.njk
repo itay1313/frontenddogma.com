@@ -12,7 +12,7 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{%
 <h1>{{ title }}</h1>
 <p>Articles and books, tips and tricks, craft and beauty from the world of frontend development. Stay informed <a href={{ metadata.feed.path | url }}>per feed</a> and <a href=https://twitter.com/frontenddogma>on Twitter</a>.
 <ol start={{ (collections.posts.length - (pagination.pageNumber * pagination.size)) }} reversed>
-{% for entry in entries %}
+	{% for entry in entries %}
 	<li>
 		<a href={{ entry.url | url }}>{{ entry.data.title }}</a> · <time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time> ·
 		{% set comma = joiner() %}
@@ -20,7 +20,7 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{%
 			{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
 			{{ comma() }} <a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>
 		{%- endfor %}
-{% endfor %}
+	{% endfor %}
 </ol>
 <ul class=fd-nav>
 	<li><a href={{ '/tags/' | url }}>All tags</a>
