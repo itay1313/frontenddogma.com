@@ -1,7 +1,6 @@
 ---
 author: programmingart
 date: 2021-08-09
-eleventyExcludeFromCollections: true
 publisher: smashingmag
 tags:
   - http
