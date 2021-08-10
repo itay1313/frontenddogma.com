@@ -23,7 +23,7 @@ permalink: "{{ metadata.feed.path }}"
 			<guid>{{ absolutePostUrl }}</guid>
 			<description><![CDATA[{% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe }}{% else %}<p>This is Frontend Dogma, featuring news and views in frontend development.</p>{% endif %}]]></description>
 		</item>
-		{%- endif -%}
+		{% endif -%}
 		{%- endfor %}
 	</channel>
 </rss>
