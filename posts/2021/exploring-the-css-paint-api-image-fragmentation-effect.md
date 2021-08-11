@@ -6,5 +6,5 @@ tags:
   - css
   - images
 target_url: https://css-tricks.com/exploring-the-css-paint-api-image-fragmentation-effect/
-title: Exploring the CSS Paint API: Image Fragmentation Effect
+title: "Exploring the CSS Paint API: Image Fragmentation Effect"
 ---
