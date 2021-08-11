@@ -1,0 +1,27 @@
+---
+eleventyExcludeFromCollections: true
+permalink: /feed/webmentions.xml
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>{{ metadata.title }}</title>
+		<link>{{ metadata.url }}</link>
+		<description>{{ metadata.description }}</description>
+		<language>{{ metadata.language }}</language>
+		<image>
+			<title>{{ metadata.title }}</title>
+			<link>{{ metadata.url }}</link>
+			<url>{{ metadata.url_truncated }}/media/logo-social.png</url>
+		</image>
+		{%- for post in collections.posts | reverse -%}
+		{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
+		{%- if loop.index0 < 100 -%}
+		<item>
+			<title>{{ post.data.title }}{% if not post.data.author %}, by @j9t{% else %}{% if post.data.author != 'n/a' %}, by @{{ post.data.author }}{% if post.data.publisher %} (@{{ post.data.publisher }}){% endif %}{% else %}{% if post.data.publisher %}, by @{{ post.data.publisher }}{% endif %}{% endif %}{% endif %}</title>
+			<link>{{ absolutePostUrl }}</link>
+		</item>
+		{% endif -%}
+		{%- endfor %}
+	</channel>
+</rss>
