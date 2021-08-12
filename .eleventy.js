@@ -106,6 +106,7 @@ module.exports = function(eleventyConfig) {
         preventAttributesEscaping: true,
         processConditionalComments: true,
         quoteCharacter: "\"",
+        // removeAttributeQuotes: true,
         removeComments: true,
         removeEmptyAttributes: true,
         removeOptionalTags: true,
