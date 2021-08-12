@@ -1,3 +1,4 @@
+// https://css-tricks.com/give-your-eleventy-site-superpowers-with-environment-variables/
 require('dotenv').config();
 
 module.exports = {
