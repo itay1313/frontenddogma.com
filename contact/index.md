@@ -115,4 +115,4 @@ We reserve the right to modify this privacy policy in order to comply with legal
 
 #### Questions
 
-If you have any questions related to the privacy and protection of your data, please email us or contact the person responsible for data protection: Jens Oliver Meiert (contact data above).
+If you have questions related to the privacy and protection of your data, please email us or contact the person responsible for data protection: Jens Oliver Meiert (contact data above).
