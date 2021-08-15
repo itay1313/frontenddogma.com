@@ -21,7 +21,7 @@ permalink: "{{ metadata.feed.path }}"
 			<title>{{ post.data.title }}{% if not post.data.author %}, by @j9t{% else %}{% if post.data.author != 'n/a' %}, by @{{ post.data.author }}{% if post.data.publisher %} (@{{ post.data.publisher }}){% endif %}{% else %}{% if post.data.publisher %}, by @{{ post.data.publisher }}{% endif %}{% endif %}{% endif %}</title>
 			<link>{% if post.data.target_url %}{{ post.data.target_url }}{% else %}{{ absolutePostUrl }}{% endif %}</link>
 			<guid>{{ absolutePostUrl }}</guid>
-			<description><![CDATA[{% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe }}{% else %}<p>This is <a href="https://frontenddogma.com/">Frontend Dogma</a>, {{ metadata.description | lower }}.</p>{% endif %}]]></description>
+			<description><![CDATA[{% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe }}{% else %}<p>This is <a href="https://frontenddogma.com/">Frontend Dogma</a>, {{ metadata.description | lower }}</p>{% endif %}]]></description>
 		</item>
 		{% endif -%}
 		{%- endfor %}
