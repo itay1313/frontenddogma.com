@@ -1,7 +1,6 @@
 ---
 author: katiedel
 date: 2021-08-11
-eleventyExcludeFromCollections: true
 publisher: shopifyux
 tags:
   - accessibility

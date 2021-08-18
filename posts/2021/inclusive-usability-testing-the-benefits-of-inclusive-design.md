@@ -1,7 +1,6 @@
 ---
 author: n/a
 date: 2021-08-05
-eleventyExcludeFromCollections: true
 publisher: visionaustralia
 tags:
   - usability
