@@ -1,5 +1,4 @@
 ---
-author: n/a
 date: 2021-07-20
 publisher: baseline_hq
 tags:

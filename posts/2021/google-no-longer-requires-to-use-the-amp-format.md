@@ -1,5 +1,4 @@
 ---
-author: n/a
 date: 2021-06-28
 publisher: theregister
 tags:

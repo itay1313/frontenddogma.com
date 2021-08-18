@@ -1,5 +1,4 @@
 ---
-author: n/a
 date: 2021-04-29
 publisher: js_plainenglish
 tags:

@@ -1,5 +1,4 @@
 ---
-author: n/a
 date: 2021-01-26
 publisher: usemuzli
 tags:

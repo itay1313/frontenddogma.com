@@ -1,5 +1,4 @@
 ---
-author: n/a
 date: 2021-05-12
 publisher: bitdev_
 tags:

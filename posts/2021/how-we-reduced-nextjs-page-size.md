@@ -1,5 +1,4 @@
 ---
-author: n/a
 date: 2021-08-02
 publisher: papyrusblogging
 tags:

@@ -18,7 +18,7 @@ permalink: /feed/webmentions/index.xml
 		{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
 		{%- if loop.index0 < 100 -%}
 		<item>
-			<title>{{ post.data.title }}{% if not post.data.author %}, by @j9t{% else %}{% if post.data.author != 'n/a' %}, by @{{ post.data.author }}{% if post.data.coauthor %} and @{{ post.data.coauthor }}{% endif %}{% if post.data.publisher %} (@{{ post.data.publisher }}){% endif %}{% else %}{% if post.data.publisher %}, by @{{ post.data.publisher }}{% endif %}{% endif %}{% endif %}</title>
+			<title>{{ post.data.title }}{% if post.data.author %}, by @{{ post.data.author }}{% if post.data.coauthor %} and @{{ post.data.coauthor }}{% endif %}{% if post.data.publisher %} (@{{ post.data.publisher }}){% endif %}{% else %}{% if post.data.publisher %}, by @{{ post.data.publisher }}{% endif %}{% endif %}</title>
 			<link>{{ absolutePostUrl }}</link>
 		</item>
 		{% endif -%}

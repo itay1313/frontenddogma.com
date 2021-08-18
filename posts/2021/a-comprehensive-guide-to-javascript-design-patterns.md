@@ -1,5 +1,4 @@
 ---
-author: n/a
 date: 2021-03-09
 publisher: lambdatesting
 tags:

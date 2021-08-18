@@ -1,5 +1,4 @@
 ---
-author: n/a
 date: 2021-05-11
 publisher: riseuplabs
 tags:

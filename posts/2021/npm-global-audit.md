@@ -1,5 +1,4 @@
 ---
-author: n/a
 date: 2021-06-16
 publisher: npmjs
 tags:

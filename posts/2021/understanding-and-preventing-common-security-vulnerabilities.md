@@ -1,5 +1,4 @@
 ---
-author: n/a
 date: 2021-06-15
 publisher: buildkite
 tags:

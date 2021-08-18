@@ -1,5 +1,4 @@
 ---
-author: n/a
 date: 2021-07-14
 publisher: bttrprogramming
 tags:

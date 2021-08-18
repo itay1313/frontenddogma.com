@@ -1,5 +1,4 @@
 ---
-author: n/a
 date: 2021-05-19
 publisher: purplebricksdev
 tags:
