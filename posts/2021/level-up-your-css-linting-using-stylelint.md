@@ -1,6 +1,5 @@
 ---
 date: 2021-08-17
-eleventyExcludeFromCollections: true
 publisher: logrocket
 tags:
   - css

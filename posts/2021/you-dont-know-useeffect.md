@@ -1,6 +1,5 @@
 ---
 date: 2021-08-15
-eleventyExcludeFromCollections: true
 publisher: thepracticaldev
 tags:
   - react
