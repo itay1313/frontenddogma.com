@@ -24,16 +24,15 @@ date: YYYY-MM-DD # preferred
 description: DESCRIPTION # required for FD content, otherwise optional
 image: PATH # preferred (path is based on /media—see note in “Content Types” section)
 image_url: URL # optional for an image for which there is no target_url fallback
-layout: post.njk # required
 original_url: URL # required for cross-posted entries
 publisher: TWITTER_HANDLE # if the item was published by a third party
 tags:
-  - CONTENT_TYPE # required
+  - CONTENT_TYPE # required unless article
   - (FEATURES) # optional
   - (TOPICS) # preferred
 target_url: URL # required for linked content
 title: TITLE # required
-vg_wort: VG_WORT_ID # required for exclusive content or external content tagged with VG WORT
+vg_wort: VG_WORT_ID # required for exclusive content, or external content tagged with VG WORT
 ```
 
 Pages can be temporarily or permanently hidden with `eleventyExcludeFromCollections: true`.
@@ -46,7 +45,9 @@ A general note, although Frontend Dogma started in 2021, excellent articles from
 
 #### 1. Content Types
 
-Each post needs to have one (and only one) tag describing the content type. `article` is the implied fallback and does _not_ need to be set.
+Each post needs to have one (and only one) tag describing the content type.
+
+`article` is the implied fallback and does _not_ need to be set.
 
 * _`announcement`_ (Frontend Dogma only)
 * `book`
@@ -68,7 +69,7 @@ Each post needs to have one (and only one) tag describing the content type. `art
 
 Any linked external source should specify a `target_url`.
 
-If there’s an image, it should be hosted under [/media](https://github.com/j9t/frontenddogma.com/tree/main/media) and referenced via `image`.
+If there’s an image, it should be hosted under [/media](https://github.com/j9t/frontenddogma.com/tree/main/media) and be referenced via `image`.
 
 #### 2. Features
 
