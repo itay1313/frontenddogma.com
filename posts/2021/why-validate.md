@@ -5,6 +5,7 @@ tags:
   - html
   - css
   - quality
+  - validation
 title: Why Validate?
 vg_wort: 91511a9584fc462aad592bfe94028fd5
 ---
