@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: Books
-  order: 2
+  order: 1
 layout: post.njk
 title: Books by Frontend Dogma
 ---
