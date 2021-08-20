@@ -1,7 +1,6 @@
 ---
 author: craigbuckler
 date: 2021-08-10
-eleventyExcludeFromCollections: true
 publisher: sitepointdotcom
 tags:
   - html
