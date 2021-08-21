@@ -40,7 +40,7 @@ Header always set X-Content-Type-Options nosniff
 Header always set X-Frame-Options SAMEORIGIN
 
 <FilesMatch "\.(html|php|xml)$">
-	Header always set Content-Security-Policy "upgrade-insecure-requests; default-src 'self'; img-src 'self' d1cxmu1ofnef1v.cloudfront.net d3rdtowr0c5lpf.cloudfront.net *.met.vgwort.de; style-src 'self' 'unsafe-inline' d1cxmu1ofnef1v.cloudfront.net"
+	Header always set Content-Security-Policy "upgrade-insecure-requests; default-src 'self'; font-src 'self' d1cxmu1ofnef1v.cloudfront.net; img-src 'self' d1cxmu1ofnef1v.cloudfront.net d3rdtowr0c5lpf.cloudfront.net *.met.vgwort.de; style-src 'self' 'unsafe-inline' d1cxmu1ofnef1v.cloudfront.net"
 	# Header always set Feature-Policy "camera 'none'; geolocation 'none'; microphone 'none'; payment 'none'"
 	Header always set Link "<https://d1cxmu1ofnef1v.cloudfront.net/>; rel=preconnect"
 	Header always set Permissions-Policy: interest-cohort=()
