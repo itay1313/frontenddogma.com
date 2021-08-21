@@ -36,6 +36,7 @@ ExpiresByType text/plain A60
 ExpiresByType text/xml A60
 FileETag All
 Header always edit Set-Cookie (.*) "$1; SameSite=Lax; Secure"
+Header always set Access-Control-Allow-Origin "*"
 Header always set X-Content-Type-Options nosniff
 Header always set X-Frame-Options SAMEORIGIN
 

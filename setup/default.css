@@ -2,8 +2,8 @@
 	font-display: swap;
 	font-family: montserrat;
 	font-style: normal;
-	font-weight: 500;
-	src: local('Montserrat Medium'), local('Montserrat Medium'), url('/setup/quarantine/fonts/montserrat-v18-latin-500.woff') format('woff2'), url('/setup/quarantine/fonts/montserrat-v18-latin-500.woff') format('woff');
+	font-weight: 600;
+	src: local('Montserrat Semi Bold'), local('Montserrat Semi Bold'), url('/setup/quarantine/fonts/montserrat-v18-latin-600.woff2') format('woff2'), url('/setup/quarantine/fonts/montserrat-v18-latin-600.woff') format('woff');
 }
 
 ::selection {
@@ -44,12 +44,6 @@ header ul {
 }
 
 header,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
 strong,
 b {
 	font-weight: 500;
@@ -181,6 +175,7 @@ h4,
 h5,
 h6 {
 	font-family: montserrat, system-ui, sans-serif;
+	font-weight: 600;
 }
 
 h1 {
