@@ -16,7 +16,7 @@ layout: base.njk
 		{%- endfor -%}
 		<span> · <a href="https://twitter.com/intent/tweet?text={{ title | urlencode }}{% if author %},%20by%20@{{ author }}{% if coauthor %}%20and%20@{{ coauthor }}{% endif %}{% if publisher %}%20%28@{{ publisher }}%29{% endif %}{% else %}{% if publisher %},%20by%20@{{ publisher }}{% endif %}{% endif %},%20featured%20on%20@frontenddogma%3A%0A%0A{% if target_url %}{{ target_url }}{% else %}{{ metadata.url_truncated }}{{ page.url | url }}{% endif %}">Tweet&nbsp;this?</a></span>
 {% endif %}
-	{% if image %}<div class=fd-promo>{% if target_url or image_url %}<a href="{{ target_url or image_url | url }}">{% endif %}<img src={{ env.base }}media/{{ image }} alt="{{ title }}">{% if target_url or image_url %}</a>{% endif %}</div>{% endif %}
+	{% if image %}<div class=fd-promo>{% if image_url or target_url %}<a href="{{ image_url or target_url | url }}">{% endif %}<img src={{ env.base }}media/{{ image }} alt="{{ title }}">{% if image_url or target_url %}</a>{% endif %}</div>{% endif %}
 
 {{ content | safe }}
 
