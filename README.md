@@ -50,7 +50,7 @@ Each post needs to have one (and only one) tag describing the content type.
 `article` is the implied fallback and does _not_ need to be set.
 
 * _`announcement`_ (Frontend Dogma only)
-* `book`
+* _`book`_
 * `company`
 * `course`
 * `developer`
