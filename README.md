@@ -62,6 +62,7 @@ Each post needs to have one (and only one) tag describing the content type.
 * `rfc`
 * _`service`_
 * `specification`
+* _`survey`_ 
 * _`talk`_
 * _`website`_
 
