@@ -4,7 +4,7 @@ permalink: /tags/
 title: Tags
 ---
 <h1>{{ title }}</h1>
-<ul>
+<ul id=fd-tags>
 	{% for tag in collections.tagList | filterTagList | sort %}
 	{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
 	<li><a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>

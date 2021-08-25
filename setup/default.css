@@ -70,7 +70,8 @@ ul.fd-nav.fd-alt li {
 }
 
 header h1 img,
-ul.fd-nav li:not(:last-child) {
+ul.fd-nav li:not(:last-child),
+ul#fd-tags li:not(:last-child) {
 	padding-right: 1rem;
 }
 
@@ -79,9 +80,13 @@ header h1 img {
 	width: 41px;
 }
 
+header ul,
+ul#fd-tags {
+	list-style: none;
+}
+
 header ul {
 	flex-wrap: wrap;
-	list-style: none;
 }
 
 header ul li,
@@ -237,9 +242,21 @@ ul.fd-nav {
 	margin: var(--leading) 0;
 }
 
+ul#fd-tags,
+ol[start][reversed] {
+	margin-left: 0;
+}
+
+ul#fd-tags {
+	overflow: auto;
+}
+
+ul#fd-tags li {
+	float: left;
+}
+
 ol[start][reversed] {
 	list-style-position: inside;
-	margin-left: 0;
 }
 
 ol[start][reversed] ::marker {
