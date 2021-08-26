@@ -1,8 +1,5 @@
 ---
-eleventyExcludeFromCollections: true
-layout: index.njk
-permalink: error403.html
-title: Forbidden
+hidden: true layout: index.njk permalink: error403.html title: Forbidden
 ---
 # {{ title }}
 
