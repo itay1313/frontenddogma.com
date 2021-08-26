@@ -35,7 +35,7 @@ title: TITLE # required
 vg_wort: VG_WORT_ID # required for exclusive content, or external content tagged with VG WORT
 ```
 
-Pages can be temporarily or permanently hidden with `eleventyExcludeFromCollections: true`.
+Pages can be temporarily or permanently hidden with `hidden: true` (alias for standard `eleventyExcludeFromCollections: true`).
 
 ## Content Documentation
 

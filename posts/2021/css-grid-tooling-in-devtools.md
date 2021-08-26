@@ -1,7 +1,7 @@
 ---
 author: han_changhao
 date: 2021-08-16
-eleventyExcludeFromCollections: true
+hidden: true
 publisher: chromiumdev
 tags:
   - user-agents
