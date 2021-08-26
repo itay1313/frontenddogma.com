@@ -1,5 +1,8 @@
 ---
-hidden: true layout: index.njk permalink: error401.html title: Unauthorized
+hidden: true
+layout: index.njk
+permalink: error401.html
+title: Unauthorized
 ---
 # {{ title }}
 

@@ -1,5 +1,8 @@
 ---
-hidden: true layout: index.njk permalink: error404.html title: Page Not Found
+hidden: true
+layout: index.njk
+permalink: error404.html
+title: Page Not Found
 ---
 # {{ title }}
 

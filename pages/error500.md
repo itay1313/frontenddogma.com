@@ -1,6 +1,8 @@
 ---
-hidden: true layout: index.njk permalink: error500.html title: Internal Server
-Error
+hidden: true
+layout: index.njk
+permalink: error500.html
+title: Internal Server Error
 ---
 # {{ title }}
 
