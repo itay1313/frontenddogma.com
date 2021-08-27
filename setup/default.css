@@ -321,23 +321,6 @@ a:active {
 	border-color: var(--brand);
 }
 
-/* In progress */
-
-ul#fd-developers {
-	list-style: none;
-	margin: var(--leading) 0;
-}
-
-ul#fd-developers li {
-	display: inline;
-	padding-right: 1rem;
-}
-
-ul#fd-developers li::after {
-	color: green;
-	content: ' ✓';
-}
-
 @media screen and (max-width: 700px) {
 
 	div.fd-promo img {
