@@ -1,11 +1,3 @@
-@font-face {
-	font-display: swap;
-	font-family: montserrat;
-	font-style: normal;
-	font-weight: 600;
-	src: local('Montserrat Semi Bold'), local('Montserrat Semi Bold'), url('/setup/quarantine/fonts/montserrat-v18-latin-600.woff2') format('woff2'), url('/setup/quarantine/fonts/montserrat-v18-latin-600.woff') format('woff');
-}
-
 ::selection {
 	background: var(--brand);
 	color: #000;
@@ -48,6 +40,12 @@ header ul {
 }
 
 header,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
 strong,
 b {
 	font-weight: 500;
@@ -175,16 +173,6 @@ div.fd-promo img {
 
 div.fd-promo a {
 	border: 1px solid var(--brand);
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	font-family: montserrat, system-ui, sans-serif;
-	font-weight: 600;
 }
 
 h1 {
