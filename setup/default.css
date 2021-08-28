@@ -31,7 +31,7 @@ footer ul {
 }
 
 body {
-	padding: 1.25rem 1rem 1rem;
+	padding: 1.25rem 1rem;
 }
 
 header,
@@ -115,11 +115,11 @@ ul.fd-nav {
 
 footer ul li,
 ul.fd-nav li {
-	display: inline;
+	display: inline-block;
 }
 
-footer ul li:not(:last-child)::after {
-	content: ' · ';
+footer ul li:not(:first-child)::before {
+	content: '\00A0· ';
 }
 
 main {
@@ -145,6 +145,10 @@ table {
 
 p#fd-meta {
 	margin: .1rem 0 var(--leading-half);
+}
+
+p {
+	hyphens: auto;
 }
 
 pre,
@@ -230,6 +234,11 @@ ul.fd-nav {
 	margin: var(--leading) 0;
 }
 
+ul.fd-nav:not(.fd-alt) li,
+td:first-child {
+	white-space: nowrap;
+}
+
 ul#fd-tags,
 ol[start][reversed] {
 	margin-left: 0;
@@ -287,10 +296,6 @@ th {
 	font-weight: 400;
 	text-align: left;
 	font-style: italic;
-}
-
-td:first-child {
-	white-space: nowrap;
 }
 
 a {
