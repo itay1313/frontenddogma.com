@@ -12,7 +12,7 @@
 	<link rel=canonical href="{% if original_url %}{{ original_url | url }}{% else %}{{ metadata.url_truncated }}{{ page.url | url }}{% endif %}">
 	<link rel=stylesheet href={{ env.base }}setup/default{% if env.base != '/' %}.min{% endif %}.css>
 	<link rel=stylesheet href={{ env.base }}setup/prism-1.23.0{% if env.base != '/' %}.min{% endif %}.css>
-	<link rel=alternate href={{ metadata.feed.path | url }} type=application/atom+xml title="{{ metadata.title }}">
+	<link rel=alternate href=/feed/ type=application/rss+xml title="{{ metadata.title }}">
 	{% if page.url != '/' %}<link rel=prerender href=/>{% endif %}
 	<header>
 		<h1>{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}<img src={{ env.base }}media/logo.svg alt="{{ metadata.title }}">{% if page.url != '/' %}</a>{% endif %}</h1>
@@ -33,7 +33,7 @@
 		<p>This is {% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}{{ metadata.title }}{% if page.url != '/' %}</a>{% endif %}: {{ metadata.description | lower }}
 		<ul>
 			<li><a href=https://twitter.com/frontenddogma>Twitter</a>
-			<li><a href={{ metadata.feed.path | url }}>Feed</a>
+			<li><a href=/feed/>Feed</a>
 		</ul>
 	</footer>
 	{% if vg_wort %}<img src=https://vg07.met.vgwort.de/na/{{ vg_wort }} alt="" id=fd-vg-wort>{% endif %}

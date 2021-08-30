@@ -10,7 +10,7 @@ pagination:
 permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}
 ---
 <h1>{{ title }}</h1>
-<p>Articles and books, tips and tricks, craft and beauty from the world of frontend development. Stay informed <a href={{ metadata.feed.path | url }}>per feed</a> and <a href=https://twitter.com/frontenddogma>on Twitter</a>.
+<p>Articles and books, tips and tricks, craft and beauty from the world of frontend development. Stay informed <a href=/feed/>per feed</a> and <a href=https://twitter.com/frontenddogma>on Twitter</a>.
 <ol start={{ (collections.posts.length - (pagination.pageNumber * pagination.size)) }} reversed>
 	{% for entry in entries -%}
 	<li>

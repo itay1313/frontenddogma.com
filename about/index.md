@@ -12,7 +12,7 @@ Frontend Dogma has two purposes:
 
 ## 1. A Source
 
-Frontend Dogma aims to be a decent source for frontend development. Not spectacular, but decent: Share meaningful information; make that information easy to access (via [feed]({{ metadata.feed.path | url }}) and [Twitter](https://twitter.com/frontenddogma)); give good credit to authors and publishers (with “do follow” links and ample Twitter mentions).
+Frontend Dogma aims to be a decent source for frontend development. Not spectacular, but decent: Share meaningful information; make that information easy to access (via [feed](/feed/) and [Twitter](https://twitter.com/frontenddogma)); give good credit to authors and publishers (with “do follow” links and ample Twitter mentions).
 
 ## 2. A Publisher
 
