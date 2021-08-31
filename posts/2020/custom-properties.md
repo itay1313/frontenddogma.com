@@ -6,7 +6,7 @@ tags:
   - cross-posted
   - css
   - custom-properties
-title: "Custom Properties: Questioning :root"
+title: "Custom Properties: Questioning “:root”"
 vg_wort: 483ef18f2583416fa8164179a9ae7379
 ---
 For [custom properties](https://www.w3.org/TR/css-variables-1/) (aka CSS variables) we got into the habit of declaring variables in a rule with a `:root` selector.
