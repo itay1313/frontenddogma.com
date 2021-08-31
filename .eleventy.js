@@ -124,8 +124,7 @@ module.exports = function(eleventyConfig) {
     templateFormats: [
       "md",
       "njk",
-      "html",
-      "liquid"
+      "html"
     ],
 
     // -----------------------------------------------------------------
