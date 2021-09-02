@@ -7,6 +7,11 @@
 	font-style: normal;
 }
 
+:is(ul#fd-tags, ol[start][reversed]) :is([href$='/tags/accessibility/'], [href$='/tags/css/'], [href$='/tags/html/'], [href$='/tags/javascript/'], [href$='/tags/performance/']),
+ol[start][reversed] ::marker {
+	color: var(--brand);
+}
+
 html {
 	--border: #ccc;
 	--brand: #f08713;
@@ -251,10 +256,6 @@ ol[start][reversed] {
 	list-style-position: inside;
 }
 
-ol[start][reversed] ::marker {
-	color: var(--brand);
-}
-
 img#fd-vg-wort {
 	height: 1px;
 	position: absolute;
@@ -335,6 +336,11 @@ a:active {
 }
 
 @media print {
+
+	*,
+	::marker {
+		color: #000 !important;
+	}
 
 	header ul,
 	footer,
