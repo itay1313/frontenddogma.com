@@ -19,7 +19,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "post.njk");
 
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: "utc+1"}).toFormat("MMMM d, yyyy");
+    return DateTime.fromJSDate(dateObj, {zone: "utc+1"}).toFormat("MMM d, yyyy");
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
