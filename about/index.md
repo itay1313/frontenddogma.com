@@ -24,7 +24,7 @@ Frontend Dogma is also a small and humble publisher of books about frontend deve
 
 ### Can I Propose or Provide Content for Frontend Dogma?
 
-Absolutely! Please reach out by [sending an email](/contact/) or [a direct message](https://twitter.com/messages/9372812-1362505873625645064). At the moment it’s easier to propose articles to be featured than to provide content to be (re)published, but please share your thoughts.
+Absolutely! Please reach out by [sending an email](/contact/) or [a direct message on Twitter](https://twitter.com/messages/9372812-1362505873625645064). At the moment it’s easier to propose articles to be featured than to provide content to be (re)published, but please share your thoughts.
 
 ### Can I Make Other Suggestions and Contributions?
 
@@ -32,8 +32,8 @@ Yes! [Site feedback and contributions](https://github.com/j9t/frontenddogma.com)
 
 ### How Dogmatic Is Frontend Dogma?
 
-Not dogmatic. Frontend Dogma is certainly about convictions, but not about dogma.
+Not dogmatic. Frontend Dogma certainly shares convictions, but it’s not about dogma and there is no agenda.
 
 ### What About the Design of Frontend Dogma?
 
-Oh, what about it? It’s intentionally basic, but also [continuously improved](https://meiert.com/en/blog/the-greatest-secret-in-web-design/).
+It’s intentionally basic and [continuously improved](https://meiert.com/en/blog/the-greatest-secret-in-web-design/). Just as with everything else, [suggestions and feedback](https://github.com/j9t/frontenddogma.com) are welcome.
