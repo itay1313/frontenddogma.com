@@ -1,0 +1,9 @@
+---
+author: mmatuzo
+date: 2021-09-02
+tags:
+  - html
+  - meta
+target_url: https://www.matuzo.at/blog/element-diversity/
+title: Element Diversity
+---
