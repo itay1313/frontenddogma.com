@@ -1,7 +1,6 @@
 ---
 author: martyrscry
 date: 2021-09-08
-hidden: true
 publisher: sitepointdotcom
 tags:
   - apis
