@@ -1,5 +1,14 @@
 {
   "name": "frontenddogma.com",
+  "author": {
+    "name": "Frontend Dogma",
+    "email": "info@frontenddogma.com",
+    "url": "https://frontenddogma.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/j9t/frontenddogma.com.git"
+  },
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
@@ -7,15 +16,6 @@
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy",
     "imagemin": "imagemin-merlin"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/j9t/frontenddogma.com.git"
-  },
-  "author": {
-    "name": "Frontend Dogma",
-    "email": "info@frontenddogma.com",
-    "url": "https://frontenddogma.com/"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
