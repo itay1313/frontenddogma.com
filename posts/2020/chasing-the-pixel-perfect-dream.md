@@ -1,0 +1,10 @@
+---
+author: joshwcomeau
+date: 2020-11-02
+tags:
+  - design
+  - css
+  - meta
+target_url: https://www.joshwcomeau.com/css/pixel-perfection/
+title: Chasing the Pixel-Perfect Dream
+---
