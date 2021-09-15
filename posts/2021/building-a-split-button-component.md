@@ -1,7 +1,6 @@
 ---
 author: argyleink
 date: 2021-09-01
-hidden: true
 publisher: chromiumdev
 tags:
   - components
