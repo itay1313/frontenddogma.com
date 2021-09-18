@@ -1,7 +1,6 @@
 ---
 author: eliesl
 date: 2021-09-16
-hidden: true
 publisher: smashingmag
 tags:
   - quality
