@@ -119,7 +119,7 @@ ul.fd-nav li {
 }
 
 footer ul li:not(:first-child)::before {
-	content: '\00A0· ';
+	content: ' · ';
 }
 
 main {
@@ -134,7 +134,7 @@ div.fd-promo a img {
 }
 
 main h1 a::before {
-	content: '◉ ';
+	content: '↗ ';
 }
 
 p,
@@ -145,6 +145,12 @@ table {
 
 p#fd-meta {
 	margin: .1rem 0 var(--leading-half);
+}
+
+p#fd-meta span a,
+ul.fd-nav:not(.fd-alt) li,
+td:first-child {
+	white-space: nowrap;
 }
 
 p {
@@ -234,11 +240,6 @@ ul.fd-nav {
 	margin: var(--leading) 0;
 }
 
-ul.fd-nav:not(.fd-alt) li,
-td:first-child {
-	white-space: nowrap;
-}
-
 ul#fd-tags,
 ol[start][reversed] {
 	margin-left: 0;
@@ -308,6 +309,19 @@ a:focus,
 a:hover,
 a:active {
 	border-color: var(--brand);
+}
+
+/* @@ Test */
+
+p#fd-meta span a[href^='https://twitter.com/']::after {
+	background: #fff;
+	content: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRpdGxlPlR3aXR0ZXI8L3RpdGxlPjxwYXRoIGQ9Ik0yNCA0LjU1N2MtLjg4My4zOTItMS44MzIuNjU2LTIuODI4Ljc3NSAxLjAxNy0uNjA5IDEuNzk4LTEuNTc0IDIuMTY1LTIuNzI0LS45NTEuNTY0LTIuMDA1Ljk3NC0zLjEyNyAxLjE5NS0uODk3LS45NTctMi4xNzgtMS41NTUtMy41OTQtMS41NTUtMy4xNzkgMC01LjUxNSAyLjk2Ni00Ljc5NyA2LjA0NUM3LjcyOCA4LjA4OCA0LjEgNi4xMjggMS42NzEgMy4xNDljLTEuMjkgMi4yMTMtLjY2OSA1LjEwOCAxLjUyMyA2LjU3NC0uODA2LS4wMjYtMS41NjYtLjI0Ny0yLjIyOS0uNjE2LS4wNTQgMi4yODEgMS41ODEgNC40MTUgMy45NDkgNC44OS0uNjkzLjE4OC0xLjQ1Mi4yMzItMi4yMjQuMDg0LjYyNiAxLjk1NiAyLjQ0NCAzLjM3OSA0LjYgMy40MTktMi4wNyAxLjYyMy00LjY3OCAyLjM0OC03LjI5IDIuMDQgMi4xNzkgMS4zOTcgNC43NjggMi4yMTIgNy41NDggMi4yMTIgOS4xNDIgMCAxNC4zMDctNy43MjEgMTMuOTk1LTE0LjY0Ni45NjItLjY5NSAxLjc5Ny0xLjU2MiAyLjQ1Ny0yLjU0OXoiIGZpbGw9IiMyMjIiLz48L3N2Zz4=');
+	display: inline-block;
+	height: .875rem;
+	padding: 0 0 .5rem .3125rem;
+	position: relative;
+	top: .125rem;
+	width: .875rem;
 }
 
 @media screen and (max-width: 700px) {
