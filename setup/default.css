@@ -311,7 +311,7 @@ a:active {
 	border-color: var(--brand);
 }
 
-/* @@ Test */
+/* @@ Test (also includes `data:` CSP exception) */
 
 p#fd-meta span a[href^='https://twitter.com/']::after {
 	background: #fff;
