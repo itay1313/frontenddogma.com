@@ -133,8 +133,8 @@ div.fd-promo a img {
 	border: 0;
 }
 
-main h1 a::before {
-	content: '↗ ';
+main h1 a::after {
+	content: ' ↗';
 }
 
 p,
