@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2021-09-24
-hidden: true
 tags:
   - releasing
   - meta
