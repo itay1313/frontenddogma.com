@@ -51,9 +51,7 @@ h3,
 h4,
 h5,
 h6,
-th,
-strong,
-b {
+th {
 	font-weight: 400;
 }
 
@@ -309,6 +307,11 @@ a:focus,
 a:hover,
 a:active {
 	border-color: var(--brand);
+}
+
+strong,
+b {
+	font-weight: 500;
 }
 
 /* @@ Test (also includes `data:` CSP exception) */
