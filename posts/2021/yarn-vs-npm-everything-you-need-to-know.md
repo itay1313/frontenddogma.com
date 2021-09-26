@@ -5,6 +5,7 @@ publisher: sitepointdotcom
 tags:
   - yarn
   - npm
+  - comparison
 target_url: https://www.sitepoint.com/yarn-vs-npm/
 title: "Yarn vs. npm: Everything You Need to Know"
 ---
