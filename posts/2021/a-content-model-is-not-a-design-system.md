@@ -1,7 +1,6 @@
 ---
 author: heymikewills
 date: 2021-09-23
-hidden: true
 publisher: alistapart
 tags:
   - writing
