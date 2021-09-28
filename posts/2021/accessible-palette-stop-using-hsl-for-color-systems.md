@@ -1,7 +1,6 @@
 ---
 author: efedorenko
 date: 2021-09-16
-hidden: true
 publisher: wildbit
 tags:
   - accessibility
