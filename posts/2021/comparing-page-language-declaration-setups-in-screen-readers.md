@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2021-09-28
-hidden: true
 tags:
   - accessibility
   - html
