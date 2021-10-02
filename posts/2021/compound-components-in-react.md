@@ -1,7 +1,6 @@
 ---
 author: chinonsoIchoku
 date: 2021-08-27
-hidden: true
 publisher: smashingmag
 tags:
   - react

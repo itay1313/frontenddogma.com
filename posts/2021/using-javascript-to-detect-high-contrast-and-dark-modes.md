@@ -1,6 +1,5 @@
 ---
 author: scottohara
-date: 2021-10-01
 hidden: true
 tags:
   - javascript
