@@ -1,7 +1,6 @@
 ---
 author: psuranas
 date: 2021-09-26
-hidden: true
 tags:
   - javascript
   - cookies
