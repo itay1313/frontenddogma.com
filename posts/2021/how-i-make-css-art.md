@@ -1,7 +1,6 @@
 ---
 author: yosracodes
 date: 2021-09-26
-hidden: true
 tags:
   - css
   - art
