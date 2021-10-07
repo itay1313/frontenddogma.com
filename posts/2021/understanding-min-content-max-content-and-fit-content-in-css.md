@@ -1,6 +1,5 @@
 ---
 date: 2021-09-20
-hidden: true
 publisher: logrocket
 tags:
   - css
