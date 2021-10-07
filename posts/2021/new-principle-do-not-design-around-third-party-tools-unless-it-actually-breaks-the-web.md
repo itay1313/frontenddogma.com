@@ -2,7 +2,6 @@
 author: leaverou
 date: 2021-09-16
 tags:
-  - discussion
   - css
   - meta
 target_url: https://github.com/w3ctag/design-principles/issues/335

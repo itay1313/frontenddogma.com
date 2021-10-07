@@ -54,7 +54,6 @@ Each post needs to have one (and only one) tag describing the content type.
 * `company`
 * `course`
 * `developer`
-* _`discussion`_
 * `interview`
 * `magazine`
 * `organization`
@@ -64,7 +63,7 @@ Each post needs to have one (and only one) tag describing the content type.
 * _`service`_
 * `specification`
 * _`survey`_ 
-* _`talk`_
+* _`video`_
 * _`website`_
 
 (Content types in italics are currently in use.)

@@ -3,7 +3,7 @@ author: 5t3ph
 date: 2021-06-24
 publisher: trostcodes
 tags:
-  - talk
+  - video
   - css
   - layout
   - responsive-design
