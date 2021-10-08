@@ -1,7 +1,6 @@
 ---
 author: aknooh10
 date: 2020-08-16
-hidden: true
 tags:
   - code-reviews
   - meta
