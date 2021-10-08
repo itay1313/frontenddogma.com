@@ -1,7 +1,6 @@
 ---
 author: jeanqasaur
 date: 2021-09-08
-hidden: true
 publisher: a16z
 tags:
   - developer-experience
