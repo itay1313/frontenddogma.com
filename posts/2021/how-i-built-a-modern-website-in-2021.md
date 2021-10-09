@@ -1,7 +1,6 @@
 ---
 author: kentcdodds
 date: 2021-09-29
-hidden: true
 tags:
   - html
   - css
