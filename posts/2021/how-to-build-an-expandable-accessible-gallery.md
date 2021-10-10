@@ -1,7 +1,6 @@
 ---
 author: malimirkeccita
 date: 2021-10-04
-hidden: true
 publisher: smashingmag
 tags:
   - accessibility
