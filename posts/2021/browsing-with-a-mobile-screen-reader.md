@@ -1,6 +1,5 @@
 ---
 date: 2021-10-05
-hidden: true
 publisher: tetralogical
 tags:
   - accessibility

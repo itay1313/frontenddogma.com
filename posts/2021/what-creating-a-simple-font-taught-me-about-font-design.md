@@ -1,7 +1,6 @@
 ---
 author: pingpoli
 date: 2021-10-05
-hidden: true
 publisher: uxdesigncc
 tags:
   - fonts
