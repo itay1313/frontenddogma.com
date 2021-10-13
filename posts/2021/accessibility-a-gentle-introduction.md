@@ -5,5 +5,5 @@ publisher: thepracticaldev
 tags:
   - accessibility
 target_url: https://dev.to/alenanik/accessibility-a-gentle-introduction-1398
-title: Accessibility: A Gentle Introduction
+title: "Accessibility: A Gentle Introduction"
 ---
