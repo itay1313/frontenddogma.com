@@ -1,6 +1,5 @@
 ---
 date: 2021-10-11
-hidden: true
 publisher: thepracticaldev
 tags:
   - react

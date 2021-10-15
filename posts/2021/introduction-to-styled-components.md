@@ -1,7 +1,6 @@
 ---
 author: arshadayvid
 date: 2021-10-09
-hidden: true
 publisher: thepracticaldev
 tags:
   - css
