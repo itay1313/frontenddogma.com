@@ -1,7 +1,6 @@
 ---
 author: sarah_chima
 date: 2021-10-08
-hidden: true
 publisher: logrocket
 tags:
   - css
