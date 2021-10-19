@@ -1,6 +1,5 @@
 ---
 date: 2021-10-07
-hidden: true
 publisher: uxdesigncc
 tags:
   - design
