@@ -4,6 +4,7 @@ publisher: phpwch
 tags:
   - php
   - regex
+  - readability
 target_url: https://php.watch/articles/php-regex-readability
 title: Writing Better Regular Expressions in PHP
 ---

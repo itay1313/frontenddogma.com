@@ -6,6 +6,7 @@ tags:
   - npm
   - security
   - quality
+  - auditing
 target_url: https://www.npmjs.com/package/npm-global-audit
 title: npm Global Audit
 ---

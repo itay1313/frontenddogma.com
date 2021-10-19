@@ -5,6 +5,7 @@ publisher: chromedevtools
 tags:
   - css
   - tooling
+  - user-agents
 target_url: https://developer.chrome.com/blog/modernising-css-infra-in-devtools/
 title: Modernising CSS Infrastructure in DevTools
 ---
