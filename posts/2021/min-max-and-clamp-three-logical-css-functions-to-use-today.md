@@ -5,5 +5,5 @@ publisher: chromiumdev
 tags:
   - css
 target_url: https://web.dev/min-max-clamp/
-title: “min()”, “max()”, and “clamp()”: Three Logical CSS Functions to Use Today
+title: "“min()”, “max()”, and “clamp()”: Three Logical CSS Functions to Use Today"
 ---
