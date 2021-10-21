@@ -3,6 +3,7 @@ author: davatron5000
 date: 2021-10-18
 hidden: true
 tags:
+  - video
   - html
   - components
 target_url: https://www.youtube.com/watch?v=fEhBkSZ15qM
