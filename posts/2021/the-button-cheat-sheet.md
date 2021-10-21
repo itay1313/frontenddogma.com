@@ -1,7 +1,6 @@
 ---
 author: mmatuzo
 date: 2021-05-17
-hidden: true
 tags:
   - html
   - cheat-sheets
