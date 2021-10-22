@@ -1,6 +1,7 @@
 ---
-author: bramusblog
+author: bramus
 date: 2021-07-08
+publisher: bramusblog
 tags:
   - layout
   - responsive-design
