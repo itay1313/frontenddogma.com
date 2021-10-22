@@ -1,7 +1,6 @@
 ---
 author: diogosouzac
 date: 2021-10-18
-hidden: true
 publisher: honeybadgerapp
 tags:
   - nodejs
