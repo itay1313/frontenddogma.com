@@ -1,3 +1,35 @@
+@font-face {
+	font-display: swap;
+	font-family: 'work sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local(''), url('/setup/quarantine/fonts/work-sans-v11-latin-regular.woff2') format('woff2'), url('/setup/quarantine/fonts/work-sans-v11-latin-regular.woff') format('woff');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'work sans';
+	font-style: normal;
+	font-weight: 500;
+	src: local(''), url('/setup/quarantine/fonts/work-sans-v11-latin-500.woff2') format('woff2'), url('/setup/quarantine/fonts/work-sans-v11-latin-500.woff') format('woff');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'work sans';
+	font-style: italic;
+	font-weight: 400;
+	src: local(''), url('/setup/quarantine/fonts/work-sans-v11-latin-italic.woff2') format('woff2'), url('/setup/quarantine/fonts/work-sans-v11-latin-italic.woff') format('woff');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'work sans';
+	font-style: italic;
+	font-weight: 500;
+	src: local(''), url('/setup/quarantine/fonts/work-sans-v11-latin-500italic.woff2') format('woff2'), url('/setup/quarantine/fonts/work-sans-v11-latin-500italic.woff') format('woff');
+}
+
 ::selection {
 	background: var(--brand);
 	color: #000;
@@ -21,9 +53,9 @@ html {
 	/* --leading-negative: -1.6875rem; */
 	background: #fff;
 	color: #444;
-	font: 400 100%/1.6875 'helvetica neue', helvetica, system-ui, sans-serif;
+	font: 400 100%/1.6875 'work sans', 'helvetica neue', system-ui, sans-serif;
 	margin: 0 5vw;
-	max-width: 66ch;
+	max-width: 64.3ch;
 }
 
 body,
