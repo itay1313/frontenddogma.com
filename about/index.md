@@ -6,7 +6,7 @@ layout: post.njk
 title: About Frontend Dogma
 vg_wort: e912fe8f75ac4b8c8302c7640a9f9d85
 ---
-Frontend Dogma is a project by [Jens Oliver Meiert](https://meiert.com/en/), a former Google tech lead, a frontend engineering manager, and an O’Reilly but also independent [author](https://www.goodreads.com/author/list/13623828.Jens_Oliver_Meiert). [Personal note: I’m still unsure what voice to assume here. I’ll keep it a bit distant for now, but there’s a living, breathing being behind this site.]
+Frontend Dogma is run by [Jens Oliver Meiert](https://meiert.com/en/), a former Google tech lead, an engineering manager, and an O’Reilly as well as independent [author](https://www.goodreads.com/author/list/13623828.Jens_Oliver_Meiert). [Personal note: I’m still unsure what voice to assume here. I’ll keep it a bit distant for now, but there’s a living, breathing being behind this site.]
 
 ## Mission
 

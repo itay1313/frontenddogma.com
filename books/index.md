@@ -5,7 +5,7 @@ eleventyNavigation:
 layout: post.njk
 title: Books by Frontend Dogma
 ---
-Frontend Dogma is the sponsor or publisher of the following titles. If you want to be published with Frontend Dogma, [send an email](/contact/) with details about your manuscript.
+Frontend Dogma publishes and sponsors books about frontend development. To work with Frontend Dogma, [send an email](/contact/) with details about your manuscript.
 
 <h2><cite>Upgrade Your HTML III</cite></h2>
 <div class=fd-promo><a href=https://meiert.com/en/blog/upgrade-your-html-3/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/upgrade-your-html-3/cover-s.png alt="Upgrade Your HTML III."></a></div>
