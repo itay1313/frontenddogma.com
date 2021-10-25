@@ -1,7 +1,6 @@
 ---
 author: shadeed9
 date: 2021-10-21
-hidden: true
 tags:
   - css
   - scrolling
