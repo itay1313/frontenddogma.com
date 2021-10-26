@@ -1,7 +1,6 @@
 ---
 author: michebarks
 date: 2021-10-19
-hidden: true
 publisher: cssinreallife
 tags:
   - css
