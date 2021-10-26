@@ -5,5 +5,5 @@ publisher: boiaorg
 tags:
   - "@@"
 target_url: https://www.boia.org/blog/designing-for-color-contrast-guidelines-for-accessibility
-title: Designing for Color Contrast: Guidelines for Accessibility
+title: "Designing for Color Contrast: Guidelines for Accessibility"
 ---
