@@ -1,7 +1,6 @@
 ---
 author: argyleink
 date: 2021-10-13
-hidden: true
 publisher: chromiumdev
 tags:
   - html

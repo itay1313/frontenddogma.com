@@ -1,7 +1,6 @@
 ---
 author: pimterry
 date: 2021-10-20
-hidden: true
 publisher: httptoolkit
 tags:
   - http
