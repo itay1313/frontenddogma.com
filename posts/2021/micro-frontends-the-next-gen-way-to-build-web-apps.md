@@ -1,6 +1,5 @@
 ---
 date: 2021-10-24
-hidden: true
 publisher: thepracticaldev
 tags:
   - micro-frontends
