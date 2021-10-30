@@ -1,7 +1,6 @@
 ---
 author: karaforthewin
 date: 2021-10-25
-hidden: true
 publisher: chromiumdev
 tags:
   - components
