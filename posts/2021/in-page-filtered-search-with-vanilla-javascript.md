@@ -1,7 +1,6 @@
 ---
 author: hilmanski
 date: 2021-10-26
-hidden: true
 publisher: css
 tags:
   - javascript

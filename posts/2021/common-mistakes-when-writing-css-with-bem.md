@@ -1,7 +1,6 @@
 ---
 author: vv_agentur
 date: 2021-10-22
-hidden: true
 publisher: thepracticaldev
 tags:
   - css
