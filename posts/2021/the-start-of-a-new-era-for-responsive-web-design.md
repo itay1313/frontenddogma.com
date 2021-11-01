@@ -1,7 +1,6 @@
 ---
 author: fbrill
 date: 2021-10-22
-hidden: true
 publisher: uxdesigncc
 tags:
   - responsive-design
