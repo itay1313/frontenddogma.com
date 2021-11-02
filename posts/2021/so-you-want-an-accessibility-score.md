@@ -1,7 +1,6 @@
 ---
 author: karlgroves
 date: 2021-10-26
-hidden: true
 publisher: tenonapi
 tags:
   - accessibility

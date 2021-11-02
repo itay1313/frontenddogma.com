@@ -1,7 +1,6 @@
 ---
 author: frontstuff_io
 date: 2021-11-01
-hidden: true
 publisher: css
 tags:
   - techniques
