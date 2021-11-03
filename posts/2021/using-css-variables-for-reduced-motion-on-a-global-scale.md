@@ -1,7 +1,6 @@
 ---
 author: malimirkeccita
 date: 2021-10-28
-hidden: true
 tags:
   - css
   - custom-properties

@@ -1,7 +1,6 @@
 ---
 author: michebarks
 date: 2021-11-01
-hidden: true
 publisher: cssinreallife
 tags:
   - accessibility
