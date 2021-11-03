@@ -1,7 +1,6 @@
 ---
 author: ikehakinyemi
 date: 2021-11-03
-hidden: true
 publisher: smashingmag
 tags:
   - typescript
