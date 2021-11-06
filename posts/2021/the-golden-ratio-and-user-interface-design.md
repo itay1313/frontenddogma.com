@@ -1,6 +1,5 @@
 ---
 date: 2021-10-31
-hidden: true
 publisher: nngroup
 tags:
   - design

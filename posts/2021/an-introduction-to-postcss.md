@@ -1,7 +1,6 @@
 ---
 author: craigbuckler
 date: 2021-11-01
-hidden: true
 publisher: sitepointdotcom
 tags:
   - css
