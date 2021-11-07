@@ -1,7 +1,6 @@
 ---
 author: codepo8
 date: 2021-11-01
-hidden: true
 tags:
   - user-agents
   - tooling
