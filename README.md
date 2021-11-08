@@ -27,7 +27,7 @@ image_url: URL # optional for an image for which there is no target_url fallback
 original_url: URL # required for cross-posted entries
 publisher: TWITTER_HANDLE # if the item was published by a third party
 tags:
-  - CONTENT_TYPE # required unless article
+  - CONTENT_TYPE # required an article
   - (FEATURES) # optional
   - (TOPICS) # preferred
 target_url: URL # required for linked content
@@ -43,28 +43,30 @@ A general note, although Frontend Dogma started in 2021, excellent articles from
 
 ### Tags
 
+If countable, tags always use the plural.
+
 #### 1. Content Types
 
 Each post needs to have one (and only one) tag describing the content type.
 
-`article` is the implied fallback and does _not_ need to be set.
+`articles` is the implied fallback and does _not_ need to be set.
 
-* _`announcement`_ (Frontend Dogma only)
-* _`book`_
-* `company`
-* `course`
-* `developer`
-* `interview`
-* `magazine`
-* `organization`
-* _`package`_
-* `podcast`
-* `rfc`
-* _`service`_
-* `specification`
-* _`survey`_ 
-* _`video`_
-* _`website`_
+* _`announcements`_ (Frontend Dogma only)
+* _`books`_
+* `companies`
+* `courses`
+* `developers`
+* `interviews`
+* `magazines`
+* `organizations`
+* _`packages`_
+* `podcasts`
+* `rfcs`
+* _`services`_
+* `specifications`
+* _`surveys`_ 
+* _`videos`_
+* _`websites`_
 
 (Content types in italics are currently in use.)
 

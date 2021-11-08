@@ -2,7 +2,7 @@
 date: 2021-06-16
 publisher: npmjs
 tags:
-  - package
+  - packages
   - npm
   - security
   - quality

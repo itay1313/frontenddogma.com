@@ -4,7 +4,7 @@ coauthor: sw12
 date: 2021-08-02
 publisher: chromiumdev
 tags:
-  - survey
+  - surveys
   - css
   - scrolling
 target_url: https://web.dev/2021-scroll-survey-report/

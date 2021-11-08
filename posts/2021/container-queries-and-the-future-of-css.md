@@ -3,7 +3,7 @@ author: terriblemia
 date: 2021-06-24
 publisher: css__cafe
 tags:
-  - video
+  - videos
   - css
   - container-queries
 target_url: https://www.youtube.com/watch?v=ilR9KlsHMGk

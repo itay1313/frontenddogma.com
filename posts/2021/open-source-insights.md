@@ -2,7 +2,7 @@
 date: 2021-06-03
 publisher: googleoss
 tags:
-  - service
+  - services
   - open-source
   - dependencies
   - security
