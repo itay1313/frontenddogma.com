@@ -1,7 +1,6 @@
 ---
 author: tempertemper
 date: 2021-10-25
-hidden: true
 tags:
   - html
   - aria
