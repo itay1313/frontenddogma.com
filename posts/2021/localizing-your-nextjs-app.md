@@ -1,7 +1,6 @@
 ---
 author: atilafassina
 date: 2021-11-09
-hidden: true
 publisher: smashingmag
 tags:
   - nextjs
