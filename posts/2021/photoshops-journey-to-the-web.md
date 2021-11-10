@@ -5,5 +5,5 @@ publisher: chromiumdev
 tags:
   - meta
 target_url: https://web.dev/ps-on-the-web/
-title: Photoshop's Journey to the Web
+title: Photoshop’s Journey to the Web
 ---
