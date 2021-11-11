@@ -1,6 +1,5 @@
 ---
 date: 2021-11-02
-hidden: true
 publisher: accessibility00
 tags:
   - accessibility
