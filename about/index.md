@@ -37,3 +37,7 @@ Not dogmatic. Frontend Dogma certainly shares convictions, but it’s not about 
 ### What About the Design of Frontend Dogma?
 
 It’s intentionally basic and [continuously improved](https://meiert.com/en/blog/the-greatest-secret-in-web-design/). Just as with everything else, [suggestions and feedback](https://github.com/j9t/frontenddogma.com) are welcome.
+
+### Is There Anyhing Else to Know?
+
+Not really, other than if you like Frontend Dogma, you may also like its sister site: UITest.com features [web-based tools for web development and design](https://uitest.com/).
