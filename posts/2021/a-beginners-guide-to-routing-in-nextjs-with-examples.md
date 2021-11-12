@@ -1,7 +1,6 @@
 ---
 author: ubahthebuilder
 date: 2021-11-10
-hidden: true
 publisher: sitepointdotcom
 tags:
   - nextjs
