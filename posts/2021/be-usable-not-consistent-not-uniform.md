@@ -1,7 +1,6 @@
 ---
 author: duncanbss
 date: 2021-11-09
-hidden: true
 publisher: uxdesigncc
 tags:
   - design
