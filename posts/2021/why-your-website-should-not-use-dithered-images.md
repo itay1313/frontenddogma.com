@@ -1,6 +1,5 @@
 ---
 date: 2021-11-12
-hidden: true
 publisher: simple_thread
 tags:
   - images
