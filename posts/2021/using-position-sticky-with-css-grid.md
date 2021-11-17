@@ -1,7 +1,6 @@
 ---
 author: shadeed9
 date: 2021-11-16
-hidden: true
 tags:
   - css
   - layout
