@@ -1,7 +1,7 @@
 ---
 author: michebarks
 date: 2021-11-17
-hidden: true
+draft: true
 publisher: smashingmag
 tags:
   - css
