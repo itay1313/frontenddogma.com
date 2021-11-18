@@ -1,7 +1,6 @@
 ---
 author: codeknack
 date: 2021-11-17
-hidden: true
 publisher: sitepointdotcom
 tags:
   - vuejs
