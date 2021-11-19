@@ -1,7 +1,6 @@
 ---
 author: brendt_gd
 date: 2021-11-07
-draft: true
 tags:
   - php
 target_url: https://stitcher.io/blog/php-81-in-8-code-blocks
