@@ -1,7 +1,6 @@
 ---
 author: codepo8
 date: 2021-11-18
-draft: true
 tags:
   - user-agents
   - accessibility
