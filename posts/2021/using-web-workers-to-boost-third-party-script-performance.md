@@ -1,7 +1,6 @@
 ---
 author: areknawo
 date: 2021-11-12
-draft: true
 publisher: logrocket
 tags:
   - web-workers
