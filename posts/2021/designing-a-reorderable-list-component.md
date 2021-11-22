@@ -1,7 +1,6 @@
 ---
 author: dsenneff
 date: 2021-11-08
-draft: true
 tags:
   - design
   - components
