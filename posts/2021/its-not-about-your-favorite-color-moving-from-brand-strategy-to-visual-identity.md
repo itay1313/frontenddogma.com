@@ -1,7 +1,6 @@
 ---
 author: praktfi
 date: 2021-11-11
-draft: true
 publisher: uxdesigncc
 tags:
   - design
