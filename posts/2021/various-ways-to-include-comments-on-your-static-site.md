@@ -1,7 +1,6 @@
 ---
 author: darek_kay
 date: 2021-11-18
-draft: true
 tags:
   - static-site-generators
   - features
