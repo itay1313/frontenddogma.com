@@ -1,7 +1,6 @@
 ---
 author: alaa_dev
 date: 2021-11-23
-draft: true
 publisher: css
 tags:
   - internationalization
