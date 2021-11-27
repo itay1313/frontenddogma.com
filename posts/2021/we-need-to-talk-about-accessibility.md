@@ -1,7 +1,6 @@
 ---
 author: francescamarano
 date: 2021-11-16
-draft: true
 tags:
   - accessibility
   - meta
