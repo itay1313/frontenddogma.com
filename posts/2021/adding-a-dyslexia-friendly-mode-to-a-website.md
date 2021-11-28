@@ -1,7 +1,6 @@
 ---
 author: jbowtie
 date: 2021-11-23
-draft: true
 publisher: smashingmag
 tags:
   - accessibility
