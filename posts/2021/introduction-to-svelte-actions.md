@@ -1,7 +1,6 @@
 ---
 author: geoffrich_
 date: 2021-11-26
-draft: true
 publisher: logrocket
 tags:
   - svelte
