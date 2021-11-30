@@ -1,7 +1,6 @@
 ---
 author: adactio
 date: 2021-11-02
-draft: true
 publisher: clearleft
 tags:
   - videos
