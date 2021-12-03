@@ -1,7 +1,6 @@
 ---
 author: stegosource
 date: 2021-11-27
-draft: true
 publisher: thepracticaldev
 tags:
   - accessibility
