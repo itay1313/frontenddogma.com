@@ -1,7 +1,6 @@
 ---
 author: stefanjudis
 date: 2021-11-30
-draft: true
 tags:
   - css
   - custom-properties
