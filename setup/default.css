@@ -54,7 +54,7 @@ html {
 	background: #fff;
 	color: #444;
 	font: 400 100%/1.6875 'work sans', 'helvetica neue', system-ui, sans-serif;
-	margin: 0 5vw;
+	margin: auto;
 	max-width: 64.3ch;
 }
 
@@ -208,7 +208,7 @@ div.fd-promo {
 div.fd-promo img {
 	border: 1px solid var(--border);
 	line-height: 0;
-	max-width: 115px;
+	max-width: 110px;
 	padding: 1px;
 }
 
@@ -362,16 +362,12 @@ p#fd-meta span a[href^='https://twitter.com/']::after {
 @media screen and (max-width: 700px) {
 
 	div.fd-promo img {
-		max-width: 80px;
+		max-width: 82px;
 	}
 
 }
 
 @media screen and (max-width: 550px) {
-
-	html {
-		margin: 0;
-	}
 
 	body {
 		padding-top: 1rem;
