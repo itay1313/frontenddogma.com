@@ -1,7 +1,6 @@
 ---
 author: panzerdp
 date: 2021-12-03
-draft: true
 tags:
   - javascript
   - json
