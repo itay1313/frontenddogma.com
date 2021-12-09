@@ -1,6 +1,5 @@
 ---
 date: 2021-12-01
-draft: true
 publisher: chromiumdev
 tags:
   - videos
