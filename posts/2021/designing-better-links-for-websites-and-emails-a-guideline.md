@@ -1,7 +1,6 @@
 ---
 author: shestopalov_v
 date: 2021-12-06
-draft: true
 publisher: smashingmag
 tags:
   - design

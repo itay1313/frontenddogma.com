@@ -3,7 +3,6 @@ author: at_fresh_dev
 coauthor: oluoluoxenfree
 # coauthors @@
 date: 2021-12-01
-draft: true
 publisher: httparchive
 tags:
   - studies
