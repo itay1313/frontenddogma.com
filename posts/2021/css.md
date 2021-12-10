@@ -2,7 +2,6 @@
 author: ericvhu
 coauthor: shuvam360
 date: 2021-12-01
-draft: true
 publisher: httparchive
 tags:
   - studies
