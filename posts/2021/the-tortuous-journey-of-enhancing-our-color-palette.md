@@ -1,6 +1,5 @@
 ---
 date: 2021-10-13
-draft: true
 publisher: doctolib
 tags:
   - colors
