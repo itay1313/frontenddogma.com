@@ -1,7 +1,6 @@
 ---
 author: michebarks
 date: 2021-12-06
-draft: true
 publisher: css
 tags:
   - sustainability
