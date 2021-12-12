@@ -1,7 +1,6 @@
 ---
 author: mod_of_a
 date: 2021-12-02
-draft: true
 publisher: thepracticaldev
 tags:
   - nodejs
