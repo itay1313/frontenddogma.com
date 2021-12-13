@@ -1,7 +1,6 @@
 ---
 author: tunetheweb
 date: 2021-12-05
-draft: true
 publisher: perfplanet
 tags:
   - web-vitals

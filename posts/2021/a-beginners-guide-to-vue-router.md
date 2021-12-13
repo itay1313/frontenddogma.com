@@ -1,7 +1,6 @@
 ---
 author: wernancheta
 date: 2021-12-07
-draft: true
 publisher: sitepointdotcom
 tags:
   - vuejs
