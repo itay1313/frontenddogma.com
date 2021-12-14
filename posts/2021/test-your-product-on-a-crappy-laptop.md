@@ -1,7 +1,6 @@
 ---
 author: ericwbailey
 date: 2021-12-07
-draft: true
 publisher: css
 tags:
   - testing
