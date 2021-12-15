@@ -1,9 +1,9 @@
 ---
 author: sachagreif
-date: 2021-10-06
+date: 2021-12-15
 tags:
-  - css
   - surveys
-target_url: https://stateofcss.com/
-title: The State of CSS Survey 2021
+  - css
+target_url: https://2021.stateofcss.com/
+title: The State of CSS 2021
 ---
