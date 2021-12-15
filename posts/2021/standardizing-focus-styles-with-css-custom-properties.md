@@ -1,7 +1,6 @@
 ---
 author: 5t3ph
 date: 2021-12-10
-draft: true
 publisher: css
 tags:
   - css
