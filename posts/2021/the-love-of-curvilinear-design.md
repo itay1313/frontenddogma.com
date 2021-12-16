@@ -1,7 +1,6 @@
 ---
 author: evaschicker2012
 date: 2021-12-05
-draft: true
 publisher: uxdesigncc
 tags:
   - design
