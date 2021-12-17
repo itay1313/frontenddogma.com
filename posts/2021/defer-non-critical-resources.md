@@ -1,7 +1,6 @@
 ---
 author: boedie
 date: 2021-12-12
-draft: true
 publisher: perfplanet
 tags:
   - performance
