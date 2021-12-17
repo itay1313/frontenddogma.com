@@ -81,14 +81,9 @@ ul.fd-nav.fd-alt li {
 	display: block;
 }
 
-header h1 img,
-ul.fd-nav li:not(:last-child),
-ul#fd-tags li:not(:last-child) {
-	padding-right: 1rem;
-}
-
 header h1 img {
 	height: 52px;
+	margin-right: 1rem;
 	width: 41px;
 }
 
@@ -247,6 +242,11 @@ ol {
 
 ul.fd-nav {
 	margin: var(--leading) 0;
+}
+
+ul.fd-nav li:not(:last-child),
+ul#fd-tags li:not(:last-child) {
+	padding-right: 1rem;
 }
 
 ul#fd-tags,
