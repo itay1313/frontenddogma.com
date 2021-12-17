@@ -5,6 +5,7 @@ publisher: honeybadgerapp
 tags:
   - nodejs
   - javascript
+  - errors
 target_url: https://www.honeybadger.io/blog/errors-nodejs/
 title: A Comprehensive Guide to Error Handling in Node.js
 ---
