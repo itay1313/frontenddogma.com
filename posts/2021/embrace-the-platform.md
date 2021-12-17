@@ -6,7 +6,7 @@ tags:
   - html
   - css
   - javascript
-  - meta
+  - web-platform
 target_url: https://css-tricks.com/embrace-the-platform/
 title: Embrace the Platform
 ---
