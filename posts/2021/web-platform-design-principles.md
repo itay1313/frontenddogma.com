@@ -1,7 +1,6 @@
 ---
 author: sangwhanmoon
 date: 2021-12-16
-draft: true
 publisher: w3c
 tags:
   - web-platform
