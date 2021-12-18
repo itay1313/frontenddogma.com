@@ -4,10 +4,11 @@ date: 2021-12-19
 draft: true
 tags:
   - html
+  - concepts
 title: 5 HTML Concepts You Didn’t Know
 vg_wort: 464b1b7019134665941709879746a2eb
 ---
-HTML is so important, large, and complex, it warrants a [pilgrimage](https://meiert.com/en/blog/web-developer-pilgrimage/). The specification includes many gems, whether it’s dark humor or esoteric edge cases. It also contains concepts that not everyone is familiar with. Borrowing from [the “HTML Concepts” series](https://cse.google.com/cse?cx=007435340685329731950%3Auo6twvdbp_m&q=%22html+concepts%22), here are five of them.
+HTML is so important, large, and complex, it warrants [a pilgrimage](https://meiert.com/en/blog/web-developer-pilgrimage/). The specification includes many gems, whether it’s dark humor or esoteric edge cases. It also contains concepts that not everyone is familiar with. Borrowing from [the “HTML Concepts” series](https://cse.google.com/cse?cx=007435340685329731950%3Auo6twvdbp_m&q=%22html+concepts%22), here are five of them.
 
 ## 1. [“Body-Ok”](https://meiert.com/en/blog/html-body-ok/)
 
