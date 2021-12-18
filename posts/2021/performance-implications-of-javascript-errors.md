@@ -1,7 +1,6 @@
 ---
 author: sans_colon
 date: 2021-12-14
-draft: true
 publisher: perfplanet
 tags:
   - javascript
