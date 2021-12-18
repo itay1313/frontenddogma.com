@@ -11,7 +11,7 @@ HTML is so important, large, and complex, it warrants a [pilgrimage](https://mei
 
 ## 1. [“Body-Ok”](https://meiert.com/en/blog/html-body-ok/)
 
-“Body-ok” relates to link type keywords, and denotes what link elements are okay to be used in the document body (as opposed to its head).
+“Body-ok” relates to link type keywords, and denotes what `link` elements are okay to be used in the document body (as opposed to its head).
 
 ## 2. [The “Nothing” Content Model](https://meiert.com/en/blog/html-nothing-content-model/)
 
