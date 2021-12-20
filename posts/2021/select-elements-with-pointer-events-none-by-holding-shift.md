@@ -5,5 +5,5 @@ publisher: _devtoolstips
 tags:
   - user-agents
 target_url: https://devtoolstips.org/tips/en/select-pointer-events-none-elements/
-title: Select Elements with “pointer-events: none” by Holding Shift
+title: "Select Elements with “pointer-events: none” by Holding Shift"
 ---
