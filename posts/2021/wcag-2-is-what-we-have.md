@@ -1,7 +1,6 @@
 ---
 author: kilianvalkhof
 date: 2021-12-13
-draft: true
 tags:
   - accessibility
   - wcag
