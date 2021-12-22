@@ -1,7 +1,6 @@
 ---
 author: harinandananbs
 date: 2021-12-20
-draft: true
 publisher: uxmatters
 tags:
   - user-experience
