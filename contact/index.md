@@ -20,11 +20,11 @@ Responsible for site contents (but not for linked websites): Jens Oliver Meiert.
 
 ## Legal Notice
 
-Responsible for all editorial contents as per §&nbsp;55 II RStV: Jens Oliver Meiert. All contents are subject to change.
+Responsible for all editorial contents as per § 55 II RStV: Jens Oliver Meiert. All contents are subject to change.
 
 Tax ID: 48/157/00835.
 
-For online disputes as per Art.&nbsp;14 ¶&nbsp;1 Regulation on Consumer Online Dispute Resolution the European Commission provides a [settlement platform](https://ec.europa.eu/consumers/odr/).
+For online disputes as per Art. 14 ¶ 1 Regulation on Consumer Online Dispute Resolution the European Commission provides a [settlement platform](https://ec.europa.eu/consumers/odr/).
 
 ### Privacy Policy
 
@@ -79,7 +79,7 @@ We’ve signed a data processing agreement with ALL-INKL.COM, requiring ALL-INKL
 
 The data are not combined or merged with other sources of data.
 
-Processing of the data happens pursuant to Art.&nbsp;6 ¶&nbsp;1 lit.&nbsp;f GDPR, allowing the processing of data for the purposes of contractual compliance.
+Processing of the data happens pursuant to Art. 6 ¶ 1 lit. f GDPR, allowing the processing of data for the purposes of contractual compliance.
 
 In the server statistics available to us, IP addresses are anonymized and all log files get deleted after 30 days.
 
@@ -87,7 +87,7 @@ In the server statistics available to us, IP addresses are anonymized and all lo
 
 When you contact us through email, your inquiry and the information provided are saved in order to process and follow up on the inquiry. The data are not handed over to third parties without your consent.
 
-Processing of the data contained in the email happens pursuant to your permission (Art.&nbsp;6 ¶&nbsp;1 lit.&nbsp;a GDPR). You can withdraw your consent at any time, for example through an email to us. The withdrawal does not affect the legal validity of processing of the data.
+Processing of the data contained in the email happens pursuant to your permission (Art. 6 ¶ 1 lit. a GDPR). You can withdraw your consent at any time, for example through an email to us. The withdrawal does not affect the legal validity of processing of the data.
 
 The data provided are saved until you ask us to delete the data, revoke your consent to store the data, or until the purpose for storing the data falls away. This does not overrule any applicable legal requirements, as with retention periods.
 
@@ -95,11 +95,11 @@ We use Gmail and ProtonMail for email, each additionally secured with two-factor
 
 #### VG Wort
 
-This website uses session cookies of [VG Wort](https://www.vgwort.de/) in order to measure access to editorial content, and VG Wort, in turn, makes use of the _Skalierbares Zentrales Messverfahren_ (SZM, “scalable central measurement system”) of INFOnline GmbH for the detection of statistical parameters so as to determine the probability of copies of content. This measuring happens pursuant to Art.&nbsp;6 ¶&nbsp;1 lit.&nbsp;f GDPR.
+This website uses session cookies of [VG Wort](https://www.vgwort.de/) in order to measure access to editorial content, and VG Wort, in turn, makes use of the _Skalierbares Zentrales Messverfahren_ (SZM, “scalable central measurement system”) of INFOnline GmbH for the detection of statistical parameters so as to determine the probability of copies of content. This measuring happens pursuant to Art. 6 ¶ 1 lit. f GDPR.
 
 In the process, anonymous metrics are collected. To recognize computer systems, the measurement either employs a session cookie or a signature generated through a set of data automatically transmitted by your browser. IP addresses are only used in an anonymized fashion. At no point single users are being identified; your identity remains protected. You don’t receive advertising through the system.
 
-Session cookies are small units of information saved by a service provider on the computer of their user. A session cookie contains a randomly generated identification number, the so-called session ID. On top of that, a cookie contains information about its origin and the period of time it’s being stored. Session cookies cannot save any other data. Using session cookies, VG Wort enables their authors to participate in VG Wort distribution payments that ensure compensation for the use of otherwise copyright-protected works in accordance with §&nbsp;53 UrhG. If you don’t wish to partake in SZM measuring, you can opt out at [optout.ioam.de](https://optout.ioam.de/).
+Session cookies are small units of information saved by a service provider on the computer of their user. A session cookie contains a randomly generated identification number, the so-called session ID. On top of that, a cookie contains information about its origin and the period of time it’s being stored. Session cookies cannot save any other data. Using session cookies, VG Wort enables their authors to participate in VG Wort distribution payments that ensure compensation for the use of otherwise copyright-protected works in accordance with § 53 UrhG. If you don’t wish to partake in SZM measuring, you can opt out at [optout.ioam.de](https://optout.ioam.de/).
 
 #### Miscellaneous
 

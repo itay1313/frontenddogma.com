@@ -14,7 +14,7 @@ layout: base.njk
 		{% for tag in tags | filterTagList %}
 			{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset %}{{ comma() }} <a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>
 		{%- endfor -%}
-		<span> · <a href="https://twitter.com/intent/tweet?text={{ title | urlencode }}{% if author %},%20by%20@{{ author }}{% if coauthor %}%20and%20@{{ coauthor }}{% endif %}{% if publisher %}%20%28@{{ publisher }}%29{% endif %}{% else %}{% if publisher %},%20by%20@{{ publisher }}{% endif %}{% endif %},%20featured%20on%20@frontenddogma%3A%0A%0A{% if target_url %}{{ target_url }}{% else %}{{ metadata.url_truncated }}{{ page.url | url }}{% endif %}">Tweet&nbsp;this?</a></span>
+		<span> · <a href="https://twitter.com/intent/tweet?text={{ title | urlencode }}{% if author %},%20by%20@{{ author }}{% if coauthor %}%20and%20@{{ coauthor }}{% endif %}{% if publisher %}%20%28@{{ publisher }}%29{% endif %}{% else %}{% if publisher %},%20by%20@{{ publisher }}{% endif %}{% endif %},%20featured%20on%20@frontenddogma%3A%0A%0A{% if target_url %}{{ target_url }}{% else %}{{ metadata.url_truncated }}{{ page.url | url }}{% endif %}">Tweet this?</a></span>
 {% endif %}
 	{% if image %}<div class=fd-promo>{% if image_url or target_url %}<a href="{{ image_url or target_url | url }}">{% endif %}<img src={{ env.base }}media/{{ image }} alt="{{ title }}" loading=lazy>{% if image_url or target_url %}</a>{% endif %}</div>{% endif %}
 
@@ -28,8 +28,8 @@ layout: base.njk
 {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
 {% if nextPost or previousPost %}
 	<ul class="fd-nav fd-alt">
-		{% if nextPost %}<li>→&nbsp;<a href={{ nextPost.url | url }}>{{ nextPost.data.title }}</a>{% endif %}
-		{% if previousPost %}<li>←&nbsp;<a href={{ previousPost.url | url }}>{{ previousPost.data.title }}</a>{% endif %}
+		{% if nextPost %}<li>→ <a href={{ nextPost.url | url }}>{{ nextPost.data.title }}</a>{% endif %}
+		{% if previousPost %}<li>← <a href={{ previousPost.url | url }}>{{ previousPost.data.title }}</a>{% endif %}
 	</ul>
 {% endif %}
 		</article>
