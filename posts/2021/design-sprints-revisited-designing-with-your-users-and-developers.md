@@ -1,6 +1,5 @@
 ---
 date: 2021-12-20
-draft: true
 publisher: uxmatters
 tags:
   - design
