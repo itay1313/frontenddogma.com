@@ -3,7 +3,6 @@ author: scotthollier
 coauthor: cooper_w3c
 # coauthors @@
 date: 2021-12-16
-draft: true
 publisher: w3c
 tags:
   - accessibility
