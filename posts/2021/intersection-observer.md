@@ -1,7 +1,6 @@
 ---
 author: 5t3ph
 date: 2021-12-13
-draft: true
 tags:
   - javascript
   - apis
