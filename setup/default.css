@@ -138,7 +138,7 @@ div.fd-promo a img {
 }
 
 main h1 a::after {
-	content: ' ↗';
+	content: ' ↯';
 }
 
 p,
