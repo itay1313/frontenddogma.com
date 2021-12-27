@@ -1,7 +1,7 @@
 ---
 author: segibb
 coauthor: karaann
-# coauthors @@
+# coauthors
 date: 2021-07-25
 publisher: nngroup
 tags:

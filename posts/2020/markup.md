@@ -1,7 +1,7 @@
 ---
 author: j9t
 coauthor: catalinred
-# coauthors @@
+# coauthors
 date: 2020-11-10
 publisher: httparchive
 tags:
