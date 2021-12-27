@@ -1,7 +1,6 @@
 ---
 author: code_gino
 date: 2021-12-27
-draft: true
 publisher: thepracticaldev
 tags:
   - accessibility
