@@ -1,7 +1,6 @@
 ---
 author: dhh
 date: 2021-11-25
-draft: true
 tags:
   - career
   - meta
