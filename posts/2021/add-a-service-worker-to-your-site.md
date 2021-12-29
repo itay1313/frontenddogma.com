@@ -1,7 +1,6 @@
 ---
 author: chrisferdinandi
 date: 2021-12-28
-draft: true
 publisher: css
 tags:
   - service-workers
