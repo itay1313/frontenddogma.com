@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2021-12-25
-draft: true
 original_url: https://calendar.perfplanet.com/2021/faster-websites-by-using-less-html/
 tags:
   - html
