@@ -57,6 +57,7 @@ Each post needs to have one (and only one) tag describing the content type.
 * `courses`
 * `developers`
 * `interviews`
+* _`link-lists`_
 * `magazines`
 * `organizations`
 * _`packages`_
