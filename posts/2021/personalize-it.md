@@ -1,7 +1,6 @@
 ---
 author: una
 date: 2021-12-23
-draft: true
 publisher: css
 tags:
   - css
