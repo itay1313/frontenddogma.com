@@ -80,10 +80,12 @@ If there’s an image, it should be hosted under [/media](https://github.com/j9t
 
 In addition, a content piece can be one or more of the following:
 
-* `evergreen`, for important and long-lived posts (currently not in use)
-* `featured`, for homepage promotion (currently not in use)
-* `cross-posted`, for content that was already posted elsewhere (specify `original_url`)
-* `sponsored` (currently not in use)
+* `evergreen`, for important and long-lived posts
+* `featured`, for homepage promotion
+* _`cross-posted`_, for content that was already posted elsewhere (specify `original_url`)
+* `sponsored`
+
+(Features in italics are currently in use.)
 
 #### 3. Topics
 
