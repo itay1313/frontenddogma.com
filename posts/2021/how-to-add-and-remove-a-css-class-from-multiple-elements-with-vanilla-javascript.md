@@ -1,7 +1,6 @@
 ---
 author: chrisferdinandi
 date: 2021-12-20
-draft: true
 tags:
   - css
   - javascript
