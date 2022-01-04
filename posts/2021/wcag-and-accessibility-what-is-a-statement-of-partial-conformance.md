@@ -1,6 +1,5 @@
 ---
 date: 2021-12-29
-draft: true
 publisher: boiaorg
 tags:
   - accessibility
