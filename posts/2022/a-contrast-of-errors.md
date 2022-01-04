@@ -1,6 +1,5 @@
 ---
 date: 2022-01-01
-draft: true
 tags:
   - accessibility
   - wcag
