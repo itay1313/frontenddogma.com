@@ -1,6 +1,5 @@
 ---
 date: 2021-12-22
-draft: true
 tags:
   - performance
 target_url: https://medium.com/@matthew.costello/frontend-web-performance-the-essentials-0-61fea500b180
