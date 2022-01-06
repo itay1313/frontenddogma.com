@@ -1,7 +1,6 @@
 ---
 author: simevidas
 date: 2022-01-04
-draft: true
 publisher: css
 tags:
   - css
