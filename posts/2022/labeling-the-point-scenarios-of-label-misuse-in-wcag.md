@@ -1,7 +1,6 @@
 ---
 author: davidofyork
 date: 2022-01-06
-draft: true
 publisher: tpginteractive
 tags:
   - accessibility
