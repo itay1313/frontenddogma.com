@@ -1,7 +1,6 @@
 ---
 author: muhd_ahsanayaz
 date: 2022-01-03
-draft: true
 publisher: thepracticaldev
 tags:
   - javascript
