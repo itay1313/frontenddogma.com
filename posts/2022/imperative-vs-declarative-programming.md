@@ -1,6 +1,5 @@
 ---
 date: 2022-01-03
-draft: true
 publisher: uidotdev
 tags:
   - videos
