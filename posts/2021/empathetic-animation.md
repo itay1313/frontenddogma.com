@@ -1,7 +1,6 @@
 ---
 author: cassiecodes
 date: 2021-12-29
-draft: true
 publisher: css
 tags:
   - animations
