@@ -1,7 +1,6 @@
 ---
 author: jeremiahlena13
 date: 2022-01-08
-draft: true
 publisher: thepracticaldev
 tags:
   - memory
