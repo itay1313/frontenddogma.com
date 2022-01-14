@@ -1,7 +1,6 @@
 ---
 author: rianrietveld
 date: 2022-01-03
-draft: true
 publisher: a11yproject
 tags:
   - accessibility
