@@ -1,7 +1,6 @@
 ---
 author: joshwcomeau
 date: 2022-01-11
-draft: true
 tags:
   - css
   - gradients

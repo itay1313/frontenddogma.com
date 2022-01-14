@@ -1,7 +1,6 @@
 ---
 author: webinista
 date: 2022-01-02
-draft: true
 tags:
   - css
   - layout
