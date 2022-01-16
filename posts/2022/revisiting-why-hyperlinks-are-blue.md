@@ -1,6 +1,5 @@
 ---
 date: 2022-01-11
-draft: true
 publisher: mozilla
 tags:
   - design
