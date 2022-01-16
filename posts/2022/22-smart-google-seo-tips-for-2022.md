@@ -1,7 +1,6 @@
 ---
 author: cyrusshepard
 date: 2022-01-07
-draft: true
 publisher: moz
 tags:
   - seo
