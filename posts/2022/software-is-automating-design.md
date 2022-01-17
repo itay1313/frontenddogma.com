@@ -1,7 +1,6 @@
 ---
 author: carlyayres
 date: 2022-01-11
-draft: true
 publisher: a16z
 tags:
   - design
