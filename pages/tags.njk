@@ -6,7 +6,7 @@ title: Tags
 <h1>{{ title }}</h1>
 <ul id=fd-tags>
 	{% for tag in collections.tagList | filterTagList | sort %}
-	{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
 	<li><a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>
 	{% endfor %}
 </ul>

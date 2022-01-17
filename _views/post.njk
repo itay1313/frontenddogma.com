@@ -12,7 +12,7 @@ layout: base.njk
 		on <time datetime={{ page.date | htmlDateString }}>{{ page.date | readableDate }}</time>, tagged
 		{% set comma = joiner() %}
 		{% for tag in tags | filterTagList %}
-			{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset %}{{ comma() }} <a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>
+			{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}{{ comma() }} <a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>
 		{%- endfor -%}
 		<span> · <a href="https://twitter.com/intent/tweet?text={{ title | urlencode }}{% if author %},%20by%20@{{ author }}{% if coauthor %}%20and%20@{{ coauthor }}{% endif %}{% if publisher %}%20%28@{{ publisher }}%29{% endif %}{% else %}{% if publisher %},%20by%20@{{ publisher }}{% endif %}{% endif %},%20featured%20on%20@frontenddogma%3A%0A%0A{% if target_url %}{{ target_url }}{% else %}{{ metadata.url_truncated }}{{ page.url | url }}{% endif %}">Tweet this?</a></span>
 {% endif %}
