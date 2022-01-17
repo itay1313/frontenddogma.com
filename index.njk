@@ -26,7 +26,7 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{%
 	<li><a href={{ '/tags/' | url }}>All tags</a>
 	{% if collections.posts.length > pagination.size %}
 	{% for pageEntry in pagination.pages %}
-	<li>{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}<a href={{ pagination.hrefs[ loop.index0 ] }}>{% endif %}Page {{ loop.index }}{% if not (page.url == pagination.hrefs[ loop.index0 ]) %}</a>{% endif %}
+	<li>{% if not (page.url == pagination.hrefs[loop.index0]) %}<a href={{ pagination.hrefs[loop.index0] }}>{% endif %}Page {{ loop.index }}{% if not (page.url == pagination.hrefs[loop.index0]) %}</a>{% endif %}
 	{% endfor %}
 	{% endif %}
 </ul>
