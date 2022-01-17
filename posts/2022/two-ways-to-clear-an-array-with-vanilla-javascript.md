@@ -1,7 +1,6 @@
 ---
 author: chrisferdinandi
 date: 2022-01-07
-draft: true
 tags:
   - javascript
 target_url: https://gomakethings.com/two-ways-to-clear-an-array-with-vanilla-javascript/
