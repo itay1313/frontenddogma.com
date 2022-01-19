@@ -1,7 +1,6 @@
 ---
 author: nickdilallo
 date: 2022-01-10
-draft: true
 publisher: uxdesigncc
 tags:
   - writing
