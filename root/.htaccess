@@ -67,8 +67,11 @@ Header always set X-Content-Type-Options nosniff
 	RewriteRule ^ https://frontenddogma.com%{REQUEST_URI} [R=301,L]
 </IfModule>
 
+# Course Alterations: P1
+Redirect 301 /1/ https://frontenddogma.com/
+
 # Course Alterations: P3
-Redirect 301 /tags/talk/ https://frontenddogma.com/tags/video/
+Redirect 301 /tags/talk/ https://frontenddogma.com/tags/videos/
 
 # Emergency
 ErrorDocument 401 /error401.html
