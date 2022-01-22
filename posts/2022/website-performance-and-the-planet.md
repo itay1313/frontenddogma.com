@@ -1,6 +1,5 @@
 ---
 date: 2022-01-12
-draft: true
 publisher: realwebpagetest
 tags:
   - performance
