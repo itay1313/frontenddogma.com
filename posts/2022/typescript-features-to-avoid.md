@@ -1,6 +1,5 @@
 ---
 date: 2022-01-18
-draft: true
 publisher: exec_prog
 tags:
   - typescript
