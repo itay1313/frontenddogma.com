@@ -1,7 +1,6 @@
 ---
 author: michaelmangial1
 date: 2022-01-12
-draft: true
 publisher: thepracticaldev
 tags:
   - technical-debt
