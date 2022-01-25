@@ -1,7 +1,6 @@
 ---
 author: patrickbrosset
 date: 2022-01-17
-draft: true
 publisher: _devtoolstips
 tags:
   - html
