@@ -1,7 +1,6 @@
 ---
 author: joedolson
 date: 2022-01-17
-draft: true
 tags:
   - accessibility
   - meta
