@@ -5,5 +5,5 @@ tags:
   - websites
   - design
 target_url: https://start.uxdesign.cc/
-title: The Ultimate Guide with All the Secrets You Will Need To Know To Become A Fabulous Design Unicorn
+title: The Ultimate Guide with All the Secrets You Will Need to Know to Become a Fabulous Design Unicorn
 ---
