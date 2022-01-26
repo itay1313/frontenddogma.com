@@ -45,6 +45,12 @@ header ul {
 }
 
 header,
+footer,
+p#fd-meta {
+	color: #666;
+}
+
+header,
 h1,
 h2,
 h3,
@@ -104,11 +110,6 @@ td {
 
 header a {
 	border-bottom: 0;
-}
-
-footer,
-p#fd-meta {
-	color: #666;
 }
 
 footer,
