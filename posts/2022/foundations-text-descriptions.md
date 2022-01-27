@@ -1,7 +1,6 @@
 ---
 author: iheni
 date: 2022-01-24
-draft: true
 publisher: tetralogical
 tags:
   - accessibility
