@@ -1,7 +1,6 @@
 ---
 author: patrickbrosset
 date: 2022-01-26
-draft: true
 publisher: smashingmag
 tags:
   - user-agents
