@@ -93,13 +93,13 @@ The data provided are saved until you ask us to delete the data, revoke your con
 
 We use Gmail and ProtonMail for email, each additionally secured with two-factor authentication. Please refer to [Google’s](https://policies.google.com/privacy) and [ProtonMail’s privacy policies](https://protonmail.com/privacy-policy) for details.
 
-#### VG Wort
+#### VG WORT
 
-This website uses session cookies of [VG Wort](https://www.vgwort.de/) in order to measure access to editorial content, and VG Wort, in turn, makes use of the _Skalierbares Zentrales Messverfahren_ (SZM, “scalable central measurement system”) of INFOnline GmbH for the detection of statistical parameters so as to determine the probability of copies of content. This measuring happens pursuant to Art. 6 ¶ 1 lit. f GDPR.
+This website uses session cookies of [VG WORT](https://www.vgwort.de/) in order to measure access to editorial content, and VG WORT, in turn, makes use of the _Skalierbares Zentrales Messverfahren_ (SZM, “scalable central measurement system”) of INFOnline GmbH for the detection of statistical parameters so as to determine the probability of copies of content. This measuring happens pursuant to Art. 6 ¶ 1 lit. f GDPR.
 
 In the process, anonymous metrics are collected. To recognize computer systems, the measurement either employs a session cookie or a signature generated through a set of data automatically transmitted by your browser. IP addresses are only used in an anonymized fashion. At no point single users are being identified; your identity remains protected. You don’t receive advertising through the system.
 
-Session cookies are small units of information saved by a service provider on the computer of their user. A session cookie contains a randomly generated identification number, the so-called session ID. On top of that, a cookie contains information about its origin and the period of time it’s being stored. Session cookies cannot save any other data. Using session cookies, VG Wort enables their authors to participate in VG Wort distribution payments that ensure compensation for the use of otherwise copyright-protected works in accordance with § 53 UrhG. If you don’t wish to partake in SZM measuring, you can opt out at [optout.ioam.de](https://optout.ioam.de/).
+Session cookies are small units of information saved by a service provider on the computer of their user. A session cookie contains a randomly generated identification number, the so-called session ID. On top of that, a cookie contains information about its origin and the period of time it’s being stored. Session cookies cannot save any other data. Using session cookies, VG WORT enables their authors to participate in VG WORT distribution payments that ensure compensation for the use of otherwise copyright-protected works in accordance with § 53 UrhG. If you don’t wish to partake in SZM measuring, you can opt out at [optout.ioam.de](https://optout.ioam.de/).
 
 #### Miscellaneous
 
