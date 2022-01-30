@@ -105,7 +105,7 @@ Session cookies are small units of information saved by a service provider on th
 
 To improve the performance of this website and allow you faster access to it, files like images, style sheets, and scripts are provided through the Amazon CloudFront content delivery network (CDN) by Amazon Web Services (AWS). AWS may save data related to this use. Please refer to the [AWS privacy policy](https://aws.amazon.com/privacy/) for details.
 
-In order not to just point to information and products but to make it easier to obtain them, some links on this website are so-called affiliate links. When you click on and purchase through such an affiliate link, we receive a commission from the respective provider. Affiliate links do not mean price changes for you.
+In order not just to point to information and products but to make it easier to obtain them, some links on this website are so-called affiliate links. When you click on and purchase through such an affiliate link, we receive a commission from the respective provider. Affiliate links do not mean price changes for you.
 
 Sporadically, this website uses [Sentry](https://sentry.io/) in order to check for compliance with [security policies](https://en.wikipedia.org/wiki/Content_Security_Policy). This is both for the general security of your data as well as for the enforcement of provisions made in this document, and it happens only sporadically to serve both security and privacy. Similar to other external services, for details on how Sentry works with data, please refer to [Sentry’s privacy policy](https://sentry.io/privacy/).
 
