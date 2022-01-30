@@ -1,7 +1,6 @@
 ---
 author: alangdavalos
 date: 2022-01-26
-draft: true
 publisher: line_dev_en
 tags:
   - development
