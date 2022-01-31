@@ -1,7 +1,6 @@
 ---
 author: codeandwhiskey
 date: 2022-01-13
-draft: true
 publisher: bethannon
 tags:
   - accessibility
