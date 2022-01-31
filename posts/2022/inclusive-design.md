@@ -1,7 +1,6 @@
 ---
 author: alitamjoyce
 date: 2022-01-30
-draft: true
 publisher: nngroup
 tags:
   - design
