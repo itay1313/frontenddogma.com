@@ -1,6 +1,5 @@
 ---
 date: 2022-01-21
-draft: true
 tags:
   - accessibility
   - testing
