@@ -1,7 +1,6 @@
 ---
 author: ryancarniato
 date: 2022-01-26
-draft: true
 publisher: thepracticaldev
 tags:
   - routing
