@@ -1,7 +1,6 @@
 ---
 author: tempertemper
 date: 2022-01-28
-draft: true
 tags:
   - accessibility
   - wcag
