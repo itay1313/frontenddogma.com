@@ -1,7 +1,6 @@
 ---
 author: mattibarzeev
 date: 2022-01-28
-draft: true
 publisher: thepracticaldev
 tags:
   - testing
