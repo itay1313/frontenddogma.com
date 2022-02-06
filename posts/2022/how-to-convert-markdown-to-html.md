@@ -1,7 +1,6 @@
 ---
 author: redcrew
 date: 2022-01-26
-draft: true
 publisher: lireodesigns
 tags:
   - markdown
