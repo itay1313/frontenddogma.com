@@ -1,6 +1,5 @@
 ---
 date: 2022-01-27
-draft: true
 publisher: tpginteractive
 tags:
   - accessibility
