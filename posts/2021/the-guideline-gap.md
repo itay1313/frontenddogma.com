@@ -1,7 +1,6 @@
 ---
 author: taptodismiss
 date: 2021-11-01
-publisher: medium
 tags:
   - design-systems
   - quality
@@ -9,5 +8,5 @@ tags:
   - localization
   - meta
 target_url: https://medium.com/tap-to-dismiss/the-guideline-gap-d7549d28f1ec
-title: ​​The Guideline Gap
+title: The Guideline Gap
 ---

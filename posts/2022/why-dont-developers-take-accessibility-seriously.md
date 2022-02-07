@@ -1,7 +1,6 @@
 ---
 author: melaniersumner
 date: 2022-01-24
-draft: true
 publisher: css
 tags:
   - accessibility

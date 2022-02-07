@@ -1,7 +1,6 @@
 ---
 author: martinmalindacz
 date: 2021-08-10
-publisher: medium
 tags:
   - vuejs
   - rendering
