@@ -1,7 +1,6 @@
 ---
 author: bramus
 date: 2022-02-01
-draft: true
 publisher: 9elements
 tags:
   - videos
