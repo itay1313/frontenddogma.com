@@ -8,5 +8,5 @@ tags:
   - localization
   - meta
 target_url: https://medium.com/tap-to-dismiss/the-guideline-gap-d7549d28f1ec
-title: ​​The Guideline Gap
+title: The Guideline Gap
 ---
