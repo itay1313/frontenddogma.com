@@ -1,7 +1,6 @@
 ---
 author: _alanbsmith
 date: 2022-01-17
-draft: true
 tags:
   - components
   - meta
