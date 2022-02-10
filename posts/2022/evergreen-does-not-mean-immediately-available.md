@@ -1,7 +1,6 @@
 ---
 author: ericwbailey
 date: 2022-02-01
-draft: true
 publisher: css
 tags:
   - user-agents
