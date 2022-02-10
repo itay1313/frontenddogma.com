@@ -1,7 +1,6 @@
 ---
 author: therealntim
 date: 2022-02-07
-draft: true
 publisher: webkit
 tags:
   - html
