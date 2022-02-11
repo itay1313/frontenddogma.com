@@ -1,7 +1,6 @@
 ---
 author: daveseidman
 date: 2022-02-09
-draft: true
 publisher: css
 tags:
   - css
