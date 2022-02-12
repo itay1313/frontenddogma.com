@@ -1,7 +1,6 @@
 ---
 author: imichaelowolabi
 date: 2022-02-08
-draft: true
 publisher: thepracticaldev
 tags:
   - performance

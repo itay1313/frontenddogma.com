@@ -1,7 +1,6 @@
 ---
 author: michaelvillar
 date: 2022-02-01
-draft: true
 publisher: height_app
 tags:
   - design
