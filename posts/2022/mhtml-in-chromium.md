@@ -1,7 +1,6 @@
 ---
 author: ericlaw
 date: 2022-02-09
-draft: true
 tags:
   - html
   - user-agents

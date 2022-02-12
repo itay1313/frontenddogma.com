@@ -1,7 +1,6 @@
 ---
 author: flaviocopes
 date: 2022-02-08
-draft: true
 tags:
   - javascript
   - debugging
