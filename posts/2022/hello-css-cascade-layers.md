@@ -1,7 +1,6 @@
 ---
 author: shadeed9
 date: 2022-02-11
-draft: true
 tags:
   - css
   - cascade
