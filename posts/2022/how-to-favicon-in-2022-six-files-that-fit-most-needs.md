@@ -1,7 +1,6 @@
 ---
 author: sitnikcode
 date: 2022-02-07
-draft: true
 publisher: evilmartians
 tags:
   - images
