@@ -1,7 +1,6 @@
 ---
 author: consideringa11y
 date: 2022-02-02
-draft: true
 publisher: uxdesigncc
 tags:
   - accessibility
