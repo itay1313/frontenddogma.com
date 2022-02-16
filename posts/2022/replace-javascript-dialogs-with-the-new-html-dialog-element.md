@@ -1,7 +1,6 @@
 ---
 author: madsstoumann
 date: 2022-02-08
-draft: true
 publisher: css
 tags:
   - html
