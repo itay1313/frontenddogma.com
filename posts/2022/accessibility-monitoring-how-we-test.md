@@ -1,6 +1,5 @@
 ---
 date: 2022-02-09
-draft: true
 publisher: govuk
 tags:
   - accessibility
