@@ -53,6 +53,7 @@ Each post needs to have one (and only one) tag describing the content type.
 
 * `announcements` (Frontend Dogma only)
 * _`books`_
+* _`code`_ (as with “pens”)
 * `companies`
 * `courses`
 * `developers`
