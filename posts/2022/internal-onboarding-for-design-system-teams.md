@@ -1,7 +1,6 @@
 ---
 author: taxigy
 date: 2022-01-28
-draft: true
 tags:
   - design-systems
   - onboarding
