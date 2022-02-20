@@ -19,9 +19,10 @@
 	src: local(''), url('/setup/quarantine/fonts/times-new-roman-ps-italic.woff2') format('woff2');
 }
 
-::selection {
-	background: var(--brand);
-	color: #000;
+:focus-visible {
+	border-bottom: 0;
+	outline-color: var(--brand);
+	outline-offset: 2px;
 }
 
 :is(h1, h2, h3, h4, h5, h6) * {
@@ -31,6 +32,11 @@
 :is(ul#fd-tags, ol[start][reversed]) :is([href$='/tags/accessibility/'], [href$='/tags/css/'], [href$='/tags/html/'], [href$='/tags/javascript/'], [href$='/tags/performance/']),
 ol[start][reversed] ::marker {
 	color: var(--brand);
+}
+
+::selection {
+	background: var(--brand);
+	color: #000;
 }
 
 html {
