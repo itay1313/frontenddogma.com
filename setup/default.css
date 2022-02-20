@@ -1,5 +1,12 @@
 @font-face {
 	font-display: swap;
+	font-family: jost;
+	font-style: normal;
+	src: local(''), url('/setup/quarantine/fonts/jost-v12-latin-ext_latin-500.woff2') format('woff2');
+}
+
+@font-face {
+	font-display: swap;
 	font-family: times-backup;
 	font-style: normal;
 	src: local(''), url('/setup/quarantine/fonts/times-new-roman-ps.woff2') format('woff2');
@@ -82,7 +89,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: futura, 'helvetica neue', sans-serif;
+	font-family: futura, jost, 'helvetica neue', sans-serif;
 }
 
 header {
