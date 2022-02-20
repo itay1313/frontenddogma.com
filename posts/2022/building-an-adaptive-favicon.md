@@ -1,7 +1,6 @@
 ---
 author: argyleink
 date: 2022-02-09
-draft: true
 publisher: chromiumdev
 tags:
   - images
