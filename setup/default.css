@@ -1,3 +1,17 @@
+@font-face {
+	font-display: swap;
+	font-family: times-backup;
+	font-style: normal;
+	src: local(''), url('/setup/quarantine/fonts/times-new-roman-ps.woff2') format('woff2');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: times-backup;
+	font-style: italic;
+	src: local(''), url('/setup/quarantine/fonts/times-new-roman-ps-italic.woff2') format('woff2');
+}
+
 ::selection {
 	background: var(--brand);
 	color: #000;
@@ -19,7 +33,7 @@ html {
 	background: #fff;
 	color: #444;
 	/* --leading-negative: -1.6875rem; */
-	font: 400 100%/1.6875 times, serif;
+	font: 400 100%/1.6875 times, times-backup, serif;
 	--leading-half: .84375rem;
 	--leading-half-negative: -.84375rem;
 	margin: auto;
