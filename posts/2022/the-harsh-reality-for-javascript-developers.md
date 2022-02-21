@@ -1,7 +1,6 @@
 ---
 author: dragosgn
 date: 2022-02-16
-draft: true
 publisher: thepracticaldev
 tags:
   - javascript
