@@ -22,6 +22,10 @@ Frontend Dogma is also a small and humble publisher of books about frontend deve
 
 ## FAQ
 
+### Do You Fact-Check and Endorse Everything You’re Linking?
+
+No. That would neither be possible nor desirable. There are many viewpoints, even in frontend development, and people err, also in frontend development.
+
 ### Can I Propose or Provide Content for Frontend Dogma?
 
 Absolutely! Please reach out by [sending an email](/contact/) or [a direct message on Twitter](https://twitter.com/messages/9372812-1362505873625645064). At the moment it’s easier to propose articles to be featured than to provide content to be (re)published, but please share your thoughts.
