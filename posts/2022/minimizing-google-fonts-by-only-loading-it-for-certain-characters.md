@@ -1,7 +1,6 @@
 ---
 author: amit_merchant
 date: 2022-02-20
-draft: true
 tags:
   - typography
   - fonts
