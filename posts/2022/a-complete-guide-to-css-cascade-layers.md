@@ -1,7 +1,6 @@
 ---
 author: terriblemia
 date: 2022-02-21
-draft: true
 publisher: css
 tags:
   - css
