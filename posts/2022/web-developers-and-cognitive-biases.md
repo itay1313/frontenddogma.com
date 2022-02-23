@@ -1,7 +1,6 @@
 ---
 author: rajasegar_c
 date: 2022-02-17
-draft: true
 publisher: thepracticaldev
 tags:
   - productivity
