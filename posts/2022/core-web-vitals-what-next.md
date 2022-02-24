@@ -1,7 +1,6 @@
 ---
 author: thcapper
 date: 2022-02-18
-draft: true
 publisher: moz
 tags:
   - performance

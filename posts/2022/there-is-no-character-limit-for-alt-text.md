@@ -1,7 +1,6 @@
 ---
 author: yatil
 date: 2022-02-19
-draft: true
 tags:
   - accessibility
   - html
