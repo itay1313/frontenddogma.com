@@ -1,7 +1,6 @@
 ---
 author: mjmawa
 date: 2022-02-23
-draft: true
 publisher: logrocket
 tags:
   - nodejs
