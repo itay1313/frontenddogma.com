@@ -1,7 +1,6 @@
 ---
 author: chrisferdinandi
 date: 2022-02-22
-draft: true
 tags:
   - single-page-apps
   - meta
