@@ -62,7 +62,7 @@ Each post needs to have one (and only one) tag describing the content type.
 * `magazines`
 * `organizations`
 * _`packages`_
-* `podcasts`
+* _`podcasts`_
 * `rfcs`
 * _`services`_
 * `specifications`
