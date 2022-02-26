@@ -1,7 +1,6 @@
 ---
 author: badams
 date: 2022-02-09
-draft: true
 tags:
   - seo
   - naming
