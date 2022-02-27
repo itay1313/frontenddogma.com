@@ -2,7 +2,6 @@
 author: beccamonteleone
 coauthor: jamieabrew
 date: 2022-02-17
-draft: true
 publisher: puddingviz
 tags:
   - writing
