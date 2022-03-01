@@ -40,7 +40,7 @@ Frontend Dogma publishes and sponsors books about frontend development. To work 
 |---|---|
 | Author | [Jens Oliver Meiert](https://meiert.com/en/) |
 | Year | 2020 |
-| Last update | 2021 |
+| Last update | 2022 |
 | Pages | 339 |
 | Sellers | [Apple Books](https://books.apple.com/us/book/the-web-development-glossary/id1571261882?ls=1) · [Kobo](https://www.kobo.com/us/en/ebook/the-web-development-glossary) · [Google Play Books](https://play.google.com/store/books/details/Jens_Oliver_Meiert_The_Web_Development_Glossary?id=nYjhDwAAQBAJ) · [Gumroad](https://gumroad.com/l/gSZxpT) · [Leanpub](https://leanpub.com/web-development-glossary) · [SitePoint](https://www.sitepoint.com/premium/books/the-web-development-glossary) |
 | More details | [_The Web Development Glossary_](https://meiert.com/en/blog/the-web-development-glossary/) |
@@ -65,7 +65,7 @@ Frontend Dogma publishes and sponsors books about frontend development. To work 
 |---|---|
 | Author | [Jens Oliver Meiert](https://meiert.com/en/) |
 | Year | 2019 |
-| Last update | 2021 |
+| Last update | 2022 |
 | Pages | 47 |
 | Type | Ebook |
 | Sellers | [Amazon](https://www.amazon.com/dp/B07TY2T9XW/?tag=frontend-dogma-20) · [Google Play Books](https://play.google.com/store/books/details/Jens_Oliver_Meiert_Das_kleine_Buch_der_HTML_CSS_Fr?id=j4jhDwAAQBAJ) · [Gumroad](https://gumroad.com/l/LqXw) · [Leanpub](https://leanpub.com/html-css-frameworks) |
@@ -78,7 +78,7 @@ Frontend Dogma publishes and sponsors books about frontend development. To work 
 |---|---|
 | Author | [Jens Oliver Meiert](https://meiert.com/en/) |
 | Year | 2018 |
-| Last update | 2021 |
+| Last update | 2022 |
 | Pages | 42 |
 | Type | Ebook |
 | Sellers | [Amazon](https://www.amazon.com/dp/B07TVW1ZT8/?tag=frontend-dogma-20) · [Apple Books](https://books.apple.com/us/book/css-optimization-basics/id1571260941?ls=1) · [Kobo](https://www.kobo.com/us/en/ebook/css-optimization-basics) · [Google Play Books](https://play.google.com/store/books/details/Jens_Oliver_Meiert_CSS_Optimization_Basics?id=xgTfDwAAQBAJ) · [Gumroad](https://gumroad.com/l/YzeaH) · [Leanpub](https://leanpub.com/css-optimization-basics) · [SitePoint](https://www.sitepoint.com/premium/books/css-optimization-basics) |
