@@ -1,7 +1,6 @@
 ---
 author: atilafassina
 date: 2022-02-28
-draft: true
 publisher: smashingmag
 tags:
   - design-systems
