@@ -84,4 +84,4 @@ Frontend Dogma publishes and sponsors books about frontend development. To work 
 | Sellers | [Amazon](https://www.amazon.com/dp/B07TVW1ZT8/?tag=frontend-dogma-20) · [Apple Books](https://books.apple.com/us/book/css-optimization-basics/id1571260941?ls=1) · [Kobo](https://www.kobo.com/us/en/ebook/css-optimization-basics) · [Google Play Books](https://play.google.com/store/books/details/Jens_Oliver_Meiert_CSS_Optimization_Basics?id=xgTfDwAAQBAJ) · [Gumroad](https://gumroad.com/l/YzeaH) · [Leanpub](https://leanpub.com/css-optimization-basics) · [SitePoint](https://www.sitepoint.com/premium/books/css-optimization-basics) |
 | More details | [_CSS Optimization Basics_](https://meiert.com/en/blog/css-optimization-basics/) |
 
-(For ebooks, page numbers relate to the PDF version.)
+(“Last update” refers to [minor and usually patch updates](https://semver.org/). For ebooks, page numbers relate to the PDF version.)
