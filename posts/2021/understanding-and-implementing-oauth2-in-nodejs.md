@@ -6,5 +6,5 @@ tags:
   - nodejs
   - security
 target_url: https://www.honeybadger.io/blog/oauth-nodejs-javascript/
-title: Understanding and Implementing OAuth2 In Node.js
+title: Understanding and Implementing OAuth2 in Node.js
 ---

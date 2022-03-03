@@ -6,5 +6,5 @@ tags:
   - state-management
   - nextjs
 target_url: https://www.smashingmagazine.com/2021/08/state-management-nextjs/
-title: State Management In Next.js
+title: State Management in Next.js
 ---
