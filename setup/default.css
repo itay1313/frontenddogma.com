@@ -127,6 +127,9 @@ ul#fd-tags {
 
 header ul {
 	flex-wrap: wrap;
+}
+
+header ul li {
 	padding: 0 .5rem;
 }
 
