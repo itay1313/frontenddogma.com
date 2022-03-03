@@ -127,11 +127,6 @@ ul#fd-tags {
 
 header ul {
 	flex-wrap: wrap;
-}
-
-header ul li,
-th,
-td {
 	padding: 0 .5rem;
 }
 
@@ -312,6 +307,7 @@ thead {
 th,
 td {
 	border-right: 1px solid var(--border);
+	padding: 0 calc(var(--leading-half) - 1px);
 	vertical-align: top;
 }
 
