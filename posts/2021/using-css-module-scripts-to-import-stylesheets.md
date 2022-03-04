@@ -5,6 +5,7 @@ publisher: chromiumdev
 tags:
   - css
   - javascript
+  - modules
 target_url: https://web.dev/css-module-scripts/
 title: Using CSS Module Scripts to Import Stylesheets
 ---

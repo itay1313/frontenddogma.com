@@ -8,6 +8,7 @@ tags:
   - apis
   - routing
   - errors
+  - modules
 target_url: https://itnext.io/modern-node-part-2-bootstrapping-a-node-js-9be331c3d9ed
 title: "Bootstrapping a Node.js TypeScript API: Routing, Middleware, and Custom Types and Errors Modules"
 ---
