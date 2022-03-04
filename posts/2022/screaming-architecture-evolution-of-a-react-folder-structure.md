@@ -1,7 +1,6 @@
 ---
 author: j_kettmann
 date: 2022-02-25
-draft: true
 publisher: thepracticaldev
 tags:
   - react
