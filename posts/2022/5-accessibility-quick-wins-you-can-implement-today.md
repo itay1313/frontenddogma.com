@@ -1,7 +1,6 @@
 ---
 author: danielyuschick
 date: 2022-02-23
-draft: true
 publisher: css
 tags:
   - accessibility
