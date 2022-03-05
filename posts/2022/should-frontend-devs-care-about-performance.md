@@ -1,7 +1,6 @@
 ---
 author: writingvoyage
 date: 2022-02-27
-draft: true
 publisher: thepracticaldev
 tags:
   - performance
