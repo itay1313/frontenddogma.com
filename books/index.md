@@ -64,7 +64,7 @@ Frontend Dogma publishes and sponsors books about frontend development. To work 
 | Author | [Jens Oliver Meiert](https://meiert.com/en/) |
 | Year | 2020 |
 | Last update | 2022 |
-| Pages | 339 |
+| Pages | 340 |
 | Sellers | [Apple Books](https://books.apple.com/us/book/the-web-development-glossary/id1571261882?ls=1) · [Kobo](https://www.kobo.com/us/en/ebook/the-web-development-glossary) · [Google Play Books](https://play.google.com/store/books/details/Jens_Oliver_Meiert_The_Web_Development_Glossary?id=nYjhDwAAQBAJ) · [Gumroad](https://j9t.gumroad.com/l/gSZxpT) · [Leanpub](https://leanpub.com/web-development-glossary) · [SitePoint](https://www.sitepoint.com/premium/books/the-web-development-glossary) |
 | More details | [_The Web Development Glossary_](https://meiert.com/en/blog/the-web-development-glossary/) |
 
