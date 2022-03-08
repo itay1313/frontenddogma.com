@@ -1,7 +1,6 @@
 ---
 author: kate__moran
 date: 2022-03-06
-draft: true
 publisher: nngroup
 tags:
   - design-patterns
