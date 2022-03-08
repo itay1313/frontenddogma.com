@@ -4,7 +4,7 @@ date: 2021-04-13
 publisher: sitepointdotcom
 tags:
   - frameworks
-  - comparison
+  - comparisons
   - react
   - angular
   - vuejs

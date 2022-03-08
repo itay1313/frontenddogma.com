@@ -4,7 +4,7 @@ date: 2021-11-02
 publisher: css
 tags:
   - git
-  - comparison
+  - comparisons
 target_url: https://css-tricks.com/rebase-vs-merge-integrating-changes-in-git/
 title: "Rebase vs. Merge: Integrating Changes in Git"
 ---

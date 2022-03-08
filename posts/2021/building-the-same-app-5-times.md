@@ -2,7 +2,7 @@
 date: 2021-08-18
 publisher: thepracticaldev
 tags:
-  - comparison
+  - comparisons
   - jquery
   - angular
   - react

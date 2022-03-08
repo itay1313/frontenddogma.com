@@ -4,7 +4,7 @@ date: 2021-10-07
 tags:
   - html
   - semantics
-  - comparison
+  - comparisons
 target_url: https://yatil.net/blog/buttons-vs-links
 title: Buttons vs. Links
 ---

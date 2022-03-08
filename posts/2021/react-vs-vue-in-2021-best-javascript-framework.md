@@ -6,7 +6,7 @@ tags:
   - frameworks
   - vuejs
   - react
-  - comparison
+  - comparisons
 target_url: https://dzone.com/articles/react-vs-vue-in-2021-best-javascript-framework
 title: "React vs. Vue in 2021: Best JavaScript Framework"
 ---

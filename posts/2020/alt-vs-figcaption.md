@@ -5,7 +5,7 @@ publisher: thoughtbot
 tags:
   - html
   - accessibility
-  - comparison
+  - comparisons
 target_url: https://thoughtbot.com/blog/alt-vs-figcaption
 title: Alt vs. Figcaption
 ---

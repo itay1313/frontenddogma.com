@@ -5,7 +5,7 @@ tags:
   - svelte
   - react
   - vuejs
-  - comparison
+  - comparisons
 target_url: https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue
 title: Introducing Svelte, and Comparing Svelte with React and Vue
 ---

@@ -6,7 +6,7 @@ tags:
   - frameworks
   - vuejs
   - react
-  - comparison
+  - comparisons
 target_url: https://dev.to/domagojvidovic/vue-js-vs-react-not-your-usual-comparison-2omm
 title: Vue.js vs. React—Not Your Usual Comparison
 ---

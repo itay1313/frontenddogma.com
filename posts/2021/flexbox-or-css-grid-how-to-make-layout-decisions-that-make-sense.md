@@ -5,7 +5,7 @@ publisher: sitepointdotcom
 tags:
   - css
   - layout
-  - comparison
+  - comparisons
 target_url: https://www.sitepoint.com/flexbox-or-grid-how-to-choose/
 title: Flexbox or CSS Grid? How to Make Layout Decisions That Make Sense
 ---
