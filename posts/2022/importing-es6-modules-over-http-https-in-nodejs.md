@@ -1,7 +1,6 @@
 ---
 author: 7genblogger
 date: 2022-02-27
-draft: true
 publisher: itnext_io
 tags:
   - javascript

@@ -3,7 +3,6 @@ author: lolaoye
 coauthor: shayleeperez
 # coauthors
 date: 2022-02-24
-draft: true
 publisher: shopifyux
 tags:
   - podcasts
