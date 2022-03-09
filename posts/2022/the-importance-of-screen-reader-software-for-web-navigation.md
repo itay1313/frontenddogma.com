@@ -1,0 +1,12 @@
+---
+author: lilymordaunt
+date: 2022-03-03
+draft: true
+publisher: usablenet
+tags:
+  - accessibility
+  - user-agents
+  - hypertext
+target_url: https://blog.usablenet.com/the-importance-of-screen-reader-software-for-web-navigation
+title: The Importance of Screen Reader Software for Web Navigation
+---
