@@ -1,7 +1,6 @@
 ---
 author: alex_barashkov
 date: 2022-02-22
-draft: true
 publisher: thepracticaldev
 tags:
   - gatsby

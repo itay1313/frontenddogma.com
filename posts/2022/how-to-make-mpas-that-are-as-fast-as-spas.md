@@ -1,7 +1,6 @@
 ---
 author: chrisferdinandi
 date: 2022-02-23
-draft: true
 tags:
   - performance
   - single-page-apps
