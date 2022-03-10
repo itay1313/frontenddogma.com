@@ -1,7 +1,6 @@
 ---
 author: dailydevtips1
 date: 2022-03-07
-draft: true
 publisher: thepracticaldev
 tags:
   - css
