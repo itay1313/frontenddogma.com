@@ -1,7 +1,6 @@
 ---
 author: seaotta
 date: 2022-03-03
-draft: true
 publisher: smashingmag
 tags:
   - css
