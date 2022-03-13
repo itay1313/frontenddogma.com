@@ -1,7 +1,6 @@
 ---
 author: brendt_gd
 date: 2022-03-04
-draft: true
 tags:
   - videos
   - php
