@@ -1,7 +1,6 @@
 ---
 author: mrtnvh
 date: 2022-02-23
-draft: true
 publisher: frontend_love
 tags:
   - videos
