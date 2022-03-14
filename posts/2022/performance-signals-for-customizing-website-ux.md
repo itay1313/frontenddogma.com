@@ -1,7 +1,6 @@
 ---
 author: tunetheweb
 date: 2022-03-07
-draft: true
 publisher: smashingmag
 tags:
   - performance
