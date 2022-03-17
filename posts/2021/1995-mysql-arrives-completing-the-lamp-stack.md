@@ -5,6 +5,7 @@ publisher: webdevhistory
 tags:
   - history
   - databases
+  - sql
 target_url: https://webdevelopmenthistory.com/1995-mysql-lamp-stack/
 title: "1995: MySQL Arrives, Completing the LAMP Stack"
 ---
