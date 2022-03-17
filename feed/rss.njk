@@ -16,7 +16,7 @@ permalink: "{{ metadata.feed.path }}"
 		</image>
 		{%- for post in collections.posts | reverse -%}
 		{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
-		{%- if loop.index0 < 100 -%}
+		{%- if loop.index0 < 150 -%}
 		<item>
 			<title>{{ post.data.title }}{% if post.data.author %}, by @{{ post.data.author }}{% if post.data.coauthor %} and @{{ post.data.coauthor }}{% endif %}{% if post.data.publisher %} (@{{ post.data.publisher }}){% endif %}{% else %}{% if post.data.publisher %}, by @{{ post.data.publisher }}{% endif %}{% endif %}</title>
 			<link>{% if post.data.target_url %}{{ post.data.target_url }}{% else %}{{ absolutePostUrl }}{% endif %}</link>
