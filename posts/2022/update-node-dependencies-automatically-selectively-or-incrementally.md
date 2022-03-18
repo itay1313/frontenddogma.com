@@ -1,7 +1,6 @@
 ---
 author: elijahmanor
 date: 2022-03-14
-draft: true
 tags:
   - nodejs
   - dependencies
