@@ -3,7 +3,6 @@ author: davidkiosk
 coauthor: garethfw
 # coauthors
 date: 2022-03-15
-draft: true
 publisher: dequesystems
 tags:
   - videos
