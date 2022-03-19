@@ -1,6 +1,6 @@
 ---
 author: tigt_
-draft: true
+date: 2022-03-15
 publisher: thepracticaldev
 tags:
   - performance

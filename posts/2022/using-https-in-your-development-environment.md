@@ -1,7 +1,6 @@
 ---
 author: andychiare
 date: 2022-03-07
-draft: true
 publisher: auth0
 tags:
   - security
