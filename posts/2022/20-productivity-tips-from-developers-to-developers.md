@@ -1,7 +1,6 @@
 ---
 author: actitime_team
 date: 2022-03-13
-draft: true
 publisher: thepracticaldev
 tags:
   - productivity
