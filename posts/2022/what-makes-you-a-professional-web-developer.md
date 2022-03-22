@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2022-03-16
-draft: true
 tags:
   - development
   - career
