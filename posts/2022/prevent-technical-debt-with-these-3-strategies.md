@@ -1,7 +1,6 @@
 ---
 author: stepsizehq
 date: 2022-03-15
-draft: true
 publisher: thepracticaldev
 tags:
   - technical-debt
