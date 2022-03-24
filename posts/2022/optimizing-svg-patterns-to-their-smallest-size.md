@@ -1,7 +1,6 @@
 ---
 author: finnhvman
 date: 2022-03-18
-draft: true
 publisher: css
 tags:
   - svg
