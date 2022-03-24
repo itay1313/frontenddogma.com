@@ -4,7 +4,7 @@ coauthor: bhology
 date: 2022-03-23
 publisher: mozilla
 tags:
-  - the-web
+  - web
   - visions
   - privacy
   - security

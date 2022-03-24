@@ -5,7 +5,7 @@ draft: true
 publisher: dequesystems
 tags:
   - videos
-  - the-web
+  - web
   - accessibility
   - meta
 target_url: https://www.youtube.com/watch?v=tE0ykLPb7DI
