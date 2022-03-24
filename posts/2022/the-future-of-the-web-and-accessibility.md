@@ -1,7 +1,6 @@
 ---
 author: timberners_lee
 date: 2022-03-17
-draft: true
 publisher: dequesystems
 tags:
   - videos
