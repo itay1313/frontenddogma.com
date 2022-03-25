@@ -1,7 +1,6 @@
 ---
 author: tigt_
 date: 2022-03-15
-draft: true
 publisher: thepracticaldev
 tags:
   - html
