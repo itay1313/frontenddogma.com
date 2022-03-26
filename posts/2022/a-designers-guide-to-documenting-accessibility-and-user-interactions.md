@@ -1,7 +1,6 @@
 ---
 author: walterstephanie
 date: 2022-03-16
-draft: true
 tags:
   - accessibility
   - interaction-design
