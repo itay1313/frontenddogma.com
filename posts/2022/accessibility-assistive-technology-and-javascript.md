@@ -1,7 +1,6 @@
 ---
 author: chrisferdinandi
 date: 2022-03-16
-draft: true
 tags:
   - accessibility
   - assistive-tech

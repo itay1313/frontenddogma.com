@@ -1,7 +1,6 @@
 ---
 author: atilafassina
 date: 2022-03-25
-draft: true
 publisher: smashingmag
 tags:
   - remix
