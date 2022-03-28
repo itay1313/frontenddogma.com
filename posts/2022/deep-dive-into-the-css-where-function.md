@@ -1,7 +1,6 @@
 ---
 author: timonwa_
 date: 2022-03-22
-draft: true
 publisher: logrocket
 tags:
   - css
