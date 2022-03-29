@@ -1,7 +1,6 @@
 ---
 author: gourav1058
 date: 2022-03-21
-draft: true
 publisher: uxmatters
 tags:
   - design
