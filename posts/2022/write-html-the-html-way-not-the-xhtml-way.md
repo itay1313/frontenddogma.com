@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2022-03-21
-draft: true
 publisher: css
 tags:
   - html
