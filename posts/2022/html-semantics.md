@@ -1,7 +1,6 @@
 ---
 author: chrisferdinandi
 date: 2022-03-21
-draft: true
 tags:
   - html
   - semantics
