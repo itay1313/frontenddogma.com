@@ -1,7 +1,6 @@
 ---
 author: mgifford
 date: 2022-03-18
-draft: true
 publisher: govloop
 tags:
   - accessibility
