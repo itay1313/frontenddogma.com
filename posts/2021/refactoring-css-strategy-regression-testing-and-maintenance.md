@@ -6,6 +6,8 @@ tags:
   - css
   - maintenance
   - refactoring
+  - testing
+  - strategies
 target_url: https://www.smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/
 title: "Refactoring CSS: Strategy, Regression Testing, and Maintenance"
 ---
