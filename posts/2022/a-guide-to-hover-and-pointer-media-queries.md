@@ -1,7 +1,6 @@
 ---
 author: itscrisdiaz
 date: 2022-03-28
-draft: true
 publisher: smashingmag
 tags:
   - css

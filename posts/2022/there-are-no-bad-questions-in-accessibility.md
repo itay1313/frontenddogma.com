@@ -1,7 +1,6 @@
 ---
 author: steady5063
 date: 2022-03-23
-draft: true
 publisher: thepracticaldev
 tags:
   - accessibility
