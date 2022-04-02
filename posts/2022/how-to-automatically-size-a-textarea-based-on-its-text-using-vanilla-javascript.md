@@ -1,7 +1,6 @@
 ---
 author: chrisferdinandi
 date: 2022-03-15
-draft: true
 tags:
   - html
   - javascript
