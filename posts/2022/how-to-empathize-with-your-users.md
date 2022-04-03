@@ -1,6 +1,5 @@
 ---
 date: 2022-03-16
-draft: true
 publisher: usabilitygeek
 tags:
   - design
