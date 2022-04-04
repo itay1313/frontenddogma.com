@@ -1,7 +1,6 @@
 ---
 author: elijahmanor
 date: 2022-03-28
-draft: true
 tags:
   - javascript
   - sorting

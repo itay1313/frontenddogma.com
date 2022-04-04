@@ -1,6 +1,5 @@
 ---
 date: 2022-03-27
-draft: true
 publisher: thepracticaldev
 tags:
   - career
