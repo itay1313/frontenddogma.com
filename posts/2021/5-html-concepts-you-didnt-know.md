@@ -19,7 +19,7 @@ HTML is so important, large, and complex, it warrants [a pilgrimage](https://mei
 
 ## 3. [Constraint Validation](https://meiert.com/en/blog/html-constraint-validation/)
 
-When a `form` element (like `input`) has attributes that define requirements for the element’s value (like being `required`, or setting a `minlength`, or following a `pattern`), then these requirements (constraints) are being validated by the user agent. Constraints are being validated as long as the element is not barred from it.
+When a form element (like `input`) has attributes that define requirements for the element’s value (like being `required`, or setting a `minlength`, or following a `pattern`), then these requirements (constraints) are being validated by the user agent. Constraints are being validated as long as the element is not barred from it.
 
 ## 4. [Indicators for Layout Tables](https://meiert.com/en/blog/html-layout-table-indicators/)
 
