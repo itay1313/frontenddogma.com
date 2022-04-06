@@ -1,7 +1,6 @@
 ---
 author: michalmalewicz
 date: 2022-03-29
-draft: true
 publisher: uxdesigncc
 tags:
   - design
