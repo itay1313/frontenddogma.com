@@ -1,7 +1,6 @@
 ---
 author: heyaustingil
 date: 2022-03-29
-draft: true
 tags:
   - principles
   - progressive-enhancement
