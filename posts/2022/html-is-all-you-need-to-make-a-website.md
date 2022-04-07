@@ -1,7 +1,6 @@
 ---
 author: whitep4nth3r
 date: 2022-04-05
-draft: true
 publisher: thepracticaldev
 tags:
   - html
