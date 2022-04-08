@@ -9,7 +9,7 @@ Frontend Dogma publishes and sponsors books about frontend development. To work 
 
 <h2><cite>Upgrade Your HTML III</cite></h2>
 
-<div class=fd-promo><a href=https://meiert.com/en/blog/upgrade-your-html-3/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/upgrade-your-html-3/cover-s.png alt="Upgrade Your HTML III."></a></div>
+<div class=fd-promo><a href=https://meiert.com/en/blog/upgrade-your-html-3/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/upgrade-your-html-3/cover-s.png alt="Upgrade Your HTML III." loading=lazy width=110></a></div>
 
 > _Upgrade Your HTML_ is the book series for HTML craftspeople and minimalists. It stands for everything that leads to more effective and efficient use of HTML.
 > 
@@ -31,7 +31,7 @@ Frontend Dogma publishes and sponsors books about frontend development. To work 
 
 <h2><cite>Upgrade Your HTML II</cite></h2>
 
-<div class=fd-promo><a href=https://meiert.com/en/blog/upgrade-your-html-2/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/upgrade-your-html-2/cover-s.png alt="Upgrade Your HTML II."></a></div>
+<div class=fd-promo><a href=https://meiert.com/en/blog/upgrade-your-html-2/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/upgrade-your-html-2/cover-s.png alt="Upgrade Your HTML II." loading=lazy width=110></a></div>
 
 > _Upgrade Your HTML_ is the book series for HTML craftspeople and minimalists.
 >
@@ -53,7 +53,7 @@ Frontend Dogma publishes and sponsors books about frontend development. To work 
 
 <h2><cite>The Web Development Glossary</cite></h2>
 
-<div class=fd-promo><a href=https://meiert.com/en/blog/the-web-development-glossary/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/the-web-development-glossary/cover-s.png alt="The Web Development Glossary."></a></div>
+<div class=fd-promo><a href=https://meiert.com/en/blog/the-web-development-glossary/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/the-web-development-glossary/cover-s.png alt="The Web Development Glossary." loading=lazy width=110></a></div>
 
 > _The Web Development Glossary_ is probably the largest of its kind. With more than 2,000 terms and explanations it acquaints and reunites you with the major standards and concepts of the Web, with HTML, CSS, JavaScript, accessibility, security, performance, code quality, internationalization, localization, editors and tooling and more.
 > 
@@ -70,7 +70,7 @@ Frontend Dogma publishes and sponsors books about frontend development. To work 
 
 <h2><cite>Upgrade Your HTML</cite></h2>
 
-<div class=fd-promo><a href=https://meiert.com/en/blog/upgrade-your-html/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/upgrade-your-html/cover-s.png alt="Upgrade Your HTML."></a></div>
+<div class=fd-promo><a href=https://meiert.com/en/blog/upgrade-your-html/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/upgrade-your-html/cover-s.png alt="Upgrade Your HTML." loading=lazy width=110></a></div>
 
 > HTML is super-popular. Everyone can write HTML. Or can they? In the spirit that everything can be tweaked and optimized, _Upgrade Your HTML_ is a first light book in a playful series to review and improve real-life examples of HTML.
 > 
@@ -90,7 +90,7 @@ Frontend Dogma publishes and sponsors books about frontend development. To work 
 
 <h2><cite>Das kleine Buch der HTML-/CSS-Frameworks</cite> (German)</h2>
 
-<div class=fd-promo><a href=https://meiert.com/de/publications/books/das-kleine-buch-der-html-css-frameworks/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/das-kleine-buch-der-html-css-frameworks/cover.png alt="Das kleine Buch der HTML-/CSS-Frameworks."></a></div>
+<div class=fd-promo><a href=https://meiert.com/de/publications/books/das-kleine-buch-der-html-css-frameworks/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/das-kleine-buch-der-html-css-frameworks/cover.png alt="Das kleine Buch der HTML-/CSS-Frameworks." loading=lazy width=110></a></div>
 
 > HTML-/CSS-Frameworks wie Bootstrap prägen den Alltag in der Webentwicklung. Warum und wann aber sollte man ein Framework verwenden? Wann ergibt es Sinn, selbst ein Framework zu entwickeln? _Das kleine Buch der HTML-/CSS-Frameworks_ teilt grundlegende Gedanken sowie Tipps und Tricks zu sowohl Gebrauch als auch Entwicklung von Frameworks.
 
@@ -106,7 +106,7 @@ Frontend Dogma publishes and sponsors books about frontend development. To work 
 
 <h2><cite>CSS Optimization Basics</cite></h2>
 
-<div class=fd-promo><a href=https://meiert.com/en/blog/css-optimization-basics/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/css-optimization-basics/cover-s.png alt="CSS Optimization Basics."></a></div>
+<div class=fd-promo><a href=https://meiert.com/en/blog/css-optimization-basics/><img src=https://d3rdtowr0c5lpf.cloudfront.net/de/publications/books/css-optimization-basics/cover-s.png alt="CSS Optimization Basics." loading=lazy width=110></a></div>
 
 > Are you unsure about your style sheets’ quality, or whether you’ve maxed out your options? _CSS Optimization Basics_ covers the necessary mindsets, discusses the main optimization methods, and presents useful resources to write higher quality CSS.
 
