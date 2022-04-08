@@ -1,7 +1,6 @@
 ---
 author: kittygiraudel
 date: 2022-04-02
-draft: true
 tags:
   - accessibility
   - html
