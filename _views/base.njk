@@ -11,11 +11,8 @@
 	<title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>
 	<link rel=canonical href="{% if original_url %}{{ original_url | url }}{% else %}{{ metadata.url_truncated }}{{ page.url | url }}{% endif %}">
 	<link rel=icon href=/favicon.ico>
-	<!--
-		April 9 is CSS Naked Day! https://css-naked-day.github.io/
-		<link rel=stylesheet href={{ env.base }}setup/default{% if env.base != '/' %}.min{% endif %}.css>
-		<link rel=stylesheet href={{ env.base }}setup/prism{% if env.base != '/' %}.min{% endif %}.css>
-	-->
+	<link rel=stylesheet href={{ env.base }}setup/default{% if env.base != '/' %}.min{% endif %}.css>
+	<link rel=stylesheet href={{ env.base }}setup/prism{% if env.base != '/' %}.min{% endif %}.css>
 	<link rel=alternate href=/feed/ type=application/rss+xml title="{{ metadata.title }}">
 	{% if page.url != '/' %}<link rel=prerender href=/>{% endif %}
 	<header>
