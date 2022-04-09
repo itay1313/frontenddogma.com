@@ -1,7 +1,6 @@
 ---
 author: simonhearne
 date: 2022-03-22
-draft: true
 tags:
   - performance
   - web-vitals
