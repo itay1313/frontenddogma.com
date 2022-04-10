@@ -3,7 +3,6 @@ date: 2022-04-09
 tags:
   - announcements
   - css
-  - principles
 title: April 9 is CSS Naked Day
 vg_wort: 0c991b2efabd47bc91344fa6ba10bb90
 ---
