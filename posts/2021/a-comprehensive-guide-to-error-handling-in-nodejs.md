@@ -3,6 +3,7 @@ author: ayisaiah
 date: 2021-11-01
 publisher: honeybadgerapp
 tags:
+  - guides
   - nodejs
   - javascript
   - errors

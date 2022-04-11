@@ -3,6 +3,7 @@ author: michebarks
 date: 2021-11-17
 publisher: smashingmag
 tags:
+  - guides
   - css
   - colors
 target_url: https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/

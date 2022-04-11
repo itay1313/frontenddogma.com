@@ -3,6 +3,7 @@ author: craigbuckler
 date: 2021-07-14
 publisher: openreplayhq
 tags:
+  - guides
   - user-agents
   - storage
   - javascript

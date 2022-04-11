@@ -3,6 +3,7 @@ author: craigbuckler
 date: 2021-08-10
 publisher: sitepointdotcom
 tags:
+  - guides
   - html
   - forms
   - validation

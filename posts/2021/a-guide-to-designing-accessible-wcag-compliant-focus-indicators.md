@@ -2,6 +2,7 @@
 author: sarasoueidan
 date: 2021-08-13
 tags:
+  - guides
   - accessibility
   - wcag
   - compliance

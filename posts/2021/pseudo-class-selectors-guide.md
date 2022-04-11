@@ -3,6 +3,7 @@ author: 5t3ph
 date: 2021-04-23
 publisher: smashingmag
 tags:
+  - guides
   - css
   - selectors
   - support

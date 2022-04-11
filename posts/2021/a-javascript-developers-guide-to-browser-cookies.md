@@ -2,6 +2,7 @@
 author: psuranas
 date: 2021-09-26
 tags:
+  - guides
   - javascript
   - cookies
 target_url: https://prateeksurana.me/blog/javascript-developer-guide-to-browser-cookies/

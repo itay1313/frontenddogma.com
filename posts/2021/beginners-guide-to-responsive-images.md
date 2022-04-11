@@ -3,6 +3,7 @@ author: impressivewebs
 date: 2021-10-15
 publisher: codeinwp
 tags:
+  - guides
   - images
   - responsive-design
   - html
