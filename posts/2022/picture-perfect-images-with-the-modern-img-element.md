@@ -1,7 +1,6 @@
 ---
 author: addyosmani
 date: 2022-03-28
-draft: true
 publisher: stackoverflow
 tags:
   - images
