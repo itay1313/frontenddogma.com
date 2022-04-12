@@ -1,6 +1,5 @@
 ---
 date: 2022-03-28
-draft: true
 publisher: convergeaccess1
 tags:
   - accessibility
