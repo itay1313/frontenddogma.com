@@ -1,8 +1,6 @@
 ---
 author: cassidoo
-# coauthors
 date: 2022-04-08
-draft: true
 publisher: thepracticaldev
 tags:
   - unicode
