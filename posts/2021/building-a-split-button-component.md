@@ -5,6 +5,8 @@ publisher: chromiumdev
 tags:
   - components
   - html
+  - css
+  - javascript
 target_url: https://web.dev/building-a-split-button-component/
 title: Building a Split-Button Component
 ---
