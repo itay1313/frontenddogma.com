@@ -1,7 +1,6 @@
 ---
 author: zoranjambor
 date: 2022-04-14
-draft: true
 publisher: cssweekly
 tags:
   - videos
