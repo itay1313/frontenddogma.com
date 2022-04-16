@@ -1,7 +1,6 @@
 ---
 author: amit_merchant
 date: 2022-04-11
-draft: true
 tags:
   - css
   - images
