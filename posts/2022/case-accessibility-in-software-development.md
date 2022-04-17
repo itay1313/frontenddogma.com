@@ -1,7 +1,6 @@
 ---
 author: gradualclearing
 date: 2022-03-28
-draft: true
 publisher: acm_ethics
 tags:
   - accessibility
