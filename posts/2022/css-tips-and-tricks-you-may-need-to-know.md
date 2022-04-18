@@ -1,7 +1,6 @@
 ---
 author: devsyedmohsin
 date: 2022-04-10
-draft: true
 publisher: thepracticaldev
 tags:
   - css
