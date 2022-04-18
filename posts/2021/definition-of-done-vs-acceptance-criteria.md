@@ -2,6 +2,7 @@
 author: failfastmoveon
 date: 2021-07-21
 tags:
+  - agile
   - scrum
   - processes
   - comparisons
