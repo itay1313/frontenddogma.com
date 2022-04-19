@@ -1,6 +1,5 @@
 ---
 date: 2022-04-06
-draft: true
 publisher: smashingmag
 tags:
   - html
