@@ -1,7 +1,6 @@
 ---
 author: koladev32
 date: 2022-04-17
-draft: true
 publisher: thepracticaldev
 tags:
   - development
