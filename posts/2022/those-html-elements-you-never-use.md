@@ -1,7 +1,6 @@
 ---
 author: eludadev
 date: 2022-04-11
-draft: true
 publisher: thepracticaldev
 tags:
   - html
