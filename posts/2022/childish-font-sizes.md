@@ -1,7 +1,6 @@
 ---
 author: tylersticka
 date: 2022-04-11
-draft: true
 publisher: cloudfour
 tags:
   - fonts
