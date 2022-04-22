@@ -1,7 +1,6 @@
 ---
 author: davatron5000
 date: 2022-04-14
-draft: true
 tags:
   - components
   - tricks
