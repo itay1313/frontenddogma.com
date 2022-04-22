@@ -1,6 +1,5 @@
 ---
 date: 2022-04-18
-draft: true
 publisher: thepracticaldev
 tags:
   - react
