@@ -1,6 +1,5 @@
 ---
 date: 2022-04-19
-draft: true
 publisher: polypane
 tags:
   - colors
