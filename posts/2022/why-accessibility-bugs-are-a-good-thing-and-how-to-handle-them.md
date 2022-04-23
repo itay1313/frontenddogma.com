@@ -1,8 +1,6 @@
 ---
 author: byrnehaber
-# coauthors
 date: 2022-04-12
-draft: true
 tags:
   - accessibility
   - quality
