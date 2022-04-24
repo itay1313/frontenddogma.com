@@ -15,6 +15,7 @@
 	<link rel=stylesheet href={{ env.base }}setup/prism{% if env.base != '/' %}.min{% endif %}.css>
 	<link rel=alternate href=/feed/ type=application/rss+xml title="{{ metadata.title }}">
 	{% if page.url != '/' %}<link rel=prerender href=/>{% endif %}
+	{% if target_url %}<link rel=preconnect href="{{ target_url | url }}">{% endif %}
 	<header>
 		<h1>{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}<img src={{ env.base }}media/logo.svg alt="{{ metadata.title }}" width=41 height=52>{% if page.url != '/' %}</a>{% endif %}</h1>
 		<nav>
