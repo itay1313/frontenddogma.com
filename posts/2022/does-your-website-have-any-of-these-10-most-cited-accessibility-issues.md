@@ -1,6 +1,5 @@
 ---
 date: 2022-04-12
-draft: true
 publisher: equal_entry
 tags:
   - accessibility
