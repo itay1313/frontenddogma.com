@@ -1,5 +1,6 @@
 ---
 date: 2022-04-20
+permalink: false
 publisher: smashingmag
 tags:
   - link-lists

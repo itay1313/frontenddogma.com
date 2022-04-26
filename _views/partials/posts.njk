@@ -2,7 +2,7 @@
 	{% for post in posts | reverse %}
 	<!-- <li class="post-item{% if post.url == url %} post-item-active{% endif %}"> -->
 	<li>
-		<a href={{ post.url | url }}>{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a> ·
+		<a href={% if post.data.target_url %}{{ post.data.target_url }}{% else %}{{ post.url | url }}{% endif %}>{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a> ·
 		<time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
 		{% if not collections[ tag ] %}
 			·
