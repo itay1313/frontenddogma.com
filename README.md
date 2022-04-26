@@ -25,6 +25,7 @@ description: DESCRIPTION # required for FD content, otherwise optional
 image: PATH # preferred (path is based on /media—see note in “Content Types” section)
 image_url: URL # optional for an image for which there is no target_url fallback
 original_url: URL # required for cross-posted entries
+permalink: false # required for linked content
 publisher: TWITTER_HANDLE # if the item was published by a third party
 tags:
   - CONTENT_TYPE # required an article
