@@ -28,8 +28,8 @@ layout: base.njk
 {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
 {% if nextPost or previousPost %}
 	<ul class="fd-nav fd-alt">
-		{% if nextPost %}<li>→ <a href={{ nextPost.url | url }}>{{ nextPost.data.title }}</a>{% endif %}
-		{% if previousPost %}<li>← <a href={{ previousPost.url | url }}>{{ previousPost.data.title }}</a>{% endif %}
+		{% if nextPost %}<li>→ <a href="{% if nextPost.data.target_url %}{{ nextPost.data.target_url }}{% else %}{{ nextPost.url | url }}{% endif %}">{{ nextPost.data.title }}</a>{% endif %}
+		{% if previousPost %}<li>← <a href="{% if previousPost.data.target_url %}{{ previousPost.data.target_url }}{% else %}{{ previousPost.url | url }}{% endif %}">{{ previousPost.data.title }}</a>{% endif %}
 	</ul>
 {% endif %}
 		</article>
