@@ -14,7 +14,7 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{%
 <ol start={{ (collections.posts.length - (pagination.pageNumber * pagination.size)) }} reversed>
 	{% for entry in entries -%}
 	<li>
-		<a href={% if entry.data.target_url %}{{ entry.data.target_url }}{% else %}{{ entry.url | url }}{% endif %}>{{ entry.data.title }}</a> · <time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time> ·
+		<a href="{% if entry.data.target_url %}{{ entry.data.target_url }}{% else %}{{ entry.url | url }}{% endif %}">{{ entry.data.title }}</a> · <time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time> ·
 		{%- set comma = joiner() -%}
 		{%- for tag in entry.data.tags | filterTagList %}
 			{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset -%}
