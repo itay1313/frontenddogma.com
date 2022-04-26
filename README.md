@@ -83,7 +83,6 @@ If there’s an image, it should be hosted under [/media](https://github.com/j9t
 
 In addition, a content piece can be one or more of the following:
 
-* `evergreen`, for important and long-lived posts
 * `featured`, for homepage promotion
 * _`cross-posted`_, for content that was already posted elsewhere (specify `original_url`)
 * `sponsored`
