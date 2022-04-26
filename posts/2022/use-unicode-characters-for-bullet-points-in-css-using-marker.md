@@ -1,6 +1,7 @@
 ---
 author: cassidoo
 date: 2022-04-08
+permalink: false
 publisher: thepracticaldev
 tags:
   - unicode

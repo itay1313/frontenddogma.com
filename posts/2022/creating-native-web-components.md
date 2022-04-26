@@ -1,5 +1,6 @@
 ---
 date: 2022-03-04
+permalink: false
 publisher: codrops
 tags:
   - components

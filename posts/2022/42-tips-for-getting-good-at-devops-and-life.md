@@ -1,6 +1,7 @@
 ---
 author: cruxakii
 date: 2022-03-10
+permalink: false
 publisher: thepracticaldev
 tags:
   - development

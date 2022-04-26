@@ -1,6 +1,7 @@
 ---
 author: _callumhart
 date: 2021-08-03
+permalink: false
 publisher: smashingmag
 tags:
   - javascript

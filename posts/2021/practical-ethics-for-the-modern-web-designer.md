@@ -1,6 +1,7 @@
 ---
 author: mor10
 date: 2021-12-14
+permalink: false
 publisher: aneventapart
 tags:
   - videos

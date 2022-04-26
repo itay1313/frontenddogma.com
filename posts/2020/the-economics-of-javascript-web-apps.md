@@ -1,6 +1,7 @@
 ---
 author: mcarterj
 date: 2020-02-23
+permalink: false
 tags:
   - javascript
   - web-apps

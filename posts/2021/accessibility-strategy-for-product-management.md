@@ -1,6 +1,7 @@
 ---
 author: sloandr
 date: 2021-07-23
+permalink: false
 publisher: tpginteractive
 tags:
   - accessibility

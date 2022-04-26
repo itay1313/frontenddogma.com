@@ -1,5 +1,6 @@
 ---
 date: 2020-08-06
+permalink: false
 publisher: monterail
 tags:
   - frameworks

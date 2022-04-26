@@ -1,6 +1,7 @@
 ---
 author: jocopolgar
 date: 2021-09-02
+permalink: false
 tags:
   - css
   - accessibility

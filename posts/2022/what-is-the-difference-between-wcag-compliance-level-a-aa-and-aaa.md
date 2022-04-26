@@ -1,5 +1,6 @@
 ---
 date: 2022-02-16
+permalink: false
 publisher: skynet_lv
 tags:
   - accessibility

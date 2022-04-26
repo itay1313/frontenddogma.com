@@ -1,6 +1,7 @@
 ---
 author: roillataguerre
 date: 2021-07-28
+permalink: false
 publisher: itnext_io
 tags:
   - typescript

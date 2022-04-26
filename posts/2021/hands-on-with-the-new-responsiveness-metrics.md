@@ -1,6 +1,7 @@
 ---
 author: hongbosong
 date: 2021-12-16
+permalink: false
 publisher: perfplanet
 tags:
   - performance

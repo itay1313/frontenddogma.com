@@ -1,6 +1,7 @@
 ---
 author: joezimjs
 date: 2022-03-18
+permalink: false
 publisher: smashingmag
 tags:
   - vuejs

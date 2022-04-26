@@ -1,6 +1,7 @@
 ---
 author: sophypophy
 date: 2022-03-08
+permalink: false
 publisher: prototypr
 tags:
   - user-experience

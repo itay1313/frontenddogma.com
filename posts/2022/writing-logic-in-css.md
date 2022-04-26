@@ -1,6 +1,7 @@
 ---
 author: iamschulz
 date: 2022-02-21
+permalink: false
 publisher: thepracticaldev
 tags:
   - css

@@ -1,6 +1,7 @@
 ---
 author: pfeiffer_andrei
 date: 2021-05-26
+permalink: false
 publisher: css
 tags:
   - css 

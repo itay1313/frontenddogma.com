@@ -1,5 +1,6 @@
 ---
 date: 2022-03-01
+permalink: false
 publisher: socketsecurity
 tags:
   - nodejs

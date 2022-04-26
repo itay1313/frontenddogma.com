@@ -1,6 +1,7 @@
 ---
 author: j9t
 date: 2020-04-02
+permalink: false
 tags:
   - frameworks
   - meta

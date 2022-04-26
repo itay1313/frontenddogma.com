@@ -1,5 +1,6 @@
 ---
 date: 2021-11-22
+permalink: false
 tags:
   - javascript
   - engines

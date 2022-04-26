@@ -1,6 +1,7 @@
 ---
 author: russmaxdesign
 date: 2021-11-10
+permalink: false
 publisher: a11ybytes
 tags:
   - videos

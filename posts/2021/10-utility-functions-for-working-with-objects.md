@@ -1,6 +1,7 @@
 ---
 author: cristi_salcescu
 date: 2021-06-07
+permalink: false
 publisher: javascriptdaily
 tags:
   - javascript

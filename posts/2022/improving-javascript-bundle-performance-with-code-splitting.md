@@ -1,6 +1,7 @@
 ---
 author: adrianbecedev
 date: 2022-02-02
+permalink: false
 publisher: smashingmag
 tags:
   - javascript

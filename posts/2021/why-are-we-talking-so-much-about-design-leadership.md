@@ -1,6 +1,7 @@
 ---
 author: jaakkodsg
 date: 2021-08-05
+permalink: false
 publisher: uxdesigncc
 tags:
   - design

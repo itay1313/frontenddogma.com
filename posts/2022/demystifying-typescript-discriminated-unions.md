@@ -1,6 +1,7 @@
 ---
 author: adamrackis
 date: 2022-01-27
+permalink: false
 publisher: css
 tags:
   - typescript

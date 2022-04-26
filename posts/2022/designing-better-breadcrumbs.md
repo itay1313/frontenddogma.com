@@ -1,5 +1,6 @@
 ---
 date: 2022-04-06
+permalink: false
 publisher: smashingmag
 tags:
   - html

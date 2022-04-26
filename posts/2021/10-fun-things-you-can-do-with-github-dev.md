@@ -1,6 +1,7 @@
 ---
 author: lostintangent
 date: 2021-08-28
+permalink: false
 publisher: thepracticaldev
 tags:
   - github

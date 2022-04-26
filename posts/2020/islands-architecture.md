@@ -1,6 +1,7 @@
 ---
 author: _developit
 date: 2020-08-11
+permalink: false
 tags:
   - architecture
   - html

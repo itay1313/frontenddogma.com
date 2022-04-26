@@ -1,6 +1,7 @@
 ---
 author: anildash
 date: 2022-04-13
+permalink: false
 tags:
   - web
   - meta

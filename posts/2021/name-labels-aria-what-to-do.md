@@ -1,6 +1,7 @@
 ---
 author: scottohara
 date: 2021-11-02
+permalink: false
 tags:
   - accessibility
   - writing

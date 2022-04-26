@@ -1,6 +1,7 @@
 ---
 author: tanhanwei90
 date: 2021-06-17
+permalink: false
 publisher: uxdesigncc
 tags:
   - design

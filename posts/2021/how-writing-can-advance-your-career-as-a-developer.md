@@ -1,6 +1,7 @@
 ---
 author: karllhughes
 date: 2021-08-09
+permalink: false
 publisher: stackoverflow
 tags:
   - career

@@ -1,6 +1,7 @@
 ---
 author: chrislachance7
 date: 2021-08-11
+permalink: false
 publisher: cusickjosh
 tags:
   - design-systems

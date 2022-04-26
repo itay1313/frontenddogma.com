@@ -3,6 +3,7 @@ author: segibb
 coauthor: karaann
 # coauthors
 date: 2021-07-25
+permalink: false
 publisher: nngroup
 tags:
   - user-experience

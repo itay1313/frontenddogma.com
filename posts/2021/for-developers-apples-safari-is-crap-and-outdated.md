@@ -1,6 +1,7 @@
 ---
 author: psunmsp
 date: 2021-07-15
+permalink: false
 tags:
   - user-agents
   - meta

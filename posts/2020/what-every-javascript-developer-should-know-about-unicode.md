@@ -1,6 +1,7 @@
 ---
 author: panzerdp
 date: 2020-05-19
+permalink: false
 tags:
   - javascript
   - unicode

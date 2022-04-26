@@ -1,6 +1,7 @@
 ---
 author: privatenumbr
 date: 2022-04-18
+permalink: false
 tags:
   - npm
 target_url: https://hirok.io/posts/avoid-npm-link

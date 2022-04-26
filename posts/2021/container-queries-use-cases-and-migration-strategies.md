@@ -1,6 +1,7 @@
 ---
 author: adrianbecedev
 date: 2021-05-24
+permalink: false
 publisher: smashingmag
 tags:
   - css

@@ -1,6 +1,7 @@
 ---
 author: batch_man
 date: 2020-11-10
+permalink: false
 publisher: css
 tags:
   - css

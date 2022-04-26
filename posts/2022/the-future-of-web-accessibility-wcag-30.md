@@ -1,5 +1,6 @@
 ---
 date: 2022-03-11
+permalink: false
 publisher: forbes
 tags:
   - accessibility

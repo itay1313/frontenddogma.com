@@ -1,6 +1,7 @@
 ---
 author: s_aitchison
 date: 2021-03-30
+permalink: false
 publisher: thepracticaldev
 tags:
   - code-reviews

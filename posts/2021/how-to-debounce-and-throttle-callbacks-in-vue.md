@@ -1,6 +1,7 @@
 ---
 author: panzerdp
 date: 2021-11-12
+permalink: false
 tags:
   - vuejs
   - javascript

@@ -1,6 +1,7 @@
 ---
 author: zoebijl
 date: 2021-07-02
+permalink: false
 tags:
   - accessibility
   - css

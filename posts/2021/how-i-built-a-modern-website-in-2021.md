@@ -1,6 +1,7 @@
 ---
 author: kentcdodds
 date: 2021-09-29
+permalink: false
 tags:
   - html
   - css

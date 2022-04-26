@@ -1,6 +1,7 @@
 ---
 author: squilpy
 date: 2021-06-21
+permalink: false
 publisher: uxdesigncc
 tags:
   - design-systems

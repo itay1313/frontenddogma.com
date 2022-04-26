@@ -1,6 +1,7 @@
 ---
 author: chuckwired
 date: 2022-01-23
+permalink: false
 publisher: uxdesigncc
 tags:
   - design-systems

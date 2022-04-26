@@ -1,6 +1,7 @@
 ---
 author: kritisapra_
 date: 2021-09-14
+permalink: false
 publisher: chromedevtools
 tags:
   - css

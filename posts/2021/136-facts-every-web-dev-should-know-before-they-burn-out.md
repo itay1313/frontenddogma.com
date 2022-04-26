@@ -1,6 +1,7 @@
 ---
 author: fakebaldur
 date: 2021-04-21
+permalink: false
 tags:
   - career
   - meta

@@ -1,6 +1,7 @@
 ---
 author: chriscoyier
 date: 2021-12-20
+permalink: false
 publisher: css
 tags:
   - user-agents

@@ -1,6 +1,7 @@
 ---
 author: basherkev
 date: 2021-10-15
+permalink: false
 publisher: css
 tags:
   - css

@@ -1,6 +1,7 @@
 ---
 author: jasonetco
 date: 2021-06-22
+permalink: false
 publisher: github
 tags:
   - open-graph

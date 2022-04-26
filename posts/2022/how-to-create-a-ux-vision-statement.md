@@ -1,6 +1,7 @@
 ---
 author: katewkaplan
 date: 2022-02-06
+permalink: false
 publisher: nngroup
 tags:
   - user-experience

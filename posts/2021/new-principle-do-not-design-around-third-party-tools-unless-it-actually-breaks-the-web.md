@@ -1,6 +1,7 @@
 ---
 author: leaverou
 date: 2021-09-16
+permalink: false
 tags:
   - css
   - principles

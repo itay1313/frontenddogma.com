@@ -2,6 +2,7 @@
 author: argyleink
 coauthor: sw12
 date: 2021-08-02
+permalink: false
 publisher: chromiumdev
 tags:
   - surveys

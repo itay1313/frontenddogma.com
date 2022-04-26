@@ -1,6 +1,7 @@
 ---
 author: fershad
 date: 2022-01-12
+permalink: false
 publisher: realwebpagetest
 tags:
   - performance

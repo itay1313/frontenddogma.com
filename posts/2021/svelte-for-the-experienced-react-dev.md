@@ -1,6 +1,7 @@
 ---
 author: adamrackis
 date: 2021-05-21
+permalink: false
 publisher: css
 tags:
   - react

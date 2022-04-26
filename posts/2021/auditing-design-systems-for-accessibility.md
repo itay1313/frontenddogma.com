@@ -1,6 +1,7 @@
 ---
 author: annaecook
 date: 2021-05-04
+permalink: false
 publisher: dequesystems
 tags:
   - accessibility

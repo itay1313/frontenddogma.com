@@ -1,5 +1,6 @@
 ---
 date: 2022-04-05
+permalink: false
 publisher: measuringu
 tags:
   - studies

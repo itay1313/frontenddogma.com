@@ -1,6 +1,7 @@
 ---
 author: ayisaiah
 date: 2022-03-07
+permalink: false
 publisher: honeybadgerapp
 tags:
   - aws

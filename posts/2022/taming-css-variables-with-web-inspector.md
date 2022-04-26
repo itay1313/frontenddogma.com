@@ -1,6 +1,7 @@
 ---
 author: razvancaliman
 date: 2022-03-02
+permalink: false
 publisher: webkit
 tags:
   - css

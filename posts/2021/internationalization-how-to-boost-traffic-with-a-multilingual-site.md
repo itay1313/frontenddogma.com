@@ -1,5 +1,6 @@
 ---
 date: 2021-10-07
+permalink: false
 publisher: sitepointdotcom
 tags:
   - internationalization

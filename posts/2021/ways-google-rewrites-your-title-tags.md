@@ -1,6 +1,7 @@
 ---
 author: dr_pete
 date: 2021-08-31
+permalink: false
 publisher: moz
 tags:
   - seo

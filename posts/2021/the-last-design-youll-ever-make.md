@@ -1,6 +1,7 @@
 ---
 author: george_cave
 date: 2021-12-09
+permalink: false
 tags:
   - design
   - meta

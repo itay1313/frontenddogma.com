@@ -1,6 +1,7 @@
 ---
 author: erikdkennedy
 date: 2022-03-18
+permalink: false
 tags:
   - guides
   - fonts

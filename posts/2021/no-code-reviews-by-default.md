@@ -1,6 +1,7 @@
 ---
 author: thomaspaulmann
 date: 2021-06-23
+permalink: false
 publisher: raycastapp
 tags:
   - code-reviews

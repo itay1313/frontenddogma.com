@@ -1,6 +1,7 @@
 ---
 author: samuelkraft
 date: 2021-09-07
+permalink: false
 tags:
   - css
   - svg

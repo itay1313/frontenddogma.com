@@ -1,5 +1,6 @@
 ---
 date: 2021-08-02
+permalink: false
 publisher: papyrusblogging
 tags:
   - performance

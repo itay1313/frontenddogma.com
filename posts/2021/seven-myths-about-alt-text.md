@@ -1,6 +1,7 @@
 ---
 author: veron4ica
 date: 2021-02-11
+permalink: false
 tags:
   - accessibility
 target_url: https://veroniiiica.com/2021/02/11/seven-myths-about-alt-text/

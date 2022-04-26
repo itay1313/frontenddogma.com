@@ -1,6 +1,7 @@
 ---
 author: merylkevans
 date: 2022-04-14
+permalink: false
 tags:
   - accessibility
   - meta

@@ -1,5 +1,6 @@
 ---
 date: 2021-12-15
+permalink: false
 publisher: mnit_services
 tags:
   - accessibility

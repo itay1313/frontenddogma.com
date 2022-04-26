@@ -1,6 +1,7 @@
 ---
 author: patrick_h_lauke
 date: 2022-01-10
+permalink: false
 publisher: tetralogical
 tags:
   - accessibility

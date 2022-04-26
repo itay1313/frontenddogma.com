@@ -1,6 +1,7 @@
 ---
 author: glyphe
 date: 2021-09-16
+permalink: false
 tags:
   - typography
   - design

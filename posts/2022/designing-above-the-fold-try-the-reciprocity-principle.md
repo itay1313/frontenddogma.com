@@ -1,5 +1,6 @@
 ---
 date: 2022-03-24
+permalink: false
 publisher: uxdesigncc
 tags:
   - design

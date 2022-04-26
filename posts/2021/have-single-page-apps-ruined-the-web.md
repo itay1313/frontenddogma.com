@@ -1,6 +1,7 @@
 ---
 author: rich_harris
 date: 2021-10-07
+permalink: false
 tags:
   - videos
   - single-page-apps

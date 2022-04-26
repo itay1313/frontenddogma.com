@@ -1,6 +1,7 @@
 ---
 author: brad_frost
 date: 2022-02-04
+permalink: false
 tags:
   - design-systems
   - versioning

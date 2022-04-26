@@ -1,6 +1,7 @@
 ---
 author: anatudor
 date: 2021-10-31
+permalink: false
 publisher: css
 tags:
   - css

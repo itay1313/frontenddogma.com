@@ -1,5 +1,6 @@
 ---
 date: 2021-10-27
+permalink: false
 publisher: bitdev_
 tags:
   - embed-code

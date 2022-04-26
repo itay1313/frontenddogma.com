@@ -1,6 +1,7 @@
 ---
 author: alissacondra
 date: 2021-10-27
+permalink: false
 publisher: uxdesigncc
 tags:
   - user-experience

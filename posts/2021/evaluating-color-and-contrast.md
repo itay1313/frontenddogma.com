@@ -1,6 +1,7 @@
 ---
 author: jonwhiting
 date: 2021-07-02
+permalink: false
 publisher: webaim
 tags:
   - accessibility

@@ -1,6 +1,7 @@
 ---
 author: griveau
 date: 2022-02-02
+permalink: false
 publisher: linear
 tags:
   - design

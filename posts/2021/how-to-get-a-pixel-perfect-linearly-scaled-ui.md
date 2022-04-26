@@ -1,6 +1,7 @@
 ---
 author: georginikoloff
 date: 2021-07-15
+permalink: false
 publisher: css
 tags:
   - css

@@ -1,6 +1,7 @@
 ---
 author: scottohara
 date: 2021-10-21
+permalink: false
 tags:
   - html
   - semantics

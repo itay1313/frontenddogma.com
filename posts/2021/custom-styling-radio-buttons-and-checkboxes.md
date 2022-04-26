@@ -1,6 +1,7 @@
 ---
 author: scottohara
 date: 2021-09-24
+permalink: false
 tags:
   - css
   - forms

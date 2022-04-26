@@ -1,6 +1,7 @@
 ---
 author: foobartel
 date: 2021-12-22
+permalink: false
 tags:
   - css
   - selectors

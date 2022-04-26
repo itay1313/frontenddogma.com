@@ -1,6 +1,7 @@
 ---
 author: artofvision
 date: 2022-02-07
+permalink: false
 publisher: digitala11y
 tags:
   - accessibility

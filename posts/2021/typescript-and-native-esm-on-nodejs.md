@@ -1,6 +1,7 @@
 ---
 author: rauschma
 date: 2021-07-07
+permalink: false
 tags:
   - javascript
   - typescript

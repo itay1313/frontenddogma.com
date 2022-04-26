@@ -1,6 +1,7 @@
 ---
 author: joshwcomeau
 date: 2022-04-19
+permalink: false
 tags:
   - guides
   - terminal

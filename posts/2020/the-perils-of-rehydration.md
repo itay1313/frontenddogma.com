@@ -1,6 +1,7 @@
 ---
 author: joshwcomeau
 date: 2020-03-07
+permalink: false
 tags:
   - react
   - hydration

@@ -1,6 +1,7 @@
 ---
 author: garethfw
 date: 2021-09-18
+permalink: false
 publisher: linkedin
 tags:
   - accessibility

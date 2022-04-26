@@ -1,6 +1,7 @@
 ---
 author: hyggedev
 date: 2021-09-14
+permalink: false
 publisher: thepracticaldev
 tags:
   - development

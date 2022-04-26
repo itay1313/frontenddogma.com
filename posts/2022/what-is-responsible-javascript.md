@@ -2,6 +2,7 @@
 author: malchata
 coauthor: drewm
 date: 2022-02-22
+permalink: false
 publisher: smashingmag
 tags:
   - podcasts

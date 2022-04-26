@@ -1,6 +1,7 @@
 ---
 author: romano_cla
 date: 2021-10-25
+permalink: false
 publisher: codrops
 tags:
   - frameworks

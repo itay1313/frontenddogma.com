@@ -1,6 +1,7 @@
 ---
 author: aknooh10
 date: 2020-08-16
+permalink: false
 tags:
   - code-reviews
   - browsing

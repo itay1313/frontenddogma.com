@@ -1,6 +1,7 @@
 ---
 author: asidorenko_
 date: 2021-07-20
+permalink: false
 tags:
   - guides
   - react

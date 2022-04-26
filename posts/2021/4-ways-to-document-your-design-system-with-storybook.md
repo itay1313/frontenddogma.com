@@ -1,6 +1,7 @@
 ---
 author: winkervsbecks
 date: 2021-11-16
+permalink: false
 publisher: storybookjs
 tags:
   - design-systems

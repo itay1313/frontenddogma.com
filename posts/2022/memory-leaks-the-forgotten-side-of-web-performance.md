@@ -1,5 +1,6 @@
 ---
 date: 2022-01-05
+permalink: false
 tags:
   - performance
   - memory

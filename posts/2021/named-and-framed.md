@@ -1,6 +1,7 @@
 ---
 author: stevefaulkner
 date: 2021-08-26
+permalink: false
 tags:
   - accessibility
   - html

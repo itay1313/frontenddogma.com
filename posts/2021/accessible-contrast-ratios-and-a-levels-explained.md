@@ -1,5 +1,6 @@
 ---
 date: 2021-08-10
+permalink: false
 publisher: getstarkco
 tags:
   - accessibility

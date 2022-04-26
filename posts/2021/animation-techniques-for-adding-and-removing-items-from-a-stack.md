@@ -1,5 +1,6 @@
 ---
 date: 2021-10-04
+permalink: false
 publisher: css
 tags:
   - css

@@ -1,6 +1,7 @@
 ---
 author: amitmaman9
 date: 2021-12-28
+permalink: false
 publisher: fiverr
 tags:
   - design

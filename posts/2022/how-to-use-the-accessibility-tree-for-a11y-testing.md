@@ -1,5 +1,6 @@
 ---
 date: 2022-02-06
+permalink: false
 tags:
   - accessibility
   - testing

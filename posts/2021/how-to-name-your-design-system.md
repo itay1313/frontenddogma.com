@@ -1,5 +1,6 @@
 ---
 date: 2021-05-19
+permalink: false
 publisher: purplebricksdev
 tags:
   - design-systems

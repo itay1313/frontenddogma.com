@@ -1,6 +1,7 @@
 ---
 author: chockenberry
 date: 2021-08-25
+permalink: false
 tags:
   - javascript
   - tooling

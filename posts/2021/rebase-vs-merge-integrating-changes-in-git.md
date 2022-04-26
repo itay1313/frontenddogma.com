@@ -1,6 +1,7 @@
 ---
 author: gntr
 date: 2021-11-02
+permalink: false
 publisher: css
 tags:
   - git

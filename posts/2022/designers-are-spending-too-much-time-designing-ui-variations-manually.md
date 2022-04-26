@@ -1,6 +1,7 @@
 ---
 author: tudor_teisanu
 date: 2022-04-13
+permalink: false
 publisher: uxdesigncc
 tags:
   - design

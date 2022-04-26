@@ -1,6 +1,7 @@
 ---
 author: alvaro_montoro
 date: 2022-03-13
+permalink: false
 tags:
   - css
   - colors

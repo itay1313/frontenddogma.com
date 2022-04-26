@@ -1,6 +1,7 @@
 ---
 author: nas5w
 date: 2022-02-27
+permalink: false
 tags:
   - frameworks
   - react

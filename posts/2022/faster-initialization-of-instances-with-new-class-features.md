@@ -1,6 +1,7 @@
 ---
 author: joyeecheung
 date: 2022-04-20
+permalink: false
 publisher: v8js
 tags:
   - user-agents

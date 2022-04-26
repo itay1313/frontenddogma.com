@@ -1,6 +1,7 @@
 ---
 author: iainmbean
 date: 2020-10-14
+permalink: false
 tags:
   - guides
   - accessibility

@@ -1,6 +1,7 @@
 ---
 author: hdv
 date: 2022-01-03
+permalink: false
 tags:
   - versioning
   - meta

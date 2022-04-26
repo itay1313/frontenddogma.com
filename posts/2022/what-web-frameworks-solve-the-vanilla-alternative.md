@@ -1,6 +1,7 @@
 ---
 author: nomsternom
 date: 2022-02-04
+permalink: false
 publisher: smashingmag
 tags:
   - frameworks

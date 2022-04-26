@@ -1,5 +1,6 @@
 ---
 date: 2022-02-28
+permalink: false
 publisher: uxdesigncc
 tags:
   - accessibility

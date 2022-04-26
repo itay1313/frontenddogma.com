@@ -1,6 +1,7 @@
 ---
 author: alexdevero
 date: 2021-07-26
+permalink: false
 tags:
   - react
 target_url: https://blog.alexdevero.com/react-usecontext-hook/

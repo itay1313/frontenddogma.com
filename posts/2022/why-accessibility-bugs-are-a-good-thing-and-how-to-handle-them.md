@@ -1,6 +1,7 @@
 ---
 author: byrnehaber
 date: 2022-04-12
+permalink: false
 tags:
   - accessibility
   - quality

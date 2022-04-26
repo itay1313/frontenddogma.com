@@ -1,5 +1,6 @@
 ---
 date: 2022-03-07
+permalink: false
 publisher: uxmatters
 tags:
   - optimization

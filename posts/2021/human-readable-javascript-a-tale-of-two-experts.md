@@ -1,6 +1,7 @@
 ---
 author: laurieontech
 date: 2021-03-25
+permalink: false
 publisher: alistapart
 tags:
   - javascript

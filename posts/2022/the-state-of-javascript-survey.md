@@ -1,6 +1,7 @@
 ---
 author: sachagreif
 date: 2022-01-12
+permalink: false
 tags:
   - surveys
   - javascript

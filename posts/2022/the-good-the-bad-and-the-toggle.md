@@ -1,6 +1,7 @@
 ---
 author: aweelllll
 date: 2022-01-04
+permalink: false
 publisher: uxdesigncc
 tags:
   - design

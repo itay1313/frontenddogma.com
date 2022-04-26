@@ -1,6 +1,7 @@
 ---
 author: stewaterman
 date: 2022-02-28
+permalink: false
 publisher: lexoral
 tags:
   - javascript

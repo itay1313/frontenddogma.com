@@ -1,6 +1,7 @@
 ---
 author: afumbom_bingeh
 date: 2022-03-27
+permalink: false
 tags:
   - css
   - art

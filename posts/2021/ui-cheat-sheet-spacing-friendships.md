@@ -1,6 +1,7 @@
 ---
 author: tessgadd
 date: 2021-08-20
+permalink: false
 publisher: uxdesigncc
 tags:
   - design

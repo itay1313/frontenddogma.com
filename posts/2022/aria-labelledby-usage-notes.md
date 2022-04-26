@@ -1,6 +1,7 @@
 ---
 author: stevefaulkner
 date: 2022-04-03
+permalink: false
 tags:
   - accessibility
   - aria

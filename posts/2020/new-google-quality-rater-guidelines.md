@@ -1,6 +1,7 @@
 ---
 author: jenstar
 date: 2020-10-16
+permalink: false
 publisher: thesempost
 tags:
   - seo

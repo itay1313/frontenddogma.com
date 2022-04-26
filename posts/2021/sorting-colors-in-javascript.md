@@ -1,6 +1,7 @@
 ---
 author: tomekdev_
 date: 2021-06-22
+permalink: false
 tags:
   - javascript
   - sorting

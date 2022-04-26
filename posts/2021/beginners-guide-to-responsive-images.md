@@ -1,6 +1,7 @@
 ---
 author: impressivewebs
 date: 2021-10-15
+permalink: false
 publisher: codeinwp
 tags:
   - guides

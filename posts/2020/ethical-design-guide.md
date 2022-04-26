@@ -1,6 +1,7 @@
 ---
 author: liatrisbian
 date: 2020-12-27
+permalink: false
 tags:
   - websites
   - guides

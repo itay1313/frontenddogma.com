@@ -1,6 +1,7 @@
 ---
 author: sai_krrishhh
 date: 2022-01-19
+permalink: false
 publisher: logrocket
 tags:
   - nodejs

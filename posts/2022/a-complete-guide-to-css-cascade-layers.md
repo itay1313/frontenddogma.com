@@ -1,6 +1,7 @@
 ---
 author: terriblemia
 date: 2022-02-21
+permalink: false
 publisher: css
 tags:
   - guides

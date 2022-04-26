@@ -1,6 +1,7 @@
 ---
 author: domagojvidovicc
 date: 2021-06-07
+permalink: false
 publisher: thepracticaldev
 tags:
   - frameworks

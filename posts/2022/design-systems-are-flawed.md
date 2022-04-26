@@ -1,6 +1,7 @@
 ---
 author: halfool_draws
 date: 2022-01-19
+permalink: false
 publisher: shopifyux
 tags:
   - design-systems

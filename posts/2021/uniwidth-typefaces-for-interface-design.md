@@ -1,6 +1,7 @@
 ---
 author: lisa_staudinger
 date: 2021-01-27
+permalink: false
 publisher: uxdesigncc
 tags:
   - typography

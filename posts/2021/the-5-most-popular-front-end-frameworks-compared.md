@@ -1,6 +1,7 @@
 ---
 author: jchibbard
 date: 2021-04-13
+permalink: false
 publisher: sitepointdotcom
 tags:
   - frameworks

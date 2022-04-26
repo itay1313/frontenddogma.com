@@ -1,6 +1,7 @@
 ---
 author: dboudreau
 date: 2021-05-31
+permalink: false
 publisher: uxdesigncc
 tags:
   - accessibility

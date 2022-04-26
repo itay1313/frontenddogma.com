@@ -1,6 +1,7 @@
 ---
 author: inhuofficial
 date: 2021-10-31
+permalink: false
 publisher: thepracticaldev
 tags:
   - html

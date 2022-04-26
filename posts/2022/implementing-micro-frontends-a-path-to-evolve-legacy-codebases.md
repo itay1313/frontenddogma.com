@@ -1,6 +1,7 @@
 ---
 author: mircobellag
 date: 2022-04-14
+permalink: false
 publisher: thepracticaldev
 tags:
   - refactoring

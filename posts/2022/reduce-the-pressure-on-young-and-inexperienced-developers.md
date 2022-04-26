@@ -1,6 +1,7 @@
 ---
 author: j9t
 date: 2022-01-06
+permalink: false
 tags:
   - career
   - training

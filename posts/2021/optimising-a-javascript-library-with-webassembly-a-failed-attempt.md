@@ -1,6 +1,7 @@
 ---
 author: antoniovdlc
 date: 2021-09-21
+permalink: false
 tags:
   - javascript
   - libraries

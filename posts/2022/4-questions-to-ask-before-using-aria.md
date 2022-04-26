@@ -1,5 +1,6 @@
 ---
 date: 2022-01-31
+permalink: false
 publisher: boiaorg
 tags:
   - accessibility

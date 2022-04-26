@@ -1,6 +1,7 @@
 ---
 author: una
 date: 2022-02-01
+permalink: false
 publisher: chromiumdev
 tags:
   - css

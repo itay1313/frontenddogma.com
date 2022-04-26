@@ -1,5 +1,6 @@
 ---
 date: 2021-04-12
+permalink: false
 publisher: skynet_lv
 tags:
   - accessibility

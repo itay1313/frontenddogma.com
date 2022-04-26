@@ -1,6 +1,7 @@
 ---
 author: felipeerias
 date: 2021-07-01
+permalink: false
 tags:
   - design
   - colors

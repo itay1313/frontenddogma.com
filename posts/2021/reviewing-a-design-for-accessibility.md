@@ -1,5 +1,6 @@
 ---
 date: 2021-08-14
+permalink: false
 publisher: a11yproject
 tags:
   - accessibility

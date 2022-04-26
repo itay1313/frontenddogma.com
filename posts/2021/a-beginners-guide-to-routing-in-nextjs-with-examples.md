@@ -1,6 +1,7 @@
 ---
 author: ubahthebuilder
 date: 2021-11-10
+permalink: false
 publisher: sitepointdotcom
 tags:
   - guides

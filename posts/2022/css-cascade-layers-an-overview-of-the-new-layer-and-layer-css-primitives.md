@@ -1,6 +1,7 @@
 ---
 author: una
 date: 2022-01-14
+permalink: false
 tags:
   - videos
   - css

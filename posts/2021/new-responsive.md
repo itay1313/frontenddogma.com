@@ -1,6 +1,7 @@
 ---
 author: una
 date: 2021-05-19
+permalink: false
 publisher: chromiumdev
 tags:
   - responsive-design

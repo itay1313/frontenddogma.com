@@ -1,5 +1,6 @@
 ---
 date: 2022-02-13
+permalink: false
 publisher: thepracticaldev
 tags:
   - javascript

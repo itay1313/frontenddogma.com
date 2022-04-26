@@ -1,6 +1,7 @@
 ---
 author: steve8708
 date: 2022-04-13
+permalink: false
 publisher: builderio
 tags:
   - guides

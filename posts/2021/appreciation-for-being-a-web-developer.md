@@ -1,6 +1,7 @@
 ---
 author: malimirkeccita
 date: 2021-10-09
+permalink: false
 tags:
   - meta
 target_url: https://www.silvestar.codes/articles/appreciation-for-being-a-web-developer/

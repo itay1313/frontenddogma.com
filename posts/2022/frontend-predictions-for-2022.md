@@ -1,6 +1,7 @@
 ---
 author: jayfreestone
 date: 2022-01-20
+permalink: false
 tags:
   - meta
 target_url: https://www.jayfreestone.com/writing/frontend-predictions-2022/

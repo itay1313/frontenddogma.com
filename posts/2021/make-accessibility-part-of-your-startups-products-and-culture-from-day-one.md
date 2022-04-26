@@ -1,6 +1,7 @@
 ---
 author: joedevon
 date: 2021-09-03
+permalink: false
 publisher: techcrunch
 tags:
   - accessibility

@@ -1,6 +1,7 @@
 ---
 author: a_sandrina_p
 date: 2021-05-12
+permalink: false
 publisher: css
 tags:
   - css

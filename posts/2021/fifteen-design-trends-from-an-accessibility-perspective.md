@@ -1,6 +1,7 @@
 ---
 author: bethannon
 date: 2021-04-13
+permalink: false
 tags:
   - accessibility
   - design

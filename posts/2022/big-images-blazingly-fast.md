@@ -1,6 +1,7 @@
 ---
 author: erwinverb
 date: 2022-01-20
+permalink: false
 publisher: q42
 tags:
   - performance

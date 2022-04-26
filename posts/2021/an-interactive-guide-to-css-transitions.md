@@ -1,6 +1,7 @@
 ---
 author: joshwcomeau
 date: 2021-06-09
+permalink: false
 tags:
   - guides
   - css

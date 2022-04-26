@@ -1,6 +1,7 @@
 ---
 author: shadeed9
 date: 2022-04-13
+permalink: false
 tags:
   - css
   - selectors

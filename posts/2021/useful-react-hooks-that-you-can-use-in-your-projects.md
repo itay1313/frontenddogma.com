@@ -1,6 +1,7 @@
 ---
 author: ifeanyidike87
 date: 2021-11-12
+permalink: false
 publisher: smashingmag
 tags:
   - react

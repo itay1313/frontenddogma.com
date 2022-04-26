@@ -1,6 +1,7 @@
 ---
 author: mikeneumegen
 date: 2021-08-11
+permalink: false
 publisher: css
 tags:
   - comparisons

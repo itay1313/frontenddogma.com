@@ -1,6 +1,7 @@
 ---
 author: roillataguerre
 date: 2021-08-21
+permalink: false
 publisher: itnext_io
 tags:
   - nodejs

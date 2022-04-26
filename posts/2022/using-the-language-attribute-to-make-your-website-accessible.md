@@ -1,6 +1,7 @@
 ---
 author: abbott567
 date: 2022-02-11
+permalink: false
 tags:
   - accessibility
   - localization

@@ -1,5 +1,6 @@
 ---
 date: 2021-09-03
+permalink: false
 publisher: smashingmag
 tags:
   - efficiency

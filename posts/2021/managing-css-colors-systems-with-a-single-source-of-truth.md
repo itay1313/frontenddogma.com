@@ -1,5 +1,6 @@
 ---
 date: 2021-02-17
+permalink: false
 publisher: oomphinc
 tags:
   - css

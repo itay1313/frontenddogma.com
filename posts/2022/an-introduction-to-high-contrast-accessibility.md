@@ -1,6 +1,7 @@
 ---
 author: mattpriour
 date: 2022-01-19
+permalink: false
 publisher: thepracticaldev
 tags:
   - accessibility

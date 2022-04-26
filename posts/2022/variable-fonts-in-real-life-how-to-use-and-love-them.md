@@ -2,6 +2,7 @@
 author: romanshamin_en
 coauthor: _travis_turner
 date: 2022-03-24
+permalink: false
 publisher: evilmartians
 tags:
   - fonts

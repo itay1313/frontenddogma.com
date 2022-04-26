@@ -1,6 +1,7 @@
 ---
 author: mazi_mazur
 date: 2021-06-23
+permalink: false
 publisher: uxdesigncc
 tags:
   - meta

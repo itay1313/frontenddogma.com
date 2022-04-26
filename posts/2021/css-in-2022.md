@@ -1,6 +1,7 @@
 ---
 author: bramus
 date: 2021-12-27
+permalink: false
 publisher: bramusblog
 tags:
   - css

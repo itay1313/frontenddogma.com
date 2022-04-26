@@ -1,6 +1,7 @@
 ---
 author: redcrew
 date: 2021-07-26
+permalink: false
 publisher: lireodesigns
 tags:
   - surveys

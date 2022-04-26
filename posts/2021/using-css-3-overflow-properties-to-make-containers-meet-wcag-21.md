@@ -1,5 +1,6 @@
 ---
 date: 2021-09-07
+permalink: false
 publisher: convergeaccess1
 tags:
   - css

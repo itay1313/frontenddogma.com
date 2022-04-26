@@ -1,6 +1,7 @@
 ---
 author: mdo
 date: 2022-03-10
+permalink: false
 tags:
   - javascript
   - scrolling

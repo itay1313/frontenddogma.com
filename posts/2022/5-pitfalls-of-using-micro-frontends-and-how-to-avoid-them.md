@@ -1,6 +1,7 @@
 ---
 author: antozanini95
 date: 2022-02-01
+permalink: false
 publisher: sitepointdotcom
 tags:
   - micro-frontends

@@ -1,6 +1,7 @@
 ---
 author: _maximization
 date: 2022-03-25
+permalink: false
 tags:
   - javascript
   - linting

@@ -1,6 +1,7 @@
 ---
 author: stfbauer
 date: 2021-07-08
+permalink: false
 tags:
   - colors
   - frameworks

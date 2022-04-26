@@ -1,5 +1,6 @@
 ---
 date: 2021-08-30
+permalink: false
 publisher: bitdev_
 tags:
   - npm

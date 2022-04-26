@@ -1,6 +1,7 @@
 ---
 author: patrickbrosset
 date: 2021-09-16
+permalink: false
 publisher: css
 tags:
   - css

@@ -1,6 +1,7 @@
 ---
 author: scottohara
 date: 2021-07-07
+permalink: false
 tags:
   - html
   - accessibility

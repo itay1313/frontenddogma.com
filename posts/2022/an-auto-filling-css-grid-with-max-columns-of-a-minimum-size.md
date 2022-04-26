@@ -1,6 +1,7 @@
 ---
 author: mikeherchel
 date: 2022-02-16
+permalink: false
 publisher: css
 tags:
   - css

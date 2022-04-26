@@ -1,6 +1,7 @@
 ---
 author: henrihelvetica
 date: 2020-12-10
+permalink: false
 publisher: httparchive
 tags:
   - studies

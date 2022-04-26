@@ -1,6 +1,7 @@
 ---
 author: adevnadia
 date: 2022-02-27
+permalink: false
 publisher: thepracticaldev
 tags:
   - components

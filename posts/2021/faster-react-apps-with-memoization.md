@@ -1,5 +1,6 @@
 ---
 date: 2021-09-28
+permalink: false
 publisher: pixie_run
 tags:
   - react

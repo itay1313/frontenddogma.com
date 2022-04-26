@@ -1,6 +1,7 @@
 ---
 author: ilikescience
 date: 2022-02-12
+permalink: false
 tags:
   - design-systems
   - meta

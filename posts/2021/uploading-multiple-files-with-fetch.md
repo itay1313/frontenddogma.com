@@ -1,6 +1,7 @@
 ---
 author: raymondcamden
 date: 2021-08-08
+permalink: false
 tags:
   - javascript
 target_url: https://www.raymondcamden.com/2021/08/08/uploading-multiple-files-with-fetch

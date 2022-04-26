@@ -1,6 +1,7 @@
 ---
 author: kilianvalkhof
 date: 2022-01-31
+permalink: false
 tags:
   - javascript
   - scrolling

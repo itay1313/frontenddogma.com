@@ -1,6 +1,7 @@
 ---
 author: umaar
 date: 2021-10-29
+permalink: false
 tags:
   - user-agents
   - tooling

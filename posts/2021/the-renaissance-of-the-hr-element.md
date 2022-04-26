@@ -1,6 +1,7 @@
 ---
 author: accessabilly
 date: 2021-10-28
+permalink: false
 tags:
   - accessibility
   - html

@@ -1,6 +1,7 @@
 ---
 author: papa_fire
 date: 2021-12-08
+permalink: false
 publisher: perfplanet
 tags:
   - servers

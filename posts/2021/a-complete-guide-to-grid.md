@@ -1,6 +1,7 @@
 ---
 author: chrishouse83
 date: 2021-05-12
+permalink: false
 publisher: css
 tags:
   - guides

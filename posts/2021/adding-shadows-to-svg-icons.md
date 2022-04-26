@@ -1,6 +1,7 @@
 ---
 author: olawanle_joel
 date: 2021-06-11
+permalink: false
 publisher: css
 tags:
   - css

@@ -1,6 +1,7 @@
 ---
 author: dailydevtips1
 date: 2022-03-08
+permalink: false
 publisher: thepracticaldev
 tags:
   - content-management

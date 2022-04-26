@@ -1,5 +1,6 @@
 ---
 date: 2021-07-15
+permalink: false
 publisher: contentscience
 tags:
   - accessibility

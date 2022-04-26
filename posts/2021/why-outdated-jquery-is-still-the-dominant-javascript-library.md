@@ -1,6 +1,7 @@
 ---
 author: ricmac
 date: 2021-10-25
+permalink: false
 publisher: thenewstack
 tags:
   - javascript

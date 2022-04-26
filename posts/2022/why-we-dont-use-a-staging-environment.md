@@ -1,5 +1,6 @@
 ---
 date: 2022-04-01
+permalink: false
 publisher: squeakyai
 tags:
   - staging

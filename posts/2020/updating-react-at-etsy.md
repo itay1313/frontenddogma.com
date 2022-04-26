@@ -1,6 +1,7 @@
 ---
 author: sangster
 date: 2020-07-29
+permalink: false
 tags:
   - react
   - frameworks

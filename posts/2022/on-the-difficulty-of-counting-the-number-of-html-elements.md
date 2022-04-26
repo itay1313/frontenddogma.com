@@ -1,6 +1,7 @@
 ---
 author: j9t
 date: 2022-01-17
+permalink: false
 tags:
   - html
 target_url: https://meiert.com/en/blog/the-number-of-html-elements/

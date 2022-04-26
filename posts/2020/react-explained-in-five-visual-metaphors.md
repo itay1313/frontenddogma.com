@@ -1,6 +1,7 @@
 ---
 author: mappletons
 date: 2020-09-22
+permalink: false
 publisher: eggheadio
 tags:
   - videos

@@ -1,6 +1,7 @@
 ---
 author: joyeecheung
 date: 2021-07-06
+permalink: false
 tags:
   - javascript
   - nodejs

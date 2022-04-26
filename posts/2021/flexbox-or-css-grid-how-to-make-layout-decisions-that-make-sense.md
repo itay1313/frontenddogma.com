@@ -1,6 +1,7 @@
 ---
 author: antoniettaperna
 date: 2021-08-25
+permalink: false
 publisher: sitepointdotcom
 tags:
   - css

@@ -1,5 +1,6 @@
 ---
 date: 2021-02-01
+permalink: false
 publisher: uxdesigncc
 tags:
   - components

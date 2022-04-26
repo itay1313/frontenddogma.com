@@ -1,6 +1,7 @@
 ---
 author: _dte
 date: 2021-11-24
+permalink: false
 tags:
   - design-systems
   - meta

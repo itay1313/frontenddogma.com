@@ -1,6 +1,7 @@
 ---
 author: jasonberes
 date: 2022-01-24
+permalink: false
 publisher: uxmatters
 tags:
   - maintenance

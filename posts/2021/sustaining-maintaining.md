@@ -1,6 +1,7 @@
 ---
 author: davatron5000
 date: 2021-12-16
+permalink: false
 tags:
   - open-source
   - meta

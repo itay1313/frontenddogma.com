@@ -1,5 +1,6 @@
 ---
 date: 2022-03-10
+permalink: false
 publisher: thenewstack
 tags:
   - videos

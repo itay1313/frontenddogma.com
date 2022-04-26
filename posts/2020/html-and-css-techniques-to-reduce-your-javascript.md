@@ -1,6 +1,7 @@
 ---
 author: anthony_ricaud
 date: 2020-12-27
+permalink: false
 publisher: perfplanet
 tags:
   - html

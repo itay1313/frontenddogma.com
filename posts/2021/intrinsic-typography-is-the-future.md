@@ -1,6 +1,7 @@
 ---
 author: scottkellum
 date: 2021-04-20
+permalink: false
 publisher: css
 tags:
   - typography

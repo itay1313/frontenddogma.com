@@ -1,5 +1,6 @@
 ---
 date: 2021-05-26
+permalink: false
 publisher: phpwch
 tags:
   - php

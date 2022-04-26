@@ -1,6 +1,7 @@
 ---
 author: colbyfayock
 date: 2021-07-19
+permalink: false
 publisher: smashingmag
 tags:
   - testing

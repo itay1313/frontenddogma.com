@@ -1,6 +1,7 @@
 ---
 author: aardrian
 date: 2021-09-25
+permalink: false
 tags:
   - accessibility
   - meta

@@ -1,5 +1,6 @@
 ---
 date: 2021-09-01
+permalink: false
 tags:
   - development
   - meta

@@ -1,6 +1,7 @@
 ---
 author: timvereecke
 date: 2021-12-23
+permalink: false
 publisher: perfplanet
 tags:
   - performance

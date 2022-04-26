@@ -1,5 +1,6 @@
 ---
 date: 2022-02-07
+permalink: false
 publisher: testproject_io
 tags:
   - accessibility

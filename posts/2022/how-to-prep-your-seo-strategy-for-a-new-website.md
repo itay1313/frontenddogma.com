@@ -1,6 +1,7 @@
 ---
 author: adrianakstein
 date: 2022-03-16
+permalink: false
 publisher: moz
 tags:
   - seo

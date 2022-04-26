@@ -1,6 +1,7 @@
 ---
 author: mmatuzo
 date: 2021-11-08
+permalink: false
 publisher: htm_hell
 tags:
   - html

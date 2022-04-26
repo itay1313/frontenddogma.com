@@ -1,6 +1,7 @@
 ---
 author: yatil
 date: 2022-02-03
+permalink: false
 tags:
   - accessibility
   - user-experience

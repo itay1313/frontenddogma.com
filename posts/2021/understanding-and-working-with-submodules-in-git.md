@@ -1,6 +1,7 @@
 ---
 author: gntr
 date: 2021-09-30
+permalink: false
 publisher: sitepointdotcom
 tags:
   - git

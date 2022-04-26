@@ -1,6 +1,7 @@
 ---
 author: malimirkeccita
 date: 2021-03-08
+permalink: false
 tags:
   - css
   - selectors

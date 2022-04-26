@@ -1,6 +1,7 @@
 ---
 author: scottohara
 date: 2022-02-05
+permalink: false
 tags:
   - accessibility
   - aria

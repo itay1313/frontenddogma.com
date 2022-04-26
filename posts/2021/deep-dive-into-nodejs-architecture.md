@@ -1,6 +1,7 @@
 ---
 author: altamash__ali
 date: 2021-11-06
+permalink: false
 publisher: thepracticaldev
 tags:
   - nodejs

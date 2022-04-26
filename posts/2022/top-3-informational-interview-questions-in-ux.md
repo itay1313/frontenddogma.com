@@ -1,5 +1,6 @@
 ---
 date: 2022-04-02
+permalink: false
 publisher: nngroup
 tags:
   - videos

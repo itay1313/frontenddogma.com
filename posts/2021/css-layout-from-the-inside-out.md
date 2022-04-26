@@ -1,6 +1,7 @@
 ---
 author: rachelandrew
 date: 2021-11-30
+permalink: false
 publisher: webstandards
 tags:
   - videos

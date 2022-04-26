@@ -1,6 +1,7 @@
 ---
 author: krasimirtsonev
 date: 2021-12-07
+permalink: false
 publisher: perfplanet
 tags:
   - react

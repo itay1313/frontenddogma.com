@@ -1,6 +1,7 @@
 ---
 author: asundiev
 date: 2021-09-16
+permalink: false
 publisher: beameryhq_eng
 tags:
   - design

@@ -1,6 +1,7 @@
 ---
 author: alexdevero
 date: 2021-03-29
+permalink: false
 tags:
   - javascript
 target_url: https://blog.alexdevero.com/values-objects-references-javascript/

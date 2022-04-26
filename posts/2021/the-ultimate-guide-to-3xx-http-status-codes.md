@@ -1,5 +1,6 @@
 ---
 date: 2021-10-13
+permalink: false
 publisher: sitepointdotcom
 tags:
   - guides

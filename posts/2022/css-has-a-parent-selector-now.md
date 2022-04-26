@@ -1,6 +1,7 @@
 ---
 author: m_ott
 date: 2022-04-10
+permalink: false
 tags:
   - css
   - selectors

@@ -1,5 +1,6 @@
 ---
 date: 2020-05-28
+permalink: false
 publisher: 30secondsofcode
 tags:
   - websites

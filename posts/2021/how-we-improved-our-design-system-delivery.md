@@ -1,6 +1,7 @@
 ---
 author: gillbennet
 date: 2021-10-07
+permalink: false
 tags:
   - design-systems
   - processes

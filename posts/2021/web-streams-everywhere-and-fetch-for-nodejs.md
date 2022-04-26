@@ -1,6 +1,7 @@
 ---
 author: hypeddev
 date: 2021-09-29
+permalink: false
 publisher: css
 tags:
   - javascript

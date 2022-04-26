@@ -1,5 +1,6 @@
 ---
 date: 2022-03-02
+permalink: false
 publisher: boiaorg
 tags:
   - link-lists

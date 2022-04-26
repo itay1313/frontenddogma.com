@@ -1,5 +1,6 @@
 ---
 date: 2021-06-22
+permalink: false
 publisher: uxdesigncc
 tags:
   - usability

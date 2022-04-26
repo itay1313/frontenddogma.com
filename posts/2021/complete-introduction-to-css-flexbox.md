@@ -1,6 +1,7 @@
 ---
 author: cenacr007_harsh
 date: 2021-07-25
+permalink: false
 publisher: thepracticaldev
 tags:
   - css

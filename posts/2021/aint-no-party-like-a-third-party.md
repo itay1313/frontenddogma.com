@@ -1,6 +1,7 @@
 ---
 author: adactio
 date: 2021-12-03
+permalink: false
 publisher: css
 tags:
   - meta

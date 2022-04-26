@@ -1,6 +1,7 @@
 ---
 author: luistalamantes_
 date: 2021-10-05
+permalink: false
 publisher: uxdesigncc
 tags:
   - accessibility

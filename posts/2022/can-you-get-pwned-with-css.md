@@ -1,6 +1,7 @@
 ---
 author: scott_helme
 date: 2022-02-23
+permalink: false
 tags:
   - css
   - security

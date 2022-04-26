@@ -1,6 +1,7 @@
 ---
 author: fractorious
 date: 2021-10-26
+permalink: false
 publisher: chromiumdev
 tags:
   - meta

@@ -1,6 +1,7 @@
 ---
 author: michebarks
 date: 2022-03-01
+permalink: false
 publisher: smashingmag
 tags:
   - css

@@ -1,6 +1,7 @@
 ---
 author: ricmac
 date: 2021-09-15
+permalink: false
 publisher: webdevhistory
 tags:
   - history

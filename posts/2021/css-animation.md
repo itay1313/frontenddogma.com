@@ -1,6 +1,7 @@
 ---
 author: 5t3ph
 date: 2021-12-21
+permalink: false
 tags:
   - css
   - animations

@@ -1,6 +1,7 @@
 ---
 author: dannysapio
 date: 2020-03-16
+permalink: false
 publisher: uxdesigncc
 tags:
   - user-experience

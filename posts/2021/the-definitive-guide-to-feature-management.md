@@ -1,5 +1,6 @@
 ---
 date: 2021-01-20
+permalink: false
 publisher: launchdarkly
 tags:
   - guides

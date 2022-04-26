@@ -1,6 +1,7 @@
 ---
 author: kilianvalkhof
 date: 2021-07-13
+permalink: false
 tags:
   - css
   - javascript

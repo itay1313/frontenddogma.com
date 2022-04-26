@@ -1,6 +1,7 @@
 ---
 author: nikolalsvk
 date: 2021-12-20
+permalink: false
 tags:
   - css
   - animations

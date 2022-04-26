@@ -1,6 +1,7 @@
 ---
 author: rreverser
 date: 2022-01-27
+permalink: false
 publisher: chromiumdev
 tags:
   - webassembly

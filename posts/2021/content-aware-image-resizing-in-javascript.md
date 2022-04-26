@@ -1,6 +1,7 @@
 ---
 author: trekhleb
 date: 2021-04-16
+permalink: false
 tags:
   - javascript
   - images

@@ -1,6 +1,7 @@
 ---
 author: dariusz_w
 date: 2022-03-15
+permalink: false
 tags:
   - javascript
   - cookies

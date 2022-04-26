@@ -1,6 +1,7 @@
 ---
 author: rwieruch
 date: 2021-07-11
+permalink: false
 tags:
   - react
   - checklists

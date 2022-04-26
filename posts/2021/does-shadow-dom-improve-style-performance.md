@@ -1,5 +1,6 @@
 ---
 date: 2021-08-15
+permalink: false
 tags:
   - dom
   - performance

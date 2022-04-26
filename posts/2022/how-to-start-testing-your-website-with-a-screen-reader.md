@@ -1,6 +1,7 @@
 ---
 author: karks88
 date: 2022-04-19
+permalink: false
 publisher: speckyboy
 tags:
   - accessibility

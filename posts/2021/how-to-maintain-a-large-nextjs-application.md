@@ -1,6 +1,7 @@
 ---
 author: nirmalyaghosh_
 date: 2021-11-26
+permalink: false
 publisher: smashingmag
 tags:
   - nextjs

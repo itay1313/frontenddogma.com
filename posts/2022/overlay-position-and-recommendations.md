@@ -1,5 +1,6 @@
 ---
 date: 2022-02-25
+permalink: false
 publisher: iaaporg
 tags:
   - accessibility

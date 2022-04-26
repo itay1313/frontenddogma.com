@@ -1,6 +1,7 @@
 ---
 author: byrnehaber
 date: 2021-07-12
+permalink: false
 tags:
   - accessibility
   - writing

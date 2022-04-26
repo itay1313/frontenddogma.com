@@ -1,6 +1,7 @@
 ---
 author: simonplend
 date: 2021-10-20
+permalink: false
 tags:
   - nodejs
   - http

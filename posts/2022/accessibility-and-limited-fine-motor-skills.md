@@ -1,5 +1,6 @@
 ---
 date: 2022-03-03
+permalink: false
 publisher: weco5
 tags:
   - accessibility

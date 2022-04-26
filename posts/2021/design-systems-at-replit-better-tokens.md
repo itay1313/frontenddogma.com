@@ -1,6 +1,7 @@
 ---
 author: warronbebster
 date: 2021-10-26
+permalink: false
 publisher: replit
 tags:
   - design-systems

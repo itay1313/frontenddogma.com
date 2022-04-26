@@ -1,6 +1,7 @@
 ---
 author: elliotclydenz
 date: 2021-04-08
+permalink: false
 publisher: css
 tags:
   - tooling

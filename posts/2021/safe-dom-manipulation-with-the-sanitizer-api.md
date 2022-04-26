@@ -1,5 +1,6 @@
 ---
 date: 2021-10-06
+permalink: false
 publisher: chromiumdev
 tags:
   - dom

@@ -1,6 +1,7 @@
 ---
 author: gregbrimble
 date: 2021-09-15
+permalink: false
 publisher: cloudflare
 tags:
   - images

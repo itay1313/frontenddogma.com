@@ -1,6 +1,7 @@
 ---
 author: garethfw
 date: 2022-01-14
+permalink: false
 publisher: uxdesigncc
 tags:
   - accessibility

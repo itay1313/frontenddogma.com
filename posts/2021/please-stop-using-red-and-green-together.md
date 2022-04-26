@@ -1,5 +1,6 @@
 ---
 date: 2021-07-20
+permalink: false
 publisher: baseline_hq
 tags:
   - accessibility

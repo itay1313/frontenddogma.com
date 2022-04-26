@@ -1,6 +1,7 @@
 ---
 author: storykaboom
 date: 2022-02-28
+permalink: false
 publisher: css
 tags:
   - html

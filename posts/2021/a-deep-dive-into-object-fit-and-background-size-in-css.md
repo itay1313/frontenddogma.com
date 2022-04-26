@@ -1,6 +1,7 @@
 ---
 author: shadeed9
 date: 2021-10-25
+permalink: false
 publisher: smashingmag
 tags:
   - css

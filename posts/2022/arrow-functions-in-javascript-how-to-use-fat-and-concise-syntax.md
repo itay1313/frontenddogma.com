@@ -1,6 +1,7 @@
 ---
 author: antoniettaperna
 date: 2022-03-09
+permalink: false
 publisher: sitepointdotcom
 tags:
   - javascript

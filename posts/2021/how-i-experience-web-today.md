@@ -1,5 +1,6 @@
 ---
 date: 2021-08-22
+permalink: false
 tags:
   - websites
   - meta

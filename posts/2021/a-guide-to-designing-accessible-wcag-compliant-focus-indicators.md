@@ -1,6 +1,7 @@
 ---
 author: sarasoueidan
 date: 2021-08-13
+permalink: false
 tags:
   - guides
   - accessibility

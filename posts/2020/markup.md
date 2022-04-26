@@ -3,6 +3,7 @@ author: j9t
 coauthor: catalinred
 # coauthors
 date: 2020-11-10
+permalink: false
 publisher: httparchive
 tags:
   - studies

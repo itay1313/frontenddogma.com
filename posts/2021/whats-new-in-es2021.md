@@ -1,6 +1,7 @@
 ---
 author: ralex1993
 date: 2021-06-22
+permalink: false
 publisher: uidotdev
 tags:
   - javascript

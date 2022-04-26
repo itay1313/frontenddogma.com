@@ -1,6 +1,7 @@
 ---
 author: chriscoyier
 date: 2021-10-14
+permalink: false
 publisher: css
 tags:
   - css

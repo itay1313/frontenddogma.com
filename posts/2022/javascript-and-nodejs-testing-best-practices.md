@@ -1,6 +1,7 @@
 ---
 author: goldbergyoni
 date: 2022-04-06
+permalink: false
 tags:
   - javascript
   - nodejs

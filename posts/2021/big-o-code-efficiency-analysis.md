@@ -1,6 +1,7 @@
 ---
 author: chirila_
 date: 2021-08-13
+permalink: false
 publisher: thepracticaldev
 tags:
   - algorithms

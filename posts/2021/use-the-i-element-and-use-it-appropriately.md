@@ -1,6 +1,7 @@
 ---
 author: j9t
 date: 2021-06-29
+permalink: false
 tags:
   - html
   - semantics

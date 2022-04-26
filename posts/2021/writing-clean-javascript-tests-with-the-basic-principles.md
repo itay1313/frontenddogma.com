@@ -1,6 +1,7 @@
 ---
 author: goldbergyoni
 date: 2021-10-04
+permalink: false
 tags:
   - javascript
   - testing

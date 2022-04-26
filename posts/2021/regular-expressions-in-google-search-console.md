@@ -1,6 +1,7 @@
 ---
 author: chouinardjc
 date: 2021-06-14
+permalink: false
 tags:
   - regex
   - seo

@@ -1,5 +1,6 @@
 ---
 date: 2021-06-03
+permalink: false
 publisher: googleoss
 tags:
   - services

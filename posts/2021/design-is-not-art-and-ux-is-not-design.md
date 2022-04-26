@@ -1,6 +1,7 @@
 ---
 author: micbuckcreative
 date: 2021-11-03
+permalink: false
 publisher: uxdesigncc
 tags:
   - design

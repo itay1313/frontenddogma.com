@@ -1,6 +1,7 @@
 ---
 author: _alanbsmith
 date: 2021-03-05
+permalink: false
 tags:
   - design-systems
   - meta

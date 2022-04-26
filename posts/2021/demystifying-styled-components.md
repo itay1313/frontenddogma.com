@@ -1,6 +1,7 @@
 ---
 author: joshwcomeau
 date: 2021-06-22
+permalink: false
 tags:
   - css
   - javascript

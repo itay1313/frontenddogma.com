@@ -1,6 +1,7 @@
 ---
 author: elyssabethha
 date: 2021-03-19
+permalink: false
 publisher: dzoneinc
 tags:
   - frameworks

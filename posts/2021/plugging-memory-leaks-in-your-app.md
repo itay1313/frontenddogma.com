@@ -1,6 +1,7 @@
 ---
 author: stoyanstefanov
 date: 2021-12-04
+permalink: false
 publisher: perfplanet
 tags:
   - performance

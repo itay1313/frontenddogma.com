@@ -1,6 +1,7 @@
 ---
 author: imiahazel
 date: 2021-08-24
+permalink: false
 publisher: thepracticaldev
 tags:
   - principles

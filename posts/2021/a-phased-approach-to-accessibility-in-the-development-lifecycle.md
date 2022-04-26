@@ -1,6 +1,7 @@
 ---
 author: steady5063
 date: 2021-10-21
+permalink: false
 publisher: dequesystems
 tags:
   - accessibility

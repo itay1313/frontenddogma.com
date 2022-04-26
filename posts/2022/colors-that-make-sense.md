@@ -1,6 +1,7 @@
 ---
 author: slyfab
 date: 2022-02-15
+permalink: false
 publisher: getaroundfr
 tags:
   - accessibility

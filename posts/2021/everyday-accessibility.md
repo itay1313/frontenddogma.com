@@ -1,6 +1,7 @@
 ---
 author: mawconsultngllc
 date: 2021-06-15
+permalink: false
 publisher: a11yproject
 tags:
   - accessibility

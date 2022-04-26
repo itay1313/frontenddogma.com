@@ -1,6 +1,7 @@
 ---
 author: hexagoncircle
 date: 2022-02-01
+permalink: false
 tags:
   - design
   - theming

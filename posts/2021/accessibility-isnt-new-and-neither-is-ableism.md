@@ -1,5 +1,6 @@
 ---
 date: 2021-09-27
+permalink: false
 publisher: mawconsultngllc
 tags:
   - accessibility

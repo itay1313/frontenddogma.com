@@ -1,6 +1,7 @@
 ---
 author: moniquedanao2
 date: 2022-02-15
+permalink: false
 publisher: sitepointdotcom
 tags:
   - meta

@@ -1,5 +1,6 @@
 ---
 date: 2021-09-27
+permalink: false
 tags:
   - automation
   - design-tokens

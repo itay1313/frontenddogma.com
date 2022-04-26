@@ -1,6 +1,7 @@
 ---
 author: amy_hupe
 date: 2022-02-18
+permalink: false
 tags:
   - design-systems
   - documentation

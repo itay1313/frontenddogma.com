@@ -1,5 +1,6 @@
 ---
 date: 2022-01-18
+permalink: false
 publisher: tetralogical
 tags:
   - accessibility

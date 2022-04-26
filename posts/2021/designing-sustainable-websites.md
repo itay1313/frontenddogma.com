@@ -1,6 +1,7 @@
 ---
 author: gerrymcgovern
 date: 2021-11-21
+permalink: false
 tags:
   - sustainability
   - meta

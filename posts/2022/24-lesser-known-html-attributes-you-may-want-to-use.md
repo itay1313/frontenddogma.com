@@ -1,6 +1,7 @@
 ---
 author: madzadev
 date: 2022-02-01
+permalink: false
 publisher: thepracticaldev
 tags:
   - html

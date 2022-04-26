@@ -1,6 +1,7 @@
 ---
 author: orangeacme
 date: 2021-12-06
+permalink: false
 publisher: perfplanet
 tags:
   - http

@@ -1,6 +1,7 @@
 ---
 author: fivenp
 date: 2021-05-25
+permalink: false
 publisher: uxdesigncc
 tags:
   - design-systems

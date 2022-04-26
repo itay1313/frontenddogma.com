@@ -1,6 +1,7 @@
 ---
 author: jimniels
 date: 2021-05-19
+permalink: false
 tags:
   - developer-experience
   - meta

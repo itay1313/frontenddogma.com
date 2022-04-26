@@ -1,6 +1,7 @@
 ---
 author: yuanchuan23
 date: 2022-02-18
+permalink: false
 tags:
   - svg
   - css

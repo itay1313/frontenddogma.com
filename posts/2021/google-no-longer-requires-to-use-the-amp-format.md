@@ -1,5 +1,6 @@
 ---
 date: 2021-06-28
+permalink: false
 publisher: theregister
 tags:
   - amp

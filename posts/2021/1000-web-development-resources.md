@@ -1,5 +1,6 @@
 ---
 date: 2021-12-26
+permalink: false
 publisher: thepracticaldev
 tags:
   - link-lists

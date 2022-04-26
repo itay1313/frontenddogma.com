@@ -1,6 +1,7 @@
 ---
 author: 5t3ph
 date: 2021-06-24
+permalink: false
 publisher: trostcodes
 tags:
   - videos

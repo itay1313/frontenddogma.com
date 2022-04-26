@@ -1,6 +1,7 @@
 ---
 author: kanika48
 date: 2022-03-21
+permalink: false
 publisher: uxmatters
 tags:
   - user-experience

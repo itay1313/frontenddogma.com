@@ -1,5 +1,6 @@
 ---
 date: 2021-09-08
+permalink: false
 publisher: rosettatype
 tags:
   - design

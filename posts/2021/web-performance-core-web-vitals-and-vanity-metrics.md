@@ -1,6 +1,7 @@
 ---
 author: kanmiobasa
 date: 2021-12-19
+permalink: false
 publisher: perfplanet
 tags:
   - performance

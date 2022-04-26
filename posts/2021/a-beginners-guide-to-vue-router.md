@@ -1,6 +1,7 @@
 ---
 author: wernancheta
 date: 2021-12-07
+permalink: false
 publisher: sitepointdotcom
 tags:
   - guides

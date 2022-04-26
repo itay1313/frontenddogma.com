@@ -1,6 +1,7 @@
 ---
 author: annaecook
 date: 2021-07-15
+permalink: false
 publisher: uxdesigncc
 tags:
   - accessibility

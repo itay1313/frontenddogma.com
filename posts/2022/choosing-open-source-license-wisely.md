@@ -1,6 +1,7 @@
 ---
 author: krtirtho
 date: 2022-01-16
+permalink: false
 publisher: thepracticaldev
 tags:
   - open-source

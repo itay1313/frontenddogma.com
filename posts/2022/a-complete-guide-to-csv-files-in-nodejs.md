@@ -1,6 +1,7 @@
 ---
 author: mjmawa
 date: 2022-02-23
+permalink: false
 publisher: logrocket
 tags:
   - guides

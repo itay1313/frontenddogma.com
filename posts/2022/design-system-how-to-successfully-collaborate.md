@@ -1,5 +1,6 @@
 ---
 date: 2022-02-21
+permalink: false
 publisher: uxdesigncc
 tags:
   - design-systems

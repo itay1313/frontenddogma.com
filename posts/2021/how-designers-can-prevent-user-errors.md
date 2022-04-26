@@ -1,5 +1,6 @@
 ---
 date: 2021-11-09
+permalink: false
 publisher: uxtoolsco
 tags:
   - design

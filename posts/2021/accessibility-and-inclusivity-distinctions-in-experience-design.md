@@ -1,6 +1,7 @@
 ---
 author: jennleighbrown
 date: 2021-07-06
+permalink: false
 publisher: uxbooth
 tags:
   - accessibility

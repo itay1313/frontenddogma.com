@@ -1,6 +1,7 @@
 ---
 author: eladsc
 date: 2021-07-29
+permalink: false
 publisher: smashingmag
 tags:
   - css

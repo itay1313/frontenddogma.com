@@ -1,6 +1,7 @@
 ---
 author: chrishtr
 date: 2021-11-04
+permalink: false
 publisher: chromiumdev
 tags:
   - videos

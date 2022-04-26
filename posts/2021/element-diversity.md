@@ -1,6 +1,7 @@
 ---
 author: mmatuzo
 date: 2021-09-02
+permalink: false
 tags:
   - html
   - meta

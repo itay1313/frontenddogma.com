@@ -1,6 +1,7 @@
 ---
 author: spaceninja
 date: 2021-11-23
+permalink: false
 publisher: cloudfour
 tags:
   - css

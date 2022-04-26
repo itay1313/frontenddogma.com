@@ -1,6 +1,7 @@
 ---
 author: jimniels
 date: 2021-09-07
+permalink: false
 tags:
   - javascript
 target_url: https://blog.jim-nielsen.com/2021/defining-basic-javascript-terms/

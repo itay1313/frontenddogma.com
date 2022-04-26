@@ -1,6 +1,7 @@
 ---
 author: katiehempenius
 date: 2021-09-16
+permalink: false
 publisher: chromiumdev
 tags:
   - web-vitals

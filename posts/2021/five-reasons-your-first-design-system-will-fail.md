@@ -1,5 +1,6 @@
 ---
 date: 2021-04-19
+permalink: false
 publisher: rangleio
 tags:
   - design-systems

@@ -1,6 +1,7 @@
 ---
 author: hankchizljaw
 date: 2021-12-16
+permalink: false
 publisher: css
 tags:
   - typography

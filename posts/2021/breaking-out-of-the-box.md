@@ -1,6 +1,7 @@
 ---
 author: patrickbrosset
 date: 2021-12-09
+permalink: false
 publisher: alistapart
 tags:
   - user-agents

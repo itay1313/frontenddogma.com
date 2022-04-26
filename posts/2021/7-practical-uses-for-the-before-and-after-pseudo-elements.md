@@ -1,6 +1,7 @@
 ---
 author: ziizium
 date: 2021-09-21
+permalink: false
 publisher: css
 tags:
   - css

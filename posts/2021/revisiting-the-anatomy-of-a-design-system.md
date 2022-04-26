@@ -1,6 +1,7 @@
 ---
 author: natebaldwinart
 date: 2021-12-03
+permalink: false
 publisher: uxdesigncc
 tags:
   - design-systems

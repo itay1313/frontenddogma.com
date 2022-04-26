@@ -1,6 +1,7 @@
 ---
 author: mollyfmielke
 date: 2021-10-08
+permalink: false
 publisher: a16z
 tags:
   - design

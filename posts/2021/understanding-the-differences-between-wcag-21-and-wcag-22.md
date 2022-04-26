@@ -1,5 +1,6 @@
 ---
 date: 2021-11-03
+permalink: false
 publisher: boiaorg
 tags:
   - accessibility

@@ -1,6 +1,7 @@
 ---
 author: garethfw
 date: 2021-07-26
+permalink: false
 tags:
   - accessibility
   - user-experience

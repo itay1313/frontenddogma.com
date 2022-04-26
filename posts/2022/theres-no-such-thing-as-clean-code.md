@@ -1,6 +1,7 @@
 ---
 author: stevebarnegren
 date: 2022-01-27
+permalink: false
 tags:
   - development
   - developer-experience

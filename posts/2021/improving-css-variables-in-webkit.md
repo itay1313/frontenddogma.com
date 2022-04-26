@@ -1,6 +1,7 @@
 ---
 author: tylerwilcock
 date: 2021-04-24
+permalink: false
 publisher: widendev
 tags:
   - css

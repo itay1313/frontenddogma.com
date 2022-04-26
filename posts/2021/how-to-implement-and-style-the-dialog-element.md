@@ -1,6 +1,7 @@
 ---
 author: ckozalla
 date: 2021-10-06
+permalink: false
 publisher: codrops
 tags:
   - html

@@ -1,6 +1,7 @@
 ---
 author: samthor
 date: 2021-09-20
+permalink: false
 tags:
   - css
   - animations

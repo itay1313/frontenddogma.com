@@ -1,5 +1,6 @@
 ---
 date: 2022-02-03
+permalink: false
 publisher: microassist
 tags:
   - accessibility

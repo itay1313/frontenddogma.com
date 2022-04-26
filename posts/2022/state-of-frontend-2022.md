@@ -1,5 +1,6 @@
 ---
 date: 2022-02-02
+permalink: false
 publisher: realtsh
 tags:
   - surveys

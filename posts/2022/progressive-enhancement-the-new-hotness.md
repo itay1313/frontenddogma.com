@@ -1,6 +1,7 @@
 ---
 author: chrisferdinandi
 date: 2022-03-02
+permalink: false
 tags:
   - progressive-enhancement
   - meta

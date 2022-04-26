@@ -1,6 +1,7 @@
 ---
 author: ericwbailey
 date: 2022-02-22
+permalink: false
 tags:
   - design-tokens
   - validation

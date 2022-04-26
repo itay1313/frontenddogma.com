@@ -1,5 +1,6 @@
 ---
 date: 2021-06-16
+permalink: false
 publisher: npmjs
 tags:
   - packages

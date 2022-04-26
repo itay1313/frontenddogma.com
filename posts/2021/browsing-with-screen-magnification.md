@@ -1,6 +1,7 @@
 ---
 author: iheni
 date: 2021-11-10
+permalink: false
 publisher: tetralogical
 tags:
   - accessibility

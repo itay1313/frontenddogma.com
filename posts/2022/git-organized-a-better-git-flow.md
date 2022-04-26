@@ -1,6 +1,7 @@
 ---
 author: _anniebabannie_
 date: 2022-01-13
+permalink: false
 publisher: thepracticaldev
 tags:
   - git

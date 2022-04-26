@@ -1,6 +1,7 @@
 ---
 author: gergelyorosz
 date: 2022-01-18
+permalink: false
 tags:
   - writing
   - career

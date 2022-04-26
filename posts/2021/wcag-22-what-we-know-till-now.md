@@ -1,6 +1,7 @@
 ---
 author: abikkani
 date: 2021-12-13
+permalink: false
 publisher: digitala11y
 tags:
   - accessibility

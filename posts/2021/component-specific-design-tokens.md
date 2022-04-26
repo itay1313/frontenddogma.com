@@ -1,5 +1,6 @@
 ---
 date: 2021-06-08
+permalink: false
 publisher: cloudfour
 tags:
   - components

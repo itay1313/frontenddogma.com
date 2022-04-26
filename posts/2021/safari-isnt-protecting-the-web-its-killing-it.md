@@ -1,6 +1,7 @@
 ---
 author: pimterry
 date: 2021-07-28
+permalink: false
 publisher: httptoolkit
 tags:
   - user-agents

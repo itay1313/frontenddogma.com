@@ -1,6 +1,7 @@
 ---
 author: redcrew
 date: 2022-04-11
+permalink: false
 publisher: lireodesigns
 tags:
   - accessibility

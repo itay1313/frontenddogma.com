@@ -1,6 +1,7 @@
 ---
 author: chrisferdinandi
 date: 2021-07-15
+permalink: false
 tags:
   - javascript
   - concepts

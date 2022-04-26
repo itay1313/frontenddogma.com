@@ -1,6 +1,7 @@
 ---
 author: jay_hoffmann
 date: 2021-11-03
+permalink: false
 publisher: css
 tags:
   - history

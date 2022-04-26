@@ -1,6 +1,7 @@
 ---
 author: kentcdodds
 date: 2020-07-15
+permalink: false
 tags:
   - javascript
   - react

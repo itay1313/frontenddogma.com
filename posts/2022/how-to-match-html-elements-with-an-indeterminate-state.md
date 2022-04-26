@@ -1,6 +1,7 @@
 ---
 author: stefanjudis
 date: 2022-03-31
+permalink: false
 tags:
   - html
   - css

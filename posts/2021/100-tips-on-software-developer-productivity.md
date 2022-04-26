@@ -1,6 +1,7 @@
 ---
 author: apkoponen
 date: 2021-12-15
+permalink: false
 publisher: thepracticaldev
 tags:
   - development

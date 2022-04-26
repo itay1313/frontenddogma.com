@@ -1,5 +1,6 @@
 ---
 date: 2021-09-22
+permalink: false
 publisher: learnpine
 tags:
   - html

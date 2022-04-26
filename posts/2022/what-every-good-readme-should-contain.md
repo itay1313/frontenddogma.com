@@ -1,5 +1,6 @@
 ---
 date: 2022-03-16
+permalink: false
 publisher: thepracticaldev
 tags:
   - documentation

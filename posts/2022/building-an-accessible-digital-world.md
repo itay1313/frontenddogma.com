@@ -1,6 +1,7 @@
 ---
 author: gradualclearing
 date: 2022-01-13
+permalink: false
 publisher: ieeeorg
 tags:
   - accessibility

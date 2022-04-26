@@ -1,5 +1,6 @@
 ---
 date: 2021-08-01
+permalink: false
 tags:
   - frameworks
   - components

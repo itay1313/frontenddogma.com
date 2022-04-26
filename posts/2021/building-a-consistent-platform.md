@@ -1,5 +1,6 @@
 ---
 date: 2021-01-26
+permalink: false
 publisher: usemuzli
 tags:
   - design-systems

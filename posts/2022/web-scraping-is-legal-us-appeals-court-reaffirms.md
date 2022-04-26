@@ -1,6 +1,7 @@
 ---
 author: zackwhittaker
 date: 2022-04-18
+permalink: false
 publisher: techcrunch
 tags:
   - scraping

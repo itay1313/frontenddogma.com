@@ -1,6 +1,7 @@
 ---
 author: eludadev
 date: 2022-04-09
+permalink: false
 publisher: thepracticaldev
 tags:
   - javascript

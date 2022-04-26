@@ -1,5 +1,6 @@
 ---
 date: 2022-02-07
+permalink: false
 publisher: themeisle
 tags:
   - guides

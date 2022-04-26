@@ -1,6 +1,7 @@
 ---
 author: salmanravoof
 date: 2021-09-07
+permalink: false
 publisher: kinsta
 tags:
   - php

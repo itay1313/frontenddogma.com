@@ -1,6 +1,7 @@
 ---
 author: acemarke
 date: 2020-05-17
+permalink: false
 tags:
   - guides
   - react

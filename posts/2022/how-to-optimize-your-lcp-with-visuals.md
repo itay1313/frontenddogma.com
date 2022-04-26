@@ -1,6 +1,7 @@
 ---
 author: steve8708
 date: 2022-03-29
+permalink: false
 publisher: thepracticaldev
 tags:
   - performance

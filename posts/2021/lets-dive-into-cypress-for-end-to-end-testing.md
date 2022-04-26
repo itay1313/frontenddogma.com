@@ -1,6 +1,7 @@
 ---
 author: leichteckig
 date: 2021-09-27
+permalink: false
 publisher: smashingmag
 tags:
   - testing

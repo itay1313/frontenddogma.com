@@ -1,6 +1,7 @@
 ---
 author: walterstephanie
 date: 2021-09-08
+permalink: false
 tags:
   - user-experience
   - responsive-design

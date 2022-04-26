@@ -1,6 +1,7 @@
 ---
 author: aardrian
 date: 2022-03-22
+permalink: false
 tags:
   - accessibility
   - compliance

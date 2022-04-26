@@ -1,6 +1,7 @@
 ---
 author: merylkevans
 date: 2021-12-16
+permalink: false
 publisher: equal_entry
 tags:
   - accessibility

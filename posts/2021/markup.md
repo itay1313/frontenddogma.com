@@ -1,6 +1,7 @@
 ---
 author: avolakatos
 date: 2021-12-02
+permalink: false
 publisher: httparchive
 tags:
   - studies

@@ -1,6 +1,7 @@
 ---
 author: tylersticka
 date: 2021-06-28
+permalink: false
 publisher: cloudfour
 tags:
   - preprocessors

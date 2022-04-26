@@ -1,6 +1,7 @@
 ---
 author: abbeyperini
 date: 2021-11-22
+permalink: false
 publisher: thepracticaldev
 tags:
   - accessibility

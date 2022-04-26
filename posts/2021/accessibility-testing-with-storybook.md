@@ -1,6 +1,7 @@
 ---
 author: winkervsbecks
 date: 2021-08-04
+permalink: false
 publisher: storybookjs
 tags:
   - accessibility

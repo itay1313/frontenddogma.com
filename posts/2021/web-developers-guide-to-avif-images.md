@@ -1,6 +1,7 @@
 ---
 author: darek_kay
 date: 2021-04-12
+permalink: false
 tags:
   - guides
   - images

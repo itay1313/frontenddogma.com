@@ -1,6 +1,7 @@
 ---
 author: yatil
 date: 2021-12-11
+permalink: false
 tags:
   - accessibility
   - wcag

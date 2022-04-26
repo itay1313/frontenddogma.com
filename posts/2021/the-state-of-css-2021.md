@@ -1,6 +1,7 @@
 ---
 author: sachagreif
 date: 2021-12-15
+permalink: false
 tags:
   - surveys
   - css

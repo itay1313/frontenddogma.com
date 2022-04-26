@@ -1,6 +1,7 @@
 ---
 author: justericchapman
 date: 2021-06-11
+permalink: false
 publisher: thepracticaldev
 tags:
   - react

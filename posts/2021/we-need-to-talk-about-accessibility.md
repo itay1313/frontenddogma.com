@@ -1,6 +1,7 @@
 ---
 author: francescamarano
 date: 2021-11-16
+permalink: false
 tags:
   - accessibility
   - meta

@@ -3,6 +3,7 @@ author: saptak013
 coauthor: tomvangoethem
 # coauthors
 date: 2021-12-01
+permalink: false
 publisher: httparchive
 tags:
   - studies

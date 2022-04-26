@@ -1,6 +1,7 @@
 ---
 author: michebarks
 date: 2022-03-31
+permalink: false
 publisher: cssinreallife
 tags:
   - user-agents

@@ -1,6 +1,7 @@
 ---
 author: nhardy96
 date: 2021-07-26
+permalink: false
 publisher: kablamoau
 tags:
   - css

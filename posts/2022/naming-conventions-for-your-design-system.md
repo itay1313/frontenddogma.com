@@ -1,6 +1,7 @@
 ---
 author: julesmahe
 date: 2022-01-18
+permalink: false
 publisher: zeroheight
 tags:
   - design-systems

@@ -1,6 +1,7 @@
 ---
 author: klintron
 date: 2022-02-08
+permalink: false
 publisher: github
 tags:
   - javascript

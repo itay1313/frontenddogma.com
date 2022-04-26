@@ -1,6 +1,7 @@
 ---
 author: trostcodes
 date: 2022-02-07
+permalink: false
 publisher: frontendhorse
 tags:
   - javascript

@@ -1,6 +1,7 @@
 ---
 author: think_ui
 date: 2021-12-01
+permalink: false
 tags:
   - accessibility
   - colors

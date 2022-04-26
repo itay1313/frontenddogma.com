@@ -1,6 +1,7 @@
 ---
 author: j9t
 date: 2021-12-19
+permalink: false
 tags:
   - html
   - concepts

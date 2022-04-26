@@ -1,6 +1,7 @@
 ---
 author: davatron5000
 date: 2022-04-04
+permalink: false
 tags:
   - accessibility
   - meta

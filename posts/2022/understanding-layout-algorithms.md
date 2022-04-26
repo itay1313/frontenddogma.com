@@ -1,6 +1,7 @@
 ---
 author: joshwcomeau
 date: 2022-03-28
+permalink: false
 tags:
   - css
   - layout

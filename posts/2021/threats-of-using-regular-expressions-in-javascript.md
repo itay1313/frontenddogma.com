@@ -1,6 +1,7 @@
 ---
 author: dulanka_tk
 date: 2021-09-02
+permalink: false
 publisher: bitdev_
 tags:
   - javascript

@@ -1,6 +1,7 @@
 ---
 author: ronisenepomucen
 date: 2021-07-25
+permalink: false
 publisher: uxdesigncc
 tags:
   - accessibility

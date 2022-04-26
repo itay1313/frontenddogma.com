@@ -1,6 +1,7 @@
 ---
 author: michebarks
 date: 2021-11-17
+permalink: false
 publisher: smashingmag
 tags:
   - guides

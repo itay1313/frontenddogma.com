@@ -2,6 +2,7 @@
 author: addyosmani
 coauthor: devdocdude
 date: 2020-08-20
+permalink: false
 publisher: chromiumdev
 tags:
   - javascript

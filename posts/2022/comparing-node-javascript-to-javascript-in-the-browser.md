@@ -1,6 +1,7 @@
 ---
 author: elliotclydenz
 date: 2022-02-18
+permalink: false
 publisher: css
 tags:
   - javascript

@@ -1,6 +1,7 @@
 ---
 author: 5t3ph
 date: 2021-06-14
+permalink: false
 publisher: smashingmag
 tags:
   - css

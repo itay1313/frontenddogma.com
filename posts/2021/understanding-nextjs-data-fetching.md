@@ -1,6 +1,7 @@
 ---
 author: th_clarence
 date: 2021-09-02
+permalink: false
 publisher: thepracticaldev
 tags:
   - nextjs

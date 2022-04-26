@@ -1,6 +1,7 @@
 ---
 author: esthercheran
 date: 2022-02-22
+permalink: false
 publisher: figma
 tags:
   - design

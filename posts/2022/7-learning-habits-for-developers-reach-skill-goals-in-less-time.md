@@ -1,6 +1,7 @@
 ---
 author: eisabai
 date: 2022-03-28
+permalink: false
 publisher: sitepointdotcom
 tags:
   - learning

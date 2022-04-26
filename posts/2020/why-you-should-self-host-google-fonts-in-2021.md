@@ -1,6 +1,7 @@
 ---
 author: gijovarghese141
 date: 2020-12-16
+permalink: false
 tags:
   - fonts
   - google

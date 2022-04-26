@@ -1,6 +1,7 @@
 ---
 author: asundiev
 date: 2022-01-13
+permalink: false
 publisher: beameryhq_eng
 tags:
   - design-systems

@@ -1,6 +1,7 @@
 ---
 author: anthonyjdella
 date: 2022-01-28
+permalink: false
 publisher: thepracticaldev
 tags:
   - fonts

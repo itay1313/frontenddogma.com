@@ -1,5 +1,6 @@
 ---
 date: 2022-02-15
+permalink: false
 publisher: mozhacks
 tags:
   - user-agents

@@ -1,6 +1,7 @@
 ---
 author: lukasoppermann
 date: 2021-10-28
+permalink: false
 publisher: uxdesigncc
 tags:
   - design-systems

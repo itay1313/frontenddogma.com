@@ -1,5 +1,6 @@
 ---
 date: 2020-07-06
+permalink: false
 publisher: uxdesigncc
 tags:
   - websites

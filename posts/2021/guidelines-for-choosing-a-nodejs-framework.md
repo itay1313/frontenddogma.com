@@ -1,6 +1,7 @@
 ---
 author: simonplend
 date: 2021-09-28
+permalink: false
 tags:
   - nodejs
   - frameworks

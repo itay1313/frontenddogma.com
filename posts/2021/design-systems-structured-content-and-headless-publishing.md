@@ -1,6 +1,7 @@
 ---
 author: amy_hupe
 date: 2021-11-12
+permalink: false
 tags:
   - design-systems
   - content-management

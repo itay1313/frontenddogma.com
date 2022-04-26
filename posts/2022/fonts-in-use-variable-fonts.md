@@ -1,6 +1,7 @@
 ---
 author: matthijssluiter
 date: 2022-04-05
+permalink: false
 publisher: fontstand
 tags:
   - typography

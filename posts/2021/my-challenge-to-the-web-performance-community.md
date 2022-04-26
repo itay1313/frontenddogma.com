@@ -1,6 +1,7 @@
 ---
 author: philwalton
 date: 2021-10-06
+permalink: false
 tags:
   - performance
   - meta

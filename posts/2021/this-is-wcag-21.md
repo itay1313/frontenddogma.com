@@ -1,6 +1,7 @@
 ---
 author: mrrossmullen
 date: 2021-12-18
+permalink: false
 tags:
   - websites
   - accessibility

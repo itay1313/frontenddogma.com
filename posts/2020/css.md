@@ -3,6 +3,7 @@ author: leaverou
 coauthor: svgeesus
 # coauthors
 date: 2020-12-09
+permalink: false
 publisher: httparchive
 tags:
   - studies

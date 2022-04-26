@@ -1,6 +1,7 @@
 ---
 author: j9t
 date: 2020-08-17
+permalink: false
 tags:
   - css
   - resetting

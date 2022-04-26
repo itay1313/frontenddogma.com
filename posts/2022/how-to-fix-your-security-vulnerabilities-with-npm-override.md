@@ -1,5 +1,6 @@
 ---
 date: 2022-02-23
+permalink: false
 publisher: azure
 tags:
   - security

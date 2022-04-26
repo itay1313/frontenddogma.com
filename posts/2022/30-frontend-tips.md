@@ -1,6 +1,7 @@
 ---
 author: kittygiraudel
 date: 2022-01-04
+permalink: false
 tags:
   - development
   - career

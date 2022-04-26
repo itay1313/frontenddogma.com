@@ -1,6 +1,7 @@
 ---
 author: panzerdp
 date: 2021-08-10
+permalink: false
 tags:
   - javascript
   - comparisons

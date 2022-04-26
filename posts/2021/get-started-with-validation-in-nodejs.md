@@ -1,6 +1,7 @@
 ---
 author: simonplend
 date: 2021-11-24
+permalink: false
 tags:
   - nodejs
   - validation

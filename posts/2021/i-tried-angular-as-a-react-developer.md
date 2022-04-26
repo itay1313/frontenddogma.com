@@ -1,6 +1,7 @@
 ---
 author: louispetrik
 date: 2021-08-19
+permalink: false
 publisher: js_plainenglish
 tags:
   - angular

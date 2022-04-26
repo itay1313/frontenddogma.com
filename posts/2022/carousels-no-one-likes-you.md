@@ -1,6 +1,7 @@
 ---
 author: jonihalabi
 date: 2022-03-08
+permalink: false
 tags:
   - accessibility
   - usability

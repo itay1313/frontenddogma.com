@@ -1,6 +1,7 @@
 ---
 author: okonetchnikov
 date: 2021-05-27
+permalink: false
 tags:
   - components
   - libraries

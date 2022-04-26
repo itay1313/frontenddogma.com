@@ -1,6 +1,7 @@
 ---
 author: wordsofteekay
 date: 2022-01-17
+permalink: false
 publisher: thepracticaldev
 tags:
   - react

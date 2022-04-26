@@ -1,6 +1,7 @@
 ---
 author: timcochran
 date: 2022-03-08
+permalink: false
 publisher: martinfowler
 tags:
   - technical-debt

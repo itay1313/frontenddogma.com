@@ -1,6 +1,7 @@
 ---
 author: coreyaroth
 date: 2021-08-28
+permalink: false
 publisher: uxdesigncc
 tags:
   - accessibility

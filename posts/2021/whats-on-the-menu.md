@@ -1,6 +1,7 @@
 ---
 author: _marcusherrmann
 date: 2021-08-20
+permalink: false
 tags:
   - vuejs
   - accessibility

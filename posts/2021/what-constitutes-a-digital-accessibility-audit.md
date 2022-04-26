@@ -1,6 +1,7 @@
 ---
 author: goodwitch
 date: 2021-10-12
+permalink: false
 publisher: riskmgmt
 tags:
   - accessibility

@@ -1,6 +1,7 @@
 ---
 author: joelfalconer
 date: 2022-04-13
+permalink: false
 publisher: sitepointdotcom
 tags:
   - development

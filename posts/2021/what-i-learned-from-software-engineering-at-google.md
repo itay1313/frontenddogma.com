@@ -3,6 +3,7 @@ author: swizec
 date: 2021-07-16
 image: products/software-engineering-at-google.jpg
 image_url: https://www.amazon.com/dp/1492082791?tag=frontend-dogma-20
+permalink: false
 tags:
   - books
   - development

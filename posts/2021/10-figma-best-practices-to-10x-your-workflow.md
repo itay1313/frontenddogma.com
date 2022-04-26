@@ -1,6 +1,7 @@
 ---
 author: dannysapio
 date: 2021-06-30
+permalink: false
 publisher: uxdesigncc
 tags:
   - design

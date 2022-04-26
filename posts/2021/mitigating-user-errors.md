@@ -1,6 +1,7 @@
 ---
 author: harniloza
 date: 2021-08-02
+permalink: false
 publisher: uxmatters
 tags:
   - user-experience

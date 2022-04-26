@@ -1,6 +1,7 @@
 ---
 author: shadeed9
 date: 2021-09-18
+permalink: false
 tags:
   - css
   - container-queries

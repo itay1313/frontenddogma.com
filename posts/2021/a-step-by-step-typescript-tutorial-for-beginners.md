@@ -1,6 +1,7 @@
 ---
 author: jack_franklin
 date: 2021-10-27
+permalink: false
 publisher: sitepointdotcom
 tags:
   - typescript

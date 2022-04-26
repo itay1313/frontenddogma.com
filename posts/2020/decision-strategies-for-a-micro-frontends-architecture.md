@@ -1,6 +1,7 @@
 ---
 author: janstenberg
 date: 2020-01-08
+permalink: false
 publisher: infoq
 tags:
   - architecture

@@ -1,6 +1,7 @@
 ---
 author: chrishtr
 date: 2021-07-26
+permalink: false
 publisher: chromiumdev
 tags:
   - user-agents

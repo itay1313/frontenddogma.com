@@ -1,6 +1,7 @@
 ---
 author: sepedarr
 date: 2022-02-22
+permalink: false
 publisher: uxdesigncc
 tags:
   - design-systems

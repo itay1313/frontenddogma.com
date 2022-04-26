@@ -1,6 +1,7 @@
 ---
 author: georgedoescode
 date: 2021-11-24
+permalink: false
 publisher: css
 tags:
   - css

@@ -1,5 +1,6 @@
 ---
 date: 2022-01-11
+permalink: false
 publisher: remix_run
 tags:
   - remix

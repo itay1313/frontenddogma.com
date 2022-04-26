@@ -1,6 +1,7 @@
 ---
 author: rfeers
 date: 2022-03-19
+permalink: false
 publisher: uxdesigncc
 tags:
   - dark-mode

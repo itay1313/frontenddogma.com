@@ -3,6 +3,7 @@ author: jspellman
 coauthor: slauriat
 # coauthors
 date: 2021-12-07
+permalink: false
 publisher: w3c
 tags:
   - accessibility

@@ -1,6 +1,7 @@
 ---
 author: rauschma
 date: 2021-07-21
+permalink: false
 tags:
   - monorepos
   - npm

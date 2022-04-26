@@ -1,6 +1,7 @@
 ---
 author: sri_yasas
 date: 2021-10-11
+permalink: false
 publisher: bitdev_
 tags:
   - user-agents

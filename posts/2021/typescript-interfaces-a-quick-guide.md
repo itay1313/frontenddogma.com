@@ -1,6 +1,7 @@
 ---
 author: alexdevero
 date: 2021-07-12
+permalink: false
 tags:
   - guides
   - typescript

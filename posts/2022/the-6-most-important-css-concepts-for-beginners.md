@@ -1,6 +1,7 @@
 ---
 author: kevinjpowell
 date: 2022-01-04
+permalink: false
 tags:
   - videos
   - css

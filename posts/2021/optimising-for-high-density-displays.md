@@ -1,6 +1,7 @@
 ---
 author: jaffathecake
 date: 2021-06-11
+permalink: false
 tags:
   - html
   - images

@@ -1,6 +1,7 @@
 ---
 author: _mph4
 date: 2021-11-15
+permalink: false
 publisher: github
 tags:
   - github

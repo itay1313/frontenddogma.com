@@ -1,6 +1,7 @@
 ---
 author: scopicengineer
 date: 2022-01-31
+permalink: false
 publisher: a11ysavvy
 tags:
   - accessibility

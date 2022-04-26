@@ -1,6 +1,7 @@
 ---
 author: ianfeather
 date: 2020-05-21
+permalink: false
 publisher: incrementmag
 tags:
   - architecture

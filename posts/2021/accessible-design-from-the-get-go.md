@@ -1,6 +1,7 @@
 ---
 author: romanshamin
 date: 2021-07-26
+permalink: false
 publisher: evilmartians
 tags:
   - accessibility

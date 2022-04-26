@@ -1,6 +1,7 @@
 ---
 author: hovhadovah
 date: 2021-12-08
+permalink: false
 tags:
   - css
   - quality

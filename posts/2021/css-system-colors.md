@@ -1,6 +1,7 @@
 ---
 author: jimniels
 date: 2021-06-03
+permalink: false
 tags:
   - css
   - colors

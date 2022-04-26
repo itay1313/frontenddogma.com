@@ -1,6 +1,7 @@
 ---
 author: hdv
 date: 2022-01-12
+permalink: false
 tags:
   - html
   - aria

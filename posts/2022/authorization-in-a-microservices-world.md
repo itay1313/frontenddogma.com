@@ -1,6 +1,7 @@
 ---
 author: alexanderlolis
 date: 2022-03-20
+permalink: false
 tags:
   - microservices
   - authorization

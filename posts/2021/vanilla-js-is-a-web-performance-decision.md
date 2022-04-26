@@ -1,6 +1,7 @@
 ---
 author: chrisferdinandi
 date: 2021-09-09
+permalink: false
 tags:
   - javascript
   - performance

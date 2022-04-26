@@ -1,6 +1,7 @@
 ---
 author: swyx
 date: 2021-10-16
+permalink: false
 publisher: thepracticaldev
 tags:
   - css

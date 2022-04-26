@@ -1,6 +1,7 @@
 ---
 author: davidadeneye
 date: 2021-11-15
+permalink: false
 publisher: sitepointdotcom
 tags:
   - svelte

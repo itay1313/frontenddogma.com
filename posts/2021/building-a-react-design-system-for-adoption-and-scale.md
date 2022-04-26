@@ -1,5 +1,6 @@
 ---
 date: 2021-05-12
+permalink: false
 publisher: bitdev_
 tags:
   - react

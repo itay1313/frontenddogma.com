@@ -1,6 +1,7 @@
 ---
 author: walterstephanie
 date: 2022-03-08
+permalink: false
 publisher: sitepointdotcom
 tags:
   - design

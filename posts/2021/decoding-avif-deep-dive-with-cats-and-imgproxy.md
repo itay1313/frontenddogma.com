@@ -2,6 +2,7 @@
 author: pgurtovaya
 coauthor: progapandist
 date: 2021-08-13
+permalink: false
 publisher: evilmartians
 tags:
   - images

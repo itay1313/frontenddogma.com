@@ -1,6 +1,7 @@
 ---
 author: r12a
 date: 2021-06-09
+permalink: false
 publisher: w3c
 tags:
   - css

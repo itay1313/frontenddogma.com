@@ -1,6 +1,7 @@
 ---
 author: elisehein
 date: 2021-08-22
+permalink: false
 tags:
   - web-platform
   - development

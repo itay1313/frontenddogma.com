@@ -1,6 +1,7 @@
 ---
 author: stecagnieszka
 date: 2021-07-29
+permalink: false
 publisher: thepracticaldev
 tags:
   - git

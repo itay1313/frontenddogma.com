@@ -1,6 +1,7 @@
 ---
 author: simeongriggs
 date: 2021-12-17
+permalink: false
 tags:
   - development
   - frameworks

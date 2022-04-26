@@ -1,6 +1,7 @@
 ---
 author: bramus
 date: 2021-09-03
+permalink: false
 publisher: bramusblog
 tags:
   - git

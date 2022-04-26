@@ -1,6 +1,7 @@
 ---
 author: daniloab_
 date: 2022-02-10
+permalink: false
 publisher: thepracticaldev
 tags:
   - dependencies

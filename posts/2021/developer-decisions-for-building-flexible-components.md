@@ -1,6 +1,7 @@
 ---
 author: michebarks
 date: 2021-09-08
+permalink: false
 publisher: smashingmag
 tags:
   - components

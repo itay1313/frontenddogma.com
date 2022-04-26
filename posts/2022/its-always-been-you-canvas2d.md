@@ -1,6 +1,7 @@
 ---
 author: _mysterydate
 date: 2022-03-03
+permalink: false
 publisher: chromiumdev
 tags:
   - html

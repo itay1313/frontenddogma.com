@@ -1,5 +1,6 @@
 ---
 date: 2021-09-17
+permalink: false
 publisher: visionaustralia
 tags:
   - accessibility

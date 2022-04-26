@@ -1,6 +1,7 @@
 ---
 author: enea_jahollari
 date: 2022-04-09
+permalink: false
 publisher: thepracticaldev
 tags:
   - angular

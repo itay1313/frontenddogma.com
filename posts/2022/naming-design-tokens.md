@@ -1,6 +1,7 @@
 ---
 author: lukasoppermann
 date: 2022-01-27
+permalink: false
 publisher: uxdesigncc
 tags:
   - design-tokens

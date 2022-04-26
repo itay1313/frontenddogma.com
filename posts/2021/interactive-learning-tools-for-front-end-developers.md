@@ -1,6 +1,7 @@
 ---
 author: impressivewebs
 date: 2021-09-02
+permalink: false
 publisher: smashingmag
 tags:
   - learning

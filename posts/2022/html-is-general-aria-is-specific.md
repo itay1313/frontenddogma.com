@@ -1,6 +1,7 @@
 ---
 author: davatron5000
 date: 2022-01-10
+permalink: false
 tags:
   - html
   - aria

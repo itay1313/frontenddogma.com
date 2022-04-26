@@ -1,6 +1,7 @@
 ---
 author: pixelambacht
 date: 2021-06-17
+permalink: false
 tags:
   - css
   - fonts

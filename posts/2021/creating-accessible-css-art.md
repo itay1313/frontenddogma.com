@@ -1,6 +1,7 @@
 ---
 author: alvaro_montoro
 date: 2021-07-08
+permalink: false
 tags:
   - css
   - accessibility

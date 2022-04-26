@@ -1,6 +1,7 @@
 ---
 author: chrisferdinandi
 date: 2021-12-09
+permalink: false
 tags:
   - css
   - responsive-design

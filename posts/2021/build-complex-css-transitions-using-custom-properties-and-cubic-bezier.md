@@ -1,6 +1,7 @@
 ---
 author: challengescss
 date: 2021-07-14
+permalink: false
 publisher: css
 tags:
   - css

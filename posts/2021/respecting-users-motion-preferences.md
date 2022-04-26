@@ -1,6 +1,7 @@
 ---
 author: michebarks
 date: 2021-10-21
+permalink: false
 publisher: smashingmag
 tags:
   - accessibility

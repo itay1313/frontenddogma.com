@@ -2,6 +2,7 @@
 author: jaikrish9
 # coauthor:
 date: 2021-06-07
+permalink: false
 publisher: chromiumdev
 tags:
   - performance

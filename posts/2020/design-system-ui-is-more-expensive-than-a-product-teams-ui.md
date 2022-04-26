@@ -1,6 +1,7 @@
 ---
 author: nathanacurtis
 date: 2020-02-11
+permalink: false
 publisher: eightshapes
 tags:
   - design-systems

@@ -2,6 +2,7 @@
 author: bramus
 date: 2022-04-20
 draft: true
+permalink: false
 publisher: bramusblog
 tags:
   - css

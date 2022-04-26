@@ -1,6 +1,7 @@
 ---
 author: thivitnht3
 date: 2021-09-12
+permalink: false
 publisher: thepracticaldev
 tags:
   - html

@@ -1,5 +1,6 @@
 ---
 date: 2022-03-31
+permalink: false
 publisher: webaim
 tags:
   - studies

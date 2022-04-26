@@ -1,6 +1,7 @@
 ---
 author: rianrietveld
 date: 2021-05-18
+permalink: false
 publisher: levellevel
 tags:
   - accessibility

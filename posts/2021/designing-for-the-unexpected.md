@@ -1,6 +1,7 @@
 ---
 author: cathy_dutton
 date: 2021-07-15
+permalink: false
 publisher: alistapart
 tags:
   - design

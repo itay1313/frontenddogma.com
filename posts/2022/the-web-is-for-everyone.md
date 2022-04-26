@@ -2,6 +2,7 @@
 author: ekr____
 coauthor: bhology
 date: 2022-03-23
+permalink: false
 publisher: mozilla
 tags:
   - web

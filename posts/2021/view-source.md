@@ -1,6 +1,7 @@
 ---
 author: ericlaw
 date: 2021-11-11
+permalink: false
 tags:
   - development
   - user-agents

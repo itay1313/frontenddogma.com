@@ -1,6 +1,7 @@
 ---
 author: csswizardry
 date: 2022-03-28
+permalink: false
 tags:
   - performance
   - web-vitals

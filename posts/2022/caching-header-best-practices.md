@@ -1,6 +1,7 @@
 ---
 author: simonhearne
 date: 2022-01-27
+permalink: false
 tags:
   - performance
   - caching

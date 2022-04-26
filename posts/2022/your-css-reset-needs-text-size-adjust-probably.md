@@ -1,6 +1,7 @@
 ---
 author: kilianvalkhof
 date: 2022-01-07
+permalink: false
 tags:
   - css
   - resetting

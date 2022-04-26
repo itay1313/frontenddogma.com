@@ -1,6 +1,7 @@
 ---
 author: aardrian
 date: 2022-04-04
+permalink: false
 tags:
   - accessibility
   - aria

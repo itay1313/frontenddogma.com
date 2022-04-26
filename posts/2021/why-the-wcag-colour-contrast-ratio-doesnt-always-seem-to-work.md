@@ -1,6 +1,7 @@
 ---
 author: danhollick
 date: 2021-07-21
+permalink: false
 publisher: threadreaderapp
 tags:
   - accessibility

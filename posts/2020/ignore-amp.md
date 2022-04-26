@@ -1,6 +1,7 @@
 ---
 author: j9t
 date: 2020-12-21
+permalink: false
 tags:
   - amp
   - meta

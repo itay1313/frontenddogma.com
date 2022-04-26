@@ -1,6 +1,7 @@
 ---
 author: regocas
 date: 2022-01-31
+permalink: false
 publisher: webkit
 tags:
   - css

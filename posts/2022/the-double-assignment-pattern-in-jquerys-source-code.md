@@ -1,6 +1,7 @@
 ---
 author: he_zhenghao
 date: 2022-01-26
+permalink: false
 tags:
   - jquery
   - javascript

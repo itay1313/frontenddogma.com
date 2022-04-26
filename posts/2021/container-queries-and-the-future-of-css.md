@@ -1,6 +1,7 @@
 ---
 author: terriblemia
 date: 2021-06-24
+permalink: false
 publisher: css__cafe
 tags:
   - videos

@@ -1,6 +1,7 @@
 ---
 author: jay_hoffmann
 date: 2022-01-19
+permalink: false
 tags:
   - standards
   - history

@@ -1,6 +1,7 @@
 ---
 author: _hmig
 date: 2021-12-20
+permalink: false
 publisher: css
 tags:
   - javascript

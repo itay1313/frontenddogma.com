@@ -1,6 +1,7 @@
 ---
 author: line47
 date: 2022-02-08
+permalink: false
 publisher: adhocteam
 tags:
   - accessibility

@@ -1,6 +1,7 @@
 ---
 author: cynthmarinakos
 date: 2021-10-26
+permalink: false
 publisher: uxdesigncc
 tags:
   - usability

@@ -1,6 +1,7 @@
 ---
 author: leaverou
 date: 2021-11-26
+permalink: false
 tags:
   - components
   - custom-elements

@@ -1,6 +1,7 @@
 ---
 author: vleguru
 date: 2022-01-18
+permalink: false
 tags:
   - videos
   - accessibility

@@ -1,6 +1,7 @@
 ---
 author: maksimbalabash
 date: 2022-04-03
+permalink: false
 publisher: thepracticaldev
 tags:
   - security

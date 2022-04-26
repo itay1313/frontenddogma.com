@@ -1,6 +1,7 @@
 ---
 author: joedolson
 date: 2022-01-17
+permalink: false
 tags:
   - accessibility
   - meta

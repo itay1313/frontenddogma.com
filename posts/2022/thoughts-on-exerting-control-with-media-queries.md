@@ -1,6 +1,7 @@
 ---
 author: jimniels
 date: 2022-04-04
+permalink: false
 tags:
   - layout
   - css

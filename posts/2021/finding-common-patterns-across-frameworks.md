@@ -1,6 +1,7 @@
 ---
 author: frostyweather
 date: 2021-10-24
+permalink: false
 tags:
   - frameworks
   - javascript

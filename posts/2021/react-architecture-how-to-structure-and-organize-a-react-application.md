@@ -1,6 +1,7 @@
 ---
 author: taniarascia
 date: 2021-06-23
+permalink: false
 tags:
   - react
   - architecture

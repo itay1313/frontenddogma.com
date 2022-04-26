@@ -1,6 +1,7 @@
 ---
 author: cykelero
 date: 2021-06-26
+permalink: false
 tags:
   - packages
   - meta

@@ -1,6 +1,7 @@
 ---
 author: kellycodeschaos
 date: 2021-03-31
+permalink: false
 publisher: intuit
 tags:
   - design-systems

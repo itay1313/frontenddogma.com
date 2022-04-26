@@ -1,6 +1,7 @@
 ---
 author: joshwcomeau
 date: 2020-11-02
+permalink: false
 tags:
   - design
   - css

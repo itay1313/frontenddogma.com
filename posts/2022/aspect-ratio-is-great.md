@@ -1,6 +1,7 @@
 ---
 author: michebarks
 date: 2022-02-08
+permalink: false
 publisher: cssinreallife
 tags:
   - css

@@ -1,6 +1,7 @@
 ---
 author: shadeed9
 date: 2022-04-03
+permalink: false
 tags:
   - user-agents
   - tooling

@@ -1,6 +1,7 @@
 ---
 author: knajjars
 date: 2021-06-27
+permalink: false
 publisher: thepracticaldev
 tags:
   - meta

@@ -1,6 +1,7 @@
 ---
 author: kathryngrayson
 date: 2021-10-30
+permalink: false
 publisher: thepracticaldev
 tags:
   - css

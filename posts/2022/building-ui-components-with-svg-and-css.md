@@ -1,6 +1,7 @@
 ---
 author: shadeed9
 date: 2022-01-18
+permalink: false
 tags:
   - components
   - svg

@@ -1,6 +1,7 @@
 ---
 author: ivanzstoev
 date: 2022-02-16
+permalink: false
 publisher: gitconnected
 tags:
   - career

@@ -3,6 +3,7 @@ author: chrishtr
 coauthor: bfgeek
 # coauthors
 date: 2021-08-24
+permalink: false
 publisher: chromiumdev
 tags:
   - user-agents

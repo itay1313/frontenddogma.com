@@ -2,6 +2,7 @@
 author: oluoluoxenfree
 coauthor: at_fresh_dev
 date: 2020-12-09
+permalink: false
 publisher: httparchive
 tags:
   - studies

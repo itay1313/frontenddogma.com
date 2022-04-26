@@ -1,6 +1,7 @@
 ---
 author: terriblemia
 date: 2022-02-12
+permalink: false
 publisher: codepen
 tags:
   - code

@@ -1,6 +1,7 @@
 ---
 author: ajdubovoy
 date: 2021-07-27
+permalink: false
 publisher: smashingmag
 tags:
   - css

@@ -1,6 +1,7 @@
 ---
 author: mmatuzo
 date: 2022-01-28
+permalink: false
 tags:
   - css
   - cascade

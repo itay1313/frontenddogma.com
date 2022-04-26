@@ -1,6 +1,7 @@
 ---
 author: hsshah_
 date: 2022-02-07
+permalink: false
 publisher: uxmatters
 tags:
   - design

@@ -1,6 +1,7 @@
 ---
 author: bramus
 date: 2021-11-19
+permalink: false
 publisher: bramusblog
 tags:
   - development

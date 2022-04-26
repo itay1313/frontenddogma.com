@@ -1,6 +1,7 @@
 ---
 author: bolonio
 date: 2021-02-22
+permalink: false
 tags:
   - accessibility
   - automation

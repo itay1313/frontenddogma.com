@@ -2,6 +2,7 @@
 author: thedull
 coauthor: marianvilla
 date: 2022-02-24
+permalink: false
 publisher: nodesource
 tags:
   - nodejs

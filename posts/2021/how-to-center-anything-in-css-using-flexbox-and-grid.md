@@ -1,6 +1,7 @@
 ---
 author: joyshaheb
 date: 2021-06-11
+permalink: false
 publisher: freecodecamp
 tags:
   - css

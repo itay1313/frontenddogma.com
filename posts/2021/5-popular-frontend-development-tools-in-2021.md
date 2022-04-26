@@ -1,6 +1,7 @@
 ---
 author: _estheragbaje
 date: 2021-11-15
+permalink: false
 publisher: thepracticaldev
 tags:
   - tooling

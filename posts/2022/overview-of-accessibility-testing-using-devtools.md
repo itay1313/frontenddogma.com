@@ -3,6 +3,7 @@ author: patrickbrosset
 coauthor: codepo8
 # coauthors
 date: 2022-01-26
+permalink: false
 publisher: msedgedev
 tags:
   - user-agents

@@ -1,6 +1,7 @@
 ---
 author: amit_merchant
 date: 2022-02-11
+permalink: false
 tags:
   - html
   - semantics

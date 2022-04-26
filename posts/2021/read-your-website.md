@@ -1,6 +1,7 @@
 ---
 author: geoffreygraham
 date: 2021-12-14
+permalink: false
 publisher: css
 tags:
   - user-experience

@@ -1,6 +1,7 @@
 ---
 author: the2ndfloorguy
 date: 2022-02-28
+permalink: false
 publisher: logrocket
 tags:
   - javascript

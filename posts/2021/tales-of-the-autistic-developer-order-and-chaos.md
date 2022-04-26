@@ -1,6 +1,7 @@
 ---
 author: keystonelemur
 date: 2021-11-19
+permalink: false
 publisher: thepracticaldev
 tags:
   - meta

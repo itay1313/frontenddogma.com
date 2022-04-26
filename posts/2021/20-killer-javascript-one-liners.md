@@ -1,6 +1,7 @@
 ---
 author: saviomartin7
 date: 2021-09-19
+permalink: false
 publisher: thepracticaldev
 tags:
   - javascript

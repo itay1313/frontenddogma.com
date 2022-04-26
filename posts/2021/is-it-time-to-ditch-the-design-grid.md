@@ -1,6 +1,7 @@
 ---
 author: michebarks
 date: 2021-07-27
+permalink: false
 publisher: cssinreallife
 tags:
   - design

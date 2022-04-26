@@ -1,6 +1,7 @@
 ---
 author: alyssanicoll
 date: 2020-05-28
+permalink: false
 publisher: telerik
 tags:
   - user-experience

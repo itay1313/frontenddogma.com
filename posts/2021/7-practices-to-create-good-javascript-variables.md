@@ -1,6 +1,7 @@
 ---
 author: alexdevero
 date: 2021-08-30
+permalink: false
 tags:
   - javascript
 target_url: https://blog.alexdevero.com/good-javascript-variables/

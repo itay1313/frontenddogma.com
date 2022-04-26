@@ -1,6 +1,7 @@
 ---
 author: leaverou
 date: 2021-10-15
+permalink: false
 tags:
   - css
   - custom-properties

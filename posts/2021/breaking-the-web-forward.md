@@ -1,6 +1,7 @@
 ---
 author: ppk
 date: 2021-08-12
+permalink: false
 tags:
   - web
   - user-agents

@@ -1,6 +1,7 @@
 ---
 author: chrisferdinandi
 date: 2021-08-09
+permalink: false
 tags:
   - google
   - web

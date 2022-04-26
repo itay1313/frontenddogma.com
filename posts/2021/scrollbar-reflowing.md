@@ -1,6 +1,7 @@
 ---
 author: chriscoyier
 date: 2021-08-24
+permalink: false
 publisher: css
 tags:
   - scrolling

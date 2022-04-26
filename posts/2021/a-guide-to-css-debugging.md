@@ -1,6 +1,7 @@
 ---
 author: 5t3ph
 date: 2021-10-06
+permalink: false
 publisher: smashingmag
 tags:
   - guides

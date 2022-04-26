@@ -1,6 +1,7 @@
 ---
 author: _marcusherrmann
 date: 2021-06-07
+permalink: false
 tags:
   - accessibility
   - html

@@ -1,5 +1,6 @@
 ---
 date: 2022-04-12
+permalink: false
 publisher: equal_entry
 tags:
   - accessibility

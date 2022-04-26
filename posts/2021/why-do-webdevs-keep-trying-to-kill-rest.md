@@ -1,6 +1,7 @@
 ---
 author: swyx
 date: 2021-10-05
+permalink: false
 publisher: thepracticaldev
 tags:
   - development

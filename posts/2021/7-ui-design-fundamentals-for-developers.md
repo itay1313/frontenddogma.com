@@ -1,6 +1,7 @@
 ---
 author: vansh__bhardwaj
 date: 2021-09-24
+permalink: false
 publisher: thepracticaldev
 tags:
   - design

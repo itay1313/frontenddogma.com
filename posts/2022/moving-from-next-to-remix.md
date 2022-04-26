@@ -1,6 +1,7 @@
 ---
 author: collieradam
 date: 2022-02-23
+permalink: false
 tags:
   - frameworks
   - nextjs

@@ -1,6 +1,7 @@
 ---
 author: bendmyers
 date: 2022-04-10
+permalink: false
 tags:
   - accessibility
   - colors

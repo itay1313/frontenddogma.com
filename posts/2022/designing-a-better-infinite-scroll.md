@@ -1,5 +1,6 @@
 ---
 date: 2022-03-30
+permalink: false
 publisher: smashingmag
 tags:
   - design-patterns

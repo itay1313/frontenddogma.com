@@ -1,6 +1,7 @@
 ---
 author: amit_merchant
 date: 2021-07-25
+permalink: false
 tags:
   - css
   - layout

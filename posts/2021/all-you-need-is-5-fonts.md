@@ -1,6 +1,7 @@
 ---
 author: matejlatin
 date: 2021-06-25
+permalink: false
 publisher: uxdesigncc
 tags:
   - design

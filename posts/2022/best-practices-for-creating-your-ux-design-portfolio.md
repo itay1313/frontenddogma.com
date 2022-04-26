@@ -1,6 +1,7 @@
 ---
 author: daylonsoh
 date: 2022-01-24
+permalink: false
 publisher: uxmatters
 tags:
   - user-experience
