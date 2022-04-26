@@ -1,6 +1,5 @@
 ---
 date: 2022-04-15
-draft: true
 publisher: uxdesigncc
 tags:
   - agile
