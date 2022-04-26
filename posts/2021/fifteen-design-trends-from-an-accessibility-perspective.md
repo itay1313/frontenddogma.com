@@ -5,6 +5,7 @@ permalink: false
 tags:
   - accessibility
   - design
+  - trends
 target_url: https://bhmbizsites.com/a-review-of-15-2020-design-trends-from-an-accessibility-perspective/
 title: Fifteen Design Trends from an Accessibility Perspective
 ---

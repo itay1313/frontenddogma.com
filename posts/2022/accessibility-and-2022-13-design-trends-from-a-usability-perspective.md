@@ -6,6 +6,7 @@ publisher: bethannon
 tags:
   - accessibility
   - design
+  - trends
   - usability
 target_url: https://bhmbizsites.com/accessibility-and-2022-13-design-trends-from-a-usability-perspective/
 title: "Accessibility and 2022: 13 Design Trends from a Usability Perspective"
