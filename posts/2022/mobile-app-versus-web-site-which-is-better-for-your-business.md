@@ -1,6 +1,5 @@
 ---
 date: 2022-04-25
-draft: true
 permalink: false
 publisher: uxmatters
 tags:
