@@ -1,6 +1,5 @@
 ---
 date: 2022-04-05
-draft: true
 permalink: false
 publisher: popetecha11y
 tags:
