@@ -5,6 +5,7 @@ permalink: false
 tags:
   - user-experience
   - responsive-design
+  - complexity
 target_url: https://stephaniewalter.design/blog/essential-resources-design-complex-data-tables/
 title: "Enterprise UX: Essential Resources to Design Complex Data Tables"
 ---

@@ -6,6 +6,7 @@ publisher: nngroup
 tags:
   - user-experience
   - performance
+  - complexity
 target_url: https://www.nngroup.com/articles/designing-for-waits-and-interruptions/
 title: "Designing for Long Waits and Interruptions: Mitigating Breaks in Workflow in Complex Application Design"
 ---

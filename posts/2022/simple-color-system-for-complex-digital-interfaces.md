@@ -6,6 +6,7 @@ tags:
   - websites
   - design-systems
   - colors
+  - complexity
 target_url: https://www.opensourcecolorsystem.design/
 title: Simple Color System for Complex Digital Interfaces
 ---

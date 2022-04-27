@@ -7,6 +7,7 @@ tags:
   - css
   - transitions
   - custom-properties
+  - complexity
 target_url: https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/
 title: Build Complex CSS Transitions Using Custom Properties and “cubic-bezier()”
 ---
