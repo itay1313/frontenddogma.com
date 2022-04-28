@@ -22,7 +22,7 @@ layout: base.njk
 
 {% if target_url %}<p>This post was published elsewhere. Check out <a href="{{ target_url | url }}"><cite>{{ title }}</cite></a>!{% endif %}
 
-{% if original_url %}<p>(This post was <a href="{{ original_url | url }}" rel=canonical>originally published elsewhere</a>.){% endif %}
+{% if original_url %}<p>(This post was <a href="{{ original_url | url }}" rel=alternate>originally published elsewhere</a>.){% endif %}
 
 {% set nextPost = collections.posts | getNextCollectionItem(page) %}
 {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
