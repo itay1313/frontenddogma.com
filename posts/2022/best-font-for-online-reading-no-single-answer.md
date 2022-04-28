@@ -1,6 +1,5 @@
 ---
 date: 2022-04-24
-draft: true
 permalink: false
 publisher: nngroup
 tags:
