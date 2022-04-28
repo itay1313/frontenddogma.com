@@ -14,7 +14,7 @@ permalink: /{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{%
 <ol start={{ (collections.posts.length - (pagination.pageNumber * pagination.size)) }} reversed>
 	{% for entry in entries -%}
 	<li>
-		<a href="{% if entry.data.target_url %}{{ entry.data.target_url }}{% else %}{{ entry.url | url }}{% endif %}">{{ entry.data.title }}</a> · <time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time> ·
+		<a href="{% if entry.data.target_url %}{{ entry.data.target_url }}{% else %}{{ entry.url | url }}{% endif %}">{{ entry.data.title }}</a> (<a href="https://twitter.com/intent/tweet?text={{ entry.data.title | urlencode }}{% if entry.data.author %},%20by%20@{{ entry.data.author }}{% if entry.data.coauthor %}%20and%20@{{ entry.data.coauthor }}{% endif %}{% if entry.data.publisher %}%20%28@{{ entry.data.publisher }}%29{% endif %}{% else %}{% if entry.data.publisher %},%20by%20@{{ entry.data.publisher }}{% endif %}{% endif %},%20featured%20on%20@frontenddogma%3A%0A%0A{% if entry.data.target_url %}{{ entry.data.target_url }}{% else %}{{ metadata.url_truncated }}{{ entry.url | url }}{% endif %}">tweet</a>) · <time datetime="{{ entry.date | htmlDateString }}">{{ entry.date | readableDate }}</time> ·
 		{%- set comma = joiner() -%}
 		{%- for tag in entry.data.tags | filterTagList %}
 			{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset -%}
