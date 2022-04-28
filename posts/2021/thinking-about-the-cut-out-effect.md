@@ -6,6 +6,7 @@ tags:
   - css
   - svg
   - techniques
+  - effects
 target_url: https://ishadeed.com/article/thinking-about-the-cut-out-effect/
 title: "Thinking About the Cut-Out Effect: CSS or SVG?"
 ---
