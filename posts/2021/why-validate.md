@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2021-06-09
-permalink: false
 tags:
   - html
   - css
