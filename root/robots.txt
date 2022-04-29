@@ -1,4 +1,7 @@
 User-agent: *
 Disallow: /tags/*/
 
+User-agent: Twitterbot
+Allow: /tags/*/
+
 Sitemap: https://frontenddogma.com/sitemap.xml
