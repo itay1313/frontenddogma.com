@@ -1,7 +1,6 @@
 ---
 author: ardena_gonzalez
 date: 2022-04-07
-draft: true
 permalink: false
 publisher: backlight_dev
 tags:
