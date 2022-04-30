@@ -6,6 +6,8 @@
 
 For the moment, please help yourself and [explore this repository](https://github.com/j9t/frontenddogma.com).
 
+ℹ You can try the unofficial [front matter generator](https://hell.meiert.org/aux/generate-front-matter/) to create and then propose posts to be featured on Frontend Dogma.
+
 ## Technical Setup
 
 Frontend Dogma is based on [Eleventy](https://www.11ty.dev/). Please see [the Eleventy documentation](https://www.11ty.dev/docs/) for details.
