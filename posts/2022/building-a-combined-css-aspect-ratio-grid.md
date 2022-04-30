@@ -1,7 +1,6 @@
 ---
 author: supremebeing09
 date: 2022-04-21
-draft: true
 permalink: false
 publisher: 9elements
 tags:
