@@ -6,4 +6,4 @@ title: Page Not Found
 ---
 # {{ title }}
 
-Eh. This page doesn’t exist (anymore). Please [start from the homepage](/).
+Eh. This page doesn’t exist (anymore). Please [start from the homepage](/). Or explore [all topics](/tags/).

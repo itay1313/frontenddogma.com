@@ -6,4 +6,4 @@ title: Forbidden
 ---
 # {{ title }}
 
-Uh. Are you sure? Maybe just [try the homepage](/).
+Uh. Are you sure? Maybe just [try the homepage](/). Or explore [all topics](/tags/).

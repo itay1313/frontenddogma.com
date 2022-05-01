@@ -6,4 +6,4 @@ title: Unauthorized
 ---
 # {{ title }}
 
-Oh. Try that again. Or [go to the homepage](/).
+Oh. Try that again. Or don’t. Or [go to the homepage](/).
