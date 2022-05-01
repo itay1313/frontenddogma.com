@@ -1,7 +1,6 @@
 ---
 author: dustinsgoodman
 date: 2022-04-20
-draft: true
 permalink: false
 tags:
   - nodejs
