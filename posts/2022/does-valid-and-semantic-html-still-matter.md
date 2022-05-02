@@ -3,7 +3,6 @@ author: bendmyers
 coauthor: 5t3ph
 # coauthors
 date: 2022-04-18
-draft: true
 permalink: false
 publisher: wordwrapshow
 tags:
