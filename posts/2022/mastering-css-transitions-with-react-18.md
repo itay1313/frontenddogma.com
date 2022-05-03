@@ -1,7 +1,6 @@
 ---
 author: enyichia
 date: 2022-04-21
-draft: true
 permalink: false
 publisher: openreplayhq
 tags:
