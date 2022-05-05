@@ -5,6 +5,7 @@ permalink: false
 publisher: _devtoolstips
 tags:
   - html
+  - parsing
   - quality
 target_url: https://devtoolstips.org/tips/en/find-html-parsing-errors/
 title: Find HTML Parsing Errors
