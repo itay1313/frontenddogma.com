@@ -5,7 +5,7 @@ permalink: false
 publisher: css
 tags:
   - techniques
-  - meta
+  - features
 target_url: https://css-tricks.com/so-you-want-to-build-an-mention-autocomplete-feature/
 title: So, You Want to Build an “@mention” Autocomplete Feature?
 ---

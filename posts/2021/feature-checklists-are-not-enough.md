@@ -7,7 +7,7 @@ tags:
   - usability
   - design
   - checklists
-  - meta
+  - features
 target_url: https://www.nngroup.com/articles/feature-checklists-are-not-enough/
 title: "Feature Checklists Are Not Enough: How to Avoid Making Bad Software"
 ---
