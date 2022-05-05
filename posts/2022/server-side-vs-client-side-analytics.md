@@ -1,7 +1,6 @@
 ---
 author: davatron5000
 date: 2022-04-28
-draft: true
 permalink: false
 tags:
   - metrics
