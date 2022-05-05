@@ -1,7 +1,6 @@
 ---
 author: svgeesus
 date: 2022-04-14
-draft: true
 permalink: false
 publisher: w3c
 tags:
