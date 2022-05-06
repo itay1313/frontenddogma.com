@@ -1,7 +1,6 @@
 ---
 author: jeffkline2
 date: 2022-04-19
-draft: true
 permalink: false
 publisher: microassist
 tags:

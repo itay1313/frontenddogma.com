@@ -1,7 +1,6 @@
 ---
 author: cjihrig
 date: 2022-04-16
-draft: true
 permalink: false
 publisher: fusebitio
 tags:
