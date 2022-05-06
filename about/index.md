@@ -22,7 +22,7 @@ No. That would neither be possible nor desirable. There are many viewpoints, eve
 
 ### Can I Propose or Provide Content for Frontend Dogma?
 
-Absolutely! Please reach out by [sending an email](/contact/) or [a direct message on Twitter](https://twitter.com/messages/9372812-1362505873625645064). At the moment it’s easier to propose articles to be featured than to provide content to be (re)published, but please share your thoughts.
+Absolutely! Please reach out by [sending an email](/contact/) or [a direct message on Twitter](https://twitter.com/messages/9372812-1362505873625645064). You can also try the unofficial [front matter generator](https://hell.meiert.org/aux/generate-front-matter/) and [file a PR](https://github.com/j9t/frontenddogma.com/compare) to propose links to be featured on Frontend Dogma.
 
 ### Can I Make Other Suggestions and Contributions?
 
