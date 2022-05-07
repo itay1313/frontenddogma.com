@@ -1,6 +1,5 @@
 ---
 date: 2022-05-02
-draft: true
 permalink: false
 publisher: pitayanblog
 tags:
