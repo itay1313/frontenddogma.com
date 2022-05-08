@@ -1,7 +1,6 @@
 ---
 author: andreban
 date: 2022-04-25
-draft: true
 permalink: false
 publisher: chromiumdev
 tags:
