@@ -24,7 +24,7 @@ Responsible for all editorial contents as per § 55 II RStV: Jens Oliver Meiert
 
 Tax ID: 48/157/00835.
 
-For online disputes as per Art. 14 ¶ 1 Regulation on Consumer Online Dispute Resolution the European Commission provides a [settlement platform](https://ec.europa.eu/consumers/odr/).
+The European Commission provides a [settlement platform](https://ec.europa.eu/consumers/odr/) for online disputes, as per Art. 14 ¶ 1 Regulation on Consumer Online Dispute Resolution.
 
 ### Privacy Policy
 
@@ -62,11 +62,11 @@ We adhere to the principles of data reduction and frugality. We only store data 
 
 #### Encryption
 
-For data protection reasons your data are transferred over HTTPS.
+For data protection reasons your data are transferred via [HTTPS](https://en.wikipedia.org/wiki/HTTPS), and encrypted using TLS.
 
 #### Server Logs
 
-The hosting provider of this website ([ALL-INKL.COM](https://all-inkl.com/PA68572347FA65)) collects and stores some information transferred by your browser in so called server log files. This information includes:
+The hosting provider of this website ([ALL-INKL.COM](https://all-inkl.com/PA68572347FA65)) collects and stores some information transferred by your browser in so-called server log files. This information includes:
 
 * host name
 * IP address
@@ -95,9 +95,9 @@ We use Gmail and ProtonMail for email, each additionally secured with two-factor
 
 #### VG WORT
 
-This website uses session cookies of [VG WORT](https://www.vgwort.de/) in order to measure access to editorial content, and VG WORT, in turn, makes use of the _Skalierbares Zentrales Messverfahren_ (SZM, “scalable central measurement system”) of INFOnline GmbH for the detection of statistical parameters so as to determine the probability of copies of content. This measuring happens pursuant to Art. 6 ¶ 1 lit. f GDPR.
+This website uses session cookies of [VG WORT](https://www.vgwort.de/) in order to measure access to editorial content. VG WORT, in turn, makes use of the _Skalierbares Zentrales Messverfahren_ (SZM, “scalable central measurement system”) of INFOnline GmbH for the detection of statistical parameters so as to determine the probability of copies of content. This measuring happens pursuant to Art. 6 ¶ 1 lit. f GDPR.
 
-In the process, anonymous metrics are collected. To recognize computer systems, the measurement either employs a session cookie or a signature generated through a set of data automatically transmitted by your browser. IP addresses are only used in an anonymized fashion. At no point single users are being identified; your identity remains protected. You don’t receive advertising through the system.
+In the process, anonymous metrics are collected. To recognize computer systems, the measurement either employs a session cookie or a signature generated through a set of data automatically transmitted by your browser. IP addresses are only used in an anonymized fashion. At no point are single users being identified; your identity remains protected. You don’t receive advertising through the system.
 
 Session cookies are small units of information saved by a service provider on the computer of their user. A session cookie contains a randomly generated identification number, the so-called session ID. On top of that, a cookie contains information about its origin and the period of time it’s being stored. Session cookies cannot save any other data. Using session cookies, VG WORT enables their authors to participate in VG WORT distribution payments that ensure compensation for the use of otherwise copyright-protected works in accordance with § 53 UrhG. If you don’t wish to partake in SZM measuring, you can opt out at [optout.ioam.de](https://optout.ioam.de/).
 
