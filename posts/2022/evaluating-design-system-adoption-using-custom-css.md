@@ -1,7 +1,6 @@
 ---
 author: subcide
 date: 2022-04-14
-draft: true
 permalink: false
 publisher: onfido
 tags:
