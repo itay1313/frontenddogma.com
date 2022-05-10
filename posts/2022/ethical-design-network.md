@@ -1,7 +1,6 @@
 ---
 author: trinefalbe
 date: 2022-05-02
-draft: true
 permalink: false
 tags:
   - websites
