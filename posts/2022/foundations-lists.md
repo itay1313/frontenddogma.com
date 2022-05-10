@@ -1,7 +1,6 @@
 ---
 author: leoniewatson
 date: 2022-04-29
-draft: true
 permalink: false
 publisher: tetralogical
 tags:
