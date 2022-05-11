@@ -1,7 +1,6 @@
 ---
 author: codepo8
 date: 2022-05-09
-draft: true
 permalink: false
 tags:
   - meta
