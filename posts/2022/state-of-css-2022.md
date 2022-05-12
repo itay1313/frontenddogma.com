@@ -1,7 +1,6 @@
 ---
 author: argyleink
 date: 2022-05-11
-draft: true
 permalink: false
 publisher: chromiumdev
 tags:
