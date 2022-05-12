@@ -1,7 +1,6 @@
 ---
 author: malimirkeccita
 date: 2022-05-06
-draft: true
 permalink: false
 publisher: cssauditors
 tags:

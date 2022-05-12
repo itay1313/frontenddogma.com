@@ -1,7 +1,6 @@
 ---
 author: slightlylate
 date: 2022-05-09
-draft: true
 permalink: false
 tags:
   - performance
