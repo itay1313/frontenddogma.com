@@ -1,7 +1,6 @@
 ---
 author: mmatuzo
 date: 2022-05-05
-draft: true
 permalink: false
 tags:
   - accessibility
