@@ -1,7 +1,6 @@
 ---
 author: shadeed9
 date: 2022-05-06
-draft: true
 permalink: false
 tags:
   - css
