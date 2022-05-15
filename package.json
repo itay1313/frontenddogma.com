@@ -24,7 +24,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
     "@sum.cumo/imagemin-merlin": "^2.0.0",
     "dotenv": "^16.0.0",
-    "husky": "^7.0.4",
+    "husky": "^8.0.1",
     "luxon": "^2.3.2",
     "markdown-it": "^13.0.0"
   },
