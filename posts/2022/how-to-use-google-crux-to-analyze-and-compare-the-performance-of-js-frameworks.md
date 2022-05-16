@@ -1,7 +1,6 @@
 ---
 author: danshappir
 date: 2022-05-12
-draft: true
 permalink: false
 publisher: smashingmag
 tags:
