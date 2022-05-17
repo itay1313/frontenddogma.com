@@ -4,7 +4,7 @@ date: 2021-09-23
 permalink: false
 publisher: alistapart
 tags:
-  - writing
+  - content
   - design-systems
   - meta
 target_url: https://alistapart.com/article/a-content-model-is-not-a-design-system/
