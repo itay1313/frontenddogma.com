@@ -1,7 +1,6 @@
 ---
 author: aardrian
 date: 2022-05-16
-draft: true
 permalink: false
 tags:
   - accessibility
