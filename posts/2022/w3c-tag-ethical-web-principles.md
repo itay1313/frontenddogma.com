@@ -3,7 +3,6 @@ author: torgo
 coauthor: hadleybeeman
 # coauthors
 date: 2022-05-12
-draft: true
 permalink: false
 publisher: w3c
 tags:
