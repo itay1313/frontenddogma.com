@@ -1,7 +1,6 @@
 ---
 author: 101babich
 date: 2022-05-17
-draft: true
 permalink: false
 publisher: smashingmag
 tags:
