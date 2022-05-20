@@ -5,7 +5,7 @@ permalink: false
 publisher: chromiumdev
 tags:
   - webassembly
-  - features
+  - feature-detection
   - support
 target_url: https://web.dev/webassembly-feature-detection/
 title: WebAssembly Feature Detection

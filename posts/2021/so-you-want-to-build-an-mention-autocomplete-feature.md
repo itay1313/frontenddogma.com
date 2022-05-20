@@ -7,5 +7,5 @@ tags:
   - techniques
   - features
 target_url: https://css-tricks.com/so-you-want-to-build-an-mention-autocomplete-feature/
-title: So, You Want to Build an “@mention” Autocomplete Feature?
+title: So, You Want to Build an “@ mention” Autocomplete Feature?
 ---
