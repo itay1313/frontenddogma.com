@@ -405,7 +405,8 @@ p#fd-meta span a[href^='https://twitter.com/']::after {
 		color: #bbb;
 	}
 
-	header h1 img {
+	header h1 img,
+	p#fd-meta span a[href^='https://twitter.com/']::after {
 		filter: invert(1);
 	}
 
