@@ -1,7 +1,6 @@
 ---
 author: davidakennedy
 date: 2022-05-11
-draft: true
 permalink: false
 tags:
   - accessibility
