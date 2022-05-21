@@ -391,6 +391,30 @@ p#fd-meta span a[href^='https://twitter.com/']::after {
 
 }
 
+@media (prefers-color-scheme: dark) {
+
+	html {
+		--border: #555;
+		background: #000;
+		color: #ddd;
+	}
+
+	header,
+	footer,
+	p#fd-meta {
+		color: #bbb;
+	}
+
+	header h1 img {
+		filter: invert(1);
+	}
+
+	a {
+		color: #eee;
+	}
+
+}
+
 @media print {
 
 	*,
