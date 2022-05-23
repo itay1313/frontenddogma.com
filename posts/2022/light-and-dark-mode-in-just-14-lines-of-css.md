@@ -1,7 +1,6 @@
 ---
 author: whitep4nth3r
 date: 2022-05-12
-draft: true
 permalink: false
 publisher: thepracticaldev
 tags:
