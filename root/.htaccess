@@ -53,11 +53,9 @@ Header always set X-Content-Type-Options nosniff
 </FilesMatch>
 
 # Startup Routine: CloudFront
-<FilesMatch "\.(css|ico|jpg|json|png|svg|txt|xml)$">
-	SetEnvIf REQUEST_URI ^(.*?)$ NOINDEX=$1
-	Header set Link "<https://frontenddogma.comPATH>; rel=canonical"
-	Header edit* Link PATH %{NOINDEX}e ENV=NOINDEX
-</FilesMatch>
+SetEnvIf REQUEST_URI ^(.*?)(index\.(html|php))?$ NOINDEX=$1
+Header set Link "<https://frontenddogma.comPATH>; rel=canonical"
+Header edit* Link PATH %{NOINDEX}e ENV=NOINDEX
 
 # Course Calibration
 <IfModule mod_rewrite.c>
