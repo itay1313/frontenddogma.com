@@ -1,7 +1,6 @@
 ---
 author: zoranjambor
 date: 2022-05-05
-draft: true
 permalink: false
 publisher: cssweekly
 tags:
