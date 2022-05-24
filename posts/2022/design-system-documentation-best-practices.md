@@ -1,7 +1,6 @@
 ---
 author: th4is_ds
 date: 2022-05-01
-draft: true
 permalink: false
 publisher: backlight_dev
 tags:
