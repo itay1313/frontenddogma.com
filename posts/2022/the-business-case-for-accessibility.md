@@ -5,7 +5,7 @@ permalink: false
 publisher: tetralogical
 tags:
   - accessibility
-  - meta
+  - economics
 target_url: https://tetralogical.com/blog/2022/04/05/business-case-for-accessibility/
 title: The Business Case for Accessibility
 ---

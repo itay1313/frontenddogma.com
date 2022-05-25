@@ -6,7 +6,6 @@ publisher: thepracticaldev
 tags:
   - development
   - databases
-  - meta
 target_url: https://dev.to/swyx/why-do-webdevs-keep-trying-to-kill-rest-j2j
 title: Why Do Webdevs Keep Trying to Kill REST?
 ---

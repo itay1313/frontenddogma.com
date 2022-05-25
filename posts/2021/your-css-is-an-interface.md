@@ -5,7 +5,6 @@ permalink: false
 tags:
   - css
   - performance
-  - meta
 target_url: https://ericwbailey.design/writing/your-css-is-an-interface/
 title: Your CSS Is an Interface
 ---

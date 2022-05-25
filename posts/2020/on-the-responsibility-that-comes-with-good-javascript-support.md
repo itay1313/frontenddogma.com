@@ -5,7 +5,6 @@ permalink: false
 tags:
   - javascript
   - support
-  - meta
 target_url: https://meiert.com/en/blog/responsible-javascript/
 title: On the Responsibility That Comes with Good JavaScript Support
 ---

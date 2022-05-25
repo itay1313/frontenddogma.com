@@ -5,7 +5,7 @@ permalink: false
 publisher: perfplanet
 tags:
   - performance
-  - meta
+  - economics
 target_url: https://calendar.perfplanet.com/2021/the-business-case-for-performance/
 title: The Business Case for Performance
 ---

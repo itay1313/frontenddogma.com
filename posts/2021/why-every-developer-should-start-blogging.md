@@ -5,7 +5,7 @@ permalink: false
 publisher: thepracticaldev
 tags:
   - writing
-  - meta
+  - career
 target_url: https://dev.to/sagarbarapatre/why-every-developer-should-start-blogging-26j0
 title: Why Every Developer Should Start Blogging
 ---

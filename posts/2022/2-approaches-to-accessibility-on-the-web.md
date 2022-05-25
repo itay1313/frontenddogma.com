@@ -5,7 +5,6 @@ permalink: false
 tags:
   - accessibility
   - automation
-  - meta
 target_url: https://meiert.com/en/blog/active-and-passive-accessibility/
 title: 2 Approaches to Accessibility on the Web
 ---

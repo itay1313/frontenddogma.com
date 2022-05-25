@@ -5,7 +5,7 @@ permalink: false
 publisher: sengineland
 tags:
   - seo
-  - meta
+  - economics
 target_url: https://searchengineland.com/seo-investment-not-cost-384995
 title: Why SEO Is a Great Investment, Not Just a Cost 
 ---

@@ -5,7 +5,6 @@ permalink: false
 tags:
   - google
   - web
-  - meta
 target_url: https://gomakethings.com/google-vs.-the-web/
 title: Google vs. the Web
 ---

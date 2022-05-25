@@ -5,7 +5,6 @@ permalink: false
 tags:
   - css
   - preprocessors
-  - meta
 target_url: https://thinkdobecreate.com/articles/in-defense-of-sass/
 title: In Defense of Sass
 ---

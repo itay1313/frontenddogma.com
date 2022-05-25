@@ -5,7 +5,6 @@ permalink: false
 tags:
   - html
   - css
-  - meta
 target_url: https://giuseppegurgone.com/twitter-html/
 title: Twitter’s “div” Soup and Uglyfied CSS, Explained
 ---

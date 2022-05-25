@@ -5,7 +5,7 @@ permalink: false
 tags:
   - design-systems
   - frameworks
-  - meta
+  - economics
 target_url: https://www.abeautifulsite.net/posts/design-systems-arent-cheap/
 title: Design Systems Aren’t Cheap
 ---

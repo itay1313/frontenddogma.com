@@ -5,7 +5,6 @@ permalink: false
 publisher: css
 tags:
   - user-experience
-  - meta
 target_url: https://css-tricks.com/make-joyful-things/
 title: Make Joyful Things
 ---

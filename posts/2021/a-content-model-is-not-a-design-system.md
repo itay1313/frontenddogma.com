@@ -6,7 +6,6 @@ publisher: alistapart
 tags:
   - content
   - design-systems
-  - meta
 target_url: https://alistapart.com/article/a-content-model-is-not-a-design-system/
 title: A Content Model Is Not a Design System
 ---

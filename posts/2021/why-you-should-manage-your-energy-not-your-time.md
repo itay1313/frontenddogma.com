@@ -5,7 +5,7 @@ permalink: false
 publisher: thepracticaldev
 tags:
   - career
-  - meta
+  - productivity
 target_url: https://dev.to/sumusiriwardana/why-you-should-manage-your-energy-not-your-time-3p1l
 title: Why You Should Manage Your Energy, Not Your Time
 ---

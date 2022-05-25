@@ -6,7 +6,6 @@ publisher: thepracticaldev
 tags:
   - productivity
   - career
-  - meta
 target_url: https://dev.to/rajasegar/web-developers-and-cognitive-biases-245b
 title: Web Developers and Cognitive Biases
 ---

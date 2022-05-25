@@ -5,7 +5,6 @@ permalink: false
 publisher: cssinreallife
 tags:
   - sustainability
-  - meta
 target_url: https://css-irl.info/building-a-greener-web/
 title: Building a Greener Web
 ---

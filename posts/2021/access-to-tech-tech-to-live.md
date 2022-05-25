@@ -6,7 +6,6 @@ publisher: btconf
 tags:
   - videos
   - accessibility
-  - meta
 target_url: https://www.youtube.com/watch?v=o1sDnFZkfQA
 title: Access to Tech, Tech to Live
 ---

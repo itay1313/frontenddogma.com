@@ -5,7 +5,6 @@ permalink: false
 publisher: smashingmag
 tags:
   - components
-  - meta
 target_url: https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/
 title: Developer Decisions for Building Flexible Components
 ---

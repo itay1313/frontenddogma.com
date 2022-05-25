@@ -6,7 +6,7 @@ publisher: uxdesigncc
 tags:
   - design
   - processes
-  - meta
+  - productivity
 target_url: https://uxdesign.cc/designers-are-spending-too-much-time-designing-ui-variations-manually-ad665d8d5e40
 title: Designers Are Spending Too Much Time Designing UI Variations Manually
 ---

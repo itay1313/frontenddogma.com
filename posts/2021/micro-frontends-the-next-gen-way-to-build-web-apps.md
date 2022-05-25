@@ -6,7 +6,6 @@ tags:
   - micro-frontends
   - development
   - web-apps
-  - meta
 target_url: https://dev.to/ruppysuppy/micro-frontends-the-next-gen-way-to-build-web-apps-16da
 title: "Micro-Frontends: The Next Gen Way to Build Web Apps"
 ---

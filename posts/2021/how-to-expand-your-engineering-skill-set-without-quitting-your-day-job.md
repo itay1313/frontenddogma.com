@@ -4,7 +4,7 @@ permalink: false
 publisher: sitepointdotcom
 tags:
   - career
-  - meta
+  - learning
 target_url: https://www.sitepoint.com/how-to-expand-your-engineering-skill-set-without-quitting-your-day-job/
 title: How to Expand Your Engineering Skill Set Without Quitting Your Day Job
 ---

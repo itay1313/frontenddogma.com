@@ -5,7 +5,6 @@ permalink: false
 publisher: moz
 tags:
   - accessibility
-  - meta
 target_url: https://moz.com/blog/web-accessibility-myths
 title: "Web Accessibility Myths: Debunking 7 Common Misconceptions"
 ---

@@ -5,7 +5,6 @@ permalink: false
 publisher: boiaorg
 tags:
   - accessibility
-  - meta
 target_url: https://www.boia.org/blog/4-web-accessibility-remediation-mistakes-to-avoid
 title: 4 Web Accessibility Remediation Mistakes to Avoid
 ---

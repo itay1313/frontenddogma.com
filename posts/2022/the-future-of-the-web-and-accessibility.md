@@ -7,7 +7,6 @@ tags:
   - videos
   - web
   - accessibility
-  - meta
 target_url: https://www.youtube.com/watch?v=tE0ykLPb7DI
 title: The Future of the Web and Accessibility
 ---

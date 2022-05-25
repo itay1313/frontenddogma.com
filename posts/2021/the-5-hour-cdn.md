@@ -5,7 +5,6 @@ permalink: false
 publisher: flydotio
 tags:
   - performance
-  - meta
   - content-delivery
 target_url: https://fly.io/blog/the-5-hour-content-delivery-network/
 title: The 5-Hour CDN

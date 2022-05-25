@@ -5,7 +5,6 @@ publisher: uxdesigncc
 tags:
   - design
   - design-debt
-  - meta
 target_url: https://uxdesign.cc/5-common-reasons-behind-the-design-debt-in-a-product-a40c5af2e5cd
 title: How Design Debt Can Hurt Your Product
 ---

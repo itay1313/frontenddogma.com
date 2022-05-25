@@ -5,8 +5,8 @@ permalink: false
 tags:
   - html
   - css
+  - conformance
   - quality
-  - meta
 target_url: https://meiert.com/en/blog/the-frontend-developer-test/
 title: The 3-Second Frontend Developer Test
 ---

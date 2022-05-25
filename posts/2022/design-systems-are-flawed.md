@@ -5,7 +5,6 @@ permalink: false
 publisher: shopifyux
 tags:
   - design-systems
-  - meta
 target_url: https://ux.shopify.com/design-systems-are-flawed-eecb60610efa
 title: Design Systems Are Flawed
 ---

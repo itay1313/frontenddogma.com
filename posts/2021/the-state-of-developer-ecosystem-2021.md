@@ -4,7 +4,7 @@ permalink: false
 publisher: jetbrains
 tags:
   - surveys
-  - meta
+  - development
 target_url: https://www.jetbrains.com/lp/devecosystem-2021/
 title: The State of Developer Ecosystem 2021
 ---

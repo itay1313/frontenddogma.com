@@ -5,7 +5,7 @@ permalink: false
 publisher: thepracticaldev
 tags:
   - javascript
-  - meta
+  - concepts
 target_url: https://dev.to/aritik/essential-concepts-in-js-4bbj
 title: Essential Concepts in JS
 ---

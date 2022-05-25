@@ -7,7 +7,6 @@ tags:
   - css
   - quality
   - sorting
-  - meta
 target_url: https://sprucecss.com/blog/writing-better-css
 title: Writing Better CSS
 ---

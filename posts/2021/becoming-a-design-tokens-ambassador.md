@@ -5,7 +5,6 @@ permalink: false
 publisher: specifyapp
 tags:
   - design-tokens
-  - meta
 target_url: https://specifyapp.com/blog/becoming-a-design-tokens-ambassador
 title: Becoming a Design Tokens Ambassador
 ---
