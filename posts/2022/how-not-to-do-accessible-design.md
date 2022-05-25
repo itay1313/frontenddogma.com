@@ -1,7 +1,6 @@
 ---
 author: cogpsycarolynn
 date: 2022-05-04
-draft: true
 permalink: false
 publisher: uxdesigncc
 tags:
