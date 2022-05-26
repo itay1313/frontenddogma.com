@@ -5,7 +5,7 @@ permalink: false
 publisher: smashingmag
 tags:
   - react
-  - javascript
+  - hooks
 target_url: https://www.smashingmagazine.com/2021/11/useful-react-hooks/
 title: Useful React Hooks That You Can Use in Your Projects
 ---
