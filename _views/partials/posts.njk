@@ -1,12 +1,12 @@
 <ol start={{ (postsCounter or posts.length) }} reversed>
-	{% for post in posts | reverse %}
+	{% asyncAll post in posts | reverse %}
 	<li>
 		<a href="{% if post.data.target_url %}{{ post.data.target_url }}{% else %}{{ post.url | url }}{% endif %}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a> (<a href="https://twitter.com/intent/tweet?text={{ post.data.title | urlencode }}{% if post.data.author %},%20by%20@{{ post.data.author }}{% if post.data.coauthor %}%20and%20@{{ post.data.coauthor }}{% endif %}{% if post.data.publisher %}%20%28@{{ post.data.publisher }}%29{% endif %}{% else %}{% if post.data.publisher %},%20by%20@{{ post.data.publisher }}{% endif %}{% endif %},%20featured%20on%20@frontenddogma%3A%0A%0A{% if post.data.target_url %}{{ post.data.target_url }}{% else %}{{ metadata.url_truncated }}{{ post.url | url }}{% endif %}">tweet</a>) ·
 		<time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>{% if post.data.tags.length >= '3' %} ·{% endif %}
 		{%- set comma = joiner() -%}
-		{%- for tag in post.data.tags | filterTagList %}
+		{%- asyncAll tag in post.data.tags | filterTagList %}
 			{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset -%}
 			{% if not (page.url == tagUrl) %}{{ comma() }} <a href={{ tagUrl | url }} rel=tag>{{ tag }}</a>{% endif %}
-		{%- endfor %}
-	{% endfor %}
+		{%- endall %}
+	{% endall %}
 </ol>
