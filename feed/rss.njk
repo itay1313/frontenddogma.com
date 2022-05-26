@@ -14,7 +14,7 @@ permalink: "{{ metadata.feed.path }}"
 			<link>{{ metadata.url }}</link>
 			<url>{{ metadata.url_truncated }}/media/logo-social.png</url>
 		</image>
-		{%- for post in collections.posts | reverse -%}
+		{%- asyncAll post in collections.posts | reverse -%}
 		{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
 		{%- if loop.index0 < 200 -%}
 		<item>
@@ -24,6 +24,6 @@ permalink: "{{ metadata.feed.path }}"
 			<description><![CDATA[{% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe }}{% else %}<p>This is <a href="https://frontenddogma.com/">Frontend Dogma</a>, {{ metadata.description | lower }}</p>{% endif %}]]></description>
 		</item>
 		{% endif -%}
-		{%- endfor %}
+		{%- endall %}
 	</channel>
 </rss>
