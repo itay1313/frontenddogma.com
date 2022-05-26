@@ -1,7 +1,6 @@
 ---
 author: angelica_frey
 date: 2022-05-16
-draft: true
 permalink: false
 publisher: aigaeyeondesign
 tags:
