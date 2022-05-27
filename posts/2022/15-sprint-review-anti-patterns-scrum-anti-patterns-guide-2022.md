@@ -1,7 +1,6 @@
 ---
 author: stefanw
 date: 2022-05-23
-draft: true
 permalink: false
 publisher: scrumdotorg
 tags:
