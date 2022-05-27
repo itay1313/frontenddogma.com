@@ -6,7 +6,6 @@ publisher: smashingmag
 tags:
   - components
   - javascript
-  - design-patterns
 target_url: https://www.smashingmagazine.com/2022/04/cta-modal-build-web-component/
 title: "CTA Modal: How to Build a Web Component"
 ---
