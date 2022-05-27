@@ -5,7 +5,8 @@ permalink: false
 publisher: uidotdev
 tags:
   - javascript
-  - es2021
+  - ecmascript
+  - standards
 target_url: https://ui.dev/es2021/
 title: What’s New in ES2021
 ---
