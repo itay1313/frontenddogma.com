@@ -1,7 +1,6 @@
 ---
 author: ljngdahl
 date: 2022-05-19
-draft: true
 permalink: false
 publisher: 14islands
 tags:

@@ -1,7 +1,6 @@
 ---
 author: slicknet
 date: 2022-05-25
-draft: true
 permalink: false
 publisher: css
 tags:
