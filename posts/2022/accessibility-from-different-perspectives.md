@@ -1,7 +1,6 @@
 ---
 author: hdv
 date: 2022-05-22
-draft: true
 permalink: false
 tags:
   - accessibility
