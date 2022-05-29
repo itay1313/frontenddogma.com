@@ -1,7 +1,6 @@
 ---
 author: alvaro_montoro
 date: 2022-05-20
-draft: true
 permalink: false
 tags:
   - css
