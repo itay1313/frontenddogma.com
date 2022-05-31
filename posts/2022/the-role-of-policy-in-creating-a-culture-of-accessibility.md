@@ -7,6 +7,7 @@ tags:
   - interviews
   - accessibility
   - policies
+  - culture
 target_url: https://www.microassist.com/digital-accessibility/key-elements-accessibility-policy/
 title: The Role of Policy in Creating a Culture of Accessibility
 ---
