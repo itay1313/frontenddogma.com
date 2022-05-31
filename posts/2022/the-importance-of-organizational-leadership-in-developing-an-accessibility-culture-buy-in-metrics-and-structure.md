@@ -5,7 +5,7 @@ draft: true
 permalink: false
 publisher: microassist
 tags:
-  - omtervoews
+  - interviews
   - accessibility
   - leadership
   - culture
