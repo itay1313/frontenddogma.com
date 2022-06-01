@@ -7,7 +7,7 @@ tags:
   - accessibility
   - user-agents
   - assistive-tech
-  - hypertext
+  - navigation
 target_url: https://blog.usablenet.com/the-importance-of-screen-reader-software-for-web-navigation
 title: The Importance of Screen Reader Software for Web Navigation
 ---
