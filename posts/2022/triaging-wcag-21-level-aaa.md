@@ -1,7 +1,6 @@
 ---
 author: ianpouncey
 date: 2022-05-20
-draft: true
 permalink: false
 publisher: tetralogical
 tags:
