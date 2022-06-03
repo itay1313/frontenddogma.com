@@ -1,7 +1,6 @@
 ---
 author: mrcndrw
 date: 2022-05-17
-draft: true
 permalink: false
 publisher: uxdesigncc
 tags:
