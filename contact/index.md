@@ -91,7 +91,7 @@ Processing of the data contained in the email happens pursuant to your permissio
 
 The data provided are saved until you ask us to delete the data, revoke your consent to store the data, or until the purpose for storing the data falls away. This does not overrule any applicable legal requirements, as with retention periods.
 
-We use Gmail and ProtonMail for email, each additionally secured with two-factor authentication. Please refer to [Google’s](https://policies.google.com/privacy) and [ProtonMail’s privacy policies](https://protonmail.com/privacy-policy) for details.
+We use Gmail and Proton Mail for email, each additionally secured with two-factor authentication. Please refer to [Google’s](https://policies.google.com/privacy) and [Proton’s privacy policies](https://proton.me/legal/privacy) for details.
 
 #### VG WORT
 
