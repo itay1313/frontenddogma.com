@@ -2,7 +2,6 @@
 author: litherum
 coauthor: djrrb
 date: 2022-05-25
-draft: true
 permalink: false
 publisher: webkit
 tags:
