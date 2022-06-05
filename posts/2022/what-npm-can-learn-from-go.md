@@ -1,7 +1,6 @@
 ---
 author: bossylobster
 date: 2022-05-26
-draft: true
 permalink: false
 publisher: hardfinhq
 tags:
