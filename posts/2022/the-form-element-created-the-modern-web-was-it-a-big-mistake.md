@@ -1,7 +1,6 @@
 ---
 author: ftrain
 date: 2022-05-26
-draft: true
 permalink: false
 publisher: wired
 tags:
