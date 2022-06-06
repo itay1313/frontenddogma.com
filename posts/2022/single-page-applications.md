@@ -1,7 +1,6 @@
 ---
 author: onsman
 date: 2022-06-25
-draft: true
 permalink: false
 publisher: tpginteractive
 tags:
