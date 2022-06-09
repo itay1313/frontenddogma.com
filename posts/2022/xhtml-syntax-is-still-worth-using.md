@@ -1,7 +1,6 @@
 ---
 author: tempertemper
 date: 2022-05-11
-draft: true
 permalink: false
 tags:
   - html

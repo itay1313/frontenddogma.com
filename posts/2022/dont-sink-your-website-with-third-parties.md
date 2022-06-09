@@ -1,7 +1,6 @@
 ---
 author: ken_harker
 date: 2022-06-01
-draft: true
 permalink: false
 publisher: smashingmag
 tags:
