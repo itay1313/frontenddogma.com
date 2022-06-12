@@ -1,7 +1,6 @@
 ---
 author: soniasinglas
 date: 2022-05-24
-draft: true
 permalink: false
 publisher: backlight_dev
 tags:
