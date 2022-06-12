@@ -1,7 +1,6 @@
 ---
 author: adamrackis
 date: 2022-06-07
-draft: true
 permalink: false
 publisher: css
 tags:
