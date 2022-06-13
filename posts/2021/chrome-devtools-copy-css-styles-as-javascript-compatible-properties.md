@@ -3,8 +3,7 @@ author: umaar
 date: 2021-11-12
 permalink: false
 tags:
-  - user-agents
-  - tooling
+  - devtools
   - css
   - javascript
 target_url: https://umaar.com/dev-tips/249-copy-css-as-js/

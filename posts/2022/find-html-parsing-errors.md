@@ -4,6 +4,7 @@ date: 2022-01-17
 permalink: false
 publisher: _devtoolstips
 tags:
+  - devtools
   - html
   - parsing
   - quality

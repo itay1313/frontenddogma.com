@@ -5,10 +5,9 @@ permalink: false
 publisher: chromiumdev
 tags:
   - videos
+  - devtools
   - accessibility
   - debugging
-  - user-agents
-  - tooling
 target_url: https://www.youtube.com/watch?v=Th-nv-SCj4Q
 title: Debugging Accessibility with Chrome DevTools
 ---

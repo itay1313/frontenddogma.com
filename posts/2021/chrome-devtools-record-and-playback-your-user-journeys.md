@@ -3,8 +3,7 @@ author: umaar
 date: 2021-11-05
 permalink: false
 tags:
-  - user-agents
-  - tooling
+  - devtools
   - user-experience
   - performance
 target_url: https://umaar.com/dev-tips/248-recorder-playback/

@@ -4,8 +4,7 @@ date: 2021-08-16
 permalink: false
 publisher: chromiumdev
 tags:
-  - user-agents
-  - tooling
+  - devtools
   - css
   - layout
 target_url: https://developer.chrome.com/blog/css-grid-tooling/

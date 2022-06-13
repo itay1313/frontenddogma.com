@@ -3,8 +3,7 @@ author: umaar
 date: 2021-07-30
 permalink: false
 tags:
-  - user-agents
-  - tooling
+  - devtools
   - accessibility
   - debugging
 target_url: https://umaar.com/dev-tips/245-source-order-viewer/

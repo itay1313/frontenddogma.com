@@ -4,6 +4,7 @@ date: 2021-10-21
 permalink: false
 publisher: chromiumdev
 tags:
+  - devtools
   - css
   - auditing
 target_url: https://developer.chrome.com/docs/devtools/css-overview/
