@@ -1,6 +1,5 @@
 ---
 date: 2022-05-29
-draft: true
 permalink: false
 publisher: uxdesigncc
 tags:
