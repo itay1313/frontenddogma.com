@@ -1,7 +1,6 @@
 ---
 author: aadyaaditi
 date: 2022-06-06
-draft: true
 permalink: false
 publisher: thepracticaldev
 tags:
