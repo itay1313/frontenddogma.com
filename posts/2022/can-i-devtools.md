@@ -1,7 +1,6 @@
 ---
 author: pankajparashar
 date: 2022-06-05
-draft: true
 permalink: false
 tags:
   - websites
