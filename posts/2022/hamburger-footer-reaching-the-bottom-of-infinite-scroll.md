@@ -1,7 +1,6 @@
 ---
 author: graeme_fulton
 date: 2022-06-02
-draft: true
 permalink: false
 publisher: prototypr
 tags:
