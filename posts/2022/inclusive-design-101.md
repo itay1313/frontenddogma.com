@@ -1,7 +1,6 @@
 ---
 author: tinaremiz
 date: 2022-05-24
-draft: true
 permalink: false
 publisher: uxdesigncc
 tags:
