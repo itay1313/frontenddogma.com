@@ -7,6 +7,7 @@ tags:
   - fonts
   - google
   - performance
+  - minimalism
 target_url: https://www.amitmerchant.com/minimizing-google-fonts-by-loading-it-for-certain-characters/
 title: Minimizing Google Fonts by Only Loading It for Certain Characters
 ---

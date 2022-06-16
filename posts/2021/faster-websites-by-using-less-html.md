@@ -7,6 +7,7 @@ tags:
   - html
   - performance
   - optimization
+  - minimalism
 title: Faster Websites by Using Less HTML
 vg_wort: 05a94eac4a934912bc0dade1a6d480a5
 ---

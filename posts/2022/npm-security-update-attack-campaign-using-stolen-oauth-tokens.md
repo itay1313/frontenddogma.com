@@ -5,7 +5,7 @@ permalink: false
 publisher: github
 tags:
   - security
-  - git
+  - version-control
   - npm
   - github
 target_url: https://github.blog/2022-05-26-npm-security-update-oauth-tokens/
