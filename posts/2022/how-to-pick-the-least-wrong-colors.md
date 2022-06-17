@@ -1,7 +1,6 @@
 ---
 author: ilikescience
 date: 2022-05-31
-draft: true
 permalink: false
 tags:
   - colors
