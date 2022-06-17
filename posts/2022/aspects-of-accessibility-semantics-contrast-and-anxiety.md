@@ -1,7 +1,6 @@
 ---
 author: copievere2013
 date: 2022-06-07
-draft: true
 permalink: false
 tags:
   - accessibility
