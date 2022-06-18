@@ -1,7 +1,6 @@
 ---
 author: samthor
 date: 2022-06-12
-draft: true
 permalink: false
 tags:
   - javascript
