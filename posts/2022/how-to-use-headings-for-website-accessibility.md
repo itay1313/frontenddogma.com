@@ -6,5 +6,5 @@ tags:
   - accessibility
   - semantics
 target_url: https://blog.usablenet.com/how-to-use-headings-for-website-accessibility
-title: How to use Headings for Website Accessibility
+title: How to Use Headings for Website Accessibility
 ---
