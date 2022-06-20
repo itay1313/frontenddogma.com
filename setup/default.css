@@ -29,7 +29,7 @@
 	font-style: normal;
 }
 
-:is(ul#fd-tags, ol[start][reversed]) :is([href$='/tags/accessibility/'], [href$='/tags/css/'], [href$='/tags/html/'], [href$='/tags/javascript/'], [href$='/tags/performance/']),
+:is(ul#fd-tags, ol[start][reversed]) :is([href$='/tags/accessibility/'], [href$='/tags/career/'], [href$='/tags/css/'], [href$='/tags/html/'], [href$='/tags/javascript/'], [href$='/tags/performance/'], [href$='/tags/user-experience/']),
 ol[start][reversed] ::marker {
 	color: var(--brand);
 }
