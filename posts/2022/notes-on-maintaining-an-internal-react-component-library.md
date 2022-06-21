@@ -1,7 +1,6 @@
 ---
 author: gabescholz
 date: 2022-06-16
-draft: true
 permalink: false
 tags:
   - react
