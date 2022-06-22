@@ -1,7 +1,6 @@
 ---
 author: aparks517
 date: 2022-06-10
-draft: true
 permalink: false
 tags:
   - html

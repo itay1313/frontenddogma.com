@@ -1,7 +1,6 @@
 ---
 author: codepo8
 date: 2022-06-20
-draft: true
 permalink: false
 tags:
   - dark-mode
