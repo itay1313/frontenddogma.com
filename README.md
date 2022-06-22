@@ -60,6 +60,7 @@ Each post needs to have one (and only one) tag describing the content type.
 * `companies`
 * `courses`
 * `developers`
+* _`discussions`_
 * _`guides`_
 * _`interviews`_
 * _`link-lists`_
