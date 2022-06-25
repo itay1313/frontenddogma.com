@@ -1,7 +1,6 @@
 ---
 author: yatil
 date: 2022-06-22
-draft: true
 permalink: false
 tags:
   - accessibility
