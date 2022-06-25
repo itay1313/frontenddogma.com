@@ -1,43 +1,43 @@
 <!DOCTYPE html>
 <html lang=en>
-	<meta charset=utf-8>
-	<meta name=viewport content="initial-scale=1,minimum-scale=1,width=device-width">
-	{% if description %}<meta name=description content="{{ description | truncate(150, false, ' …') }}">{% endif %}
-	<meta name=twitter:card content=summary_large_image>
-	<meta name=twitter:title content="{% if title %}{{ title }} · {% endif %}{{ metadata.title }}">
-	<meta name=twitter:description content="{{ (description or metadata.description_alternative) | truncate(150, false, ' …') }}">
-	<meta name=twitter:image content={{ env.base }}media/logo-social.png>
-	<meta property="og:image" content="{{ env.base }}media/logo-social.png">
-	<title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>
-	<link rel=canonical href="{% if original_url %}{{ original_url | url }}{% else %}{{ metadata.url_truncated }}{{ page.url | url }}{% endif %}">
-	<link rel=icon href=/favicon.ico>
-	<link rel=stylesheet href={{ env.base }}setup/default{% if env.base != '/' %}.min{% endif %}.css>
-	<link rel=stylesheet href={{ env.base }}setup/prism{% if env.base != '/' %}.min{% endif %}.css>
-	<link rel=alternate href=/feed/ type=application/rss+xml title="{{ metadata.title }}">
-	{% if page.url != '/' %}<link rel=prerender href=/>{% endif %}
-	<link rel=preconnect href=https://twitter.com/frontenddogma>
-	{% if target_url %}<link rel=preconnect href="{{ target_url | url }}">{% endif %}
-	<header>
-		<h1>{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}<img src={{ env.base }}media/logo.svg alt="{{ metadata.title }}" width=41 height=52>{% if page.url != '/' %}</a>{% endif %}</h1>
-		<nav>
+	<head>
+		<meta charset=utf-8>
+		<meta name=viewport content="initial-scale=1,minimum-scale=1,width=device-width">
+		{% if description %}<meta name=description property=og:description content="{{ description | truncate(150, false, ' …') }}">{% endif %}
+		<meta name=twitter:card content=summary_large_image>
+		<meta property=og:title content="{% if title %}{{ title }} · {% endif %}{{ metadata.title }}">
+		<meta property="og:image" content="{{ env.base }}media/logo-social.png">
+		<title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>
+		<link rel=canonical href="{% if original_url %}{{ original_url | url }}{% else %}{{ metadata.url_truncated }}{{ page.url | url }}{% endif %}">
+		<link rel=icon href=/favicon.ico>
+		<link rel=stylesheet href={{ env.base }}setup/default{% if env.base != '/' %}.min{% endif %}.css>
+		<link rel=stylesheet href={{ env.base }}setup/prism{% if env.base != '/' %}.min{% endif %}.css>
+		<link rel=alternate href=/feed/ type=application/rss+xml title="{{ metadata.title }}">
+		{% if page.url != '/' %}<link rel=prerender href=/>{% endif %}
+		<link rel=preconnect href=https://twitter.com/frontenddogma>
+		{% if target_url %}<link rel=preconnect href="{{ target_url | url }}">{% endif %}
+	<body>
+		<header>
+			<h1>{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}<img src={{ env.base }}media/logo.svg alt="{{ metadata.title }}" width=41 height=52>{% if page.url != '/' %}</a>{% endif %}</h1>
+			<nav>
+				<ul>
+					<li>{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}News{% if page.url != '/' %}</a>{% endif %}
+					{% for entry in collections.all | eleventyNavigation %}
+					<li>{% if entry.url != page.url %}<a href={{ entry.url | url }}>{% endif %}{{ entry.title }}{% if entry.url != page.url %}</a>{% endif %}
+					{% endfor %}
+					<li><a href=https://twitter.com/frontenddogma>Twitter</a>
+				</ul>
+			</nav>
+		</header>
+		<main>
+			<!-- Beware of code entropy -->
+			{{ content | safe }}
+		</main>
+		<footer>
+			<p>This is {% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}{{ metadata.title }}{% if page.url != '/' %}</a>{% endif %}: {{ metadata.description | lower }}
 			<ul>
-				<li>{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}News{% if page.url != '/' %}</a>{% endif %}
-				{% for entry in collections.all | eleventyNavigation %}
-				<li>{% if entry.url != page.url %}<a href={{ entry.url | url }}>{% endif %}{{ entry.title }}{% if entry.url != page.url %}</a>{% endif %}
-				{% endfor %}
+				<li><a href=/feed/>Feed</a>
 				<li><a href=https://twitter.com/frontenddogma>Twitter</a>
 			</ul>
-		</nav>
-	</header>
-	<main>
-		<!-- Beware of code entropy -->
-		{{ content | safe }}
-	</main>
-	<footer>
-		<p>This is {% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}{{ metadata.title }}{% if page.url != '/' %}</a>{% endif %}: {{ metadata.description | lower }}
-		<ul>
-			<li><a href=/feed/>Feed</a>
-			<li><a href=https://twitter.com/frontenddogma>Twitter</a>
-		</ul>
-	</footer>
-	{% if vg_wort %}<img src=https://vg07.met.vgwort.de/na/{{ vg_wort }} alt="" id=fd-vg-wort>{% endif %}
+		</footer>
+		{% if vg_wort %}<img src=https://vg07.met.vgwort.de/na/{{ vg_wort }} alt="" id=fd-vg-wort>{% endif %}
