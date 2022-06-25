@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang=en>
-	<head>
+	<!-- htmlmin:ignore --><head><!-- htmlmin:ignore -->
 		<meta charset=utf-8>
 		<meta name=viewport content="initial-scale=1,minimum-scale=1,width=device-width">
 		{% if description %}<meta name=description property=og:description content="{{ description | truncate(150, false, ' …') }}">{% endif %}
@@ -16,7 +16,7 @@
 		{% if page.url != '/' %}<link rel=prerender href=/>{% endif %}
 		<link rel=preconnect href=https://twitter.com/frontenddogma>
 		{% if target_url %}<link rel=preconnect href="{{ target_url | url }}">{% endif %}
-	<body>
+	<!-- htmlmin:ignore --><body><!-- htmlmin:ignore -->
 		<header>
 			<h1>{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}<img src={{ env.base }}media/logo.svg alt="{{ metadata.title }}" width=41 height=52>{% if page.url != '/' %}</a>{% endif %}</h1>
 			<nav>
