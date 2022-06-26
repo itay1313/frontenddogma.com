@@ -1,6 +1,5 @@
 ---
 date: 2022-06-17
-draft: true
 permalink: false
 publisher: sustainablewww
 tags:
