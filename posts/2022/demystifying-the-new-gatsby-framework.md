@@ -1,7 +1,6 @@
 ---
 author: monknow_dev
 date: 2022-06-27
-draft: true
 permalink: false
 publisher: smashingmag
 tags:
