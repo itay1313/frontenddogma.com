@@ -1,7 +1,6 @@
 ---
 author: fasoroalexander
 date: 2022-06-09
-draft: true
 permalink: false
 publisher: smashingmag
 tags:
