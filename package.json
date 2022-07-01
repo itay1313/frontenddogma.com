@@ -22,7 +22,7 @@
     "@11ty/eleventy-navigation": "^0.3.3",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
-    "@j9t/imagemin-guard": "^3.1.8",
+    "@j9t/imagemin-guard": "^3.1.11",
     "dotenv": "^16.0.1",
     "husky": "^8.0.1",
     "luxon": "^2.4.0",
