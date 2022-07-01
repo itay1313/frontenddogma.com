@@ -1,7 +1,6 @@
 ---
 author: hankchizljaw
 date: 2022-06-27
-draft: true
 permalink: false
 tags:
   - performance

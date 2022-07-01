@@ -1,7 +1,6 @@
 ---
 author: kilianvalkhof
 date: 2022-06-28
-draft: true
 permalink: false
 tags:
   - html
