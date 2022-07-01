@@ -1,7 +1,6 @@
 ---
 author: secondbestcoder
 date: 2022-06-24
-draft: true
 permalink: false
 publisher: thepracticaldev
 tags:
