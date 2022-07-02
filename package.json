@@ -14,15 +14,14 @@
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
-    "debug": "DEBUG=* eleventy",
-    "imagemin": "imagemin-guard"
+    "debug": "DEBUG=* eleventy"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
     "@11ty/eleventy-navigation": "^0.3.3",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
-    "@j9t/imagemin-guard": "^3.1.11",
+    "@j9t/imagemin-guard": "^3.2.7",
     "dotenv": "^16.0.1",
     "husky": "^8.0.1",
     "luxon": "^2.4.0",
