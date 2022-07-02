@@ -1,7 +1,6 @@
 ---
 author: glyphe
 date: 2022-06-21
-draft: true
 permalink: false
 tags:
   - typography
