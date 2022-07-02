@@ -1,7 +1,6 @@
 ---
 author: m_yxnk
 date: 2022-06-18
-draft: true
 permalink: false
 tags:
   - css
