@@ -1,7 +1,6 @@
 ---
 author: bencallahan
 date: 2022-06-13
-draft: true
 permalink: false
 publisher: laproductconfes
 tags:

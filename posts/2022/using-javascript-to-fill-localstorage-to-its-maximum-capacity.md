@@ -1,7 +1,6 @@
 ---
 author: mazzarolomatteo
 date: 2022-06-26
-draft: true
 permalink: false
 tags:
   - javascript
