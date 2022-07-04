@@ -1,7 +1,6 @@
 ---
 author: luizajarovsky
 date: 2022-06-22
-draft: true
 permalink: false
 publisher: uxdesigncc
 tags:
