@@ -1,7 +1,6 @@
 ---
 author: princewhyte02c
 date: 2022-06-29
-draft: true
 permalink: false
 publisher: thepracticaldev
 tags:

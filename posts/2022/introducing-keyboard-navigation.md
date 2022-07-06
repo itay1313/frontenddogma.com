@@ -2,7 +2,6 @@
 author: taylarlorrin
 coauthor: brucel
 date: 2022-06-22
-draft: true
 permalink: false
 publisher: babylonhealth
 tags:
