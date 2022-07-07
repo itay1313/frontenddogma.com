@@ -22,15 +22,15 @@ Sort all front matter data alphabetically. (Tags should follow the order content
 ---
 author: TWITTER_HANDLE # required; not to be confused with `publisher`
 coauthor: TWITTER_HANDLE # optional
-date: YYYY-MM-DD # preferred
-description: DESCRIPTION # required for FD content, otherwise optional
+date: YYYY-MM-DD # required
+description: DESCRIPTION # optional
 image: PATH # preferred (path is based on /media—see note in “Content Types” section)
 image_url: URL # optional for an image for which there is no target_url fallback
 original_url: URL # required for cross-posted entries
-permalink: false # required for linked content
+permalink: false # required for linked, i.e., external content
 publisher: TWITTER_HANDLE # if the item was published by a third party
 tags:
-  - CONTENT_TYPE # required an article
+  - CONTENT_TYPE # required if not an article
   - (FEATURES) # optional
   - (TOPICS) # preferred
 target_url: URL # required for linked content
@@ -38,7 +38,7 @@ title: TITLE # required
 vg_wort: VG_WORT_ID # required for exclusive content, or external content tagged with VG WORT
 ```
 
-Pages can be temporarily or permanently hidden with `draft: true` (preferred for posts) and `hidden: true` (aliases for standard `eleventyExcludeFromCollections: true`).
+Pages can be temporarily or permanently hidden with `draft: true` (preferred for posts) or `hidden: true` (aliases for standard `eleventyExcludeFromCollections: true`).
 
 ## Content Documentation
 
@@ -46,7 +46,7 @@ A general note, although Frontend Dogma started in 2021, excellent articles from
 
 ### Tags
 
-If countable, tags always use the plural.
+If countable, tags always use the plural. Have a look at [existing tags](https://frontenddogma.com/tags/).
 
 #### 1. Content Types
 
@@ -86,9 +86,9 @@ If there’s an image, it should be hosted under [/media](https://github.com/j9t
 
 In addition, a content piece can be one or more of the following:
 
-* `featured`, for homepage promotion
+* `featured`, for homepage promotion (not implemented yet)
 * _`cross-posted`_, for content that was already posted elsewhere (specify `original_url`)
-* `sponsored`
+* `sponsored` (not implemented yet)
 
 (Features in italics are currently in use.)
 
@@ -96,5 +96,5 @@ In addition, a content piece can be one or more of the following:
 
 For additional topics:
 
-* Name just the main topics (like `html` or `css`)
-* Keep it simple (less is more; don’t do tag-stuffing)
+* Name just the main topics (like `html` or `css` or any of [the existing tags](https://frontenddogma.com/tags/))
+* Keep it simple (less is more; don’t tag-stuff)
