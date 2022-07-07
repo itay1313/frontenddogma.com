@@ -1,6 +1,5 @@
 ---
 date: 2022-06-16
-draft: true
 permalink: false
 publisher: backlight_dev
 tags:
