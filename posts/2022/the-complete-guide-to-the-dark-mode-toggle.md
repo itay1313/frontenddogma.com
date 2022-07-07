@@ -1,7 +1,6 @@
 ---
 author: theroyalfig
 date: 2022-07-05
-draft: true
 permalink: false
 tags:
   - guides
