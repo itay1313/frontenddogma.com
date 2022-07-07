@@ -1,7 +1,6 @@
 ---
 author: hankchizljaw
 date: 2022-06-21
-draft: true
 permalink: false
 publisher: heypresents
 tags:

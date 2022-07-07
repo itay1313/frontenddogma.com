@@ -1,7 +1,6 @@
 ---
 author: ericwbailey
 date: 2022-07-05
-draft: true
 permalink: false
 publisher: adhocteam
 tags:
