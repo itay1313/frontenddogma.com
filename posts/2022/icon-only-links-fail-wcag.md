@@ -1,7 +1,6 @@
 ---
 author: tempertemper
 date: 2022-06-20
-draft: true
 permalink: false
 tags:
   - accessibility
