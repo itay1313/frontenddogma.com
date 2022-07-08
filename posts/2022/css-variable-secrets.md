@@ -1,7 +1,6 @@
 ---
 author: leaverou
 date: 2022-06-30
-draft: true
 permalink: false
 publisher: cssdayconf
 tags:
