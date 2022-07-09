@@ -1,7 +1,6 @@
 ---
 author: robinlord8
 date: 2022-06-25
-draft: true
 permalink: false
 tags:
   - security
