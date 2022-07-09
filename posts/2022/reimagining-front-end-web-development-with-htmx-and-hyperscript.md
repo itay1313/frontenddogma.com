@@ -1,7 +1,6 @@
 ---
 author: owen_m_jones
 date: 2022-07-01
-draft: true
 permalink: false
 tags:
   - development
