@@ -3,7 +3,6 @@ author: iffjey
 coauthor: romanshamin_en
 # coauthors
 date: 2022-07-06
-draft: true
 permalink: false
 publisher: evilmartians
 tags:
