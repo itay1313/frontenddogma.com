@@ -1,7 +1,6 @@
 ---
 author: j9t
 date: 2022-07-02
-draft: true
 permalink: false
 tags:
   - packages

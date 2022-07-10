@@ -1,7 +1,6 @@
 ---
 author: jimniels
 date: 2022-07-04
-draft: true
 permalink: false
 tags:
   - css
