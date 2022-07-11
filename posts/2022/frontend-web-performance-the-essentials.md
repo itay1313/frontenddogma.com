@@ -1,6 +1,5 @@
 ---
 date: 2022-07-03
-draft: true
 permalink: false
 tags:
   - performance
